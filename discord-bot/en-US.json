@@ -51,7 +51,6 @@
   "cmd_test_nosend_2": "Looks like I don't have the permission to send messages in {channel}!",
   "cmd_test_nochannel_1": ":x:",
   "cmd_test_nochannel_2": "I don't know where to post the announcements!\nGo to /settings → Set Channel",
-  "__comment_48124": "DO NOT TRANSLATE THE LINES BELOW. you may remove them entirely",
   "translation_available_generic": "English is not your primary language? This bot has many translations available, use `/settings` for more info.",
   "platform_steam": "Steam",
   "platform_epic": "Epic Games",
