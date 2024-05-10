@@ -221,7 +221,7 @@
     "theme_four_name": "Mehr Infos weniger Bilder!",
     "theme_nine_desc": "Infos ohne Einbettungen",
     "theme_nine_name": "Nur Text!",
-    "theme_one_desc": "Ziemlich normal ",
+    "theme_one_desc": "Ziemlich normal",
     "theme_one_name": "Normales Thema",
     "theme_seven_desc": "Halt wirklich einfach nur der Link",
     "theme_seven_name": "Nur der Link",
@@ -239,5 +239,5 @@
     "webhook_create_auditlog_reason": "FreeStuff versucht mit Webhooks die Benachrichtigungen in großer Menge zu verbreiten. Bitte entferne nicht diesen Webhook.",
     "webhook_migration_failed_missing_permissions_1": "Hopsala!",
     "webhook_migration_failed_missing_permissions_2": "Sieht so aus als würde mir die Berechtigung \"WebHooks verwalten\" fehlen. Bitte gewähre mir diese und dann versuche es bitte erneut!",
-    "webhook_migration_notice": "FreeStuff fehlt einige Rechte. Server Administratoren! Bitte benutzt **/settings** um mehr Informationen zu bekommen. Der Bot könnte sonst aufhören zu funktionieren. "
+    "webhook_migration_notice": "FreeStuff fehlt einige Rechte. Server Administratoren! Bitte benutzt **/settings** um mehr Informationen zu bekommen. Der Bot könnte sonst aufhören zu funktionieren."
 }
