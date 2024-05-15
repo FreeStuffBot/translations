@@ -30,7 +30,6 @@
     "cmd_free_no_freebies": "Tidak ada :(",
     "cmd_free_title": "Game-game saat ini yang gratis:",
     "cmd_free_until": "sampai",
-    "cmd_freestuff_2_en": "",
     "cmd_info_1": "FreeStuff Bot",
     "cmd_info_2": "FreeStuff Bot dibuat dengan :heart: oleh [orang luar biasa]({amazingPeople})\n\n [Tentang / Website]({website})\n\n [Tambahkan ke servermu!]({inviteLink})\n\n [Laporkan bug atau hubungi kami!]({discordInvite})",
     "cmd_invite_1": ":eyes:",
@@ -41,8 +40,6 @@
     "cmd_resend_nothing_free_2": "Saat ini belum ada satupun game yang diskon 100%... Bagaimana itu bisa terjadi :thinking:",
     "cmd_resend_success_1": "Daaaaan itu dia!",
     "cmd_resend_success_2": "Lihat di {channel}!",
-    "cmd_set_language_notfound_2_en": "",
-    "cmd_set_language_status_2_en": "",
     "cmd_test_announcement_description": "Itu adalah contoh game.  Dan inilah contoh deskripsi dari contoh game tersebut. Aku harap harimu menyenangkan :)",
     "cmd_test_announcement_header": "Nama game di sini",
     "cmd_test_nochannel_1": ":x:",
@@ -172,6 +169,5 @@
     "theme_two_name": "Tolong jangan ada foto!",
     "translation_available": "Terjemahan Bahasa Indonesia tersedia!  Jika kamu ingin saya menggunakan Bahasa Indonesia, gunakan /settings",
     "translation_available_generic": "",
-    "translation_by": "Translasi ke bahasa Indonesia oleh:",
-    "translators": "iaMJ"
+    "translation_by": "Translasi ke bahasa Indonesia oleh:"
 }
