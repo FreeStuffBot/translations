@@ -384,5 +384,6 @@
     "subscription_primegames_name": "",
     "settings_subscription_premium_expired": "",
     "settings_subscription_unlocked_premium": "",
-    "subscription_primeloot_name": ""
+    "subscription_primeloot_name": "",
+    "cmd_free_title_other": ""
 }
