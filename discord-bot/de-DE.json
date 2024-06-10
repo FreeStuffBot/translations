@@ -383,5 +383,7 @@
     "webhook_migration_failed_too_many_hooks_2": "",
     "cmd_resend_all_filtered_out_2": "",
     "page_attributions": "",
-    "settings_channel_unknown_channel": ""
+    "settings_channel_unknown_channel": "",
+    "settings_role_add_role": "",
+    "cmd_free_title_other": ""
 }
