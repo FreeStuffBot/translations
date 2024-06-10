@@ -383,5 +383,7 @@
     "thread_opt_b_name": "",
     "webhook_migration_failed_missing_permissions_2": "",
     "webhook_migration_failed_too_many_hooks_2": "",
-    "webhook_migration_notice": ""
+    "webhook_migration_notice": "",
+    "settings_role_add_role": "",
+    "cmd_free_title_other": ""
 }
