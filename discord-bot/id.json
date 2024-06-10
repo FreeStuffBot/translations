@@ -383,5 +383,7 @@
     "subscription_other_name": "",
     "subscription_prime_description": "",
     "webhook_migration_failed_too_many_hooks_2": "",
-    "webhook_migration_notice": ""
+    "webhook_migration_notice": "",
+    "cmd_free_title_other": "",
+    "settings_role_add_role": ""
 }
