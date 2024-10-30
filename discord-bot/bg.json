@@ -370,5 +370,20 @@
     "webhook_migration_notice": "На FreeStuff му липсват определени разрешения. Моля администраторите на сървъра, използвайте **/settings** за повече информация или ботът може да спре да работи скоро!",
     "refresh_channel_list": "Обнови списъка",
     "expressbutton_label": "Грабни всички",
-    "page_attributions": "Приписвания"
+    "page_attributions": "Приписвания",
+    "settings_botprofile_ui_2": "",
+    "settings_display_expressbutton_off_prompt": "",
+    "settings_display_expressbutton_off_state": "",
+    "settings_display_expressbutton_on_prompt": "",
+    "settings_display_expressbutton_on_state": "",
+    "settings_filter_show_passgames_off_prompt": "",
+    "settings_filter_show_passgames_off_state": "",
+    "settings_filter_show_passgames_on_prompt": "",
+    "settings_filter_show_passgames_on_state": "",
+    "settings_filter_show_passloot_off_prompt": "",
+    "settings_filter_show_passloot_off_state": "",
+    "settings_filter_show_passloot_on_prompt": "",
+    "settings_filter_show_passloot_on_state": "",
+    "settings_guilddata_data_failed": "",
+    "settings_guilddata_data_ready": ""
 }
