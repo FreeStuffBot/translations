@@ -384,5 +384,6 @@
     "webhook_migration_failed_missing_permissions_2": "Úgy tűnik hiányzik a \"Webhookok kezelése\" jogom. Kérlek engedélyezd és utána próbáld újra!",
     "webhook_migration_failed_too_many_hooks_1": "Hupsz!",
     "webhook_migration_failed_too_many_hooks_2": "Úgy tűnik már van egy pár Webhook ehhez a csatornához. Sajnálatosan egy limitálás miatt 10 webhook lehet egy csatornához, szóval légyszi törölj egyet belőle hogy a FreeStuff tudjon egy újat csinálni",
-    "webhook_migration_notice": "FreeStuff hiányolja a **Webhookok kezelése** jogot ebben a csatornában. Szerver adminok kérlek adjátok meg ezt a jogot vagy használjátok a **/settings** parancsot több infóért különben a bot nem küld több hírt a későbbiekben!"
+    "webhook_migration_notice": "FreeStuff hiányolja a **Webhookok kezelése** jogot ebben a csatornában. Szerver adminok kérlek adjátok meg ezt a jogot vagy használjátok a **/settings** parancsot több infóért különben a bot nem küld több hírt a későbbiekben!",
+    "page_attributions": ""
 }
