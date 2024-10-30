@@ -373,5 +373,17 @@
     "webhook_migration_failed_missing_permissions_1": "Oopsie daisy!",
     "webhook_migration_failed_missing_permissions_2": "Görünüşe göre \"Webhook'ları Yönet\" iznine sahip değilim. Lütfen bana bu izni verin ve tekrar deneyin!",
     "webhook_migration_failed_too_many_hooks_2": "Görünüşe göre bu kanalda zaten birkaç Webhook var. Maalesef ki kanal başına 10 Webhook sınırı vardır, bu yüzden FreeStuff'ın yeni bir tane oluşturması için bunlardan birini silin.",
-    "webhook_migration_notice": "FreeStuff'ın bu kanalda **Webhook'ları Yönet** izni yok. Sunucu yetkilileri, lütfen bota bu izni verin ve daha fazla bilgi için **/settings** komutunu kullanın. Aksi takdirde bot yakın zamanda size haber göndermeyi durduracak."
+    "webhook_migration_notice": "FreeStuff'ın bu kanalda **Webhook'ları Yönet** izni yok. Sunucu yetkilileri, lütfen bota bu izni verin ve daha fazla bilgi için **/settings** komutunu kullanın. Aksi takdirde bot yakın zamanda size haber göndermeyi durduracak.",
+    "announcement_thread_name_gamepass_multiple_below": "",
+    "announcement_thread_name_gamepass_single_below": "",
+    "announcement_thread_name_keep_multiple_below": "",
+    "announcement_thread_name_keep_single_below": "",
+    "announcement_thread_name_other_multiple_below": "",
+    "announcement_thread_name_other_single_below": "",
+    "announcement_thread_name_prime_multiple_below": "",
+    "announcement_thread_name_prime_single_below": "",
+    "announcement_thread_name_timed_multiple_below": "",
+    "announcement_thread_name_timed_single_below": "",
+    "default_currency": "",
+    "webhook_migration_failed_too_many_hooks_1": ""
 }
