@@ -370,5 +370,20 @@
     "webhook_migration_failed_missing_permissions_2": "Parece que me esta faltando el permiso de \"Gestionar Webhooks\". Por favor otórgamelo y vuelve a intentarlo!",
     "webhook_migration_failed_too_many_hooks_1": "Oops! No puede ser!",
     "webhook_migration_failed_too_many_hooks_2": "Parece que ya tienes algunos Webhooks en éste canal. Desafortunadamente hay un límite de 10 Webhooks por canal, por lo que deberás eliminar uno de ellos para que FreeStuff pueda utilizar.",
-    "webhook_migration_notice": "A FreeStuff le está faltando el permiso de \"Gestionar Webhooks\" en éste canal. Administradores, por favor otorgar el permiso o utilizar **/settings** para más información. De lo contrario el bot podría dejar de anunciar juegos grátis!"
+    "webhook_migration_notice": "A FreeStuff le está faltando el permiso de \"Gestionar Webhooks\" en éste canal. Administradores, por favor otorgar el permiso o utilizar **/settings** para más información. De lo contrario el bot podría dejar de anunciar juegos grátis!",
+    "settings_subscription_locked_premium": "",
+    "announcement_title_statement": "",
+    "cmd_free_title_primegames": "",
+    "cmd_free_title_primeloot": "",
+    "settings_filter_show_passgames_off_prompt": "",
+    "settings_filter_show_passgames_off_state": "",
+    "settings_filter_show_passgames_on_prompt": "",
+    "settings_filter_show_passgames_on_state": "",
+    "settings_filter_show_passloot_off_prompt": "",
+    "settings_filter_show_passloot_off_state": "",
+    "settings_filter_show_passloot_on_prompt": "",
+    "settings_filter_show_passloot_on_state": "",
+    "settings_sub_btn_more": "",
+    "subscription_primegames_name": "",
+    "subscription_primeloot_name": ""
 }
