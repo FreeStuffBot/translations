@@ -368,5 +368,22 @@
     "webhook_migration_failed_missing_permissions_2": "Схоже, у мене відсутні права \"Керування веб-хуками\". Будь ласка, надайте мені їх, а потім спробуйте ще раз!",
     "webhook_migration_failed_too_many_hooks_1": "Ой, матінко!",
     "webhook_migration_failed_too_many_hooks_2": "Схоже, що у вас вже є кілька веб-хуків для цього каналу. На жаль, існує обмеження на 10 веб-хуків для одного каналу, тому, будь ласка, видаліть один з них, щоб FreeStuff міг створити новий.",
-    "webhook_migration_notice": "FreeStuff немає дозволу на **Керування веб-хуками** на цьому каналі. Будь ласка, надайте цей дозвіл або використайте **/settings** для отримання додаткової інформації. В іншому випадку бот незабаром перестане надсилати вам новини."
+    "webhook_migration_notice": "FreeStuff немає дозволу на **Керування веб-хуками** на цьому каналі. Будь ласка, надайте цей дозвіл або використайте **/settings** для отримання додаткової інформації. В іншому випадку бот незабаром перестане надсилати вам новини.",
+    "announcement_title_statement": "",
+    "platform_apple": "",
+    "platform_discord": "",
+    "platform_epic": "",
+    "platform_gog": "",
+    "platform_google": "",
+    "platform_humble": "",
+    "platform_itch": "",
+    "platform_origin": "",
+    "platform_other": "",
+    "platform_ps": "",
+    "platform_steam": "",
+    "platform_switch": "",
+    "platform_twitch": "",
+    "platform_uplay": "",
+    "platform_xbox": "",
+    "translation_available_generic": ""
 }
