@@ -606,16 +606,16 @@
   "privacy_policy": "Zásady ochr. osob. údajov",
 
   // Permanently Free
-  "product_meta_flag_permanent": "",
+  "product_meta_flag_permanent": "Navždy Zadarmo",
 
   // FreeStuff Recommendation
-  "product_meta_flag_staff_pick": "",
+  "product_meta_flag_staff_pick": "FreeStuff Odporúčanie",
 
   // Third Party Provider
   "product_meta_flag_thirdparty": "",
 
   // Low Quality
-  "product_meta_flag_trash": "",
+  "product_meta_flag_trash": "Nízka Kvalita",
 
   // Refresh List
   "refresh_channel_list": "",
@@ -632,8 +632,8 @@
   // Channel list refreshed
   "refresh_channels_success": "",
 
-  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
-  "refresh_channels_timeout": "",
+  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff <--! Jonh Pork??? -->
+  "refresh_channels_timeout": "Si až moc rýchly! Pre bezpečnostné dôvody dovoľujeme stlačenie tlačítka iba raz za {interval} sekúnd!",
 
   // Refresh List
   "refresh_role_list": "",
@@ -642,10 +642,10 @@
   "refresh_role_timeout": "",
 
   // Welcome to FreeStuff!
-  "settings2_main_1_first_time": "",
+  "settings2_main_1_first_time": "Vitaj v FreeStuff!",
 
   // FreeStuff Settings
-  "settings2_main_1_regular": "",
+  "settings2_main_1_regular": "FreeStuff Nastavenia",
 
   // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
   "settings2_main_2_first_time": "",
@@ -693,7 +693,7 @@
   "settings_botprofile_name_too_long_2": "",
 
   // Avatar and Name
-  "settings_botprofile_ui_1": "",
+  "settings_botprofile_ui_1": "Avatar a Meno",
 
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.\n\n**Edit Avatar** will allow you to change the bot's profile picture. You will need to provide a link to your desired image. Leave empty to reset to default.\n\n**Edit Name** will allow you to change the bot's name. Leave empty to reset to default.
   "settings_botprofile_ui_2": "",
@@ -756,10 +756,10 @@
   "settings_channel_ui_too_many_channels_tip": "Kanál, ktorý hľadáš sa neobjavil? Skús napísať tento príkaz v kanáli, v ktorom si želáš upozornenia o hrách zadarmo aby si ho videl na zozname!",
 
   // Unknown channel
-  "settings_channel_unknown_channel": "",
+  "settings_channel_unknown_channel": "Neznámy Kanál",
 
   // Other Settings
-  "settings_conf_ui_1": "",
+  "settings_conf_ui_1": "Iné Nastavenia",
 
   // **Select Language** will change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.\n\n**Select Currency** will change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
   "settings_conf_ui_2": "",
@@ -819,7 +819,7 @@
   "settings_filter_kinds_storeitem_1": "",
 
   // Things like steam point shop items
-  "settings_filter_kinds_storeitem_2": "",
+  "settings_filter_kinds_storeitem_2": "Veci ako steam point shop veci",
 
   // (All disabled)
   "settings_filter_platforms_none": "(všetko vypnuté)",
@@ -909,7 +909,7 @@
   "settings_guilddata_display_error": "ahh.. Teraz je to trochu trápne.. Nastala chyba pri exportovaní tvojich dát. Prosím [kontaktuj náš tím]({invite}), aby si získal/a svoje dáta.",
 
   // Download Data
-  "settings_guilddata_download": "",
+  "settings_guilddata_download": "StiahnuŤ dáta",
 
   // Okie dokie, data's coming in hot:
   "settings_guilddata_success_1": "Ouky douky, tvoje dáta sú na ceste:",
@@ -951,10 +951,10 @@
   "settings_main_btn_filter": "Nastavenie filtru",
 
   // Other Settings
-  "settings_main_btn_general": "",
+  "settings_main_btn_general": "Iné nastavenia",
 
   // Need help?
-  "settings_main_btn_help": "",
+  "settings_main_btn_help": "Potrebuješ pomoc?",
 
   // Advanced
   "settings_main_btn_more": "Viac",
@@ -969,16 +969,16 @@
   "settings_main_btn_role_set": "Pingnutie roli",
 
   // Need help?
-  "settings_main_help_1": "",
+  "settings_main_help_1": "Potrebuješ pomoc?",
 
   // Read the guide
-  "settings_main_help_solution_guide_1": "",
+  "settings_main_help_solution_guide_1": "Prečítaj si návod",
 
   // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
   "settings_main_help_solution_guide_2": "",
 
   // Join our support server
-  "settings_main_help_solution_server_1": "",
+  "settings_main_help_solution_server_1": "Pripoj sa k našemu serveru podpory",
 
   // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
   "settings_main_help_solution_server_2": "",
@@ -1068,7 +1068,7 @@
   "settings_permission_disclaimer": "Potrebuješ povolenie \"Manage Server\" aby si to mohol/a upraviť",
 
   // Add Role
-  "settings_role_add_role": "",
+  "settings_role_add_role": "Pridaj Rolu",
 
   // @everyone
   "settings_role_list_everyone_1": "@everyone",
@@ -1101,13 +1101,13 @@
   "settings_role_ui_2": "Vyber si rolu, ktorá bude pingnutá, keď sa objaví hra zadarmo!",
 
   // More
-  "settings_sub_btn_more": "",
+  "settings_sub_btn_more": "Viac",
 
   // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
   "settings_subscription_locked_premium": "",
 
   // More
-  "settings_subscription_more_ui_1": "",
+  "settings_subscription_more_ui_1": "Viac",
 
   // **Send Test Message** sends a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.\n\n**Re-send Messages** will re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This button is for you!
   "settings_subscription_more_ui_2": "",
@@ -1146,13 +1146,13 @@
   "subscription_gamepass_description": "",
 
   // Game Pass
-  "subscription_gamepass_name": "",
+  "subscription_gamepass_name": "Game Pass",
 
   // This subscription will show you games that have a 100% discount for a limited amount of time. You can keep those games after the sale is over.\nYou can filter by price, platform and quality.
   "subscription_keep_description": "",
 
   // 100% Discount
-  "subscription_keep_name": "",
+  "subscription_keep_name": "100% Zľava",
 
   // This subscription will show you all sorts of other offers that are available at a 100% discount for a limited amount of time. This does usually not include games but may include other software such as DLCs or non-gaming related items.\nYou can filter by price, platform and product type.
   "subscription_other_description": "",
@@ -1176,7 +1176,7 @@
   "subscription_timed_description": "",
 
   // Free Weekend
-  "subscription_timed_name": "",
+  "subscription_timed_name": "Víkend zadarmo",
 
   // Terms of Service
   "terms_of_service": "Podmienky služby",
