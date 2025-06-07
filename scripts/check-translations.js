@@ -3,7 +3,7 @@ const { execSync } = require('child_process')
 const translate = require('@vitalets/google-translate-api')
 
 const getChangedJsonFiles = () => {
-  const diffOutput = execSync('git diff --name-only origin/master...HEAD').toString()
+  const diffOutput = execSync('git diff --name-only origin/main...HEAD').toString()
   return diffOutput.split('\n').filter(f => f.endsWith('.jsonc'))
 }
 
@@ -34,7 +34,7 @@ const run = async () => {
   let markdown = '| File | Old Value | New Value | Translated (EN) |\n|------|-----------|-----------|-----------------|\n'
 
   for (const file of files) {
-    const oldJson = JSON.parse(execSync(`git show origin/master:${file}`).toString())
+    const oldJson = JSON.parse(execSync(`git show origin/main:${file}`).toString())
     const newJson = getFileContent(file)
     const changes = await compareJson(oldJson, newJson, file)
     for (const change of changes) {
