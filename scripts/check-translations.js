@@ -8,7 +8,8 @@ const getChangedJsonFiles = () => {
 }
 
 const getFileContent = (filePath) => {
-  return JSON.parse(fs.readFileSync(filePath, 'utf8'))
+  const raw = fs.readFileSync(filePath, 'utf8')
+  return JSON.parse(raw.replace(/^\s*\/\/.*?\n/gm, ''))
 }
 
 const compareJson = async (oldJson, newJson, file) => {
