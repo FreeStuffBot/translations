@@ -1,0 +1,1291 @@
+{
+  // Get it for free
+  "announcement_button_text": "احصل عليها مجّاناً",
+
+  // via {website}
+  "announcement_footer": "تقدمة {website}",
+
+  // This is a preview message
+  "announcement_footer_test": "هذه رسالة للمعاينة",
+
+  // for a very long time
+  "announcement_free_for_a_long_time": "لمدّة طويلة",
+
+  // for a week
+  "announcement_free_for_a_week": "لمدّة أسبوع",
+
+  // until {date}
+  "announcement_free_until_date": "حتى {date}",
+
+  // until {day}
+  "announcement_free_until_day": "حتى {day}",
+
+  // until {day} next week
+  "announcement_free_until_day_next_week": "حتى {day} الأسبوع المقبل",
+
+  // Free Game!
+  "announcement_header": "لعبة مجانية!",
+
+  // Claim for **Free**
+  "announcement_price_gamepass": "",
+
+  // Claim for **Free** until {date}
+  "announcement_price_gamepass_until": "",
+
+  // {prices}
+  "announcement_price_generic": "",
+
+  // {prices} until {date}
+  "announcement_price_generic_until": "",
+
+  // {prices}
+  "announcement_price_keep": "",
+
+  // {prices} until {date}
+  "announcement_price_keep_until": "",
+
+  // {prices}
+  "announcement_price_other": "",
+
+  // {prices} until {date}
+  "announcement_price_other_until": "",
+
+  // Claim for **Free**
+  "announcement_price_prime": "",
+
+  // Claim for **Free** until {date}
+  "announcement_price_prime_until": "",
+
+  // **Free to play**
+  "announcement_price_timed": "",
+
+  // **Free to play** until {date}
+  "announcement_price_timed_until": "",
+
+  // Free
+  "announcement_pricetag_free": "مجّاناً",
+
+  // **{name}** is free!\n<{url}>
+  "announcement_theme9": "إنَّ **{name}** مجّانيّة!\n<{url}>",
+
+  // {names}
+  "announcement_thread_name_gamepass_multiple_below": "",
+
+  // {amount} new games for Game Pass!
+  "announcement_thread_name_gamepass_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_gamepass_single_below": "",
+
+  // New Game Pass content: {name}!
+  "announcement_thread_name_gamepass_single_outside": "",
+
+  // {names}
+  "announcement_thread_name_keep_multiple_below": "",
+
+  // {amount} games are free!
+  "announcement_thread_name_keep_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_keep_single_below": "",
+
+  // {name} is free!
+  "announcement_thread_name_keep_single_outside": "",
+
+  // {names}
+  "announcement_thread_name_other_multiple_below": "",
+
+  // {amount} games are free!
+  "announcement_thread_name_other_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_other_single_below": "",
+
+  // {name} is free!
+  "announcement_thread_name_other_single_outside": "",
+
+  // {names}
+  "announcement_thread_name_prime_multiple_below": "",
+
+  // {amount} new games for Prime!
+  "announcement_thread_name_prime_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_prime_single_below": "",
+
+  // New Prime loot: {name}!
+  "announcement_thread_name_prime_single_outside": "",
+
+  // {names}
+  "announcement_thread_name_timed_multiple_below": "",
+
+  // Free weekend for {amount} games!
+  "announcement_thread_name_timed_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_timed_single_below": "",
+
+  // Free weekend for {name}!
+  "announcement_thread_name_timed_single_outside": "",
+
+  // {title} is free!
+  "announcement_title_statement": "",
+
+  // An error occurred!
+  "cmd_error_fatal_1": "حصل خطأ!",
+
+  // We're trying to fix this issue as soon as possible!
+  "cmd_error_fatal_2": "نعمل على حلّ هذه المشكلة بأقرب وقتٍ ممكن!",
+
+  // A wild error occurred!
+  "cmd_error_fixable_1": "طرأ خطأٌ غريب!",
+
+  // Can you please try that again? If this message keeps appearing please wait a bit or [reach out to our support team]({discordInvite}), thanks.
+  "cmd_error_fixable_2": "أيُمكِنُكَ رجاءً محاولة ذلك مجدّداً؟ اذا استمرّت هذه الرسالة بالظهور، انتظر قليلا أو [تواصل مع فريق الدعم لدينا]({discordInvite})، وشكراً.",
+
+  // An error occurred!
+  "cmd_error_readd_1": "حصل خطأ!",
+
+  // Try removing the bot from your server and adding it back in. If this does not help, [please join the support server]({discordInvite}).
+  "cmd_error_readd_2": "حاول طرد البوت من السرفر ومن ثمة إعادة إضافته. إن لم يجد هذا نفعاً [رجاءً انضم إلى سرفر الدعم الفني]({discordInvite}).",
+
+  // **Ends soon:**
+  "cmd_free_ends_soon": "**تنتهي قريباً:**",
+
+  // (Ends soon!)
+  "cmd_free_ends_soon2": "",
+
+  // None :(
+  "cmd_free_no_freebies": "لا شيء :(",
+
+  // Nothing free right now :(
+  "cmd_free_no_freebies2": "",
+
+  // These games are currently free:
+  "cmd_free_title": "هذه الألعاب مجّانيّة حالياً:",
+
+  // Currently on Game Pass:
+  "cmd_free_title_gamepass": "",
+
+  // Currently free to keep (100% off)
+  "cmd_free_title_keep": "",
+
+  // Other freebies (100% off)
+  "cmd_free_title_other": "",
+
+  // Prime Gaming: Games
+  "cmd_free_title_primegames": "",
+
+  // Prime Gaming: Loot
+  "cmd_free_title_primeloot": "",
+
+  // Currently free to play
+  "cmd_free_title_timed": "",
+
+  // until
+  "cmd_free_until": "حتّى",
+
+  // FreeStuff Bot
+  "cmd_info_1": "بوت FreeStuff",
+
+  // FreeStuff Bot made with :heart: by [some amazing people]({amazingPeople})\n\n[About / Website]({website})\n\n[Add it to your server!]({inviteLink})\n\n[Report a bug or get in contact]({discordInvite})
+  "cmd_info_2": "صنع بوت FreeStuff بالـ:heart: من قبل [بعض الناس الرائعين]({amazingPeople})\n\n[حولنا / الموقع]({website})\n\n[أََضف البوت إلى سيرفرك!]({inviteLink})\n\n[بلّغ عن خطأ أو تواصل معنا]({discordInvite})",
+
+  // :eyes:
+  "cmd_invite_1": ":eyes:",
+
+  // [Click here to add me to your server!]({inviteLink})
+  "cmd_invite_2": "[اضغط هنا لإضافتي إلى سرفرك!]({inviteLink})",
+
+  // You're going too fast!
+  "cmd_on_cooldown_1": "طوّل بالك معلّم!",
+
+  // This command can only be used every {time} seconds. Please wait a bit!
+  "cmd_on_cooldown_2": "يمكن استخدام هذا الأمر كل {time} ثواني. رجاءً انتظر قليلاً!",
+
+  // Now that's a twist!
+  "cmd_resend_all_filtered_out_1": "",
+
+  // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
+  "cmd_resend_all_filtered_out_2": "",
+
+  // The webhook in {channel} is broken.
+  "cmd_resend_invalid_webhook_1": "",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_resend_invalid_webhook_2": "",
+
+  // Uh oh!
+  "cmd_resend_nothing_free_1": "أه له!",
+
+  // There's not a single game from this category for free right now... How could that have happened :thinking:
+  "cmd_resend_nothing_free_2": "لا ويوجد ولا حتّى لعبة واحدة بحسم 100% حالياً... كيف يُمكِن لذلك أن يحدث :thinking:",
+
+  // Aaaaaand there it goes!
+  "cmd_resend_success_1": "ووووووو ها هي تُرسَل!",
+
+  // Check out {channel}!
+  "cmd_resend_success_2": "تفقَّد {channel}!",
+
+  // That is an example game. And this here is the example description of said example game. I hope you have a nice day :)
+  "cmd_test_announcement_description": "تِلك هي لعبة على سبيل المثال. وهذا هنا هو مثال لشرح عن الّعبة المذكورة. أتمنّى لك أن تحظى بيومٍ جميل :)",
+
+  // Game name here
+  "cmd_test_announcement_header": "اسم اللّعبة هنا",
+
+  // The webhook in {channel} is broken.
+  "cmd_test_invalid_webhook_1": "",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_test_invalid_webhook_2": "",
+
+  // :x:
+  "cmd_test_nochannel_1": ":x:",
+
+  // I don't know where to post the announcements!\nGo to /settings → Set Channel
+  "cmd_test_nochannel_2": "لا أعلم أين أنشر الاعلانات!\nتوجّه إلى /settings → Set Channel",
+
+  // Oh well...
+  "cmd_test_noembeds_1": "اوه حسناً..",
+
+  // The theme you're using uses embeds to make the message look nicer... now the thing is, I don't have the permission to send embeds in {channel}! Either give me the permission `Embed Links` or choose a different theme that doesn't use embeds!
+  "cmd_test_noembeds_2": "الشكل الّذي تستخدمه الآن يستعمل الـembeds لجعل الرسالة تبدو بمظهرٍ أجمل... لكنّني في الحقيقة لست أمتلك الصّلاحيّات لإرسال الـembeds في {channel}! يمكنك إمّا أن تعطيني صلاحيّة `Embed Links` أو أن تختار شكلاً آخراً لا يستَعْمِلُها.",
+
+  // Whoops!
+  "cmd_test_nosee_1": "أووبس!",
+
+  // Looks like I don't have the permission to see the channel {channel}!
+  "cmd_test_nosee_2": "يبدو أنّه ليس لديّ الصلاحيّات لأرى القناة {channel}!",
+
+  // Whoops!
+  "cmd_test_nosend_1": "أووبس!",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_test_nosend_2": "يبدو أنه ليس لدي الصلاحيات لإرسال الرسائل في {channel}!",
+
+  // Aaaaaand there it goes!
+  "cmd_test_success_1": "",
+
+  // Check out {channel}!
+  "cmd_test_success_2": "",
+
+  // Enjoying the free games?
+  "cmd_vote_1": "مستمتع بالألعاب المجّانيّة؟",
+
+  // [Click here to vote for me on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases it's visibility and helps others discover free games too! Thank you for every vote!*
+  "cmd_vote_2": "[اضغط هنا للتصوّيت لي على top.gg!]({topGGLink})\n\nيمكنك أيضاً أن تجد هذا البوت في المواقع التالية:\n- [لائحة البوتات في ديسكورد]({dblLink})\n- [موقع Discord Labs]({dlabsLink})\n\n*تصويتك للبوت يساعد على نشره ومساعدة الآخرين لاكتشاف الألعاب المجّانيّة أيضاً! شكراً لكلّ تصويت!*",
+
+  // Black
+  "color_black": "",
+
+  // Blue
+  "color_blue": "",
+
+  // Green
+  "color_green": "",
+
+  // Mint
+  "color_mint": "",
+
+  // No color
+  "color_none": "",
+
+  // Pink
+  "color_pink": "",
+
+  // Red
+  "color_red": "",
+
+  // White
+  "color_white": "",
+
+  // Yellow
+  "color_yellow": "",
+
+  // Lev (BGN)
+  "currency_bgn": "Lev (BGN)",
+
+  // Real (BRL)
+  "currency_brl": "Real (BRL)",
+
+  // Bitcoin (brrrr)
+  "currency_btc": "بيتكوين (BTC)",
+
+  // Euro (EUR)
+  "currency_euro": "يورو (EUR)",
+
+  // Pounds (GBP)
+  "currency_gbp": "باوند (GBP)",
+
+  // Forint (HUF)
+  "currency_huf": "Forint (HUF)",
+
+  // Złoty (PLN)
+  "currency_pln": "Złoty (PLN)",
+
+  // before
+  "currency_sign_dollar_position": "قبل",
+
+  // before
+  "currency_sign_euro_position": "قبل",
+
+  // before
+  "currency_sign_position": "قبل",
+
+  // Dollar (USD)
+  "currency_usd": "دولار (USD)",
+
+  // en-US
+  "date_format": "ar-SY",
+
+  // usd
+  "default_currency": "",
+
+  // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
+  "donation_notice": "هل وفّر هذا البوت عنك بعض المال؟ قم [بالتبرّع]({url}) لإبقائه يعمل.\nشكراً!",
+
+  // Claim All
+  "expressbutton_label": "",
+
+  // {next}
+  "fluid_list_delimiter_first": "",
+
+  // {prev}, and {next}
+  "fluid_list_delimiter_last": "",
+
+  // {prev}, {next}
+  "fluid_list_delimiter_middle": "",
+
+  // {prev} and {next}
+  "fluid_list_delimiter_only": "",
+
+  // Third Party Provider
+  "game_meta_flag_thirdparty": "مزوّد من جهة ثالثة",
+
+  // Low Quality
+  "game_meta_flag_trash": "رديئة الجودة",
+
+  // Back
+  "generic_back": "العودة",
+
+  // Cancel
+  "generic_cancel": "إلغاء",
+
+  // Cancelled
+  "generic_cancelled": "ملغي",
+
+  // Close
+  "generic_close": "",
+
+  // Continue
+  "generic_continue": "المتابعة",
+
+  // Delete
+  "generic_delete": "احذف",
+
+  // Help
+  "generic_help": "المساعدة",
+
+  // Next
+  "generic_next": "التالي",
+
+  // Ok
+  "generic_ok": "أوك",
+
+  // Okay
+  "generic_okay": "أوكُاي",
+
+  // Help is on the way!
+  "help_main_1": "المساعدة على الطريق!",
+
+  // The FreeStuff bot keeps you up to date with free games!\n\nUse /free to get a list of free games\n\nUse /settings to configure the bot and to subscribe to free games notifications
+  "help_main_2": "بوت FreeStuff يبقيك على إطّلاع بالألعاب المجّانيّة!\n\nاستخدم /use لتحصل على لائحة للألعاب المجّانيّة حاليّاً\n\nاستخدم /settings لضبط البوت والاشتراك في اشعارات الألعاب المجّانيّة",
+
+  // You are not {owner}!
+  "interaction_not_owned_1": "أنت لست {owner}!",
+
+  // Thus you cannot interact with this widget because you did not create it.\nRun **{command}** to get your own widget.
+  "interaction_not_owned_2": "لذلك فأنت لا تستطيع التفاعل مع هذه الويدجيت لأنّك لست من أنشأها.\nنفّذ **{command}** لتحصل على الويدجيت خاصّتك.",
+
+  // Sorry but I cannot let you do this!
+  "interaction_not_permitted_1": "أسف لكنّي لا أستطيع أن أسمح لك بفعل هذا!",
+
+  // Only an admin of this server can do this. You are not an admin of this server.
+  "interaction_not_permitted_2_admin": "فقط مدير لهذا السرفر يستطيع فعل هذا. وأنت لست مدير في هذا السرفر.",
+
+  // This button is reserved for some very special people...\nOf course you are special too! Yes! *But not special enough*
+  "interaction_not_permitted_2_bot_admin": "هذا الزر محجوز لبعض الناس الجدّاً مميّزون...\nبالطبع أنت مميّز أيضاً! نعم! *لكن ليس بالقدر الكافي*",
+
+  // I also cannot tell you why. But someone somewhere doesn't want you to do this...\nDo you have many enemies?
+  "interaction_not_permitted_2_generic": "كذلك لا أستطيع أن أخبرك لماذا. لكن أحدهم في مكانٍ ما لا يريدك أن تفعل هذا...\nهل لديك العديد من الأعداء؟",
+
+  // I would love to let you though! All you have to do is get yourself some **Manage Messages** permissions!
+  "interaction_not_permitted_2_manage_messages": "أودّ أن أسمح لك بالرغم من ذلك! كلّ ما تحتاج لفعله هو أن تحصل لنفسك على صلاحيّة **Manage Messages**!",
+
+  // I was asked to prevent anyone without the **Manage Server** permission from going any further!
+  "interaction_not_permitted_2_manage_server": "طُلب منّي أن أمنع أيّ أحد من دون صلاحيّة **Manage Server** من الذهاب أبعد من ذلك!",
+
+  // Hooooold up!
+  "interaction_server_only_1": "وقّققف عندك!",
+
+  // You cannot run this command in direct messages! Please try using it in a Discord Server.
+  "interaction_server_only_2": "لا يمكنك تنفيذ هذا الأمر في الرسائل المباشرة! رجاءً جرّب استخدامها ضمن سرفر ديسكورد.",
+
+  // :flag_us:
+  "lang_flag_emoji": ":flag_sy:",
+
+  // English (USA)
+  "lang_name": "العربية",
+
+  // english-us
+  "lang_name_en": "arabic",
+
+  // Silence
+  "mysterious_modal_no_response_1": "",
+
+  // No one answers...
+  "mysterious_modal_no_response_2": "",
+
+  // ...
+  "mysterious_modal_no_response_3": "",
+
+  // No response
+  "mysterious_modal_no_response_4": "",
+
+  // Nobody heard you...
+  "mysterious_modal_no_response_5": "",
+
+  // What do you want?
+  "mysterious_modal_prompt_1": "",
+
+  // What do you desire?
+  "mysterious_modal_prompt_2": "",
+
+  // The forest is listening...
+  "mysterious_modal_prompt_3": "",
+
+  // Speak your mind...
+  "mysterious_modal_prompt_4": "",
+
+  // You are ready!
+  "mysterious_modal_prompt_5": "",
+
+  // Shout into the forest!
+  "mysterious_modal_title": "",
+
+  // Open in browser
+  "open_in_browser": "افتح في المتصفّح",
+
+  // Open in Epic Games Launcher
+  "open_in_epic_games_client": "افتح في Epic Launcher",
+
+  // Open in Steam Client
+  "open_in_steam_client": "افتح في Steam",
+
+  // About
+  "page_about": "حول",
+
+  // Attributions
+  "page_attributions": "",
+
+  // Help Page
+  "page_help": "صفحة المساعدة",
+
+  // Invite the bot
+  "page_invite": "إدعو البوت",
+
+  // Bot Settings
+  "page_settings": "إعدادات البوت",
+
+  // Support
+  "page_support": "الدعم",
+
+  // Manage Webhooks
+  "permission_manage_webhooks": "إدارة الـWebhooks",
+
+  // View Channel
+  "permission_view_channel": "عرض القناة",
+
+  // Apple App Store
+  "platform_apple": "",
+
+  // Discord
+  "platform_discord": "",
+
+  // Epic Games
+  "platform_epic": "",
+
+  // GOG.com
+  "platform_gog": "",
+
+  // Google Play
+  "platform_google": "",
+
+  // Humble Bundle
+  "platform_humble": "",
+
+  // itch.io
+  "platform_itch": "",
+
+  // Origin
+  "platform_origin": "",
+
+  // Other
+  "platform_other": "",
+
+  // Play Station
+  "platform_ps": "",
+
+  // Steam
+  "platform_steam": "",
+
+  // Nintendo Switch
+  "platform_switch": "",
+
+  // Twitch
+  "platform_twitch": "",
+
+  // Ubisoft Store
+  "platform_uplay": "",
+
+  // Xbox
+  "platform_xbox": "",
+
+  // About Premium
+  "premium_promo_button": "",
+
+  // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
+  "premium_upsell_autopublish_description": "",
+
+  // Get premium to use auto publish!
+  "premium_upsell_autopublish_title": "",
+
+  // With FreeStuff premium you can have the bot automatically react to every notification you receive!
+  "premium_upsell_autoreact_description": "",
+
+  // Get premium to use auto reactions!
+  "premium_upsell_autoreact_title": "",
+
+  // With FreeStuff premium you can upload your own image for FreeStuff to use as the profile picture. You can also change the name to whatever you like. Make it blend in to your server!
+  "premium_upsell_botprofile_description": "",
+
+  // Get premium to change bot's profile!
+  "premium_upsell_botprofile_title": "",
+
+  // If you are happy with the one role you selected, you don't need to get premium. Your changes are already saved!\nIf you do want to ping more than one role however, you can do this with premium!
+  "premium_upsell_multiping_description": "",
+
+  // Get premium to ping more than one role!
+  "premium_upsell_multiping_title": "",
+
+  // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
+  "premium_upsell_threadopts_description": "",
+
+  // Get premium to create threads!
+  "premium_upsell_threadopts_title": "",
+
+  // Actual price
+  "price_actual": "السعر الحقيقي",
+
+  // Everything
+  "price_class_a": "جميعُها",
+
+  // Almost Everything
+  "price_class_b": "تقريباً جميعُها",
+
+  // Default
+  "price_class_c": "الافتراضي",
+
+  // Big fish
+  "price_class_d": "سمكة كبيرة",
+
+  // Converted from USD
+  "price_converted": "محوّل من USD",
+
+  // Privacy Policy
+  "privacy_policy": "سياسة الخصوصيّة",
+
+  // Permanently Free
+  "product_meta_flag_permanent": "",
+
+  // FreeStuff Recommendation
+  "product_meta_flag_staff_pick": "",
+
+  // Third Party Provider
+  "product_meta_flag_thirdparty": "",
+
+  // Low Quality
+  "product_meta_flag_trash": "",
+
+  // Refresh List
+  "refresh_channel_list": "",
+
+  // Click here to reload the channel list
+  "refresh_channel_list_description": "",
+
+  // Made changes?
+  "refresh_channel_list_title": "",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_channel_timeout": "",
+
+  // Channel list refreshed
+  "refresh_channels_success": "",
+
+  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
+  "refresh_channels_timeout": "",
+
+  // Refresh List
+  "refresh_role_list": "",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_role_timeout": "",
+
+  // Welcome to FreeStuff!
+  "settings2_main_1_first_time": "",
+
+  // FreeStuff Settings
+  "settings2_main_1_regular": "",
+
+  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
+  "settings2_main_2_first_time": "",
+
+  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
+  "settings2_main_2_first_time_v1prev": "",
+
+  // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
+  "settings2_main_2_regular": "",
+
+  // Disable Auto Publish
+  "settings_auto_publish_off_prompt": "",
+
+  // Auto Publish Disabled
+  "settings_auto_publish_off_state": "",
+
+  // Enable Auto Publish
+  "settings_auto_publish_on_prompt": "",
+
+  // Auto Publish Enabled
+  "settings_auto_publish_on_state": "",
+
+  // This does not look like a url
+  "settings_botprofile_avatar_invalid_url_1": "",
+
+  // Please make sure your image actually loads and the link starts with `http://` or `https://`
+  "settings_botprofile_avatar_invalid_url_2": "",
+
+  // Ayo what's that
+  "settings_botprofile_avatar_url_too_long_1": "",
+
+  // Your url is a little... excessive... A little... long, maybe. Could you try make it shorter maybe? Thanks :D
+  "settings_botprofile_avatar_url_too_long_2": "",
+
+  // Edit Avatar
+  "settings_botprofile_btn_edit_avatar": "",
+
+  // Edit Name
+  "settings_botprofile_btn_edit_name": "",
+
+  // Uhhh, very sorry uhhh
+  "settings_botprofile_name_too_long_1": "",
+
+  // But your name can only be 32 characters long. Directive from above, nothing I can do about that, sorry.
+  "settings_botprofile_name_too_long_2": "",
+
+  // Avatar and Name
+  "settings_botprofile_ui_1": "",
+
+  // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.\n\n**Edit Avatar** will allow you to change the bot's profile picture. You will need to provide a link to your desired image. Leave empty to reset to default.\n\n**Edit Name** will allow you to change the bot's name. Leave empty to reset to default.
+  "settings_botprofile_ui_2": "",
+
+  // Uhhhh what are you doing?
+  "settings_change_any_while_unsubscribed_1": "",
+
+  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
+  "settings_change_any_while_unsubscribed_2": "",
+
+  // Edit Avatar and Name
+  "settings_change_bot_profile": "",
+
+  // You have too many webhooks in {channel}! Please open the channel settings, go to integrations, delete some unused webhooks, and come back. This limitation is enforced by Discord, we cannot do anything about this unfortunately.
+  "settings_channel_error_too_many_webhooks": "",
+
+  // here
+  "settings_channel_list_here": "هنا",
+
+  // No channel
+  "settings_channel_list_no_channel_1": "لا قناة",
+
+  // Disable free games feed
+  "settings_channel_list_no_channel_2": "إبطال مورود الألعاب المجّانيّة",
+
+  // You have too many channels to show them all in the list below.
+  "settings_channel_list_too_many": "",
+
+  // Missing \"Embed Messages\" Permission
+  "settings_channel_list_warning_missing_embed_messages": "أفتقد صلاحيّة \"Embed Messages\"",
+
+  // Missing \"Manage Webhooks\" Permission
+  "settings_channel_list_warning_missing_manage_webhooks": "أفتقد صلاحيّة \"Manage Webhooks\"",
+
+  // Missing \"Send Messages\" Permission
+  "settings_channel_list_warning_missing_send_messages": "فتقد صلاحيّة \"Send Messages\"",
+
+  // Missing \"View Channel\" Permission
+  "settings_channel_list_warning_missing_view_channel": "أفتقد صلاحيّة \"View Channel\"",
+
+  // You have waaaaay too many channels to show them all in the list below. How do you even find anything in here?
+  "settings_channel_list_way_too_many": "",
+
+  // Change The Channel
+  "settings_channel_ui_1": "غيّر القناة",
+
+  // Below you'll find a list of all of your channels. Please pick one for me to send free games to!
+  "settings_channel_ui_2_regular": "بالأسفل ستجل لائحة لكلّ قنواتك. رجاءً اختر واحدةً لي كي أرسل الألعاب المجّانيّة إليها!",
+
+  // Below you'll find a list of most of your channels. You had so many I couldn't show them all at once. Please pick one for me to send free games to!
+  "settings_channel_ui_2_too_many": "بالأسفل ستجد لائحة بأغلب القنوات لديك. لديك الكثير من القنوات فلا أستطيع اظهارهم جميعاً بنفس الوقت. رجاءً اخر واحدةً لي كي أرسل الألعاب المجّانيّة إليها!",
+
+  // Below you'll find a list of a few of your channels. You have an enormous amount of channels in this server, you know this? So many in fact I could only show you a small selection of them. Please pick one for me to send free games to!
+  "settings_channel_ui_2_way_too_many": "بالأسفل ستجد لائحة بالقليل من قنواتك. لديك عددٌ ضخم من القنوات في هذا السرفر، هل لك علمٌ بهذا؟ الكثير في الواقع لدرجة أني أستطيع فقط إظهار قسم صغير منهم. رجاءً اختر واحدةً لي كي أرسل الألعاب المجّانيّة إليها!",
+
+  // Can't change channel to {channel}: Missing \"{permissions}\" permissions!
+  "settings_channel_ui_missing_permissions": "لا يمكن تغيير القناة إلى {channel}: أفتقد صلاحيّات \"{permissions}\"!",
+
+  // If you cannot find your desired channel, run /settings in that very channel to force it to show up.
+  "settings_channel_ui_too_many_channels_tip": "القناة الّتي ترغب بها لا تظهُر؟ نفّذ هذا الأمر في القناة الّتي تفكّر بها حتّى تراها في الّائحة!",
+
+  // Unknown channel
+  "settings_channel_unknown_channel": "",
+
+  // Other Settings
+  "settings_conf_ui_1": "",
+
+  // **Select Language** will change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.\n\n**Select Currency** will change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
+  "settings_conf_ui_2": "",
+
+  // Disable Claim-All Button
+  "settings_display_expressbutton_off_prompt": "",
+
+  // Claim-All Button Disabled
+  "settings_display_expressbutton_off_state": "",
+
+  // Enable Claim-All Button
+  "settings_display_expressbutton_on_prompt": "",
+
+  // Claim-All Button Enabled
+  "settings_display_expressbutton_on_state": "",
+
+  // Disable Auto Reaction
+  "settings_display_reactions_off_prompt": "إبطال التفاعل التلقائي",
+
+  // Auto Reaction Disabled
+  "settings_display_reactions_off_state": "التفاعل التلقائي مُبْطَل",
+
+  // Enable Auto Reaction
+  "settings_display_reactions_on_prompt": "تفعيل التفاعل التلقائي",
+
+  // Auto Reaction Enabled
+  "settings_display_reactions_on_state": "التفاعل التلقائي مُفعَّل",
+
+  // Display Settings
+  "settings_display_ui_1": "إعدادات الإظهار",
+
+  // Change the appearance of the bot's messages
+  "settings_display_ui_2": "غيّر مظهر رسائل البوت",
+
+  // Show Bundles
+  "settings_filter_kinds_bundle_1": "",
+
+  // Collections of games, DLCs or other items
+  "settings_filter_kinds_bundle_2": "",
+
+  // Show DLCs
+  "settings_filter_kinds_dlc_1": "",
+
+  // Addons and other game extensions
+  "settings_filter_kinds_dlc_2": "",
+
+  // None selected
+  "settings_filter_kinds_none": "",
+
+  // Show other content
+  "settings_filter_kinds_other_1": "",
+
+  // Stuff that does not fit into the other categories
+  "settings_filter_kinds_other_2": "",
+
+  // Show Store Items
+  "settings_filter_kinds_storeitem_1": "",
+
+  // Things like steam point shop items
+  "settings_filter_kinds_storeitem_2": "",
+
+  // (All disabled)
+  "settings_filter_platforms_none": "(الكل مُبطل)",
+
+  // Send all games. Every. Single. One.
+  "settings_filter_price_class_desc_everything": ".أرسل جميع الألعاب. كلُّ. واحدةٌ. منها",
+
+  // Only send games worth {price} or more
+  "settings_filter_price_class_desc_generic": "أرسل فقط الألعاب بقيمة {price} أو أكثر",
+
+  // Disable Games
+  "settings_filter_show_passgames_off_prompt": "",
+
+  // Games Disabled
+  "settings_filter_show_passgames_off_state": "",
+
+  // Enable Games
+  "settings_filter_show_passgames_on_prompt": "",
+
+  // Games Enabled
+  "settings_filter_show_passgames_on_state": "",
+
+  // Disable Loot
+  "settings_filter_show_passloot_off_prompt": "",
+
+  // Loot Disabled
+  "settings_filter_show_passloot_off_state": "",
+
+  // Enable Loot
+  "settings_filter_show_passloot_on_prompt": "",
+
+  // Loot Enabled
+  "settings_filter_show_passloot_on_state": "",
+
+  // Disable Bad Quality Games
+  "settings_filter_trash_off_prompt": "إبطال الألعاب رديئة الجودة",
+
+  // Bad Quality Games Disabled
+  "settings_filter_trash_off_state": "الألعاب رديئة الجودة مُبطلة",
+
+  // Enable Bad Quality Games
+  "settings_filter_trash_on_prompt": "تفعيل الألعاب رديئة الجودة",
+
+  // Bad Quality Games Enabled
+  "settings_filter_trash_on_state": "الألعاب رديئة الجودة مُفعّلة",
+
+  // Filter Settings
+  "settings_filter_ui_1": "إعدادات التصفية",
+
+  // There are a lot of free games out there, some more interesting than others. In order to not flood your precious Discord server with spam we have some options for you to decide which games you like to see:
+  "settings_filter_ui_2": "يوجد العديد من الألعاب المجّانيّة، بعضها مثير للاهتمام أكثر من غيره. حتّى لا نُغرق سرفر الـDiscord الغالي خاصّتك ليدنا بعض الخيارات لك لتحدّد أيُّ الألعاب تودُّ رؤيتها:",
+
+  // Something failed while exporting your data, we are very sorry. You can reach out to us and manually request a copy of your data via team@freestuffbot.xyz - Please include your server id in the E-Mail. Thanks.
+  "settings_guilddata_data_failed": "",
+
+  // Please click the Download button below to download your data. The button will only work one time, run the command again to download again. Do not share the link with anyone!
+  "settings_guilddata_data_ready": "",
+
+  // Delete Server Data
+  "settings_guilddata_delete_button": "حذف بيانات السرفر",
+
+  // Are you sure?
+  "settings_guilddata_delete_dialogue_confirmation_1": "هل أنت متأكّد؟",
+
+  // Once you click the button below there is no going back!
+  "settings_guilddata_delete_dialogue_confirmation_2": "متى ما أن تضغط الزر فلن يكون هناك تراجُع!",
+
+  // Slow down!
+  "settings_guilddata_delete_dialogue_cooldown_1": "تمهَّل!",
+
+  // Looks like someone already deleted this server's data in the past 12h. Please try again later!
+  "settings_guilddata_delete_dialogue_cooldown_2": "يبدو أن أحدُهم قد حذف بيانات هذا السرفر قبل الآن في الـ12 ساعةً السابقة.",
+
+  // Only an admin can do this
+  "settings_guilddata_delete_dialogue_not_allowed_1": "فقط المدراء يستطيعون فعل هذا",
+
+  // Please ask a server admin if you really really wanna do this.
+  "settings_guilddata_delete_dialogue_not_allowed_2": "رجاءً اطلب من مدير سرفر اذا أردّت فعلاً فعل هذا",
+
+  // Success!
+  "settings_guilddata_delete_success_1": "النجاح!",
+
+  // Your server's data has been deleted and reset to default settings!
+  "settings_guilddata_delete_success_2": "تمّ حذف بيانات السرفر وإعادة الضبط للإعدادات الافتراضيّة!",
+
+  // Uh... that's a bit embarrassing now... There was an error exporting your data. Please [contact our team]({invite}) to get your data.
+  "settings_guilddata_display_error": "اه... هذا محرج قليلاً الآن... هنالك خطأٌ أثناء تصدير بياناتك. رجاءً [تواصل مع فريقنا]({invite}) للحصول عليها.",
+
+  // Download Data
+  "settings_guilddata_download": "",
+
+  // Okie dokie, data's coming in hot:
+  "settings_guilddata_success_1": "أوكي دوكي، البيانات ستصل ساخنة:",
+
+  // English with the metric system
+  "settings_language_list_desc_english_eu": "الانجليزيّة بالنظام المتري",
+
+  // English with the imperial system
+  "settings_language_list_desc_english_us": "الانجليزيّة بالنظام الامبراطوري",
+
+  // English with football fields per pizza slice
+  "settings_language_list_desc_english_us_easteregg": "الانجليزيّة بحقول كرة القدم لكل شريحة بيتزا",
+
+  // {language} by {translators}
+  "settings_language_list_desc_generic": "{translators} ترجَمها {language}",
+
+  // Language Selection
+  "settings_language_ui_1": "اختبار الّلغة",
+
+  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
+  "settings_language_ui_2": "هذه اللّغة تطبّق على كل السرفر، وليس لك فقط شخصيّاً!\nأهلا وسهلا فيك",
+
+  // Oh no!
+  "settings_locked_premium_1": "",
+
+  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
+  "settings_locked_premium_2": "",
+
+  // Change channel
+  "settings_main_btn_channel_change": "غيّر القناة",
+
+  // Set channel
+  "settings_main_btn_channel_set": "حدّد القناة",
+
+  // Display Settings
+  "settings_main_btn_display": "إعدادات الإظهار",
+
+  // Filter Settings
+  "settings_main_btn_filter": "إعدادات التصفية",
+
+  // Other Settings
+  "settings_main_btn_general": "",
+
+  // Need help?
+  "settings_main_btn_help": "",
+
+  // Advanced
+  "settings_main_btn_more": "المزيد",
+
+  // Notification Settings
+  "settings_main_btn_notifications": "",
+
+  // Change role mention
+  "settings_main_btn_role_change": "المُنبّهة (role) غيّر الرتبة",
+
+  // Mention a role
+  "settings_main_btn_role_set": "(role) تنبيه الرتبة",
+
+  // Need help?
+  "settings_main_help_1": "",
+
+  // Read the guide
+  "settings_main_help_solution_guide_1": "",
+
+  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
+  "settings_main_help_solution_guide_2": "",
+
+  // Join our support server
+  "settings_main_help_solution_server_1": "",
+
+  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
+  "settings_main_help_solution_server_2": "",
+
+  // Tl;dr
+  "settings_main_help_solution_tldr_1": "",
+
+  // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
+  "settings_main_help_solution_tldr_2": "",
+
+  // Settings
+  "settings_main_ui_1": "الإعدادات",
+
+  // Looks like you still didn't finish setting up the bot :eyes:\n\nWhy don't you start by picking a channel for me to send free games to?
+  "settings_main_ui_2_guided_channel_delayed": "يبدو أنّك لم تنتهي من ضبط البوت بعد :eyes:\n\nلما لا تبدأ باختيار قناةٍ لي لأرسل الألعاب المجّانيّة عليها؟",
+
+  // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel I can use to keep you and your friends up to date with free games! Click the blue button below to continue:
+  "settings_main_ui_2_guided_channel_normal": "مرحباً بك في FreeStuff :wave:\n\nمسرورين لعثورك على صفحة الإعدادات! دعنا نبدأ باختيار قناة يمكنني استخدامها لأبقيك أنت وأصدقاؤك مطلعين بأجد الألعاب المجّانيّة! اضغط الزر الأزرق أدناه للمتابعة:",
+
+  // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
+  "settings_main_ui_2_guided_display_delayed": "لديك المزيد من الإعدادات لتتفقّدها! أتحدّث عن خيارات الأشكال والعملات وما غير ذلم. مهتم؟ الزر الأزرق سيأخذك لهناك!",
+
+  // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
+  "settings_main_ui_2_guided_display_normal": "ممتاز! آخر نقطة في اللائحة هي إعدادات الإظهار. إنّهم حتماً يستحقّون اعطاءهم نظرة سريعة!",
+
+  // Welcome back! You might be missing out on some free games because the filter options are not configured to your likings! Better check them out real quick, it doesn't take long :eyes:
+  "settings_main_ui_2_guided_filter_delayed": "مرحباً بك مجدّداً! من الممكن أنّك غافلٌ عن بعض الألعاب لأنّ خيارات التصفية ليست مضبوطة تبعاً لرغبتك! الأفضل أن تتفقّدهم سريعاً، لن تأخذ الكثير من الوقت :eyes:",
+
+  // Okay awesome, let's continue with filter settings. You might be missing out on some games if you don't check those out!
+  "settings_main_ui_2_guided_filter_normal": "أوكي مذهل، لنكمل مع إعدادات التصفية. ربّما تغفل عن بعض الألعاب إذا لم تتفقّد تلك الإعدادات!",
+
+  // Awesome, you're done with setting up the FreeStuff Bot! Enjoy your free games! :partying_face:\n\nLooking for other people to talk about free games? [Join our Discord Server]({invite})\n\n*You can always return to this page using /settings*
+  "settings_main_ui_2_guided_finished": "مدهش، لقد انتهت من ضبط بوت FreeStuff! تمتّع بألعابك المجّانيّة!\n:partying_face:\n\nتبحث عن أشخاص آخرون للتحدث معهم عن الألعاب المجّانيّة؟ [انضم لسرفر الـDiscord خاصتنا]({invite})\n\n* يمكنك دوماً العودة لهذه الصفحة باستخدام /settings*",
+
+  // Wanna continue setting up the bot?\nI'd suggest you check out role mentions next! Just click the button below to see what's possible!
+  "settings_main_ui_2_guided_role_delayed": "ترغب بالاستمراتر في ضبط البوت؟\nأقترح عليك تالياً تَفقُّد تنبيهات الدور (role)! إضغط الزر أدناه لترى ما هو ممكنٌ!",
+
+  // Good job! Next up, maybe wanna get notified when a game becomes free? I'm talking about pinging a role or maybe even @everyone?\nClick the button below to see what's possible :eyes:
+  "settings_main_ui_2_guided_role_normal": "أحسنت عملاً! التالي، ربّما ترغب باشعارك عندما تصبح لعبة مجّانيّة؟ أتحدّث عن تنبيه رتبة (role) أو ربّما حتى @everyone?\nإضغط الزر أدناه لترى ما هو الممكن :eyes:",
+
+  // Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.
+  "settings_main_ui_2_regular": "مرحباً!\n\nيبدو أنك لا تستطيع العثور على الإعداد؟ تحتاج مساعدة في ضبط البوت بشكلٍ صحيحة؟ أو لديك أسئلة أخرى؟ [اضغط هنا من أجل دليلٍ]({guide}) يمشي بك عبر كلُّ شيء أو بدلاً من ذلك [انضم لسرفر الدعم خاصّتنا]({invite}) لحصول على مساعدة شخصيّة.",
+
+  // Opt out of Beta
+  "settings_more_beta_off_prompt": "beta الانسحاب من النسخة التجريبيّة",
+
+  // You're not in beta!
+  "settings_more_beta_off_state": "أنت لست ضمن النسخة التجريبيّة beta!",
+
+  // Opt in to Beta
+  "settings_more_beta_on_prompt": "beta الانضمام للنسخة التجريبيّة",
+
+  // You're in beta!
+  "settings_more_beta_on_state": " !beta أنت مُنضَم للنسخة التجريبيّة",
+
+  // Disable Boring Mode
+  "settings_more_boringmode_off_prompt": "",
+
+  // Boring Mode is off
+  "settings_more_boringmode_off_state": "",
+
+  // Enable Boring Mode
+  "settings_more_boringmode_on_prompt": "",
+
+  // Boring Mode is on
+  "settings_more_boringmode_on_state": "",
+
+  // View Server Data
+  "settings_more_btn_guilddata": "عرض بيانات السرفر",
+
+  // Re-send Messages
+  "settings_more_btn_resend": "أعد إرسال الرسائل",
+
+  // Send Test Message
+  "settings_more_btn_test": "أرسل رسالة الإختبار",
+
+  // Mysterious Button
+  "settings_more_mysterious_button": "",
+
+  // Advanced Options
+  "settings_more_ui_1": "المزيد",
+
+  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
+  "settings_more_ui_2": "**أرسل رسالة الإختبار**\nترسل رسالة اختبار بجميع الخيارات الّتي ضبطتها.\nاستخدمها لتتأكّد 100% من أنّ كلّ شيء يعمل. خذ بالعلم أنّ هذا قد ينبّه الناس، إن كنت قد ضبطتها لتفعل ذلك.\n\n**أعد إرسال الرسائل**\nإعادة إرسال أخبار الألعاب المجّانيّة. بالغلط حذفت رسالة؟ غيّرت إعداد؟ أو مجرّد أنك تريد نفس الرسالة مرّتين؟ هذا الزر لك!\n\n**عرض بيانات السرفر**\nستظهر لك البيانات الّتي نحتفظ بها عن سرفرك.\n\n**الانضمام للنسخة التجريبيّة beta**\nستسمح لك بالحصول على تحديثات وميّزات جديدة مبكراً. لكن خذ بالعلم أنّها قد تضمّن ميّزيات أو تحديثات غير مستقرّة أو تجريبيّة. ومن الممكن أن يتم سؤالك كلّ حين وآخر عن تجرُبتك إذا انضممت.",
+
+  // You need \"Manage Server\" permissions to edit this
+  "settings_permission_disclaimer": "تحتاج صلاحيّات \"Manage Server\" لتُعدِّل هذه",
+
+  // Add Role
+  "settings_role_add_role": "",
+
+  // @everyone
+  "settings_role_list_everyone_1": "@everyone",
+
+  // Ping everyone. That's a lot of people.
+  "settings_role_list_everyone_2": "نبّه الجميع. إنّه الكثير من الناس",
+
+  // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
+  "settings_role_list_hidden_overflow_disclaimer": "قد تكون بعض الرتب مخفيّة لأنه لديك الكثير منهم ليتم إظهارهم معاً. انقل الرتبة للأعلى إذا لم تستطع إيجادها في اللائحة!",
+
+  // Some roles might be hidden because the bot doesn't have the `Mention All Roles` permission!
+  "settings_role_list_hidden_permissions_disclaimer": "بعض الرتب قد تكون مخفيّة لأنّ البوت ليس لديه صلاحيّة `Mention All Roles`!",
+
+  // Disable Mentions
+  "settings_role_list_no_mention_1": "إبطال التنبيهات",
+
+  // Do not ping anyone.
+  "settings_role_list_no_mention_2": "لا تُنبِّه أي أحد",
+
+  // None selected
+  "settings_role_list_remove_role_1": "",
+
+  // Click here to remove this role
+  "settings_role_list_remove_role_2": "",
+
+  // Notification Settings
+  "settings_role_ui_1": "إعدادات الاشعارات",
+
+  // Pick a role to ping when a new game becomes free!
+  "settings_role_ui_2": "اختر رتبة (role) ليُنبَّه عندنا تصبح لعبة جديدة مجّانيّة!",
+
+  // More
+  "settings_sub_btn_more": "",
+
+  // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
+  "settings_subscription_locked_premium": "",
+
+  // More
+  "settings_subscription_more_ui_1": "",
+
+  // **Send Test Message** sends a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.\n\n**Re-send Messages** will re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This button is for you!
+  "settings_subscription_more_ui_2": "",
+
+  // Click here to subscribe
+  "settings_subscription_not_subscribed_1": "",
+
+  // Pick a channel below to subscribe to {subscription}
+  "settings_subscription_not_subscribed_2": "",
+
+  // Your Premium subscription expired. We have paused your notifications for {subscription} until you resubscribe.
+  "settings_subscription_premium_expired": "",
+
+  // {subscription} is a premium subscription. You can subscribe.
+  "settings_subscription_unlocked_premium": "",
+
+  // Unsubscribe {subscription}
+  "settings_subscription_unsubscribe_1": "",
+
+  // You will stop receiving games from this category.
+  "settings_subscription_unsubscribe_2": "",
+
+  // Slash commands are here!
+  "slash_command_introduction_info_short": "الـSlash commands أصبحت متوفّرة هنا!",
+
+  // Slash commands are here! Use **{command}** from now on!
+  "slash_command_introduction_label_long": "الـSlash commands أصبحت متوفّرة هنا! استخدم **{command}** من الآن فصاعداً!",
+
+  // Use **{command}** from now on!
+  "slash_command_introduction_label_short": "استخدم **{command}** من الآن فصاعداً!",
+
+  // {user} used {command}
+  "slash_command_source": "{user} استخدم {command}",
+
+  // This subscription will show you all games newly added to the Game Pass suite of titles. These games require a Game Pass subscription to play for free while the offer lasts.\nYou can filter by price and quality.
+  "subscription_gamepass_description": "",
+
+  // Game Pass
+  "subscription_gamepass_name": "",
+
+  // This subscription will show you games that have a 100% discount for a limited amount of time. You can keep those games after the sale is over.\nYou can filter by price, platform and quality.
+  "subscription_keep_description": "",
+
+  // 100% Discount
+  "subscription_keep_name": "",
+
+  // This subscription will show you all sorts of other offers that are available at a 100% discount for a limited amount of time. This does usually not include games but may include other software such as DLCs or non-gaming related items.\nYou can filter by price, platform and product type.
+  "subscription_other_description": "",
+
+  // DLCs & More
+  "subscription_other_name": "",
+
+  // This subscription will show you all games newly added to the Prime Gaming suite of titles. You require a Prime Gaming subscription to obtain games from this category. You can keep them after the offer expired.\nYou can filter by price and quality.
+  "subscription_prime_description": "",
+
+  // Prime Gaming
+  "subscription_prime_name": "",
+
+  // Prime Gaming: Games
+  "subscription_primegames_name": "",
+
+  // Prime Gaming: Loot
+  "subscription_primeloot_name": "",
+
+  // This subscription will show you games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
+  "subscription_timed_description": "",
+
+  // Free Weekend
+  "subscription_timed_name": "",
+
+  // Terms of Service
+  "terms_of_service": "شروط الخدمة",
+
+  // You cannot get less than this
+  "theme_eight_desc": "لا يمكن الوصول لأقل من هذا",
+
+  // Bare minimum
+  "theme_eight_name": "الحد الأدنى",
+
+  // A theme with minimal extra info
+  "theme_five_desc": "شكل مع الحد الأدنى من المعلومات الإضافيّة",
+
+  // Keep it simple
+  "theme_five_name": "اجعلها بسيطة",
+
+  // Only weird people chose this
+  "theme_four_desc": "فقط غريبو الأطوار يختارون هذا",
+
+  // More info less images!
+  "theme_four_name": "مزيدٌ من المعلومات وصورٌ أقلّ",
+
+  // If you need some context but don't like embeds
+  "theme_nine_desc": "embedsإذا أردت بعض المضمون ولكن لا تحبّ الـ",
+
+  // Text only!
+  "theme_nine_name": "!كتابة فقط",
+
+  // Pretty basic
+  "theme_one_desc": "أساسي جدّاً",
+
+  // Default Theme
+  "theme_one_name": "الشكل الافتراضي",
+
+  // It's literally just the link
+  "theme_seven_desc": "إنّه حرفيّاً الرابط فقط",
+
+  // Literally just the link
+  "theme_seven_name": "حرفيّا فقط الرابط",
+
+  // A theme with almost minimal extra info
+  "theme_six_desc": "شكل مع تقريبا الحد الأدنى من المعلومات الإضافية",
+
+  // Images are cool!
+  "theme_six_name": "!الصور رائعة",
+
+  // For ArchiSteamFarm users and alike
+  "theme_ten_desc": "وأمثاله ArchiSteamFarm لمستخدمي",
+
+  // Advanced
+  "theme_ten_name": "متقدّم",
+
+  // With a short description and ratings
+  "theme_three_desc": "مع شرح مختصر وتقييمات",
+
+  // More info!
+  "theme_three_name": "!المزيد من المعلومات",
+
+  // If you don't like images
+  "theme_two_desc": "اذا كنت لا تحبّ الصور",
+
+  // No photos please!
+  "theme_two_name": "!من دون صور رجاءً",
+
+  // We send a message in your channel. That's all.
+  "thread_opt_a_description": "",
+
+  // No threads
+  "thread_opt_a_name": "",
+
+  // Message goes in your channel but we start a thread for it.
+  "thread_opt_b_description": "",
+
+  // Thread below
+  "thread_opt_b_name": "",
+
+  // We create a new thread and post the message there.
+  "thread_opt_c_description": "",
+
+  // Message in thread
+  "thread_opt_c_name": "",
+
+  // English translation available! If you want me to use English, use`/settings`
+  "translation_available": "الترجمة العربيّة متوفّرة! إن كنت تريدني أن أستخدم العربية، اكتب `@FreeStuff set language arabic`",
+
+  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
+  "translation_available_generic": "",
+
+  // English translation by:
+  "translation_by": "تمت الترجمة من قبل:",
+
+  // Maanex
+  "translators": "محمّد رامي صبّاغ",
+
+  // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
+  "webhook_create_auditlog_reason": "FreeStuff يستخدم Webhooks ليوزّع الإعلانات على نطاق واسع. رجاءً لا تحذف هذه الـWebhook.",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_missing_permissions_1": "أووبسي ديزي!",
+
+  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
+  "webhook_migration_failed_missing_permissions_2": "يبدو أنّني أفتقد لصلاحيّة \"Manage Webhooks\". رجاءً امنحني هذه الصلاحيّة ومن ثنّ حاول مجدّداً!",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_too_many_hooks_1": "",
+
+  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
+  "webhook_migration_failed_too_many_hooks_2": "",
+
+  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
+  "webhook_migration_notice": "يفتقد FreeStuff لبعض الصلاحيّات المحدّدة. رجاءً من مدراء السرفرات تنفيذ **/settings** للمزيد من المعلومات أو البوت قد يتوقّف عن العمل قريباً!"
+}

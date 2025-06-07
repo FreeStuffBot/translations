@@ -4,7 +4,7 @@ const translate = import('@vitalets/google-translate-api')
 
 const getChangedJsonFiles = () => {
   const diffOutput = execSync('git diff --name-only origin/master...HEAD').toString()
-  return diffOutput.split('\n').filter(f => f.endsWith('.json'))
+  return diffOutput.split('\n').filter(f => f.endsWith('.jsonc'))
 }
 
 const getFileContent = (filePath) => {

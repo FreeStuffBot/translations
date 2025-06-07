@@ -1,0 +1,1291 @@
+{
+  // Get it for free
+  "announcement_button_text": "Obține-l gratuit",
+
+  // via {website}
+  "announcement_footer": "prin {website}",
+
+  // This is a preview message
+  "announcement_footer_test": "Arată bine? Dacă nu, foloseste @FreeStuff settings",
+
+  // for a very long time
+  "announcement_free_for_a_long_time": "pentru o foarte lungă perioadă de timp",
+
+  // for a week
+  "announcement_free_for_a_week": "timp de o săptămână",
+
+  // until {date}
+  "announcement_free_until_date": "până la {date}",
+
+  // until {day}
+  "announcement_free_until_day": "până pe {day}",
+
+  // until {day} next week
+  "announcement_free_until_day_next_week": "până pe {day} următoarea săptămână",
+
+  // Free Game!
+  "announcement_header": "Joc gratuit!",
+
+  // Claim for **Free**
+  "announcement_price_gamepass": "Obtine **Gratuit**",
+
+  // Claim for **Free** until {date}
+  "announcement_price_gamepass_until": "Obtine **Gratuit** pana la {date}",
+
+  // {prices}
+  "announcement_price_generic": "",
+
+  // {prices} until {date}
+  "announcement_price_generic_until": "",
+
+  // {prices}
+  "announcement_price_keep": "{prices}",
+
+  // {prices} until {date}
+  "announcement_price_keep_until": "{prices} pana la {date}",
+
+  // {prices}
+  "announcement_price_other": "{prices}",
+
+  // {prices} until {date}
+  "announcement_price_other_until": "{prices} pana la {date}",
+
+  // Claim for **Free**
+  "announcement_price_prime": "Obtine **Gratuit**",
+
+  // Claim for **Free** until {date}
+  "announcement_price_prime_until": "Obtine **Gratuit** pana la {date}",
+
+  // **Free to play**
+  "announcement_price_timed": "**Gratuit**",
+
+  // **Free to play** until {date}
+  "announcement_price_timed_until": "**Gratuit** pana la {date}",
+
+  // Free
+  "announcement_pricetag_free": "Gratuit",
+
+  // **{name}** is free!\n<{url}>
+  "announcement_theme9": "**{name}** este gratuit!\n<​{url}​>",
+
+  // {names}
+  "announcement_thread_name_gamepass_multiple_below": "{names}",
+
+  // {amount} new games for Game Pass!
+  "announcement_thread_name_gamepass_multiple_outside": "{amount} jocuri noi pentru Game Pass!",
+
+  // {name}
+  "announcement_thread_name_gamepass_single_below": "{name}",
+
+  // New Game Pass content: {name}!
+  "announcement_thread_name_gamepass_single_outside": "Content nou Game Pass: {name}!",
+
+  // {names}
+  "announcement_thread_name_keep_multiple_below": "{names}",
+
+  // {amount} games are free!
+  "announcement_thread_name_keep_multiple_outside": "{amount} jocuri gratuite!",
+
+  // {name}
+  "announcement_thread_name_keep_single_below": "{name}",
+
+  // {name} is free!
+  "announcement_thread_name_keep_single_outside": "{name} este gratuit!",
+
+  // {names}
+  "announcement_thread_name_other_multiple_below": "{names}",
+
+  // {amount} games are free!
+  "announcement_thread_name_other_multiple_outside": "{amount} jocuri gratuite!",
+
+  // {name}
+  "announcement_thread_name_other_single_below": "{name}",
+
+  // {name} is free!
+  "announcement_thread_name_other_single_outside": "{name} este gratuit!",
+
+  // {names}
+  "announcement_thread_name_prime_multiple_below": "{names}",
+
+  // {amount} new games for Prime!
+  "announcement_thread_name_prime_multiple_outside": "{amount} jocuri noi pentru Prime!",
+
+  // {name}
+  "announcement_thread_name_prime_single_below": "{name}",
+
+  // New Prime loot: {name}!
+  "announcement_thread_name_prime_single_outside": "Loot nou Prime: {name}!",
+
+  // {names}
+  "announcement_thread_name_timed_multiple_below": "{names}",
+
+  // Free weekend for {amount} games!
+  "announcement_thread_name_timed_multiple_outside": "Weekend-ul gratis pentru {amount} jocuri!",
+
+  // {name}
+  "announcement_thread_name_timed_single_below": "{name}",
+
+  // Free weekend for {name}!
+  "announcement_thread_name_timed_single_outside": "Weekend-ul gratis pentru {name}!",
+
+  // {title} is free!
+  "announcement_title_statement": "{title} este gratuit!",
+
+  // An error occurred!
+  "cmd_error_fatal_1": "A apărut o eroare!",
+
+  // We're trying to fix this issue as soon as possible!
+  "cmd_error_fatal_2": "Încercăm să rezolvăm această problemă cât mai curând posibil!",
+
+  // A wild error occurred!
+  "cmd_error_fixable_1": "A apărut o eroare!",
+
+  // Can you please try that again? If this message keeps appearing please wait a bit or [reach out to our support team]({discordInvite}), thanks.
+  "cmd_error_fixable_2": "Poți, te rog, să mai încerci o dată? Dacă acest mesaj continuă să apară, așteptați puțin timp sau [contactați echipa noastră de asistență]({discordInvite}), mulțumim.",
+
+  // An error occurred!
+  "cmd_error_readd_1": "A apărut o eroare!",
+
+  // Try removing the bot from your server and adding it back in. If this does not help, [please join the support server]({discordInvite}).
+  "cmd_error_readd_2": "Încearcă să elimini botul de pe server și să-l adaugi înapoi. Dacă acest lucru nu ajută, [te rog să te alături serverului de asistență]({discordInvite}).",
+
+  // **Ends soon:**
+  "cmd_free_ends_soon": "**Se termină în curând:**",
+
+  // (Ends soon!)
+  "cmd_free_ends_soon2": "(Se termina curand!)",
+
+  // None :(
+  "cmd_free_no_freebies": "Nici unul :(",
+
+  // Nothing free right now :(
+  "cmd_free_no_freebies2": "Nimic gratuit momentan :(",
+
+  // These games are currently free:
+  "cmd_free_title": "Jocuri gratuite în acest moment:",
+
+  // Currently on Game Pass:
+  "cmd_free_title_gamepass": "",
+
+  // Currently free to keep (100% off)
+  "cmd_free_title_keep": "In prezent gratuit pentru pastrare (cu 100% reducere)",
+
+  // Other freebies (100% off)
+  "cmd_free_title_other": "Alte gratuitati (cu 100% reducere)",
+
+  // Prime Gaming: Games
+  "cmd_free_title_primegames": "Prime Gaming: Jocuri",
+
+  // Prime Gaming: Loot
+  "cmd_free_title_primeloot": "Prime Gaming: Loot",
+
+  // Currently free to play
+  "cmd_free_title_timed": "In prezent gratuit",
+
+  // until
+  "cmd_free_until": "până pe",
+
+  // FreeStuff Bot
+  "cmd_info_1": "FreeStuff Bot",
+
+  // FreeStuff Bot made with :heart: by [some amazing people]({amazingPeople})\n\n[About / Website]({website})\n\n[Add it to your server!]({inviteLink})\n\n[Report a bug or get in contact]({discordInvite})
+  "cmd_info_2": "FreeStuff Bot creat cu :heart: de către [niște oameni uimitori]({amazingPeople})\n\n[Despre / Website]({website})\n\n[Adaugă-l pe server!]({inviteLink})\n\n[Raportează o problemă sau intră în contact]({discordInvite})",
+
+  // :eyes:
+  "cmd_invite_1": ":eyes:",
+
+  // [Click here to add me to your server!]({inviteLink})
+  "cmd_invite_2": "[Apasă aici pentru a mă adauga la tine pe server!]({inviteLink})",
+
+  // You're going too fast!
+  "cmd_on_cooldown_1": "Tastezi prea repede!",
+
+  // This command can only be used every {time} seconds. Please wait a bit!
+  "cmd_on_cooldown_2": "Această comandă poate fi folosită o dată la {time} secunde. Te rog așteaptă puțin!",
+
+  // Now that's a twist!
+  "cmd_resend_all_filtered_out_1": "Asta e o intorsatura!",
+
+  // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
+  "cmd_resend_all_filtered_out_2": "Sunt jocuri gratuite, dar setarile tale de filtru nu permit anuntarea niciunuia. Daca nu asta ti-ai dorit, verifica setarile de filtru din nou.",
+
+  // The webhook in {channel} is broken.
+  "cmd_resend_invalid_webhook_1": "Webhook-ul din {channel} este defect.",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_resend_invalid_webhook_2": "Asta suna infricosator. Ca sa rezolvi problema incearca sa schimbi canalul cu unul diferit si apoi inapoi cu {channel}. Daca problema inca persista nu ezita sa ne contactezi!",
+
+  // Uh oh!
+  "cmd_resend_nothing_free_1": "Uh oh!",
+
+  // There's not a single game from this category for free right now... How could that have happened :thinking:
+  "cmd_resend_nothing_free_2": "În acest moment nu există niciun joc cu o reducere de 100%... Cum s-a putut întâmpla așa ceva :thinking:",
+
+  // Aaaaaand there it goes!
+  "cmd_resend_success_1": "Aaaaa și iată!",
+
+  // Check out {channel}!
+  "cmd_resend_success_2": "Vezi {channel}!",
+
+  // That is an example game. And this here is the example description of said example game. I hope you have a nice day :)
+  "cmd_test_announcement_description": "Ăsta este un exemplu de joc și aici este locul unde va apărea descrierea jocului. Sper că ai o zi bună.",
+
+  // Game name here
+  "cmd_test_announcement_header": "Numele jocului aici",
+
+  // The webhook in {channel} is broken.
+  "cmd_test_invalid_webhook_1": "Webhook-ul din {channel} este defect.",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_test_invalid_webhook_2": "Asta suna infricosator. Ca sa rezolvi problema incearca sa schimbi canalul cu unul diferit si apoi inapoi cu {channel}. Daca problema inca persista nu ezita sa ne contactezi!",
+
+  // :x:
+  "cmd_test_nochannel_1": ":x:",
+
+  // I don't know where to post the announcements!\nGo to /settings → Set Channel
+  "cmd_test_nochannel_2": "Nu am idee unde să postez anunțurile!\nMergi în /settings -> Setează Canal",
+
+  // Oh well...
+  "cmd_test_noembeds_1": "Oh, bine...",
+
+  // The theme you're using uses embeds to make the message look nicer... now the thing is, I don't have the permission to send embeds in {channel}! Either give me the permission `Embed Links` or choose a different theme that doesn't use embeds!
+  "cmd_test_noembeds_2": "Tema pe care o folosești utilizează embed-uri pentru a face mesajul să arate mai bine... treaba este că nu am acces să trimit embed-uri pe {channel}! Pentru asta trebuie să îmi acorzi permisia `Embed Links` sau să schimbi tema cu una care nu folosește embed-uri.",
+
+  // Whoops!
+  "cmd_test_nosee_1": "Hopa!",
+
+  // Looks like I don't have the permission to see the channel {channel}!
+  "cmd_test_nosee_2": "Se pare că nu am permisiunea de a vedea canalul {channel}!",
+
+  // Whoops!
+  "cmd_test_nosend_1": "Hopa!",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_test_nosend_2": "Se pare că nu am permisiunea de a trimite mesaje pe {channel}!",
+
+  // Aaaaaand there it goes!
+  "cmd_test_success_1": "Aaa si uite asa!",
+
+  // Check out {channel}!
+  "cmd_test_success_2": "Verifica {channel}!",
+
+  // Enjoying the free games?
+  "cmd_vote_1": "Te bucuri de jocuri gratuite?",
+
+  // [Click here to vote for me on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases it's visibility and helps others discover free games too! Thank you for every vote!*
+  "cmd_vote_2": "[Apasă aici pentru a mă vota pe top.gg]({topGGLink})\n\nFreeStuff Bot poate fi găsit și pe următoarele website-uri:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Votând botul crește vizibilitatea acestuia și ajută pe alții să descopere jocuri gratuite! Îți mulțumim pentru fiecare vot!*",
+
+  // Black
+  "color_black": "Negru",
+
+  // Blue
+  "color_blue": "Albastru",
+
+  // Green
+  "color_green": "Verde",
+
+  // Mint
+  "color_mint": "Menta",
+
+  // No color
+  "color_none": "",
+
+  // Pink
+  "color_pink": "Roz",
+
+  // Red
+  "color_red": "Rosu",
+
+  // White
+  "color_white": "Alb",
+
+  // Yellow
+  "color_yellow": "Galben",
+
+  // Lev (BGN)
+  "currency_bgn": "Leva Ungariană (BGN)",
+
+  // Real (BRL)
+  "currency_brl": "Real Brazilian (BRL)",
+
+  // Bitcoin (brrrr)
+  "currency_btc": "Bitcoin (brrrr)",
+
+  // Euro (EUR)
+  "currency_euro": "Euro (EUR)",
+
+  // Pounds (GBP)
+  "currency_gbp": "Liră Sterlină (GBP)",
+
+  // Forint (HUF)
+  "currency_huf": "Forint Ungar (HUF)",
+
+  // Złoty (PLN)
+  "currency_pln": "Zlot Polonez (PLN)",
+
+  // before
+  "currency_sign_dollar_position": "before",
+
+  // before
+  "currency_sign_euro_position": "before",
+
+  // before
+  "currency_sign_position": "after",
+
+  // Dollar (USD)
+  "currency_usd": "Dolar (USD)",
+
+  // en-US
+  "date_format": "ro",
+
+  // usd
+  "default_currency": "ron",
+
+  // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
+  "donation_notice": "Acest bot te-a ajutat în a salva niște bani? Ne poți susține [donând]({url}) pentru a-l menține în viață. Mulțumim!",
+
+  // Claim All
+  "expressbutton_label": "Revendică Toate",
+
+  // {next}
+  "fluid_list_delimiter_first": "",
+
+  // {prev}, and {next}
+  "fluid_list_delimiter_last": "",
+
+  // {prev}, {next}
+  "fluid_list_delimiter_middle": "",
+
+  // {prev} and {next}
+  "fluid_list_delimiter_only": "",
+
+  // Third Party Provider
+  "game_meta_flag_thirdparty": "Furnizor terț",
+
+  // Low Quality
+  "game_meta_flag_trash": "Calitate scăzută",
+
+  // Back
+  "generic_back": "Înapoi",
+
+  // Cancel
+  "generic_cancel": "Anulează",
+
+  // Cancelled
+  "generic_cancelled": "Anulat",
+
+  // Close
+  "generic_close": "Inchide",
+
+  // Continue
+  "generic_continue": "Continuare",
+
+  // Delete
+  "generic_delete": "Șterge",
+
+  // Help
+  "generic_help": "Ajutor",
+
+  // Next
+  "generic_next": "Următorul",
+
+  // Ok
+  "generic_ok": "Ok",
+
+  // Okay
+  "generic_okay": "Okay",
+
+  // Help is on the way!
+  "help_main_1": "Ajutorul este pe drum!",
+
+  // The FreeStuff bot keeps you up to date with free games!\n\nUse /free to get a list of free games\n\nUse /settings to configure the bot and to subscribe to free games notifications
+  "help_main_2": "Bot-ul FreeStuff te ține la curent cu jocurile gratuite apărute!\n\nFolosește /free pentru a vedea o listă cu jocurile gratuite.\n\nFolosește /settings pentru a configura bot-ul și pentru a te abona la notificările cu jocuri gratuite.",
+
+  // You are not {owner}!
+  "interaction_not_owned_1": "Nu ești {owner}!",
+
+  // Thus you cannot interact with this widget because you did not create it.\nRun **{command}** to get your own widget.
+  "interaction_not_owned_2": "Nu poți interacționa cu acest widget deoarece nu este creat de tine.\nTastează **{command}** pentru a primi și tu unul.",
+
+  // Sorry but I cannot let you do this!
+  "interaction_not_permitted_1": "Scuze, dar nu te pot lăsa să faci asta!",
+
+  // Only an admin of this server can do this. You are not an admin of this server.
+  "interaction_not_permitted_2_admin": "Doar un administrator al server-ului poate foace asta. Tu nu ești unul!",
+
+  // This button is reserved for some very special people...\nOf course you are special too! Yes! *But not special enough*
+  "interaction_not_permitted_2_bot_admin": "Acest buton este rezervat unor persoane speciale...\nBineînțeles, și tu ești o persoană specială! Normal! *Dar nu suficient de specială.*",
+
+  // I also cannot tell you why. But someone somewhere doesn't want you to do this...\nDo you have many enemies?
+  "interaction_not_permitted_2_generic": "De asemenea, nu-ți pot spune de ce. Dar cineva, undeva, nu vrea să faci asta... Ai mulți dușmani?",
+
+  // I would love to let you though! All you have to do is get yourself some **Manage Messages** permissions!
+  "interaction_not_permitted_2_manage_messages": "Mi-ar plăcea să te las să treci mai departe! Dar tot ce trebuie să faci este să obții permisiunea de **Manage Messages**!",
+
+  // I was asked to prevent anyone without the **Manage Server** permission from going any further!
+  "interaction_not_permitted_2_manage_server": "Mi s-a cerut să previn pe toți care nu au permisiunea **Manage Server** să treacă mai departe.",
+
+  // Hooooold up!
+  "interaction_server_only_1": "Stai așa!",
+
+  // You cannot run this command in direct messages! Please try using it in a Discord Server.
+  "interaction_server_only_2": "Nu poți folosi această comandă in privat! Te rog, încearcă pe un server de Discord.",
+
+  // :flag_us:
+  "lang_flag_emoji": ":flag_ro:",
+
+  // English (USA)
+  "lang_name": "Romana (RO)",
+
+  // english-us
+  "lang_name_en": "romanian-ro",
+
+  // Silence
+  "mysterious_modal_no_response_1": "Silentios",
+
+  // No one answers...
+  "mysterious_modal_no_response_2": "Nimeni nu a raspuns...",
+
+  // ...
+  "mysterious_modal_no_response_3": "...",
+
+  // No response
+  "mysterious_modal_no_response_4": "Fara raspuns",
+
+  // Nobody heard you...
+  "mysterious_modal_no_response_5": "Nimeni nu te-a auzit...",
+
+  // What do you want?
+  "mysterious_modal_prompt_1": "Ce doresti?",
+
+  // What do you desire?
+  "mysterious_modal_prompt_2": "Ce iti doresti?",
+
+  // The forest is listening...
+  "mysterious_modal_prompt_3": "Padurea asculta...",
+
+  // Speak your mind...
+  "mysterious_modal_prompt_4": "Spune-ti parerea...",
+
+  // You are ready!
+  "mysterious_modal_prompt_5": "Esti pregatit!",
+
+  // Shout into the forest!
+  "mysterious_modal_title": "Striga in padure!",
+
+  // Open in browser
+  "open_in_browser": "Deschide în browser",
+
+  // Open in Epic Games Launcher
+  "open_in_epic_games_client": "Deschide în clientul Epic Games",
+
+  // Open in Steam Client
+  "open_in_steam_client": "Deschide în clientul Steam",
+
+  // About
+  "page_about": "Despre",
+
+  // Attributions
+  "page_attributions": "Atribuții",
+
+  // Help Page
+  "page_help": "Pagină de Ajutor",
+
+  // Invite the bot
+  "page_invite": "Invită bot-ul",
+
+  // Bot Settings
+  "page_settings": "Setări Bot",
+
+  // Support
+  "page_support": "Suport",
+
+  // Manage Webhooks
+  "permission_manage_webhooks": "Gestioneaza Webhook-urile",
+
+  // View Channel
+  "permission_view_channel": "Vezi Canalul",
+
+  // Apple App Store
+  "platform_apple": "",
+
+  // Discord
+  "platform_discord": "",
+
+  // Epic Games
+  "platform_epic": "",
+
+  // GOG.com
+  "platform_gog": "",
+
+  // Google Play
+  "platform_google": "",
+
+  // Humble Bundle
+  "platform_humble": "",
+
+  // itch.io
+  "platform_itch": "",
+
+  // Origin
+  "platform_origin": "",
+
+  // Other
+  "platform_other": "",
+
+  // Play Station
+  "platform_ps": "",
+
+  // Steam
+  "platform_steam": "",
+
+  // Nintendo Switch
+  "platform_switch": "",
+
+  // Twitch
+  "platform_twitch": "",
+
+  // Ubisoft Store
+  "platform_uplay": "",
+
+  // Xbox
+  "platform_xbox": "",
+
+  // About Premium
+  "premium_promo_button": "Despre Premium",
+
+  // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
+  "premium_upsell_autopublish_description": "",
+
+  // Get premium to use auto publish!
+  "premium_upsell_autopublish_title": "",
+
+  // With FreeStuff premium you can have the bot automatically react to every notification you receive!
+  "premium_upsell_autoreact_description": "",
+
+  // Get premium to use auto reactions!
+  "premium_upsell_autoreact_title": "",
+
+  // With FreeStuff premium you can upload your own image for FreeStuff to use as the profile picture. You can also change the name to whatever you like. Make it blend in to your server!
+  "premium_upsell_botprofile_description": "",
+
+  // Get premium to change bot's profile!
+  "premium_upsell_botprofile_title": "",
+
+  // If you are happy with the one role you selected, you don't need to get premium. Your changes are already saved!\nIf you do want to ping more than one role however, you can do this with premium!
+  "premium_upsell_multiping_description": "",
+
+  // Get premium to ping more than one role!
+  "premium_upsell_multiping_title": "",
+
+  // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
+  "premium_upsell_threadopts_description": "",
+
+  // Get premium to create threads!
+  "premium_upsell_threadopts_title": "",
+
+  // Actual price
+  "price_actual": "Prețul actual",
+
+  // Everything
+  "price_class_a": "Toate",
+
+  // Almost Everything
+  "price_class_b": "Aproape Toate",
+
+  // Default
+  "price_class_c": "Implicit",
+
+  // Big fish
+  "price_class_d": "Alea mari tati!",
+
+  // Converted from USD
+  "price_converted": "Convertiți din USD",
+
+  // Privacy Policy
+  "privacy_policy": "Politica de Confidenți...",
+
+  // Permanently Free
+  "product_meta_flag_permanent": "Permanent Gratuit",
+
+  // FreeStuff Recommendation
+  "product_meta_flag_staff_pick": "Recomandari FreeStuff",
+
+  // Third Party Provider
+  "product_meta_flag_thirdparty": "Alt Furnizor",
+
+  // Low Quality
+  "product_meta_flag_trash": "Calitate Slaba",
+
+  // Refresh List
+  "refresh_channel_list": "Schimbari efectuate? Reincarca lista",
+
+  // Click here to reload the channel list
+  "refresh_channel_list_description": "",
+
+  // Made changes?
+  "refresh_channel_list_title": "",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_channel_timeout": "Opreste-te! Poti reincarca lista aceasta doar o data la {interval} secunde!",
+
+  // Channel list refreshed
+  "refresh_channels_success": "",
+
+  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
+  "refresh_channels_timeout": "Esti prea rapid! Ca si masura de siguranta te putem lasa sa apesi butonul o data la {interval} secunde!\\nCu stima, John FreeStuff, fondator FreeStuff",
+
+  // Refresh List
+  "refresh_role_list": "Schimbari efectuate? Reincarca lista",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_role_timeout": "Opreste-te! Poti reincarca lista aceasta doar o data la {interval} secunde!",
+
+  // Welcome to FreeStuff!
+  "settings2_main_1_first_time": "Bine ai venit la FreeStuff!",
+
+  // FreeStuff Settings
+  "settings2_main_1_regular": "Setari FreeStuff",
+
+  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
+  "settings2_main_2_first_time": "Ne bucuram foarte mult sa te vedem!\n**Hai sa setam notificarile astfel ca tu sa nu pierzi nicio gratuitate, in regula?**\n\nFreeStuff te poate informa despre diferite tipuri de jocuri, noi le numim **abonamente**. Poti vedea toate abonamentele mai jos. Pentru a te abona la unul dintre ele sau pentru a primi mai multe informatii apasa pe buton. Este foarte simplu.\n\nIti recomandam sa arunci un ochi si pe **{recommendation}** mai intai. Iti va placea. Promit pe degetul mic.",
+
+  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
+  "settings2_main_2_first_time_v1prev": "Hey, bine ai venit! Setarile au fost schimbate putin de la ultima ta vizita. Hai sa te pun la curent foarte repede, crede-ma, chiar vrei sa auzi asta:\n\nFreeStuff are acum multiple **abonamente** la care te poti abona individual. In plus pe langa jocurile marcare cu **100% Reducere** mai avem noi categorii ca **Weekend-ul Gratuit** si multe altele ce vor fi anuntate cat de curand.\n\nApasa pe un abonament pentru a-l gestiona, ar trebui sa ti se para familiar setarile. Daca ai nevoie de ajutor, simte-te liber sa intri pe [server de ajutor]({invite}) sau sa verifici [informatii]({guide})!\n\nNe mai vedem!",
+
+  // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
+  "settings2_main_2_regular": "Bine ai venit! Gestioneaza-ti abonamentul mai jos. Apasa pe abonament pentru mai multe informatii si pentru a schimba setarile.\nAi nevoie de ajutor? Verifica [server de ajutor]({invite}) sau [informatii]({guide})!",
+
+  // Disable Auto Publish
+  "settings_auto_publish_off_prompt": "Dezactiveaza Publicarea Automata",
+
+  // Auto Publish Disabled
+  "settings_auto_publish_off_state": "Publicare Automata Dezactivata",
+
+  // Enable Auto Publish
+  "settings_auto_publish_on_prompt": "Activeaza Publicarea Automata",
+
+  // Auto Publish Enabled
+  "settings_auto_publish_on_state": "Publicare Automata Activata",
+
+  // This does not look like a url
+  "settings_botprofile_avatar_invalid_url_1": "Asta nu arată ca o adresă URL",
+
+  // Please make sure your image actually loads and the link starts with `http://` or `https://`
+  "settings_botprofile_avatar_invalid_url_2": "Vă rugăm să vă asigurați că imaginea dvs. se încarcă efectiv și că linkul începe cu `http://` sau `https://`",
+
+  // Ayo what's that
+  "settings_botprofile_avatar_url_too_long_1": "Hey, ce-i aia",
+
+  // Your url is a little... excessive... A little... long, maybe. Could you try make it shorter maybe? Thanks :D
+  "settings_botprofile_avatar_url_too_long_2": "URL-ul tău este puțin... excesiv... Puțin... lung, poate. Ai putea încerca să-l faci mai scurt, poate? Mulțumesc :D",
+
+  // Edit Avatar
+  "settings_botprofile_btn_edit_avatar": "Editează Avatar",
+
+  // Edit Name
+  "settings_botprofile_btn_edit_name": "Editează Nume",
+
+  // Uhhh, very sorry uhhh
+  "settings_botprofile_name_too_long_1": "Uhhh, îmi pare foarte rău uhhh",
+
+  // But your name can only be 32 characters long. Directive from above, nothing I can do about that, sorry.
+  "settings_botprofile_name_too_long_2": "Dar numele tău poate avea doar 32 de caractere. Directivă de sus, nu pot face nimic în privința asta, îmi pare rău.",
+
+  // Avatar and Name
+  "settings_botprofile_ui_1": "Avatar și Nume",
+
+  // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.\n\n**Edit Avatar** will allow you to change the bot's profile picture. You will need to provide a link to your desired image. Leave empty to reset to default.\n\n**Edit Name** will allow you to change the bot's name. Leave empty to reset to default.
+  "settings_botprofile_ui_2": "Personalizați numele și fotografia de profil a botului atunci când trimiteți notificări. Din cauza limitărilor Discord acest profil personalizat se aplică doar notificărilor de jocuri gratuite, nu și atunci când se utilizează comenzi precum `/settings` sau `/free`.\n\n**Editează Avatar** îți va permite să schimbi poza de profil a botului. Va trebui să furnizați un link către imaginea dorită. Lăsați gol pentru a reseta la implicit.\n\n**Editați numele** vă va permite să schimbați numele botului. Lăsați gol pentru a reseta la implicit.",
+
+  // Uhhhh what are you doing?
+  "settings_change_any_while_unsubscribed_1": "Uhhh, ce incerci sa faci?",
+
+  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
+  "settings_change_any_while_unsubscribed_2": "Incerci sa pacalesti sistemul? Nu poti schimba aceasta setare cat timp nu esti abonat la {channel}. Mai intai aboneaza-te, apoi te poti intoarce.",
+
+  // Edit Avatar and Name
+  "settings_change_bot_profile": "Editează Avatar și Nume",
+
+  // You have too many webhooks in {channel}! Please open the channel settings, go to integrations, delete some unused webhooks, and come back. This limitation is enforced by Discord, we cannot do anything about this unfortunately.
+  "settings_channel_error_too_many_webhooks": "Ai prea multe webhook-uri pe {channel}! Te rog sa deschizi setarile canalului, mergi la integrari, inlatura cateva webhook-uri nefolositoare si revino inapoi. Aceasta limitare este de la Discord, noi nu putem face nimic in privinta asta.",
+
+  // here
+  "settings_channel_list_here": "aici",
+
+  // No channel
+  "settings_channel_list_no_channel_1": "Niciun canal",
+
+  // Disable free games feed
+  "settings_channel_list_no_channel_2": "Dezactivează fluxul de jocuri gratuite",
+
+  // You have too many channels to show them all in the list below.
+  "settings_channel_list_too_many": "Ai prea multe canale si nu pot fi afisate in lista de mai jos.",
+
+  // Missing \"Embed Messages\" Permission
+  "settings_channel_list_warning_missing_embed_messages": "Lipsește permisiunea \"Embed Messages\"",
+
+  // Missing \"Manage Webhooks\" Permission
+  "settings_channel_list_warning_missing_manage_webhooks": "Lipseste permisiunea \"Manage Webhooks\"",
+
+  // Missing \"Send Messages\" Permission
+  "settings_channel_list_warning_missing_send_messages": "Lipsește permisiunea \"Send Messages\"",
+
+  // Missing \"View Channel\" Permission
+  "settings_channel_list_warning_missing_view_channel": "Lipsește permisiunea \"View Channel\"",
+
+  // You have waaaaay too many channels to show them all in the list below. How do you even find anything in here?
+  "settings_channel_list_way_too_many": "Avem preaaa multe canale de afisat in lista de mai jos. Cum de mai gasesti ceva pe aici?",
+
+  // Change The Channel
+  "settings_channel_ui_1": "Schimbă Canalul",
+
+  // Below you'll find a list of all of your channels. Please pick one for me to send free games to!
+  "settings_channel_ui_2_regular": "Mai jos vei găsi o listă cu toate canalele. Te rog să alegi unul unde să trimit jocurile gratuite.",
+
+  // Below you'll find a list of most of your channels. You had so many I couldn't show them all at once. Please pick one for me to send free games to!
+  "settings_channel_ui_2_too_many": "Mai jos vei găsi o listă cu majoritatea canalelor de pe server. Ai atât de multe încât nu le-am putut afișa pe toate deodată. Te rog să alegi unul unde să trimit jocurile gratuite!",
+
+  // Below you'll find a list of a few of your channels. You have an enormous amount of channels in this server, you know this? So many in fact I could only show you a small selection of them. Please pick one for me to send free games to!
+  "settings_channel_ui_2_way_too_many": "Mai jos vei găsi o listă cu câteva dintre canalele dvs. Ai o cantitate enormă de canale pe acest server, știi asta? Atât de multe, de fapt, am putut să îți arăt doar o mică selecție dintre ele. Te rog să alegi unul pe care să trimit jocurile gratuite!",
+
+  // Can't change channel to {channel}: Missing \"{permissions}\" permissions!
+  "settings_channel_ui_missing_permissions": "Nu pot modifica canalul in {channel}: Lipsesc permisiunile \"{permissions}\"!",
+
+  // If you cannot find your desired channel, run /settings in that very channel to force it to show up.
+  "settings_channel_ui_too_many_channels_tip": "Canalul dorit nu apare? Folosește această comandă în canalul pe care-l dorești pentru a-l vedea în listă!",
+
+  // Unknown channel
+  "settings_channel_unknown_channel": "Canal necunoscut",
+
+  // Other Settings
+  "settings_conf_ui_1": "Setari Generale",
+
+  // **Select Language** will change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.\n\n**Select Currency** will change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
+  "settings_conf_ui_2": "**Selecteaza Limba** va schimba limba notificarilor. Asta **nu** va schimba limba comenzilor ca /settings sau /free. Aceastea folosesc aceeasi limba pe care o folosesti pe Discord. Traducerile provin din comunitate si pot contine erori gramaticale.\n\n**Selecteaza Moneda** va schimba valuta in notificari. Anumite preturi vor fi schimbate din alte valute sau website-uri si acestea nu pot fi cu o acuratete de 100%.",
+
+  // Disable Claim-All Button
+  "settings_display_expressbutton_off_prompt": "Dezactivează butonul Revendică Toate",
+
+  // Claim-All Button Disabled
+  "settings_display_expressbutton_off_state": "Buton Revendică Toate dezactivat",
+
+  // Enable Claim-All Button
+  "settings_display_expressbutton_on_prompt": "Activează butonul Revendică Toate",
+
+  // Claim-All Button Enabled
+  "settings_display_expressbutton_on_state": "Butonul Revendică Toate este activ",
+
+  // Disable Auto Reaction
+  "settings_display_reactions_off_prompt": "Dezactiveaza Reacție Auto",
+
+  // Auto Reaction Disabled
+  "settings_display_reactions_off_state": "Reacție Auto Dezactivată",
+
+  // Enable Auto Reaction
+  "settings_display_reactions_on_prompt": "Activează Reacție Auto",
+
+  // Auto Reaction Enabled
+  "settings_display_reactions_on_state": "Reacție Auto Activă",
+
+  // Display Settings
+  "settings_display_ui_1": "Setări Afișare",
+
+  // Change the appearance of the bot's messages
+  "settings_display_ui_2": "Schimbă aspectul mesajelor botului",
+
+  // Show Bundles
+  "settings_filter_kinds_bundle_1": "",
+
+  // Collections of games, DLCs or other items
+  "settings_filter_kinds_bundle_2": "",
+
+  // Show DLCs
+  "settings_filter_kinds_dlc_1": "",
+
+  // Addons and other game extensions
+  "settings_filter_kinds_dlc_2": "",
+
+  // None selected
+  "settings_filter_kinds_none": "",
+
+  // Show other content
+  "settings_filter_kinds_other_1": "",
+
+  // Stuff that does not fit into the other categories
+  "settings_filter_kinds_other_2": "",
+
+  // Show Store Items
+  "settings_filter_kinds_storeitem_1": "",
+
+  // Things like steam point shop items
+  "settings_filter_kinds_storeitem_2": "",
+
+  // (All disabled)
+  "settings_filter_platforms_none": "(Toate dezactivate)",
+
+  // Send all games. Every. Single. One.
+  "settings_filter_price_class_desc_everything": "Trimite toate jocurile. Fiecare. Singur. Unu.",
+
+  // Only send games worth {price} or more
+  "settings_filter_price_class_desc_generic": "Doar jocuri in valoare de {price} sau mai mult",
+
+  // Disable Games
+  "settings_filter_show_passgames_off_prompt": "Dezactiveaza Games",
+
+  // Games Disabled
+  "settings_filter_show_passgames_off_state": "Games Dezactivat",
+
+  // Enable Games
+  "settings_filter_show_passgames_on_prompt": "Activeaza Games",
+
+  // Games Enabled
+  "settings_filter_show_passgames_on_state": "Games Activat",
+
+  // Disable Loot
+  "settings_filter_show_passloot_off_prompt": "Dezactiveaza Loot",
+
+  // Loot Disabled
+  "settings_filter_show_passloot_off_state": "Loot Dezactivat",
+
+  // Enable Loot
+  "settings_filter_show_passloot_on_prompt": "Activeaza Loot",
+
+  // Loot Enabled
+  "settings_filter_show_passloot_on_state": "Loot Activat",
+
+  // Disable Bad Quality Games
+  "settings_filter_trash_off_prompt": "Fără Jocuri Nasoale",
+
+  // Bad Quality Games Disabled
+  "settings_filter_trash_off_state": "Fără Jocuri Nasoale",
+
+  // Enable Bad Quality Games
+  "settings_filter_trash_on_prompt": "Activează Jocurile Nașpa",
+
+  // Bad Quality Games Enabled
+  "settings_filter_trash_on_state": "Cu Jocuri Nasoale",
+
+  // Filter Settings
+  "settings_filter_ui_1": "Setări Filtrare",
+
+  // There are a lot of free games out there, some more interesting than others. In order to not flood your precious Discord server with spam we have some options for you to decide which games you like to see:
+  "settings_filter_ui_2": "Există o mulțime de jocuri gratuite, unele mai interesante decât altele. Pentru a nu inunda prețiosul tău server de Discord cu ele, avem câteva opțiuni pentru a decide ce jocuri îți place să vezi:",
+
+  // Something failed while exporting your data, we are very sorry. You can reach out to us and manually request a copy of your data via team@freestuffbot.xyz - Please include your server id in the E-Mail. Thanks.
+  "settings_guilddata_data_failed": "Ceva nu a reușit în timp ce se exportau datele dvs, ne pare foarte rău. Ne puteți contacta și solicita manual o copie a datelor dvs. prin team@freestuffbot.xyz - Vă rugăm să includeți id-ul serverului dvs. în e-mail. Mulțumesc.",
+
+  // Please click the Download button below to download your data. The button will only work one time, run the command again to download again. Do not share the link with anyone!
+  "settings_guilddata_data_ready": "Vă rugăm să faceți clic pe butonul de descărcare de mai jos pentru a vă descărca datele. Butonul va funcționa o singură dată, rulați din nou comanda pentru a descărca din nou. Nu distribui link-ul cu nimeni!",
+
+  // Delete Server Data
+  "settings_guilddata_delete_button": "Șterge Datele Server-ului",
+
+  // Are you sure?
+  "settings_guilddata_delete_dialogue_confirmation_1": "Ești sigur?",
+
+  // Once you click the button below there is no going back!
+  "settings_guilddata_delete_dialogue_confirmation_2": "O dată apăsat butonul de mai jos, nu există întoarcere.",
+
+  // Slow down!
+  "settings_guilddata_delete_dialogue_cooldown_1": "Mai ușor!",
+
+  // Looks like someone already deleted this server's data in the past 12h. Please try again later!
+  "settings_guilddata_delete_dialogue_cooldown_2": "Se pare că cineva a sters deja datele acestui server în ultimele 12 ore. Te rog să încerci din nou mai târziu!",
+
+  // Only an admin can do this
+  "settings_guilddata_delete_dialogue_not_allowed_1": "Doar un admin poate face asta",
+
+  // Please ask a server admin if you really really wanna do this.
+  "settings_guilddata_delete_dialogue_not_allowed_2": "Te rog să întrebi un admin al server-ului dacă chiar vrei să faci asta.",
+
+  // Success!
+  "settings_guilddata_delete_success_1": "Succes!",
+
+  // Your server's data has been deleted and reset to default settings!
+  "settings_guilddata_delete_success_2": "Datele acestui server au fost șterse iar setările resetate!",
+
+  // Uh... that's a bit embarrassing now... There was an error exporting your data. Please [contact our team]({invite}) to get your data.
+  "settings_guilddata_display_error": "Uh... e puțin jenant acum... A apărut o eroare la exportarea datelor acestui server. Te rugăm sa [contactezi echipa noastră]({invite}) pentru a obține datele server-ului.",
+
+  // Download Data
+  "settings_guilddata_download": "Descarcă Datele",
+
+  // Okie dokie, data's coming in hot:
+  "settings_guilddata_success_1": "Okie dokie, datele vin imediat:",
+
+  // English with the metric system
+  "settings_language_list_desc_english_eu": "Engleză cu sistemul metric",
+
+  // English with the imperial system
+  "settings_language_list_desc_english_us": "Engleză cu sistemul imperial",
+
+  // English with football fields per pizza slice
+  "settings_language_list_desc_english_us_easteregg": "Engleză cu terenuri de fotbal pe felie de pizza",
+
+  // {language} by {translators}
+  "settings_language_list_desc_generic": "{language} de către {translators}",
+
+  // Language Selection
+  "settings_language_ui_1": "Selecția Limbii",
+
+  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
+  "settings_language_ui_2": "Această setare a limbii se aplică pe întreg serverul, nu ție personal!\n\nPentru a ți se aplica doar ție, apasă [aici](https://www.youtube.com/watch?v=dQw4w9WgXcQ).",
+
+  // Oh no!
+  "settings_locked_premium_1": "Oh nu!",
+
+  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
+  "settings_locked_premium_2": "**Aceasta este o functie FreeStuff Premium.**\nApasa pe butonul de jos pentru mai multe informatii:",
+
+  // Change channel
+  "settings_main_btn_channel_change": "Schimbă canalul",
+
+  // Set channel
+  "settings_main_btn_channel_set": "Setează canalul",
+
+  // Display Settings
+  "settings_main_btn_display": "Setări Afișare",
+
+  // Filter Settings
+  "settings_main_btn_filter": "Setări Filtru",
+
+  // Other Settings
+  "settings_main_btn_general": "Setari Generale",
+
+  // Need help?
+  "settings_main_btn_help": "",
+
+  // Advanced
+  "settings_main_btn_more": "Mai mult",
+
+  // Notification Settings
+  "settings_main_btn_notifications": "Setari de Notificari",
+
+  // Change role mention
+  "settings_main_btn_role_change": "Schimbă rolul menționat",
+
+  // Mention a role
+  "settings_main_btn_role_set": "Menționeză un rol",
+
+  // Need help?
+  "settings_main_help_1": "",
+
+  // Read the guide
+  "settings_main_help_solution_guide_1": "",
+
+  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
+  "settings_main_help_solution_guide_2": "",
+
+  // Join our support server
+  "settings_main_help_solution_server_1": "",
+
+  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
+  "settings_main_help_solution_server_2": "",
+
+  // Tl;dr
+  "settings_main_help_solution_tldr_1": "",
+
+  // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
+  "settings_main_help_solution_tldr_2": "",
+
+  // Settings
+  "settings_main_ui_1": "Setări",
+
+  // Looks like you still didn't finish setting up the bot :eyes:\n\nWhy don't you start by picking a channel for me to send free games to?
+  "settings_main_ui_2_guided_channel_delayed": "Se pare că încă nu ai terminat de configurat botul :eyes:\nDe ce nu începi alegând un canal unde vor fi trimise anunțurile legate de jocurile gratuite care apar?",
+
+  // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel I can use to keep you and your friends up to date with free games! Click the blue button below to continue:
+  "settings_main_ui_2_guided_channel_normal": "Bine ai venit, eu sunt Free Stuff :wave:\n\nMă bucur că ai găsit drumul către pagina de setări! Să începem prin a alege un canal pe care sa-l pot folosi pentru a te ține pe tine și pe prietenii tăi la curent cu jocurile gratis! Apasă pe butonul albastru de mai jos pentru a continua:",
+
+  // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
+  "settings_main_ui_2_guided_display_delayed": "Mai ai câteva setări de verificat! Mă refer la teme, opțiuni valutare si altele. Interesat? Butonul albastru te va duce acolo!",
+
+  // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
+  "settings_main_ui_2_guided_display_normal": "Perfect! Ultimul punct din listă sunt setările de afișare. Merită enorm să arunci o privire rapidă peste ele.",
+
+  // Welcome back! You might be missing out on some free games because the filter options are not configured to your likings! Better check them out real quick, it doesn't take long :eyes:
+  "settings_main_ui_2_guided_filter_delayed": "Bine ai revenit! S-ar putea să pierzi câteva jocuri gratuite, deoarece opțiunile de filtrare nu sunt configurate dupa preferințele tale! Mai bine verifică-le foarte repede, nu durează mult :eyes:",
+
+  // Okay awesome, let's continue with filter settings. You might be missing out on some games if you don't check those out!
+  "settings_main_ui_2_guided_filter_normal": "Ok, minunat, să continuăm cu setările de filtrare. S-ar putea sa pierzi unele jocuri dacă nu le verifici!",
+
+  // Awesome, you're done with setting up the FreeStuff Bot! Enjoy your free games! :partying_face:\n\nLooking for other people to talk about free games? [Join our Discord Server]({invite})\n\n*You can always return to this page using /settings*
+  "settings_main_ui_2_guided_finished": "Minunat, ai terminat de configurat bot-ul FreeStuff! Bucură-te de jocuri gratuite! :partying_face:\n\nCauți alte persoane care să discute despre aceste jocuri gratuite? [Alătură-te server-ului nostru de Discord]({invite})\n\n*Poți reveni oricând la această pagină folosind /settings*",
+
+  // Wanna continue setting up the bot?\nI'd suggest you check out role mentions next! Just click the button below to see what's possible!
+  "settings_main_ui_2_guided_role_delayed": "Dorești să continui cu configurarea botului?\nÎți sugerez să consulți în continuare mențiunile de rol! Doar apasă pe butonul de mai jos pentru a vedea toate posibilitățile.",
+
+  // Good job! Next up, maybe wanna get notified when a game becomes free? I'm talking about pinging a role or maybe even @everyone?\nClick the button below to see what's possible :eyes:
+  "settings_main_ui_2_guided_role_normal": "Bună treabă! Mai departe, dorești să primești o notificare când un joc devine gratis? Vorbesc despre menționarea unui rol sau poate chiar a tuturor membrilor?\nApasă pe butonul de mai jos pentru a vedea toate posibilitățile :eyes:",
+
+  // Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.
+  "settings_main_ui_2_regular": "Salutare!\n\nPari pierdut, nu găsești o setare? Ai nevoie de ajutor pentru configurarea corecta a botului? Sau ai alte întrebări? [Apasă aici pentru un ghid]({guide}) care te va ghida prin toate setările sau, [alătură-te serverului nostru de asistență]({invite}) pentru ajutor personal.",
+
+  // Opt out of Beta
+  "settings_more_beta_off_prompt": "Renunță la Beta",
+
+  // You're not in beta!
+  "settings_more_beta_off_state": "Nu ești în beta!",
+
+  // Opt in to Beta
+  "settings_more_beta_on_prompt": "Optează pentru Beta",
+
+  // You're in beta!
+  "settings_more_beta_on_state": "Ești în beta!",
+
+  // Disable Boring Mode
+  "settings_more_boringmode_off_prompt": "",
+
+  // Boring Mode is off
+  "settings_more_boringmode_off_state": "",
+
+  // Enable Boring Mode
+  "settings_more_boringmode_on_prompt": "",
+
+  // Boring Mode is on
+  "settings_more_boringmode_on_state": "",
+
+  // View Server Data
+  "settings_more_btn_guilddata": "Vezi datele serverului",
+
+  // Re-send Messages
+  "settings_more_btn_resend": "Retrimite mesaje",
+
+  // Send Test Message
+  "settings_more_btn_test": "Trimite un mesaj de test",
+
+  // Mysterious Button
+  "settings_more_mysterious_button": "Buton Misterios",
+
+  // Advanced Options
+  "settings_more_ui_1": "Mai mult",
+
+  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
+  "settings_more_ui_2": "**Trimite un mesaj de test** trimite un mesaj de test cu toate opțiunile pe care le-ai configurat. Folosește-l pentru a te asigura 100% că totul funcționează cum ți-ai plănuit. Fi conștient că poate menționa toți membrii server-ului, daca este configurat să facă asta.\n\n**Retrimite mesaje** va retrimite știri cu jocurile care sunt încă gratuite. Dacă ai șters un mesaj accidental, ai modificat niște setări sau dacă vrei doar același anunț de două ori, folosește acest buton.\n\n**Vezi datele server-ului** va afișa ce date stocăm despre acest server.\n\n**Înscrie-te pentru Beta** îți va permite să primești actualizări și funcții noi mai devreme. Reține că acest lucru ar putea include, de asemenea, caracteristici și actualizări instabile sau de experiment. De asemenea, s-ar putea să ți se ceara ocazional un feedback dacă ești înscris.",
+
+  // You need \"Manage Server\" permissions to edit this
+  "settings_permission_disclaimer": "Ai nevoie de permisiunea \"Manage Server\" pentru a edita asta",
+
+  // Add Role
+  "settings_role_add_role": "Adauga Rol",
+
+  // @everyone
+  "settings_role_list_everyone_1": "@everyone",
+
+  // Ping everyone. That's a lot of people.
+  "settings_role_list_everyone_2": "Voi menționa pe toată lumea.",
+
+  // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
+  "settings_role_list_hidden_overflow_disclaimer": "Unele roluri ar putea fi ascunse, deoarece ai prea multe de afișat simultan. Mută-ți rolul în partea de sus dacă nu-l găsești în listă!",
+
+  // Some roles might be hidden because the bot doesn't have the `Mention All Roles` permission!
+  "settings_role_list_hidden_permissions_disclaimer": "Unele roluri pot fi ascunse deoarece botul nu are permisiunea `Mention All Roles`!",
+
+  // Disable Mentions
+  "settings_role_list_no_mention_1": "Dezactivează mențiunile",
+
+  // Do not ping anyone.
+  "settings_role_list_no_mention_2": "Nu voi menționa pe nimeni.",
+
+  // None selected
+  "settings_role_list_remove_role_1": "Nimic selectat",
+
+  // Click here to remove this role
+  "settings_role_list_remove_role_2": "Apasa aici pentru a inlatura acest rol",
+
+  // Notification Settings
+  "settings_role_ui_1": "Setări Notificări",
+
+  // Pick a role to ping when a new game becomes free!
+  "settings_role_ui_2": "Alege un rol pe care dorești să-l menționez atunci când un joc nou devine gratuit!",
+
+  // More
+  "settings_sub_btn_more": "Mai multe",
+
+  // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
+  "settings_subscription_locked_premium": "{subscription} este un abonament premium. Daca doresti sa primesti noutati despre aceasta categorie [apasa aici pentru mai multe informatii]({website})",
+
+  // More
+  "settings_subscription_more_ui_1": "Avansat",
+
+  // **Send Test Message** sends a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.\n\n**Re-send Messages** will re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This button is for you!
+  "settings_subscription_more_ui_2": "**Trimite Mesaj de Test** trimite un mesaj text cu toate setarile pe care le-ai configurat. Foloseste aceasta functie pentru a te asigura 100% ca totul merge cum ar trebui. Fi constient ca s-ar putea sa dai ping membrilor, daca asta este setat sa faca.\n\n**Retrimite Mesajele** va retrimite un mesaj pentru toate ofertele in categoria care este valida. Ai sters un mesaj accidental? Ai schimbat niste setari? Sau vrei sa primesti iar notificarile? Acest buton este pentru tine!",
+
+  // Click here to subscribe
+  "settings_subscription_not_subscribed_1": "Apasa aici pentru abonare",
+
+  // Pick a channel below to subscribe to {subscription}
+  "settings_subscription_not_subscribed_2": "Alege un canal de mai jos pentru a te abona la {subscription}",
+
+  // Your Premium subscription expired. We have paused your notifications for {subscription} until you resubscribe.
+  "settings_subscription_premium_expired": "Abonamentul tau Premium a expirat. Am suspendat notificarile pentru {subscription} pana cand te reabonezi.",
+
+  // {subscription} is a premium subscription. You can subscribe.
+  "settings_subscription_unlocked_premium": "{subscription} este un abonament premium. Te poti abona.",
+
+  // Unsubscribe {subscription}
+  "settings_subscription_unsubscribe_1": "Dezaboneaza-te {subscription}",
+
+  // You will stop receiving games from this category.
+  "settings_subscription_unsubscribe_2": "Nu ve mai primi jocuri din aceasta categorie.",
+
+  // Slash commands are here!
+  "slash_command_introduction_info_short": "Comenzile slash sunt mai interesante!",
+
+  // Slash commands are here! Use **{command}** from now on!
+  "slash_command_introduction_label_long": "Comenzile slash sunt mai interesante! Folosește **{command}** de acum înainte!",
+
+  // Use **{command}** from now on!
+  "slash_command_introduction_label_short": "Folosește **{command}** de acum înainte!",
+
+  // {user} used {command}
+  "slash_command_source": "{user} a folosit {command}",
+
+  // This subscription will show you all games newly added to the Game Pass suite of titles. These games require a Game Pass subscription to play for free while the offer lasts.\nYou can filter by price and quality.
+  "subscription_gamepass_description": "Acest abonament iti va arata toate jocurile noi adaugate la suita Game Pass. Aceste jocuri necesita un abonament Game Pass pentru a te juca cat timp oferta e valabila.\nPoti crea un filtru de pret si calitate.",
+
+  // Game Pass
+  "subscription_gamepass_name": "Game Pass",
+
+  // This subscription will show you games that have a 100% discount for a limited amount of time. You can keep those games after the sale is over.\nYou can filter by price, platform and quality.
+  "subscription_keep_description": "Acest abonament iti va arata toate jocurile care sunt cu 100% reducere pentru un anumit timp. Poti pastra aceste jocuri dupa depasirea timpului.\nPoti crea un filtru de pret, platforma si calitate.",
+
+  // 100% Discount
+  "subscription_keep_name": "100% Reducere",
+
+  // This subscription will show you all sorts of other offers that are available at a 100% discount for a limited amount of time. This does usually not include games but may include other software such as DLCs or non-gaming related items.\nYou can filter by price, platform and product type.
+  "subscription_other_description": "Acest abonament iti va arata toate tipurile de alte ofertte care sunt cu reducere 100% pentru un anumit timp. De obicei aici nu sunt incluse jocuri dar pot fi incluse alte programe software ca si DLC-uri sau programe care nu au legatura cu jocurile.\nPoti crea un filtru de pret, platforma si tip de produs.",
+
+  // DLCs & More
+  "subscription_other_name": "DLC-uri & Altele",
+
+  // This subscription will show you all games newly added to the Prime Gaming suite of titles. You require a Prime Gaming subscription to obtain games from this category. You can keep them after the offer expired.\nYou can filter by price and quality.
+  "subscription_prime_description": "Acest abonament iti va arata toate jocurile noi adaugate la suita Prime Gaming. Aceste jocuri necesita un abonament Prime Gaming pentru a le obtine. Dupa expirarea ofertei, ele iti vor ramane.\nPoti crea un filtru de pret si calitate.",
+
+  // Prime Gaming
+  "subscription_prime_name": "Prime Gaming",
+
+  // Prime Gaming: Games
+  "subscription_primegames_name": "Prime Gaming: Jocuri",
+
+  // Prime Gaming: Loot
+  "subscription_primeloot_name": "Prime Gaming: Loot",
+
+  // This subscription will show you games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
+  "subscription_timed_description": "Acest abonament iti va arata toate jocurile gratuite ce pot fi jucate pentru un anumit timp. Acest tip de jocuri nu pot fi pastrate si necesita cumpararea acestora dupa expirarea timpului.\nPoti crea un filtru de pret, platforma si calitate.",
+
+  // Free Weekend
+  "subscription_timed_name": "Weekend-ul Gratuit",
+
+  // Terms of Service
+  "terms_of_service": "Termenii Serviciului",
+
+  // You cannot get less than this
+  "theme_eight_desc": "Nu poți obține mai puțin de atât",
+
+  // Bare minimum
+  "theme_eight_name": "Strictul necesar",
+
+  // A theme with minimal extra info
+  "theme_five_desc": "O temă cu minimul de extra informații",
+
+  // Keep it simple
+  "theme_five_name": "Nu te complica",
+
+  // Only weird people chose this
+  "theme_four_desc": "Doar ciudații aleg asta",
+
+  // More info less images!
+  "theme_four_name": "Mult info, puține imagini!",
+
+  // If you need some context but don't like embeds
+  "theme_nine_desc": "Dacă ai nevoie context dar nu-ți plac embed-urile",
+
+  // Text only!
+  "theme_nine_name": "Doar text!",
+
+  // Pretty basic
+  "theme_one_desc": "Destul de simplu",
+
+  // Default Theme
+  "theme_one_name": "Tema implicită",
+
+  // It's literally just the link
+  "theme_seven_desc": "Este literalmente doar link-ul",
+
+  // Literally just the link
+  "theme_seven_name": "Literalmente doar link-ul",
+
+  // A theme with almost minimal extra info
+  "theme_six_desc": "O temă cu aproape minimul de extra informații",
+
+  // Images are cool!
+  "theme_six_name": "Imaginile sunt super!",
+
+  // For ArchiSteamFarm users and alike
+  "theme_ten_desc": "Pentru utilizatorii ArchiSteamFarm și altele",
+
+  // Advanced
+  "theme_ten_name": "Avansat",
+
+  // With a short description and ratings
+  "theme_three_desc": "Cu o scurtă descriere și recenzii",
+
+  // More info!
+  "theme_three_name": "Multe informații!",
+
+  // If you don't like images
+  "theme_two_desc": "Dacă nu-ți plac imaginile",
+
+  // No photos please!
+  "theme_two_name": "Fără imagini, te rog!",
+
+  // We send a message in your channel. That's all.
+  "thread_opt_a_description": "Vom trimite un mesaj in canalul tau. Asta e tot.",
+
+  // No threads
+  "thread_opt_a_name": "Fara thread-uri",
+
+  // Message goes in your channel but we start a thread for it.
+  "thread_opt_b_description": "Mesajul merge pe canalul tau dar vom crea un thread pentru acesta.",
+
+  // Thread below
+  "thread_opt_b_name": "Thread mai jos",
+
+  // We create a new thread and post the message there.
+  "thread_opt_c_description": "Vom crea un nou thread si vom posta mesajul acolo.",
+
+  // Message in thread
+  "thread_opt_c_name": "Mesaj in thread",
+
+  // English translation available! If you want me to use English, use`/settings`
+  "translation_available": "Traducere în limba română disponibilă! Dacă dorești să folosesc limba Rom\nână, tastează @FreeStuff set language română",
+
+  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
+  "translation_available_generic": "",
+
+  // English translation by:
+  "translation_by": "Traducere în limba română de:",
+
+  // Maanex
+  "translators": "GroWy",
+
+  // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
+  "webhook_create_auditlog_reason": "FreeStuff foloseste Webhook-uri pentru a distribui anunturi la scara larga. Te rog sa nu inlaturi acest webhook.",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_missing_permissions_1": "Oopsie daisy!",
+
+  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
+  "webhook_migration_failed_missing_permissions_2": "Se pare ca-mi lipseste permisiunea \"Manage Webhooks\". Te rog sa mi-o acorzi si apoi incearca din nou!",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_too_many_hooks_1": "Oopsie daisy!",
+
+  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
+  "webhook_migration_failed_too_many_hooks_2": "Se pare ca ai deja cateva Webhook-uri pentru acest canal. Din pacate este o limita de 10 webhook-uri per canal, deci.. inlatura cateva dintre ele ca FreeStuff sa creeze unul nou.",
+
+  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
+  "webhook_migration_notice": "FreeStuff are nevoie **Manage Webhooks** pe acest canal. Te rog sa-mi acorzi aceasta permisie sau foloseste **/settings** pentru mai multe informatii. Altfel, botul va inceta curand sa trimita anunturi."
+}
