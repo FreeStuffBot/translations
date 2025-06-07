@@ -32,12 +32,17 @@ const compareJson = async (oldJson, newJson, file) => {
 
 const run = async () => {
   const files = getChangedJsonFiles()
+  console.log(`Changded JSON files: ${files.join(', ')}`)
   let markdown = '| File | Old Value | New Value | Translated (EN) |\n|------|-----------|-----------|-----------------|\n'
 
   for (const file of files) {
+    console.log(`Processing file: ${file}`)
     const oldJson = JSON.parse(execSync(`git show origin/main:${file}`).toString())
+    console.log(`Old JSON loaded from origin/main for ${file}`)
     const newJson = getFileContent(file)
+    console.log(`New JSON loaded from ${file}`)
     const changes = await compareJson(oldJson, newJson, file)
+    console.log(`Changes found in ${file}:`, changes.length)
     for (const change of changes) {
       markdown += `| ${file} | ${change.oldVal} | ${change.newVal} | ${change.translated} |\n`
     }
