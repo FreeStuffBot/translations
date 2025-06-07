@@ -27,7 +27,7 @@ const compareJson = async (oldJson, newJson, file) => {
     if (oldVal !== newVal) {
       if (typeof newVal !== 'string') throw new Error(`Non-string value changed in ${file}`)
       const translated = (await translate(newVal, { to: 'en' })).text
-      changes.push({ oldVal, newVal, translated })
+      changes.push({ key, oldVal, newVal, translated })
     }
   }
 
@@ -37,7 +37,7 @@ const compareJson = async (oldJson, newJson, file) => {
 const run = async () => {
   const files = getChangedJsonFiles()
   console.log(`Changded JSON files: ${files.join(', ')}`)
-  let markdown = '| File | Old Value | New Value | Translated (EN) |\n|------|-----------|-----------|-----------------|\n'
+  let markdown = ''
 
   for (const file of files) {
     console.log(`Processing file: ${file}`)
@@ -46,9 +46,16 @@ const run = async () => {
     const newJson = getFileContent(file)
     console.log(`New JSON loaded from ${file}`)
     const changes = await compareJson(oldJson, newJson, file)
+    if (changes.length === 0) {
+      console.log(`No changes found in ${file}`)
+      continue
+    }
+
     console.log(`Changes found in ${file}:`, changes.length)
+    markdown += `## ${file}\n\n`
+    markdown += '| Key | Old Value | New Value | Translated (EN) |\n|------|-----------|-----------|-----------------|\n'
     for (const change of changes) {
-      markdown += `| ${file} | ${change.oldVal} | ${change.newVal} | ${change.translated} |\n`
+      markdown += `| ${change.key} | ${change.oldVal} | ${change.newVal} | ${change.translated} |\n`
     }
   }
 
