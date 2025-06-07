@@ -1,6 +1,6 @@
-const fs = import('fs')
-const { execSync } = import('child_process')
-const translate = import('@vitalets/google-translate-api')
+const fs = require('fs')
+const { execSync } = require('child_process')
+const translate = require('@vitalets/google-translate-api')
 
 const getChangedJsonFiles = () => {
   const diffOutput = execSync('git diff --name-only origin/master...HEAD').toString()
