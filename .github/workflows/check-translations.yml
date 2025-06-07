@@ -2,7 +2,10 @@ name: Check Translation Merge Requests
 
 on:
   pull_request:
-    branches: [master]
+    types:
+      - opened
+    branches:
+      - master
 
 jobs:
   check-json:
