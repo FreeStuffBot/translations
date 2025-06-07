@@ -47,8 +47,8 @@ Read through the "How if you don't know git" above but use your usual git workfl
 ## Guidelines
 
 Things to note:
-- Some lines have {text} like this in curly brackets. Those are placeholders or templates and will be replaced with something else by the bot. DO NOT translate those. If a line has {channel} for example, the bot will replace it with #your-channel then. Keep it as {channel} and not as {канал}. Thank you!
-- Some lines have [text like this]({owo}) - those are links. Keep brackets as they are. The text in [those brackets] is the text the user sees. The text in (those brackets) is the link where it goes. You will probably only ever see a template here so don't be scared by the many brackets. Just keep them as is and only translate the text in [those brackets].
+- Some lines have `{text}` like this in curly brackets. Those are placeholders or templates and will be replaced with something else by the bot. DO NOT translate those. If a line has `{channel}` for example, the bot will replace it with `#your-channel` then. Keep it as `{channel}` and not as `{канал}`. Thank you!
+- Some lines have `[text like this]({owo})` - those are links. Keep brackets as they are. The text in `[those brackets]` is the text the user sees. The text in `(those brackets)` is the link where it goes. You will probably only ever see a template here so don't be scared by the many brackets. Just keep them as is and only translate the text in `[those brackets]`.
 - Some lines have `\n` - those are new lines. Enter key type stuff. We know this isn't perfect but it is what it is.
 - Some lines have `\"` - those are normal `"` quotes. You need to prefix them with a backslash or else the thing will break lol. Json.
 
