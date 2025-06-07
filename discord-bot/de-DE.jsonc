@@ -288,16 +288,16 @@
   "color_mint": "",
 
   // No color
-  "color_none": "",
+  "color_none": "Ohne Farbe",
 
   // Pink
   "color_pink": "Pink",
 
   // Red
-  "color_red": "",
+  "color_red": "Rot",
 
   // White
-  "color_white": "",
+  "color_white": "Weiß",
 
   // Yellow
   "color_yellow": "Gelb",
