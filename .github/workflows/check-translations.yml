@@ -6,6 +6,7 @@ on:
       - opened
     branches:
       - master
+      - main
 
 jobs:
   check-json:
