@@ -276,7 +276,7 @@
   "cmd_vote_2": "[Klicke hier um mich auf top.gg zu bewerten]({topGGLink})\n\nAlternativ ist der FreeStuff Bot auch auf folgenden anderen websites gelistet:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Dem Bot \"Upvotes\" zu geben hilft dabei, dass er leichter von Anderen gefunden wird und so noch mehr Leute über kostenlose Spiele informiert werden. Vielen dank für jeden Upvote!*",
 
   // Black
-  "color_black": "",
+  "color_black": "Schwarz",
 
   // Blue
   "color_blue": "Blau",
