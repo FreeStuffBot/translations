@@ -7,9 +7,13 @@ const getChangedJsonFiles = () => {
   return diffOutput.split('\n').filter(f => f.endsWith('.jsonc'))
 }
 
+const parseJson = (raw) => {
+  return JSON.parse(raw.replace(/^\s*\/\/.*?\n/gm, ''))
+}
+
 const getFileContent = (filePath) => {
   const raw = fs.readFileSync(filePath, 'utf8')
-  return JSON.parse(raw.replace(/^\s*\/\/.*?\n/gm, ''))
+  return parseJson(raw)
 }
 
 const compareJson = async (oldJson, newJson, file) => {
@@ -37,7 +41,7 @@ const run = async () => {
 
   for (const file of files) {
     console.log(`Processing file: ${file}`)
-    const oldJson = JSON.parse(execSync(`git show origin/main:${file}`).toString())
+    const oldJson = parseJson(execSync(`git show origin/main:${file}`).toString())
     console.log(`Old JSON loaded from origin/main for ${file}`)
     const newJson = getFileContent(file)
     console.log(`New JSON loaded from ${file}`)
