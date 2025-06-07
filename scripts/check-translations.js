@@ -59,6 +59,7 @@ const run = async () => {
     }
   }
 
+  fs.writeFileSync('output.md', markdown);
   console.log(markdown)
 }
 
