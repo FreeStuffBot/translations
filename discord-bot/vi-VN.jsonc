@@ -1,0 +1,1291 @@
+{
+  // Get it for free
+  "announcement_button_text": "Nhận ngay",
+
+  // via {website}
+  "announcement_footer": "qua {website}",
+
+  // This is a preview message
+  "announcement_footer_test": "Đây là một tin nhắn xem trước",
+
+  // for a very long time
+  "announcement_free_for_a_long_time": "trong thời gian rất dài",
+
+  // for a week
+  "announcement_free_for_a_week": "trong một tuần",
+
+  // until {date}
+  "announcement_free_until_date": "đến {date}",
+
+  // until {day}
+  "announcement_free_until_day": "đến {day}",
+
+  // until {day} next week
+  "announcement_free_until_day_next_week": "đến {day} tuần sau",
+
+  // Free Game!
+  "announcement_header": "Game Miễn Phí",
+
+  // Claim for **Free**
+  "announcement_price_gamepass": "",
+
+  // Claim for **Free** until {date}
+  "announcement_price_gamepass_until": "",
+
+  // {prices}
+  "announcement_price_generic": "",
+
+  // {prices} until {date}
+  "announcement_price_generic_until": "",
+
+  // {prices}
+  "announcement_price_keep": "",
+
+  // {prices} until {date}
+  "announcement_price_keep_until": "",
+
+  // {prices}
+  "announcement_price_other": "",
+
+  // {prices} until {date}
+  "announcement_price_other_until": "",
+
+  // Claim for **Free**
+  "announcement_price_prime": "",
+
+  // Claim for **Free** until {date}
+  "announcement_price_prime_until": "",
+
+  // **Free to play**
+  "announcement_price_timed": "",
+
+  // **Free to play** until {date}
+  "announcement_price_timed_until": "",
+
+  // Free
+  "announcement_pricetag_free": "Miễn Phí",
+
+  // **{name}** is free!\n<{url}>
+  "announcement_theme9": "**{name}** đang miễn phí!\\n<{url}>",
+
+  // {names}
+  "announcement_thread_name_gamepass_multiple_below": "{names}",
+
+  // {amount} new games for Game Pass!
+  "announcement_thread_name_gamepass_multiple_outside": "{amount} trò chơi mới cho Game Pass!",
+
+  // {name}
+  "announcement_thread_name_gamepass_single_below": "{name}",
+
+  // New Game Pass content: {name}!
+  "announcement_thread_name_gamepass_single_outside": "Nội dung Game Pass mới: {name}!",
+
+  // {names}
+  "announcement_thread_name_keep_multiple_below": "{names}",
+
+  // {amount} games are free!
+  "announcement_thread_name_keep_multiple_outside": "{amount} trò chơi đang miễn phí!",
+
+  // {name}
+  "announcement_thread_name_keep_single_below": "{name}",
+
+  // {name} is free!
+  "announcement_thread_name_keep_single_outside": "{name} đang miễn phí!",
+
+  // {names}
+  "announcement_thread_name_other_multiple_below": "{names}",
+
+  // {amount} games are free!
+  "announcement_thread_name_other_multiple_outside": "{amount} trò chơi đang miễn phí!",
+
+  // {name}
+  "announcement_thread_name_other_single_below": "{name}",
+
+  // {name} is free!
+  "announcement_thread_name_other_single_outside": "{name} đang miễn phí!",
+
+  // {names}
+  "announcement_thread_name_prime_multiple_below": "{names}",
+
+  // {amount} new games for Prime!
+  "announcement_thread_name_prime_multiple_outside": "{amount} trò chơi mới cho Prime!",
+
+  // {name}
+  "announcement_thread_name_prime_single_below": "{name}",
+
+  // New Prime loot: {name}!
+  "announcement_thread_name_prime_single_outside": "Chiến lợi phẩm Prime mới: {name}!",
+
+  // {names}
+  "announcement_thread_name_timed_multiple_below": "{names}",
+
+  // Free weekend for {amount} games!
+  "announcement_thread_name_timed_multiple_outside": "Tuần lễ miễn phí cho {amount} trò chơi!",
+
+  // {name}
+  "announcement_thread_name_timed_single_below": "{name}",
+
+  // Free weekend for {name}!
+  "announcement_thread_name_timed_single_outside": "Tuần lễ miễn phí cho {name}!",
+
+  // {title} is free!
+  "announcement_title_statement": "",
+
+  // An error occurred!
+  "cmd_error_fatal_1": "Xảy ra lỗi!",
+
+  // We're trying to fix this issue as soon as possible!
+  "cmd_error_fatal_2": "Chúng tôi đang cố gắng khắc phục lỗi này càng sớm càng tốt!",
+
+  // A wild error occurred!
+  "cmd_error_fixable_1": "Xảy ra lỗi!",
+
+  // Can you please try that again? If this message keeps appearing please wait a bit or [reach out to our support team]({discordInvite}), thanks.
+  "cmd_error_fixable_2": "Bạn có thể vui lòng thử lại không? Nếu thông báo này tiếp tục xuất hiện, đợi một chút rồi thử lại hoặc [liên hệ với nhóm hỗ trợ]({discordInvite}), cảm ơn bạn.",
+
+  // An error occurred!
+  "cmd_error_readd_1": "Xảy ra lỗi!",
+
+  // Try removing the bot from your server and adding it back in. If this does not help, [please join the support server]({discordInvite}).
+  "cmd_error_readd_2": "Hãy thử xóa bot khỏi server của bạn và thêm lại. Nếu không được, [liên hệ với nhóm hỗ trợ]({discordInvite}).",
+
+  // **Ends soon:**
+  "cmd_free_ends_soon": "**Sắp kết thúc:**",
+
+  // (Ends soon!)
+  "cmd_free_ends_soon2": "(Gần hết hạn!)",
+
+  // None :(
+  "cmd_free_no_freebies": "Trống :<",
+
+  // Nothing free right now :(
+  "cmd_free_no_freebies2": "Hiện không có gì miễn phí :(",
+
+  // These games are currently free:
+  "cmd_free_title": "Những game sau đang miễn phí:",
+
+  // Currently on Game Pass:
+  "cmd_free_title_gamepass": "",
+
+  // Currently free to keep (100% off)
+  "cmd_free_title_keep": "Hiện đang miễn phí để mua (giảm giá 100%)",
+
+  // Other freebies (100% off)
+  "cmd_free_title_other": "Các món miễn phí khác (giảm giá 100%)",
+
+  // Prime Gaming: Games
+  "cmd_free_title_primegames": "Prime Gaming: Trò chơi",
+
+  // Prime Gaming: Loot
+  "cmd_free_title_primeloot": "Prime Gaming: Quà tặng",
+
+  // Currently free to play
+  "cmd_free_title_timed": "Hiện đang được phép chơi miễn phí",
+
+  // until
+  "cmd_free_until": "đến",
+
+  // FreeStuff Bot
+  "cmd_info_1": "FreeStuff Bot",
+
+  // FreeStuff Bot made with :heart: by [some amazing people]({amazingPeople})\n\n[About / Website]({website})\n\n[Add it to your server!]({inviteLink})\n\n[Report a bug or get in contact]({discordInvite})
+  "cmd_info_2": "FreeStuff được làm bởi [những người bạn tuyệt vời]({amazingPeople}) :heart:\\n\\n[Thông tin / Website]({website})\\n\\n[Nhấn vào đây để thêm tớ vào server]({inviteLink})\\n[Báo cáo lỗi hoặc liên hệ]({discordInvite})",
+
+  // :eyes:
+  "cmd_invite_1": ":eyes:",
+
+  // [Click here to add me to your server!]({inviteLink})
+  "cmd_invite_2": "[Nhấn vào đây để thêm tớ vào server!]({inviteLink})",
+
+  // You're going too fast!
+  "cmd_on_cooldown_1": "Nhập từ từ thôi bạn êi!",
+
+  // This command can only be used every {time} seconds. Please wait a bit!
+  "cmd_on_cooldown_2": "Lệnh này phải chờ {time} giây nữa mới được dùng tiếp.",
+
+  // Now that's a twist!
+  "cmd_resend_all_filtered_out_1": "",
+
+  // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
+  "cmd_resend_all_filtered_out_2": "",
+
+  // The webhook in {channel} is broken.
+  "cmd_resend_invalid_webhook_1": "",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_resend_invalid_webhook_2": "",
+
+  // Uh oh!
+  "cmd_resend_nothing_free_1": "Chẹp!",
+
+  // There's not a single game from this category for free right now... How could that have happened :thinking:
+  "cmd_resend_nothing_free_2": "Hiện tại không có trò chơi nào miễn phí...",
+
+  // Aaaaaand there it goes!
+  "cmd_resend_success_1": "Xong!",
+
+  // Check out {channel}!
+  "cmd_resend_success_2": "Kiểm tra kênh {channel} nhé!",
+
+  // That is an example game. And this here is the example description of said example game. I hope you have a nice day :)
+  "cmd_test_announcement_description": "Đây là phần mô tả của ví dụ đó :) \n",
+
+  // Game name here
+  "cmd_test_announcement_header": "Tên của game sẽ hiện ở đây nè",
+
+  // The webhook in {channel} is broken.
+  "cmd_test_invalid_webhook_1": "",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_test_invalid_webhook_2": "",
+
+  // :x:
+  "cmd_test_nochannel_1": ":x:",
+
+  // I don't know where to post the announcements!\nGo to /settings → Set Channel
+  "cmd_test_nochannel_2": "Tớ chả biết gửi thông báo game vào đâu cả ._.\nDùng lệnh /settings → Set Channel để thiết lập nhé",
+
+  // Oh well...
+  "cmd_test_noembeds_1": "Ờ...",
+
+  // The theme you're using uses embeds to make the message look nicer... now the thing is, I don't have the permission to send embeds in {channel}! Either give me the permission `Embed Links` or choose a different theme that doesn't use embeds!
+  "cmd_test_noembeds_2": "Chủ đề mà bạn đang dùng sử dụng mã nhúng để tin nhắn được đẹp mắt hơn... vấn đề là, tớ không có quyền hạn để gửi mã nhúng vào {channel}! Hãy cho tớ quyền gửi mã nhúng `Embed Links` hoặc chọn một chủ đề khác mà không cần mã nhúng!",
+
+  // Whoops!
+  "cmd_test_nosee_1": "Ơ!",
+
+  // Looks like I don't have the permission to see the channel {channel}!
+  "cmd_test_nosee_2": "Tớ làm gì có quyền nhìn thấy kênh {channel}!",
+
+  // Whoops!
+  "cmd_test_nosend_1": "Ơ!",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_test_nosend_2": "Hình như tớ không có quyền gửi tin nhắn tới kênh {channel}!",
+
+  // Aaaaaand there it goes!
+  "cmd_test_success_1": "Vààààà đây rồi!",
+
+  // Check out {channel}!
+  "cmd_test_success_2": "Hãy xem {channel}!",
+
+  // Enjoying the free games?
+  "cmd_vote_1": "Thấy tớ hữu ích?",
+
+  // [Click here to vote for me on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases it's visibility and helps others discover free games too! Thank you for every vote!*
+  "cmd_vote_2": "[Cho tớ một vote trên top.gg nhé!]({topGGLink})\n\nNgoài ra, FreeStuff Bot cũng ở trên các trang web sau:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Vote cho tớ làm tăng khả năng hiển thị của tớ và giúp những người khác cũng khám phá các trò chơi miễn phí! Cảm ơn bạn đã lan tỏa điểu này!*",
+
+  // Black
+  "color_black": "Đen",
+
+  // Blue
+  "color_blue": "Xanh da trời",
+
+  // Green
+  "color_green": "Xanh lá",
+
+  // Mint
+  "color_mint": "Xanh bạc hà",
+
+  // No color
+  "color_none": "",
+
+  // Pink
+  "color_pink": "Hồng",
+
+  // Red
+  "color_red": "Đỏ",
+
+  // White
+  "color_white": "Trắng",
+
+  // Yellow
+  "color_yellow": "Vàng",
+
+  // Lev (BGN)
+  "currency_bgn": "Lev (BGN)",
+
+  // Real (BRL)
+  "currency_brl": "Real (BRL)",
+
+  // Bitcoin (brrrr)
+  "currency_btc": "Bitcoin (brrrr)",
+
+  // Euro (EUR)
+  "currency_euro": "Euro (EUR)",
+
+  // Pounds (GBP)
+  "currency_gbp": "Bảng Anh (GBP)",
+
+  // Forint (HUF)
+  "currency_huf": "Forint (HUF)",
+
+  // Złoty (PLN)
+  "currency_pln": "Złoty (PLN)",
+
+  // before
+  "currency_sign_dollar_position": "trước",
+
+  // before
+  "currency_sign_euro_position": "trước",
+
+  // before
+  "currency_sign_position": "trước",
+
+  // Dollar (USD)
+  "currency_usd": "Đô la Mỹ (USD)",
+
+  // en-US
+  "date_format": "en-US",
+
+  // usd
+  "default_currency": "",
+
+  // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
+  "donation_notice": "Ủng hộ tớ tại [đây]({url}) để tớ có thể tiếp tục phục vụ các bạn nhé! Cảm ơn các bạn rất nhiều!",
+
+  // Claim All
+  "expressbutton_label": "Nhận Tất Cả",
+
+  // {next}
+  "fluid_list_delimiter_first": "",
+
+  // {prev}, and {next}
+  "fluid_list_delimiter_last": "",
+
+  // {prev}, {next}
+  "fluid_list_delimiter_middle": "",
+
+  // {prev} and {next}
+  "fluid_list_delimiter_only": "",
+
+  // Third Party Provider
+  "game_meta_flag_thirdparty": "Nhà Cung Cấp Bên Thứ Ba",
+
+  // Low Quality
+  "game_meta_flag_trash": "Game Rác",
+
+  // Back
+  "generic_back": "Quay lại",
+
+  // Cancel
+  "generic_cancel": "Hủy",
+
+  // Cancelled
+  "generic_cancelled": "Đã hủy",
+
+  // Close
+  "generic_close": "",
+
+  // Continue
+  "generic_continue": "Tiếp tục",
+
+  // Delete
+  "generic_delete": "Xóa",
+
+  // Help
+  "generic_help": "Trợ giúp",
+
+  // Next
+  "generic_next": "Tiếp theo",
+
+  // Ok
+  "generic_ok": "Ok",
+
+  // Okay
+  "generic_okay": "Okay",
+
+  // Help is on the way!
+  "help_main_1": "Trợ giúp tới đây!",
+
+  // The FreeStuff bot keeps you up to date with free games!\n\nUse /free to get a list of free games\n\nUse /settings to configure the bot and to subscribe to free games notifications
+  "help_main_2": "Bot FreeStuff giúp bạn cập nhật thông tin về các trò chơi miễn phí!\n\nSử dụng /free để nhận danh sách các trò chơi miễn phí\n\nSử dụng /settings để cấu hình bot và đăng ký nhận thông báo các trò chơi miễn phí",
+
+  // You are not {owner}!
+  "interaction_not_owned_1": "Bạn không phải là {owner}!",
+
+  // Thus you cannot interact with this widget because you did not create it.\nRun **{command}** to get your own widget.
+  "interaction_not_owned_2": "Vì vậy, bạn không thể tương tác vì bạn không tạo nó.\nDùng **{command}** để tương tác tin nhắn của riêng bạn.",
+
+  // Sorry but I cannot let you do this!
+  "interaction_not_permitted_1": "Xin lỗi nhưng tớ không thể để bạn làm điều này!",
+
+  // Only an admin of this server can do this. You are not an admin of this server.
+  "interaction_not_permitted_2_admin": "Chỉ quản trị viên của máy chủ này mới có thể làm điều này. Bạn không phải là quản trị viên của máy chủ này.",
+
+  // This button is reserved for some very special people...\nOf course you are special too! Yes! *But not special enough*
+  "interaction_not_permitted_2_bot_admin": "Nút này dành riêng cho một số người rất đặc biệt...\nTất nhiên bạn cũng đặc biệt! *Nhưng chưa đủ đặc biệt*\n",
+
+  // I also cannot tell you why. But someone somewhere doesn't want you to do this...\nDo you have many enemies?
+  "interaction_not_permitted_2_generic": "Tôi cũng không thể cho bạn biết tại sao. Nhưng ai đó ở đâu đó không muốn bạn làm điều này...\nCó vẻ bạn có rất nhiều kẻ thù...",
+
+  // I would love to let you though! All you have to do is get yourself some **Manage Messages** permissions!
+  "interaction_not_permitted_2_manage_messages": "Bạn cần có quyền **Quản lý Tin nhắn** để làm điều này!",
+
+  // I was asked to prevent anyone without the **Manage Server** permission from going any further!
+  "interaction_not_permitted_2_manage_server": "Tớ đã được yêu cầu ngăn bất kỳ ai không có quyền **Quản lý Máy chủ**!",
+
+  // Hooooold up!
+  "interaction_server_only_1": "Từ từ đã!",
+
+  // You cannot run this command in direct messages! Please try using it in a Discord Server.
+  "interaction_server_only_2": "Bạn không thể chạy lệnh này trong tin nhắn trực tiếp! Vui lòng thử sử dụng nó trong Máy chủ Discord.",
+
+  // :flag_us:
+  "lang_flag_emoji": ":flag_vn:‎",
+
+  // English (USA)
+  "lang_name": "Tiếng Việt",
+
+  // english-us
+  "lang_name_en": "vietnamese",
+
+  // Silence
+  "mysterious_modal_no_response_1": "Im lặng",
+
+  // No one answers...
+  "mysterious_modal_no_response_2": "Không ai trả lời...",
+
+  // ...
+  "mysterious_modal_no_response_3": "...",
+
+  // No response
+  "mysterious_modal_no_response_4": "Không hồi đáp",
+
+  // Nobody heard you...
+  "mysterious_modal_no_response_5": "Không ai nghe thấy bạn...",
+
+  // What do you want?
+  "mysterious_modal_prompt_1": "Bạn đang cần gì?",
+
+  // What do you desire?
+  "mysterious_modal_prompt_2": "Bạn đang khao khát điều gì?",
+
+  // The forest is listening...
+  "mysterious_modal_prompt_3": "Rừng đang lắng nghe bạn...",
+
+  // Speak your mind...
+  "mysterious_modal_prompt_4": "Hãy nói lên những suy nghĩ...",
+
+  // You are ready!
+  "mysterious_modal_prompt_5": "Bạn đã sẵn sàng!",
+
+  // Shout into the forest!
+  "mysterious_modal_title": "Hét vào rừng sâu!",
+
+  // Open in browser
+  "open_in_browser": "Mở trên trình duyệt",
+
+  // Open in Epic Games Launcher
+  "open_in_epic_games_client": "Mở trên Epic Launcher",
+
+  // Open in Steam Client
+  "open_in_steam_client": "Mở trên Steam",
+
+  // About
+  "page_about": "Thông tin",
+
+  // Attributions
+  "page_attributions": "",
+
+  // Help Page
+  "page_help": "Trang Hỗ trợ",
+
+  // Invite the bot
+  "page_invite": "Mời bot",
+
+  // Bot Settings
+  "page_settings": "Cài đặt Bot",
+
+  // Support
+  "page_support": "Hỗ trợ",
+
+  // Manage Webhooks
+  "permission_manage_webhooks": "Quản lý Webhooks",
+
+  // View Channel
+  "permission_view_channel": "Xem Kênh",
+
+  // Apple App Store
+  "platform_apple": "",
+
+  // Discord
+  "platform_discord": "",
+
+  // Epic Games
+  "platform_epic": "",
+
+  // GOG.com
+  "platform_gog": "",
+
+  // Google Play
+  "platform_google": "",
+
+  // Humble Bundle
+  "platform_humble": "",
+
+  // itch.io
+  "platform_itch": "",
+
+  // Origin
+  "platform_origin": "",
+
+  // Other
+  "platform_other": "",
+
+  // Play Station
+  "platform_ps": "",
+
+  // Steam
+  "platform_steam": "",
+
+  // Nintendo Switch
+  "platform_switch": "",
+
+  // Twitch
+  "platform_twitch": "",
+
+  // Ubisoft Store
+  "platform_uplay": "",
+
+  // Xbox
+  "platform_xbox": "",
+
+  // About Premium
+  "premium_promo_button": "Thông tin về Gói Cao Cấp",
+
+  // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
+  "premium_upsell_autopublish_description": "",
+
+  // Get premium to use auto publish!
+  "premium_upsell_autopublish_title": "",
+
+  // With FreeStuff premium you can have the bot automatically react to every notification you receive!
+  "premium_upsell_autoreact_description": "",
+
+  // Get premium to use auto reactions!
+  "premium_upsell_autoreact_title": "",
+
+  // With FreeStuff premium you can upload your own image for FreeStuff to use as the profile picture. You can also change the name to whatever you like. Make it blend in to your server!
+  "premium_upsell_botprofile_description": "",
+
+  // Get premium to change bot's profile!
+  "premium_upsell_botprofile_title": "",
+
+  // If you are happy with the one role you selected, you don't need to get premium. Your changes are already saved!\nIf you do want to ping more than one role however, you can do this with premium!
+  "premium_upsell_multiping_description": "",
+
+  // Get premium to ping more than one role!
+  "premium_upsell_multiping_title": "",
+
+  // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
+  "premium_upsell_threadopts_description": "",
+
+  // Get premium to create threads!
+  "premium_upsell_threadopts_title": "",
+
+  // Actual price
+  "price_actual": "Giá thực tế",
+
+  // Everything
+  "price_class_a": "Tất cả mức giá",
+
+  // Almost Everything
+  "price_class_b": "Gần như tất cả",
+
+  // Default
+  "price_class_c": "Mặc định",
+
+  // Big fish
+  "price_class_d": "Thượng lưu",
+
+  // Converted from USD
+  "price_converted": "Chuyển đổi từ USD",
+
+  // Privacy Policy
+  "privacy_policy": "Chính sách Bảo mật",
+
+  // Permanently Free
+  "product_meta_flag_permanent": "",
+
+  // FreeStuff Recommendation
+  "product_meta_flag_staff_pick": "",
+
+  // Third Party Provider
+  "product_meta_flag_thirdparty": "",
+
+  // Low Quality
+  "product_meta_flag_trash": "",
+
+  // Refresh List
+  "refresh_channel_list": "",
+
+  // Click here to reload the channel list
+  "refresh_channel_list_description": "",
+
+  // Made changes?
+  "refresh_channel_list_title": "",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_channel_timeout": "",
+
+  // Channel list refreshed
+  "refresh_channels_success": "",
+
+  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
+  "refresh_channels_timeout": "",
+
+  // Refresh List
+  "refresh_role_list": "",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_role_timeout": "",
+
+  // Welcome to FreeStuff!
+  "settings2_main_1_first_time": "Chào mừng đến FreeStuff!",
+
+  // FreeStuff Settings
+  "settings2_main_1_regular": "Cài đặt FreeStuff",
+
+  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
+  "settings2_main_2_first_time": "Chúng tôi rất vui được gặp bạn!\n**Chúng ta hãy cài đặt nhanh thông báo để bạn không bỏ lỡ bất cứ thứ gì nhé?**\n\nFreeStuff có thể báo cho bạn biết nhiều loại trò chơi miễn phí khác nhau, chúng tôi gọi chúng là **mục đăng ký**. Bạn có thể thấy tất cả các mục ở phía dưới. Để theo dõi hoặc tìm hiểu thêm, chỉ cần nhấn vào chúng. Nó đơn giản như vậy đấy.\n\nChúng tôi khuyên bạn nên xem qua **{recommendation}** trước. Bạn sẽ thích nó. Hứa luôn.",
+
+  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
+  "settings2_main_2_first_time_v1prev": "Hey, chào mừng trở lại! Các cài đặt đã được thay đổi một ít từ lần cuối bạn ghé thăm. Hãy để tôi chỉ bạn nhanh nhé, và tin tôi đi bạn sẽ nóng lòng muốn nghe điều này:\n\nFreeStuff bây giờ có nhiều **mục đăng ký** để bạn có thể theo dõi. Ngoài các trò chơi **Giảm giá 100%** mà bạn đã quen, chúng tôi có nhiều mục mới bao gồm các trò chơi thuộc **Tuần lễ Miễn phí** và nhiều hơn nữa đang chờ được công bố.\n\nNhấn vào một mục đăng ký để quản lý, bạn sẽ thấy các cài đặt hơi quen thuộc. Nếu bạn cần trợ giúp, đừng ngại hỏi [máy chủ hỗ trợ]({invite}) hoặc xem [hướng dẫn]({guide}) của chúng tôi!\n\nHẹn gặp lại!",
+
+  // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
+  "settings2_main_2_regular": "Chào mừng trở lại! Quản lý các mục đăng ký phía dưới. Nhấn vào một mục đăng ký để xem thêm thông tin và thay đổi cài đặt.\nCần trợ giúp? Hãy tham gia [máy chủ hỗ trợ]({invite}) hoặc [hướng dẫn]({guide}) của chúng tôi!",
+
+  // Disable Auto Publish
+  "settings_auto_publish_off_prompt": "Tắt Tự động Đăng",
+
+  // Auto Publish Disabled
+  "settings_auto_publish_off_state": "Đã tắt Tự động Đăng",
+
+  // Enable Auto Publish
+  "settings_auto_publish_on_prompt": "Bật Tự động Đăng",
+
+  // Auto Publish Enabled
+  "settings_auto_publish_on_state": "Đã bật Tự động Đăng",
+
+  // This does not look like a url
+  "settings_botprofile_avatar_invalid_url_1": "Nhìn không giống một đường dẫn lắm",
+
+  // Please make sure your image actually loads and the link starts with `http://` or `https://`
+  "settings_botprofile_avatar_invalid_url_2": "Vui lòng đảm bảo hình ảnh của bạn hoạt động và đường dẫn bắt đầu với `http://` hoặc `https://`",
+
+  // Ayo what's that
+  "settings_botprofile_avatar_url_too_long_1": "Ayo cái gì vậy",
+
+  // Your url is a little... excessive... A little... long, maybe. Could you try make it shorter maybe? Thanks :D
+  "settings_botprofile_avatar_url_too_long_2": "Đường dẫn bạn hơi... quá... Hơi bị... dài, có lẽ vậy. Bạn có thể làm nó ngắn hơn không? Cảm ơn :D",
+
+  // Edit Avatar
+  "settings_botprofile_btn_edit_avatar": "Đổi ảnh đại diện",
+
+  // Edit Name
+  "settings_botprofile_btn_edit_name": "Đổi tên",
+
+  // Uhhh, very sorry uhhh
+  "settings_botprofile_name_too_long_1": "Uhhh, thành thật xin lỗi uhhh",
+
+  // But your name can only be 32 characters long. Directive from above, nothing I can do about that, sorry.
+  "settings_botprofile_name_too_long_2": "Nhưng tên của bạn chỉ có thể dài 32 ký tự. Như đã nêu ở trên, tôi không thể làm gì, xin lỗi.",
+
+  // Avatar and Name
+  "settings_botprofile_ui_1": "Ảnh đại diện và Tên",
+
+  // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.\n\n**Edit Avatar** will allow you to change the bot's profile picture. You will need to provide a link to your desired image. Leave empty to reset to default.\n\n**Edit Name** will allow you to change the bot's name. Leave empty to reset to default.
+  "settings_botprofile_ui_2": "Thay đổi tên và ảnh đại diện của bot khi gửi thông báo. Vì các hạn chế từ phía Discord ảnh đại diện tùy chỉnh chỉ áp dụng cho thông báo trò chơi miễn phí, không có khi bạn dùng các lệnh như `/settings` hoặc `/free`.\n\n**Thay đổi Ảnh đại diện** sẽ cho phép bạn thay đổi ảnh đại diện của bot. Bạn sẽ cần phải cung cấp đường dẫn đến hình ảnh mà mình mong muốn. Để trống sẽ khôi phục lại mặc định.\n\n**Thay đổi Tên** sẽ cho phép bạn thay đổi tên của bot. Để trống sẽ khôi phục lại mặc định.",
+
+  // Uhhhh what are you doing?
+  "settings_change_any_while_unsubscribed_1": "Uhhhh bạn đang làm gì vậy?",
+
+  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
+  "settings_change_any_while_unsubscribed_2": "Đang cố lừa hệ thống à? Bạn không thể thay đổi cài đặt này trong khi bạn đang không theo dỗi {channel}. Theo dõi trước, rồi hãy quay lại.",
+
+  // Edit Avatar and Name
+  "settings_change_bot_profile": "Thay đổi Ảnh đại diện và Tên",
+
+  // You have too many webhooks in {channel}! Please open the channel settings, go to integrations, delete some unused webhooks, and come back. This limitation is enforced by Discord, we cannot do anything about this unfortunately.
+  "settings_channel_error_too_many_webhooks": "",
+
+  // here
+  "settings_channel_list_here": "đây",
+
+  // No channel
+  "settings_channel_list_no_channel_1": "Không có kênh nào",
+
+  // Disable free games feed
+  "settings_channel_list_no_channel_2": "Vô hiệu hóa thông báo trò chơi miễn phí",
+
+  // You have too many channels to show them all in the list below.
+  "settings_channel_list_too_many": "Bạn có quá nhiều kênh để hiển thị tất cả chúng trong danh sách phía dưới.",
+
+  // Missing \"Embed Messages\" Permission
+  "settings_channel_list_warning_missing_embed_messages": "Thiếu quyền \"Nhúng liên kết\"",
+
+  // Missing \"Manage Webhooks\" Permission
+  "settings_channel_list_warning_missing_manage_webhooks": "Thiếu quyền \"Quản lý Webhooks\"",
+
+  // Missing \"Send Messages\" Permission
+  "settings_channel_list_warning_missing_send_messages": "Thiếu quyền \"Gửi tin nhắn\"",
+
+  // Missing \"View Channel\" Permission
+  "settings_channel_list_warning_missing_view_channel": "Thiếu quyền \"Xem kênh\"",
+
+  // You have waaaaay too many channels to show them all in the list below. How do you even find anything in here?
+  "settings_channel_list_way_too_many": "Bạn có quááááá nhiều kênh để hiển thị tất cả chúng trong danh sách phía dưới. Sao mà bạn có thể tìm bất cứ thứ gì trong đây?",
+
+  // Change The Channel
+  "settings_channel_ui_1": "Đổi Kênh",
+
+  // Below you'll find a list of all of your channels. Please pick one for me to send free games to!
+  "settings_channel_ui_2_regular": "Bên dưới là danh sách tất cả các kênh. Hãy chọn một kênh để thông báo trò chơi miễn phí!\n",
+
+  // Below you'll find a list of most of your channels. You had so many I couldn't show them all at once. Please pick one for me to send free games to!
+  "settings_channel_ui_2_too_many": "Dưới đây là danh sách hầu hết các kênh của máy chủ này. Bạn có rất nhiều kênh và tớ không thể hiển thị tất cả cùng một lúc. Hãy chọn một kênh để thông báo trò chơi miễn phí!",
+
+  // Below you'll find a list of a few of your channels. You have an enormous amount of channels in this server, you know this? So many in fact I could only show you a small selection of them. Please pick one for me to send free games to!
+  "settings_channel_ui_2_way_too_many": "Bên dưới là danh sách một số kênh của mình. Bạn có rất nhiều kênh trong máy chủ này. Thực tế là rất nhiều, tớ chỉ có thể cho bạn xem một số lựa chọn nhỏ trong số đó. Hãy chọn một kênh để thông báo trò chơi miễn phí!",
+
+  // Can't change channel to {channel}: Missing \"{permissions}\" permissions!
+  "settings_channel_ui_missing_permissions": "Không thể thay đổi kênh thành {channel}: Thiếu quyền \"{permissions}\"!",
+
+  // If you cannot find your desired channel, run /settings in that very channel to force it to show up.
+  "settings_channel_ui_too_many_channels_tip": "Kênh bạn mong muốn không hiển thị? Chạy lệnh này trong kênh bạn đang nghĩ đến để xem kênh đó trong danh sách!",
+
+  // Unknown channel
+  "settings_channel_unknown_channel": "",
+
+  // Other Settings
+  "settings_conf_ui_1": "Cài đặt Chung",
+
+  // **Select Language** will change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.\n\n**Select Currency** will change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
+  "settings_conf_ui_2": "**Chọn Ngôn ngữ** sẽ thay đổi ngôn ngữ mà thông báo hiển thị. Việc này sẽ **không** thay đỗi ngôn ngữ cho lệnh như /settings hoặc /free. Chúng sử dụng cùng ngôn ngữ Discord mà bạn đang dùng. Các bản dịch là do cộng đồng cung cấp và có thể có lỗi.\n\n**Chọn Tiền tệ** sẽ thay đổi đơn vị tiền tệ trong thông báo. Vài giá trị có thể được chuyển đổi từ các loại tiền hoặc websites khác và do đó không phải lúc nào cũng chính xác 100%.",
+
+  // Disable Claim-All Button
+  "settings_display_expressbutton_off_prompt": "Tắt nút Nhận Tất Cả",
+
+  // Claim-All Button Disabled
+  "settings_display_expressbutton_off_state": "Nút Nhận Tất Cả Đã Được Tắt",
+
+  // Enable Claim-All Button
+  "settings_display_expressbutton_on_prompt": "Bật nút Nhận Tất Cả",
+
+  // Claim-All Button Enabled
+  "settings_display_expressbutton_on_state": "Nút Nhận Tất Cả Đã Được Bật",
+
+  // Disable Auto Reaction
+  "settings_display_reactions_off_prompt": "Tắt tự động React",
+
+  // Auto Reaction Disabled
+  "settings_display_reactions_off_state": "Đã tắt tự động React",
+
+  // Enable Auto Reaction
+  "settings_display_reactions_on_prompt": "Bật tự động React",
+
+  // Auto Reaction Enabled
+  "settings_display_reactions_on_state": "Đã bật tự động React",
+
+  // Display Settings
+  "settings_display_ui_1": "Cài đặt Hiển thị",
+
+  // Change the appearance of the bot's messages
+  "settings_display_ui_2": "Thay đổi giao diện của tin nhắn của tớ",
+
+  // Show Bundles
+  "settings_filter_kinds_bundle_1": "",
+
+  // Collections of games, DLCs or other items
+  "settings_filter_kinds_bundle_2": "",
+
+  // Show DLCs
+  "settings_filter_kinds_dlc_1": "",
+
+  // Addons and other game extensions
+  "settings_filter_kinds_dlc_2": "",
+
+  // None selected
+  "settings_filter_kinds_none": "",
+
+  // Show other content
+  "settings_filter_kinds_other_1": "",
+
+  // Stuff that does not fit into the other categories
+  "settings_filter_kinds_other_2": "",
+
+  // Show Store Items
+  "settings_filter_kinds_storeitem_1": "",
+
+  // Things like steam point shop items
+  "settings_filter_kinds_storeitem_2": "",
+
+  // (All disabled)
+  "settings_filter_platforms_none": "(Tất cả đã bị vô hiệu hóa)",
+
+  // Send all games. Every. Single. One.
+  "settings_filter_price_class_desc_everything": "Gửi tất cả các trò chơi. Tất. Cả.",
+
+  // Only send games worth {price} or more
+  "settings_filter_price_class_desc_generic": "Chỉ gửi các trò chơi có giá trị từ {price} trở lên",
+
+  // Disable Games
+  "settings_filter_show_passgames_off_prompt": "Tắt các trò chơi",
+
+  // Games Disabled
+  "settings_filter_show_passgames_off_state": "Trò chơi đã được Tắt",
+
+  // Enable Games
+  "settings_filter_show_passgames_on_prompt": "Bật các trò chơi",
+
+  // Games Enabled
+  "settings_filter_show_passgames_on_state": "Trò chơi đã được Bật",
+
+  // Disable Loot
+  "settings_filter_show_passloot_off_prompt": "Tắt nhận Quà tặng",
+
+  // Loot Disabled
+  "settings_filter_show_passloot_off_state": "Quà tặng đã được Tắt",
+
+  // Enable Loot
+  "settings_filter_show_passloot_on_prompt": "Bật nhận Quà tặng",
+
+  // Loot Enabled
+  "settings_filter_show_passloot_on_state": "Quà tặng đã được Bật",
+
+  // Disable Bad Quality Games
+  "settings_filter_trash_off_prompt": "Tắt thông báo game rác",
+
+  // Bad Quality Games Disabled
+  "settings_filter_trash_off_state": "Đã tắt thông báo game rác",
+
+  // Enable Bad Quality Games
+  "settings_filter_trash_on_prompt": "Bật thông báo game rác",
+
+  // Bad Quality Games Enabled
+  "settings_filter_trash_on_state": "Đã bật thông báo game rác",
+
+  // Filter Settings
+  "settings_filter_ui_1": "Cài đặt Bộ lọc",
+
+  // There are a lot of free games out there, some more interesting than others. In order to not flood your precious Discord server with spam we have some options for you to decide which games you like to see:
+  "settings_filter_ui_2": "Có rất nhiều trò chơi miễn phí trên mạng, một số trò chơi thú vị hơn những trò chơi khác. Để không làm tràn ngập máy chủ Discord quý giá của bạn với tin nhắn rác, tớ có một số tùy chọn để bạn quyết định trò chơi nào bạn muốn xem:",
+
+  // Something failed while exporting your data, we are very sorry. You can reach out to us and manually request a copy of your data via team@freestuffbot.xyz - Please include your server id in the E-Mail. Thanks.
+  "settings_guilddata_data_failed": "Có gì đó đã bị lỗi khi xuất dữ liệu của bạn, chúng tôi rất xin lỗi. Bạn có thể liên hệ chúng tôi và yêu cầu một bản sao dữ liệu của bạn thông qua team@freestuffbot.xyz - Vui lòng bổ sung ID server của bạn trong E-Mail. Xin cảm ơn.",
+
+  // Please click the Download button below to download your data. The button will only work one time, run the command again to download again. Do not share the link with anyone!
+  "settings_guilddata_data_ready": "Hãy nhấn vào nút Tải Về bên dưới để tải về dữ liệu của bạn. Nút này chỉ hoạt động một lần, nhập lệnh lại lần nữa để tải lại. Không chia sẻ đường dẫn cho bất kỳ ai!",
+
+  // Delete Server Data
+  "settings_guilddata_delete_button": "Xóa Dữ liệu Máy chủ\n",
+
+  // Are you sure?
+  "settings_guilddata_delete_dialogue_confirmation_1": "Bạn chắc không?",
+
+  // Once you click the button below there is no going back!
+  "settings_guilddata_delete_dialogue_confirmation_2": "Một khi đã nhấp vào nút bên dưới, bạn sẽ không quay lại được nữa đâu!",
+
+  // Slow down!
+  "settings_guilddata_delete_dialogue_cooldown_1": "Bình tĩnh!",
+
+  // Looks like someone already deleted this server's data in the past 12h. Please try again later!
+  "settings_guilddata_delete_dialogue_cooldown_2": "Có vẻ như ai đó đã xóa dữ liệu của máy chủ này trong 12 giờ qua. Vui lòng thử lại sau!",
+
+  // Only an admin can do this
+  "settings_guilddata_delete_dialogue_not_allowed_1": "Chỉ quản trị viên mới có thể làm điều này",
+
+  // Please ask a server admin if you really really wanna do this.
+  "settings_guilddata_delete_dialogue_not_allowed_2": "Vui lòng hỏi quản trị viên máy chủ nếu bạn thực sự muốn làm điều này.",
+
+  // Success!
+  "settings_guilddata_delete_success_1": "Thành công!",
+
+  // Your server's data has been deleted and reset to default settings!
+  "settings_guilddata_delete_success_2": "Dữ liệu máy chủ của bạn đã bị xóa và được đặt lại về cài đặt mặc định!",
+
+  // Uh... that's a bit embarrassing now... There was an error exporting your data. Please [contact our team]({invite}) to get your data.
+  "settings_guilddata_display_error": "Đã xảy ra lỗi khi xuất dữ liệu của bạn. Vui lòng [liên hệ với nhóm của chúng tôi]({invite}) để lấy dữ liệu của bạn.",
+
+  // Download Data
+  "settings_guilddata_download": "Tải về Dữ liệu",
+
+  // Okie dokie, data's coming in hot:
+  "settings_guilddata_success_1": "Xong, dữ liệu của bạn đây:",
+
+  // English with the metric system
+  "settings_language_list_desc_english_eu": "Tiếng Anh với hệ mét",
+
+  // English with the imperial system
+  "settings_language_list_desc_english_us": "Tiếng Anh với hệ đo lường Anh\n\n",
+
+  // English with football fields per pizza slice
+  "settings_language_list_desc_english_us_easteregg": "Tiếng Anh với những chú hề\n",
+
+  // {language} by {translators}
+  "settings_language_list_desc_generic": "{language} dịch bởi {translators}",
+
+  // Language Selection
+  "settings_language_ui_1": "Lựa chọn Ngôn ngữ",
+
+  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
+  "settings_language_ui_2": "Cài đặt ngôn ngữ này áp dụng cho toàn bộ máy chủ của bạn, không phải áp dụng cho mình bạn! ",
+
+  // Oh no!
+  "settings_locked_premium_1": "Oh no!",
+
+  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
+  "settings_locked_premium_2": "**Đây là một tính năng Cao Cấp của FreeStuff.**\nNhấn vào nút bên dưới để xem thêm:",
+
+  // Change channel
+  "settings_main_btn_channel_change": "Đổi kênh",
+
+  // Set channel
+  "settings_main_btn_channel_set": "Đặt kênh",
+
+  // Display Settings
+  "settings_main_btn_display": "Cài đặt Hiển thị",
+
+  // Filter Settings
+  "settings_main_btn_filter": "Cài đặt Bộ lọc",
+
+  // Other Settings
+  "settings_main_btn_general": "Cài đặt Chung",
+
+  // Need help?
+  "settings_main_btn_help": "",
+
+  // Advanced
+  "settings_main_btn_more": "Xem thêm",
+
+  // Notification Settings
+  "settings_main_btn_notifications": "Cài đặt Thông báo",
+
+  // Change role mention
+  "settings_main_btn_role_change": "Đổi vai trò muốn ping",
+
+  // Mention a role
+  "settings_main_btn_role_set": "Ping vai trò",
+
+  // Need help?
+  "settings_main_help_1": "",
+
+  // Read the guide
+  "settings_main_help_solution_guide_1": "",
+
+  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
+  "settings_main_help_solution_guide_2": "",
+
+  // Join our support server
+  "settings_main_help_solution_server_1": "",
+
+  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
+  "settings_main_help_solution_server_2": "",
+
+  // Tl;dr
+  "settings_main_help_solution_tldr_1": "",
+
+  // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
+  "settings_main_help_solution_tldr_2": "",
+
+  // Settings
+  "settings_main_ui_1": "Cài đặt",
+
+  // Looks like you still didn't finish setting up the bot :eyes:\n\nWhy don't you start by picking a channel for me to send free games to?
+  "settings_main_ui_2_guided_channel_delayed": "Có vẻ như bạn vẫn chưa hoàn thành việc thiết lập bot :eyes:\n\nTại sao bạn không bắt đầu bằng cách chọn một kênh để tớ gửi trò chơi miễn phí?\n",
+
+  // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel I can use to keep you and your friends up to date with free games! Click the blue button below to continue:
+  "settings_main_ui_2_guided_channel_normal": "Chào mứng bạn đến với FreeStuff :wave:\n\nRất vui vì bạn đã tìm thấy cách để đến trang cài đặt! Hãy bắt đầu bằng cách chọn một kênh mà tớ có thể sử dụng để cập nhật cho bạn và bạn bè của bạn những trò chơi miễn phí! Nhấp vào nút màu xanh lam bên dưới để tiếp tục:",
+
+  // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
+  "settings_main_ui_2_guided_display_delayed": "Bạn có thêm một số cài đặt để kiểm tra! Chính là các chủ đề, tùy chọn tiền tệ và những thứ khác. Hứng thú chứ? Nút màu xanh lam sẽ đưa bạn đến đó!",
+
+  // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
+  "settings_main_ui_2_guided_display_normal": "Và cuối cùng là cài đặt hiển thị!",
+
+  // Welcome back! You might be missing out on some free games because the filter options are not configured to your likings! Better check them out real quick, it doesn't take long :eyes:
+  "settings_main_ui_2_guided_filter_delayed": "Chào mừng trở lại! Bạn có thể bỏ lỡ một số trò chơi miễn phí vì các tùy chọn bộ lọc không được cấu hình theo sở thích của bạn! Tốt hơn hết hãy kiểm tra chúng thật nhanh chóng, không mất nhiều thời gian đâu :eyes:",
+
+  // Okay awesome, let's continue with filter settings. You might be missing out on some games if you don't check those out!
+  "settings_main_ui_2_guided_filter_normal": "Tiếp tục với cài đặt bộ lọc nào. Bạn có thể bỏ lỡ một số trò chơi nếu bạn không kiểm tra nó!",
+
+  // Awesome, you're done with setting up the FreeStuff Bot! Enjoy your free games! :partying_face:\n\nLooking for other people to talk about free games? [Join our Discord Server]({invite})\n\n*You can always return to this page using /settings*
+  "settings_main_ui_2_guided_finished": "Tuyệt vời, bạn đã hoàn tất việc thiết lập Bot FreeStuff! Thưởng thức các trò chơi miễn phí của bạn nhé! :partying_face:\n\nKiếm cạ để bàn luận về các trò chơi miễn phí? [Tham gia Máy chủ Discord của chúng tôi]({invite})\n\n*Bạn luôn có thể quay lại trang này bằng cách sử dụng /settings*",
+
+  // Wanna continue setting up the bot?\nI'd suggest you check out role mentions next! Just click the button below to see what's possible!
+  "settings_main_ui_2_guided_role_delayed": "Bạn có muốn tiếp tục thiết lập bot không?\nTớ khuyên bạn nên xem các đề cập đến vai trò tiếp theo! Chỉ cần nhấp vào nút bên dưới để xem tiếp!",
+
+  // Good job! Next up, maybe wanna get notified when a game becomes free? I'm talking about pinging a role or maybe even @everyone?\nClick the button below to see what's possible :eyes:
+  "settings_main_ui_2_guided_role_normal": "Tiếp theo, có thể bạn muốn nhận thông báo khi có một trò chơi miễn phí. Tớ đang nói về việc ping một vai trò hoặc thậm chí có thể là @everyone.\nNhấp vào nút bên dưới tiếp tục :eyes:",
+
+  // Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.
+  "settings_main_ui_2_regular": "Chào bạn!\n\nKhông tìm thấy cài đặt cần thiết? Cần trợ giúp để cấu hình bot đúng cách? Hoặc có bất kỳ câu hỏi nào khác? [Nhấp vào đây để xem Hướng dẫn]({guide}) hoặc [tham gia Máy chủ hỗ trợ của chúng tôi]({invite}) để được trợ giúp.",
+
+  // Opt out of Beta
+  "settings_more_beta_off_prompt": "Không tham gia Beta",
+
+  // You're not in beta!
+  "settings_more_beta_off_state": "Bạn chưa tham gia Beta",
+
+  // Opt in to Beta
+  "settings_more_beta_on_prompt": "Tham gia Beta",
+
+  // You're in beta!
+  "settings_more_beta_on_state": "Bạn đã tham gia Beta",
+
+  // Disable Boring Mode
+  "settings_more_boringmode_off_prompt": "",
+
+  // Boring Mode is off
+  "settings_more_boringmode_off_state": "",
+
+  // Enable Boring Mode
+  "settings_more_boringmode_on_prompt": "",
+
+  // Boring Mode is on
+  "settings_more_boringmode_on_state": "",
+
+  // View Server Data
+  "settings_more_btn_guilddata": "Xem Dữ liệu Máy chủ",
+
+  // Re-send Messages
+  "settings_more_btn_resend": "Gửi lại Thông báo",
+
+  // Send Test Message
+  "settings_more_btn_test": "Test Thông báo",
+
+  // Mysterious Button
+  "settings_more_mysterious_button": "",
+
+  // Advanced Options
+  "settings_more_ui_1": "Xem thêm",
+
+  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
+  "settings_more_ui_2": "**Test Thông báo** sẽ gửi tin nhắn test với các thiết lập của bạn. Dùng cái này để đảm bảo mọi thứ hoạt động trơn tru. Lưu ý cái này sẽ ping theo thiết lập của bạn.\n\n**Gửi lại Thông báo** sẽ gửi lại thông báo của tất cả những game vẫn đang miễn phí. Xóa nhầm thông báo? Thay đổi cài đặt? Hoặc chỉ muốn thông báo lại lần nữa cho cẩn thận? Hãy ấn nút này!\n\n**Xem Dữ liệu Máy chủ** sẽ hiển thị những thông tin mà tớ lưu giữ về máy chủ này.\n\n**Tham gia Beta** sẽ cho phép bạn cập nhật các tính năng sớm. Lưu ý điều này có thể gồm có những bản cập nhật không ổn định. Đôi khi bạn cũng có thể nhận được yêu cầu để gửi phản hồi nếu tham gia.",
+
+  // You need \"Manage Server\" permissions to edit this
+  "settings_permission_disclaimer": "Bạn cần quyền \"Quản lý máy chủ\" để chỉnh sửa điều này",
+
+  // Add Role
+  "settings_role_add_role": "Thêm Người nhận/Role",
+
+  // @everyone
+  "settings_role_list_everyone_1": "@everyone",
+
+  // Ping everyone. That's a lot of people.
+  "settings_role_list_everyone_2": "Ping tất cả mọi người.",
+
+  // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
+  "settings_role_list_hidden_overflow_disclaimer": "Một số vai trò có thể bị ẩn vì bạn có quá nhiều vai trò để hiển thị cùng một lúc. Chuyển vai trò của bạn lên đầu nếu bạn không thể tìm thấy nó trong danh sách!",
+
+  // Some roles might be hidden because the bot doesn't have the `Mention All Roles` permission!
+  "settings_role_list_hidden_permissions_disclaimer": "Một số vai trò có thể bị ẩn vì tớ không có quyền `Đề cập tất cả các vai trò`!",
+
+  // Disable Mentions
+  "settings_role_list_no_mention_1": "Vô hiệu hóa ping",
+
+  // Do not ping anyone.
+  "settings_role_list_no_mention_2": "Không ping ai cả.",
+
+  // None selected
+  "settings_role_list_remove_role_1": "Chưa chọn",
+
+  // Click here to remove this role
+  "settings_role_list_remove_role_2": "Nhấn vào đây để xóa người nhận này",
+
+  // Notification Settings
+  "settings_role_ui_1": "Cài đặt Thông báo",
+
+  // Pick a role to ping when a new game becomes free!
+  "settings_role_ui_2": "Chọn một vai trò để ping khi có thông báo game miễn phí",
+
+  // More
+  "settings_sub_btn_more": "Xem thêm",
+
+  // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
+  "settings_subscription_locked_premium": "{subscription} là một gói cao cấp. Nếu bạn muốn nhận tin tức từ mục này [nhấn vào đây để xem thêm.]({website})",
+
+  // More
+  "settings_subscription_more_ui_1": "Nâng cao",
+
+  // **Send Test Message** sends a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.\n\n**Re-send Messages** will re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This button is for you!
+  "settings_subscription_more_ui_2": "**Gửi Tin Nhắn Mẫu** gửi một tin nhắn mẫu với tất cả các tùy chọn mà bạn đã cấu hình. Sử dụng chức năng này để đảm bảo 100% mọi thứ đang hoạt động. Hãy lưu ý rằng việc này sẽ ping mọi người, nếu được cài để làm vậy.\n\n**Gửi Lại Tin Nhắn** sẽ gửi lại một tin nhắn cho tất cả các ưu đãi trong mục còn hiệu lực. Lỡ tay xóa một tin nhắn? Thay đổi cài đặt? Hoặc chỉ muốn gửi cùng thông báo hai lần? Nút này dành cho bạn!",
+
+  // Click here to subscribe
+  "settings_subscription_not_subscribed_1": "Nhấn vào đây để theo dõi",
+
+  // Pick a channel below to subscribe to {subscription}
+  "settings_subscription_not_subscribed_2": "Chọn một kênh ở phía dưới để theo dõi {subscription}",
+
+  // Your Premium subscription expired. We have paused your notifications for {subscription} until you resubscribe.
+  "settings_subscription_premium_expired": "Gói Đăng Ký Cao Cấp đã hết hạn. Chúng tôi đã tạm dừng các thông báo cho {subscription} đến khi bạn đăng ký lại.",
+
+  // {subscription} is a premium subscription. You can subscribe.
+  "settings_subscription_unlocked_premium": "{subscription} là một gói đăng ký cao cấp. Bạn có thể đăng ký.",
+
+  // Unsubscribe {subscription}
+  "settings_subscription_unsubscribe_1": "Hủy theo dõi {subscription}",
+
+  // You will stop receiving games from this category.
+  "settings_subscription_unsubscribe_2": "Bạn sẽ ngưng nhận trò chơi từ mục này.",
+
+  // Slash commands are here!
+  "slash_command_introduction_info_short": "Tớ có lệnh gạch chéo rồi!\n",
+
+  // Slash commands are here! Use **{command}** from now on!
+  "slash_command_introduction_label_long": "Từ giờ dùng **{command}** nhé!",
+
+  // Use **{command}** from now on!
+  "slash_command_introduction_label_short": "Từ giờ dùng **{command}** nhé!",
+
+  // {user} used {command}
+  "slash_command_source": "{user} đã sử dụng {command}",
+
+  // This subscription will show you all games newly added to the Game Pass suite of titles. These games require a Game Pass subscription to play for free while the offer lasts.\nYou can filter by price and quality.
+  "subscription_gamepass_description": "Mục đăng ký này sẽ hiển thị cho bạn tất cả các trò chơi mới được thêm vào Game Pass. Các trò chơi này yêu cầu gói đăng ký Game Pass để chơi miễn phí khi ưu đãi còn hiệu lực.\nBạn có thể lọc theo giá và chất lượng.",
+
+  // Game Pass
+  "subscription_gamepass_name": "Game Pass",
+
+  // This subscription will show you games that have a 100% discount for a limited amount of time. You can keep those games after the sale is over.\nYou can filter by price, platform and quality.
+  "subscription_keep_description": "Mục đăng ký này sẽ hiển thị cho bạn các trò chơi đang được giảm giá 100% trong một khoảng thời gian giới hạn. Bạn có thể giữ các trò chơi này sau khi đợt khuyến mãi kết thúc.\nBạn có thể lọc theo giá, nền tảng và chất lượng.",
+
+  // 100% Discount
+  "subscription_keep_name": "Giảm giá 100%",
+
+  // This subscription will show you all sorts of other offers that are available at a 100% discount for a limited amount of time. This does usually not include games but may include other software such as DLCs or non-gaming related items.\nYou can filter by price, platform and product type.
+  "subscription_other_description": "Mục đăng ký này sẽ hiển thị cho bạn tất cả các ưu đãi 100% khác đang có sẵn trong khoảng thời gian giới hạn. Các gói này thường không bao gồm các trò chơi nhưng có thể bao gồm các phần mềm khác như DLCs hoặc các món đồ không liên quan đến trò chơi.\nBạn có thể lọc theo giá, nền tảng và loại hàng.",
+
+  // DLCs & More
+  "subscription_other_name": "DLCs & Khác",
+
+  // This subscription will show you all games newly added to the Prime Gaming suite of titles. You require a Prime Gaming subscription to obtain games from this category. You can keep them after the offer expired.\nYou can filter by price and quality.
+  "subscription_prime_description": "Gói đăng ký này sẽ hiển thị cho bạn tất cả các trò chơi mới được thêm vào Prime Gaming. Bạn cần đăng ký gói Prime Gaming để sở hữu các trò chơi ở mục này. Bạn có thể giữ lại chúng sau khi gói ưu đãi hết hạn.\nBạn có thể lọc theo giá và chất lượng.",
+
+  // Prime Gaming
+  "subscription_prime_name": "Prime Gaming",
+
+  // Prime Gaming: Games
+  "subscription_primegames_name": "Prime Gaming: Trò chơi",
+
+  // Prime Gaming: Loot
+  "subscription_primeloot_name": "Prime Gaming: Quà tặng",
+
+  // This subscription will show you games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
+  "subscription_timed_description": "Mục đăng ký này sẽ hiển thị cho bạn các trò chơi mà bạn có thể chơi thử miễn phí trong một khoảng thời gian giới hạn. Bạn không thể giữ lại các trò chơi này sau khi hết thời gian và phải mua để tiếp tục chơi.\nBạn có thể lọc theo giá, nền tảng và chất lượng.",
+
+  // Free Weekend
+  "subscription_timed_name": "Tuần lễ Miễn phí",
+
+  // Terms of Service
+  "terms_of_service": "Điều khoản Dịch vụ",
+
+  // You cannot get less than this
+  "theme_eight_desc": "Không còn cái nào ít thông tin hơn nữa",
+
+  // Bare minimum
+  "theme_eight_name": "Thật sự tối giản",
+
+  // A theme with minimal extra info
+  "theme_five_desc": "Chủ đề với một chút thông tin bổ sung",
+
+  // Keep it simple
+  "theme_five_name": "Đơn giản",
+
+  // Only weird people chose this
+  "theme_four_desc": "Ai ngớ ngẩn mới chọn cái này :>",
+
+  // More info less images!
+  "theme_four_name": "Thêm thông tin, không ảnh",
+
+  // If you need some context but don't like embeds
+  "theme_nine_desc": "Nếu bạn cần thêm thông tin nhưng không thích embeds",
+
+  // Text only!
+  "theme_nine_name": "Tin nhắn văn bản",
+
+  // Pretty basic
+  "theme_one_desc": "Cơ bản",
+
+  // Default Theme
+  "theme_one_name": "Chủ đề mặc định",
+
+  // It's literally just the link
+  "theme_seven_desc": "Thật sự là chỉ gửi đường link thôi",
+
+  // Literally just the link
+  "theme_seven_name": "Quăng link là được",
+
+  // A theme with almost minimal extra info
+  "theme_six_desc": "Chủ đề với một số thông tin bổ sung",
+
+  // Images are cool!
+  "theme_six_name": "Thêm ảnh",
+
+  // For ArchiSteamFarm users and alike
+  "theme_ten_desc": "Dành cho người dùng ArchiSteamFarm",
+
+  // Advanced
+  "theme_ten_name": "Nâng cao",
+
+  // With a short description and ratings
+  "theme_three_desc": "Với mô tả ngắn và đánh giá",
+
+  // More info!
+  "theme_three_name": "Nhiều thông tin!",
+
+  // If you don't like images
+  "theme_two_desc": "Nếu bạn không thích ảnh trong thông báo",
+
+  // No photos please!
+  "theme_two_name": "Không ảnh",
+
+  // We send a message in your channel. That's all.
+  "thread_opt_a_description": "Chúng tôi gửi một tin nhắn vào kênh của bạn. Chỉ vậy thôi.",
+
+  // No threads
+  "thread_opt_a_name": "Không có hội thoại",
+
+  // Message goes in your channel but we start a thread for it.
+  "thread_opt_b_description": "Tin nhắn được gửi vào kênh của bạn nhưng chúng tôi tạo một hội thoại cho nó.",
+
+  // Thread below
+  "thread_opt_b_name": "Hội thoại bên dưới",
+
+  // We create a new thread and post the message there.
+  "thread_opt_c_description": "Chúng tôi tạo một hội thoại mới và gửi tin nhắn vào đó.",
+
+  // Message in thread
+  "thread_opt_c_name": "Tin nhắn trong hội thoại",
+
+  // English translation available! If you want me to use English, use`/settings`
+  "translation_available": "Tớ cũng có thể nói tiếng Việt đấy! Nếu bạn muốn sử dụng, nhập `@FreeStuff set language vietnamese`",
+
+  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
+  "translation_available_generic": "",
+
+  // English translation by:
+  "translation_by": "Tiếng Việt dịch bởi:",
+
+  // Maanex
+  "translators": "21mtd",
+
+  // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
+  "webhook_create_auditlog_reason": "FreeStuff đang sử dụng Webhooks để phân phối thông báo trên quy mô lớn. Vui lòng không xóa webhook này.",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_missing_permissions_1": "Ơ kìa!",
+
+  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
+  "webhook_migration_failed_missing_permissions_2": "Có vẻ như tớ thiếu quyền \"Quản lý Webhook\" rồi. Vui lòng cấp tớ quyền đó và thử lại nhé!",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_too_many_hooks_1": "",
+
+  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
+  "webhook_migration_failed_too_many_hooks_2": "",
+
+  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
+  "webhook_migration_notice": "FreeStuff thiếu một số quyền nhất định. Quản trị viên máy chủ vui lòng chạy **/settings** để biết thêm thông tin chi tiết, nếu không tớ có thể sẽ ngừng hoạt động!"
+}

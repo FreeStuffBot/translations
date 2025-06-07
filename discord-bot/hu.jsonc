@@ -1,0 +1,1291 @@
+{
+  // Get it for free
+  "announcement_button_text": "Szerezd meg ingyen",
+
+  // via {website}
+  "announcement_footer": "{website} ról",
+
+  // This is a preview message
+  "announcement_footer_test": "Jól néz ki? Ha nem, írd:  @FreeStuff settings",
+
+  // for a very long time
+  "announcement_free_for_a_long_time": "Határozatlan időre",
+
+  // for a week
+  "announcement_free_for_a_week": "egy hétig",
+
+  // until {date}
+  "announcement_free_until_date": "{date}-ig",
+
+  // until {day}
+  "announcement_free_until_day": "{day} ig",
+
+  // until {day} next week
+  "announcement_free_until_day_next_week": "Következő hét {day}ig",
+
+  // Free Game!
+  "announcement_header": "Ingyenes játék!",
+
+  // Claim for **Free**
+  "announcement_price_gamepass": "Szerezd be **ingyen**",
+
+  // Claim for **Free** until {date}
+  "announcement_price_gamepass_until": "Szerezd be **ingyen** eddig {date}",
+
+  // {prices}
+  "announcement_price_generic": "",
+
+  // {prices} until {date}
+  "announcement_price_generic_until": "",
+
+  // {prices}
+  "announcement_price_keep": "{prices}",
+
+  // {prices} until {date}
+  "announcement_price_keep_until": "{prices} eddig {date}",
+
+  // {prices}
+  "announcement_price_other": "{prices}",
+
+  // {prices} until {date}
+  "announcement_price_other_until": "{prices} eddig {date}",
+
+  // Claim for **Free**
+  "announcement_price_prime": "Szerezd be **Ingyen**",
+
+  // Claim for **Free** until {date}
+  "announcement_price_prime_until": "Szerezd be **ingyen** eddig {date}",
+
+  // **Free to play**
+  "announcement_price_timed": "**Ingyenesen játszható**",
+
+  // **Free to play** until {date}
+  "announcement_price_timed_until": "**Ingyenesen játszható** eddig {date}",
+
+  // Free
+  "announcement_pricetag_free": "Ingyenes",
+
+  // **{name}** is free!\n<{url}>
+  "announcement_theme9": "**{name}** ingyenes!\n<{url}>",
+
+  // {names}
+  "announcement_thread_name_gamepass_multiple_below": "{names}",
+
+  // {amount} new games for Game Pass!
+  "announcement_thread_name_gamepass_multiple_outside": "{amount} új játék elérhető Game Passhoz!",
+
+  // {name}
+  "announcement_thread_name_gamepass_single_below": "{name}",
+
+  // New Game Pass content: {name}!
+  "announcement_thread_name_gamepass_single_outside": "Új Game Pass tartalom: {name}!",
+
+  // {names}
+  "announcement_thread_name_keep_multiple_below": "{names}",
+
+  // {amount} games are free!
+  "announcement_thread_name_keep_multiple_outside": "{amount} játék ingyenes!",
+
+  // {name}
+  "announcement_thread_name_keep_single_below": "{name}",
+
+  // {name} is free!
+  "announcement_thread_name_keep_single_outside": "{name} Ingyenes!",
+
+  // {names}
+  "announcement_thread_name_other_multiple_below": "{names}",
+
+  // {amount} games are free!
+  "announcement_thread_name_other_multiple_outside": "{amount} játék ingyenes!",
+
+  // {name}
+  "announcement_thread_name_other_single_below": "{name}",
+
+  // {name} is free!
+  "announcement_thread_name_other_single_outside": "{name} ingyenes!",
+
+  // {names}
+  "announcement_thread_name_prime_multiple_below": "{names}",
+
+  // {amount} new games for Prime!
+  "announcement_thread_name_prime_multiple_outside": "{amount} új játék Primehoz!",
+
+  // {name}
+  "announcement_thread_name_prime_single_below": "{name}",
+
+  // New Prime loot: {name}!
+  "announcement_thread_name_prime_single_outside": "Új Prime zsákmány: {name}!",
+
+  // {names}
+  "announcement_thread_name_timed_multiple_below": "{names}",
+
+  // Free weekend for {amount} games!
+  "announcement_thread_name_timed_multiple_outside": "Hétvégére ingyenes {amount} játék!",
+
+  // {name}
+  "announcement_thread_name_timed_single_below": "{name}",
+
+  // Free weekend for {name}!
+  "announcement_thread_name_timed_single_outside": "Hétvégére ingyenes: {name}",
+
+  // {title} is free!
+  "announcement_title_statement": "{title} ingyenes!",
+
+  // An error occurred!
+  "cmd_error_fatal_1": "Hiba történt",
+
+  // We're trying to fix this issue as soon as possible!
+  "cmd_error_fatal_2": "A lehető leggyorsabban próbáljuk orvosolni a hibát!",
+
+  // A wild error occurred!
+  "cmd_error_fixable_1": "Nagyobb hiba lépett fel!",
+
+  // Can you please try that again? If this message keeps appearing please wait a bit or [reach out to our support team]({discordInvite}), thanks.
+  "cmd_error_fixable_2": "Újra tudnád próbálni? Ha ez az üzenet többször is megjelenik várj egy kicsit vagy keresd meg ügyfélszolgálatunkat({discordInvite}), Köszi.",
+
+  // An error occurred!
+  "cmd_error_readd_1": "Hiba törtent",
+
+  // Try removing the bot from your server and adding it back in. If this does not help, [please join the support server]({discordInvite}).
+  "cmd_error_readd_2": "Próbáld meg eltávolítani a botot a szerveredről majd újra meghívni. Ha ez nem segít csatlakozz Támogatási szerverünkre",
+
+  // **Ends soon:**
+  "cmd_free_ends_soon": "**Hamarosan véget ér:**",
+
+  // (Ends soon!)
+  "cmd_free_ends_soon2": "(Hamarosan lejár!)",
+
+  // None :(
+  "cmd_free_no_freebies": "Nincs :(",
+
+  // Nothing free right now :(
+  "cmd_free_no_freebies2": "Semmi sem ingyenes jelenleg :(",
+
+  // These games are currently free:
+  "cmd_free_title": "Jelenleg ingyenes játékok",
+
+  // Currently on Game Pass:
+  "cmd_free_title_gamepass": "",
+
+  // Currently free to keep (100% off)
+  "cmd_free_title_keep": "Jelenleg ingyenesen megtartható (100%-os Akció)",
+
+  // Other freebies (100% off)
+  "cmd_free_title_other": "Egyéb ingyenesek (100%-os akció)",
+
+  // Prime Gaming: Games
+  "cmd_free_title_primegames": "Prime Gaming: Játékok",
+
+  // Prime Gaming: Loot
+  "cmd_free_title_primeloot": "Prime Gaming: Zsákmány",
+
+  // Currently free to play
+  "cmd_free_title_timed": "Jelenleg Ingyenesen játszható",
+
+  // until
+  "cmd_free_until": "ig",
+
+  // FreeStuff Bot
+  "cmd_info_1": "FreeStuff Bot",
+
+  // FreeStuff Bot made with :heart: by [some amazing people]({amazingPeople})\n\n[About / Website]({website})\n\n[Add it to your server!]({inviteLink})\n\n[Report a bug or get in contact]({discordInvite})
+  "cmd_info_2": "FreeStuff Bot :heart: [pár elképesztő embertől]({amazingPeople})\n\n[Rólunk / Weboldal]({website})\n\n[Add hozzá a szerveredhez!]({inviteLink})\n\n[Hiba bejelentés / Támogatási szerver]({discordInvite})",
+
+  // :eyes:
+  "cmd_invite_1": ":eyes:",
+
+  // [Click here to add me to your server!]({inviteLink})
+  "cmd_invite_2": "[Kattints ide a bot hozzáadásához!]({inviteLink})",
+
+  // You're going too fast!
+  "cmd_on_cooldown_1": "Túl gyors! Várj picit",
+
+  // This command can only be used every {time} seconds. Please wait a bit!
+  "cmd_on_cooldown_2": "Ez a parancs minden {time} másodpercenként használható. Kérlek várj!",
+
+  // Now that's a twist!
+  "cmd_resend_all_filtered_out_1": "Na ez egy csavar!",
+
+  // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
+  "cmd_resend_all_filtered_out_2": "Vannak ingyenes játékok, de a szűrő beállításaid nem engedik egyiket sem hogy kiírjam! Ha nem így szeretnéd akkor nézd meg újra a Szűrő beállításaid.",
+
+  // The webhook in {channel} is broken.
+  "cmd_resend_invalid_webhook_1": "A Webhook a {channel} csatornán elromlott :(",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_resend_invalid_webhook_2": "Ez ijesztőnek hangzik. Ahhoz hogy ezt kijavítsd változtasd meg a csatornát egy másikra majd vissza a {channel} csatornára. Ha a hiba továbbra is fennáll kérj segítséget csapatunktól!",
+
+  // Uh oh!
+  "cmd_resend_nothing_free_1": "Uh őő...",
+
+  // There's not a single game from this category for free right now... How could that have happened :thinking:
+  "cmd_resend_nothing_free_2": "Jelenleg nincs ingyenes játék... Ez hogy történthetett? :thinking:",
+
+  // Aaaaaand there it goes!
+  "cmd_resend_success_1": "Ééééés ott megy!",
+
+  // Check out {channel}!
+  "cmd_resend_success_2": "Less rá {channel}!",
+
+  // That is an example game. And this here is the example description of said example game. I hope you have a nice day :)
+  "cmd_test_announcement_description": "Ez egy minta játék. Ez pedig egy minta leírás a játékról. Remélem szép napod van :)",
+
+  // Game name here
+  "cmd_test_announcement_header": "Játék neve ide",
+
+  // The webhook in {channel} is broken.
+  "cmd_test_invalid_webhook_1": "A Webhook a {channel} csatornán elromlott :(",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_test_invalid_webhook_2": "Ez ijesztőnek hangzik. Ahhoz hogy ezt kijavítsd változtasd meg a csatornát egy másikra majd vissza a {channel} csatornára. Ha a hiba továbbra is fennáll kérj segítséget csapatunktól!",
+
+  // :x:
+  "cmd_test_nochannel_1": ":x:\n",
+
+  // I don't know where to post the announcements!\nGo to /settings → Set Channel
+  "cmd_test_nochannel_2": "Nincs megadva szoba ahova írhatnék :(\nHasználd a /settings parancsot a beállításhoz",
+
+  // Oh well...
+  "cmd_test_noembeds_1": "Nahát...",
+
+  // The theme you're using uses embeds to make the message look nicer... now the thing is, I don't have the permission to send embeds in {channel}! Either give me the permission `Embed Links` or choose a different theme that doesn't use embeds!
+  "cmd_test_noembeds_2": "A téma amit használsz \"embed\"-eket használ hogy szebben nézzenek ki az üzenetek, na hát most az van hogy nincs engedélyem \"embed\"-eket küldeni {channel} csatornába. Vagy add az `Embed Links` engedélyt vagy válassz egy másik témát amiben nincs \"embed\".",
+
+  // Whoops!
+  "cmd_test_nosee_1": "Upsz!",
+
+  // Looks like I don't have the permission to see the channel {channel}!
+  "cmd_test_nosee_2": "Háát úgy néz ki hogy nincs meg az engedélyem hogy lássam a(z) {channel} csatornát",
+
+  // Whoops!
+  "cmd_test_nosend_1": "Upsz!",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_test_nosend_2": "Háát úgy néz ki hogy nincs meg az engedélyem hogy üzenetet tudja küldeni a(z) {channel} csatornába",
+
+  // Aaaaaand there it goes!
+  "cmd_test_success_1": "Éééééééés Tesséék!!",
+
+  // Check out {channel}!
+  "cmd_test_success_2": "Csekkold meg: {channel}!",
+
+  // Enjoying the free games?
+  "cmd_vote_1": "Élvezed az ingyenes játékokat?",
+
+  // [Click here to vote for me on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases it's visibility and helps others discover free games too! Thank you for every vote!*
+  "cmd_vote_2": "[Kattints ide hogy szavazz a botra]({topGGLink})\n\nA FreeStuff Bot még ezen a weboldalakon is fent van:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*A szavazás segít másoknak felfedezni az ingyenes játékokat! Köszönjük a szavazatod!*",
+
+  // Black
+  "color_black": "Fekete",
+
+  // Blue
+  "color_blue": "Kék",
+
+  // Green
+  "color_green": "Zöld",
+
+  // Mint
+  "color_mint": "Menta",
+
+  // No color
+  "color_none": "",
+
+  // Pink
+  "color_pink": "Rózsaszín",
+
+  // Red
+  "color_red": "Piros",
+
+  // White
+  "color_white": "Fehér",
+
+  // Yellow
+  "color_yellow": "Sárga",
+
+  // Lev (BGN)
+  "currency_bgn": "Leva (BGN)",
+
+  // Real (BRL)
+  "currency_brl": "Reál (BRL)",
+
+  // Bitcoin (brrrr)
+  "currency_btc": "Bitcoin (BTC)",
+
+  // Euro (EUR)
+  "currency_euro": "Euro (EUR)",
+
+  // Pounds (GBP)
+  "currency_gbp": "Font (GBP)",
+
+  // Forint (HUF)
+  "currency_huf": "Forint (HUF)",
+
+  // Złoty (PLN)
+  "currency_pln": "Zloty (PLN)",
+
+  // before
+  "currency_sign_dollar_position": "előtt",
+
+  // before
+  "currency_sign_euro_position": "Előtt",
+
+  // before
+  "currency_sign_position": "előtt",
+
+  // Dollar (USD)
+  "currency_usd": "Dollár (USD)",
+
+  // en-US
+  "date_format": "hu",
+
+  // usd
+  "default_currency": "huf",
+
+  // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
+  "donation_notice": "Ez a bot segített spórolni? Fontold meg a [támogatást]({url}), hogy életben tartsd. Köszönöm!",
+
+  // Claim All
+  "expressbutton_label": "Mindet beszed",
+
+  // {next}
+  "fluid_list_delimiter_first": "",
+
+  // {prev}, and {next}
+  "fluid_list_delimiter_last": "",
+
+  // {prev}, {next}
+  "fluid_list_delimiter_middle": "",
+
+  // {prev} and {next}
+  "fluid_list_delimiter_only": "",
+
+  // Third Party Provider
+  "game_meta_flag_thirdparty": "Harmadik féltől származó",
+
+  // Low Quality
+  "game_meta_flag_trash": "Alacsony Minőségű",
+
+  // Back
+  "generic_back": "Vissza",
+
+  // Cancel
+  "generic_cancel": "Mégsem",
+
+  // Cancelled
+  "generic_cancelled": "Törölve",
+
+  // Close
+  "generic_close": "Bezár",
+
+  // Continue
+  "generic_continue": "Folytatás",
+
+  // Delete
+  "generic_delete": "Törlés",
+
+  // Help
+  "generic_help": "Segítség",
+
+  // Next
+  "generic_next": "Következő",
+
+  // Ok
+  "generic_ok": "Oké",
+
+  // Okay
+  "generic_okay": "Oké",
+
+  // Help is on the way!
+  "help_main_1": "A segítség úton van!",
+
+  // The FreeStuff bot keeps you up to date with free games!\n\nUse /free to get a list of free games\n\nUse /settings to configure the bot and to subscribe to free games notifications
+  "help_main_2": "A FreeStuff bot mindig tájékozatva tart az ingyenes játékokról\n\nHasználd a /free parancsot, hogy lást az ingyenes játékok listáját\n\nHasználd a /settings parancsot, hogy beállítsd a botot és feliratkozz az ingyenes játékok értesítéseire",
+
+  // You are not {owner}!
+  "interaction_not_owned_1": "Te nem vagy {owner}!",
+
+  // Thus you cannot interact with this widget because you did not create it.\nRun **{command}** to get your own widget.
+  "interaction_not_owned_2": "Nem léphetsz interakcióba ezzel a modullal mert nem te készítetted.\nHasználd a **{command}** parancsot hogy létrehozd a sajátod.",
+
+  // Sorry but I cannot let you do this!
+  "interaction_not_permitted_1": "Bocsánat, de nem engedhetem hogy ezt tedd!",
+
+  // Only an admin of this server can do this. You are not an admin of this server.
+  "interaction_not_permitted_2_admin": "Csak adminisztrátor teheti ezt. Te nem vagy adminisztrátor ezen a szerveren!",
+
+  // This button is reserved for some very special people...\nOf course you are special too! Yes! *But not special enough*
+  "interaction_not_permitted_2_bot_admin": "Ez a gomb néhány igen különleges embernek van fenntartva...\nTermészetesen te is különleges vagy! Igen! *De nem elég különleges*",
+
+  // I also cannot tell you why. But someone somewhere doesn't want you to do this...\nDo you have many enemies?
+  "interaction_not_permitted_2_generic": "Én sem tudom megmondani miért. De valaki valahol nem akarja, hogy ezt tedd...\nSok ellenséged van?",
+
+  // I would love to let you though! All you have to do is get yourself some **Manage Messages** permissions!
+  "interaction_not_permitted_2_manage_messages": "Szívesen megengedném neked! De ehhez annyit kell tenned, hogy szerzel magadnak **Üzenetek kezelése** jogot!",
+
+  // I was asked to prevent anyone without the **Manage Server** permission from going any further!
+  "interaction_not_permitted_2_manage_server": "Arra lettem kérve hogy **Szerver kezelése** jog nélkül senkit ne engedjek ennél tovább menni!",
+
+  // Hooooold up!
+  "interaction_server_only_1": "Vááááááárj!",
+
+  // You cannot run this command in direct messages! Please try using it in a Discord Server.
+  "interaction_server_only_2": "Ezt a parancsot nem tudod privát üzenetben használni! Kérlek próbáldd meg a Discord szerveren.",
+
+  // :flag_us:
+  "lang_flag_emoji": ":flag_hu:",
+
+  // English (USA)
+  "lang_name": "Magyar",
+
+  // english-us
+  "lang_name_en": "hungarian",
+
+  // Silence
+  "mysterious_modal_no_response_1": "Csend",
+
+  // No one answers...
+  "mysterious_modal_no_response_2": "Senki sem válaszol...",
+
+  // ...
+  "mysterious_modal_no_response_3": "...",
+
+  // No response
+  "mysterious_modal_no_response_4": "Nincs válasz",
+
+  // Nobody heard you...
+  "mysterious_modal_no_response_5": "Senki sem hallott téged...",
+
+  // What do you want?
+  "mysterious_modal_prompt_1": "Mit akarsz?",
+
+  // What do you desire?
+  "mysterious_modal_prompt_2": "Mire vágysz?",
+
+  // The forest is listening...
+  "mysterious_modal_prompt_3": "Az erdő figyel...",
+
+  // Speak your mind...
+  "mysterious_modal_prompt_4": "Mondd ki a véleményed...",
+
+  // You are ready!
+  "mysterious_modal_prompt_5": "Készen állsz!",
+
+  // Shout into the forest!
+  "mysterious_modal_title": "Kiálts az erdőbe!",
+
+  // Open in browser
+  "open_in_browser": "Megnyitás böngészőben",
+
+  // Open in Epic Games Launcher
+  "open_in_epic_games_client": "Megnyitás Epic Gamesben",
+
+  // Open in Steam Client
+  "open_in_steam_client": "Megnyitás Steamen",
+
+  // About
+  "page_about": "Rólunk",
+
+  // Attributions
+  "page_attributions": "",
+
+  // Help Page
+  "page_help": "Segítség",
+
+  // Invite the bot
+  "page_invite": "Hívd meg a Bot-ot",
+
+  // Bot Settings
+  "page_settings": "Bot Beállításai",
+
+  // Support
+  "page_support": "Támogatás",
+
+  // Manage Webhooks
+  "permission_manage_webhooks": "Webhookok kezelése",
+
+  // View Channel
+  "permission_view_channel": "Csatorna megtekintése",
+
+  // Apple App Store
+  "platform_apple": "",
+
+  // Discord
+  "platform_discord": "",
+
+  // Epic Games
+  "platform_epic": "",
+
+  // GOG.com
+  "platform_gog": "",
+
+  // Google Play
+  "platform_google": "",
+
+  // Humble Bundle
+  "platform_humble": "",
+
+  // itch.io
+  "platform_itch": "",
+
+  // Origin
+  "platform_origin": "",
+
+  // Other
+  "platform_other": "",
+
+  // Play Station
+  "platform_ps": "",
+
+  // Steam
+  "platform_steam": "",
+
+  // Nintendo Switch
+  "platform_switch": "",
+
+  // Twitch
+  "platform_twitch": "",
+
+  // Ubisoft Store
+  "platform_uplay": "",
+
+  // Xbox
+  "platform_xbox": "",
+
+  // About Premium
+  "premium_promo_button": "A Prémiumról",
+
+  // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
+  "premium_upsell_autopublish_description": "",
+
+  // Get premium to use auto publish!
+  "premium_upsell_autopublish_title": "",
+
+  // With FreeStuff premium you can have the bot automatically react to every notification you receive!
+  "premium_upsell_autoreact_description": "",
+
+  // Get premium to use auto reactions!
+  "premium_upsell_autoreact_title": "",
+
+  // With FreeStuff premium you can upload your own image for FreeStuff to use as the profile picture. You can also change the name to whatever you like. Make it blend in to your server!
+  "premium_upsell_botprofile_description": "",
+
+  // Get premium to change bot's profile!
+  "premium_upsell_botprofile_title": "",
+
+  // If you are happy with the one role you selected, you don't need to get premium. Your changes are already saved!\nIf you do want to ping more than one role however, you can do this with premium!
+  "premium_upsell_multiping_description": "",
+
+  // Get premium to ping more than one role!
+  "premium_upsell_multiping_title": "",
+
+  // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
+  "premium_upsell_threadopts_description": "",
+
+  // Get premium to create threads!
+  "premium_upsell_threadopts_title": "",
+
+  // Actual price
+  "price_actual": "Jelenlegi ár",
+
+  // Everything
+  "price_class_a": "Minden",
+
+  // Almost Everything
+  "price_class_b": "Majdnem Minden",
+
+  // Default
+  "price_class_c": "Alap",
+
+  // Big fish
+  "price_class_d": "Nagy hal",
+
+  // Converted from USD
+  "price_converted": "Átváltva USD-ról",
+
+  // Privacy Policy
+  "privacy_policy": "Adatvédelmi irányelvek",
+
+  // Permanently Free
+  "product_meta_flag_permanent": "Állandóan Ingyenes",
+
+  // FreeStuff Recommendation
+  "product_meta_flag_staff_pick": "FreeStuff ajánlata",
+
+  // Third Party Provider
+  "product_meta_flag_thirdparty": "Harmadik féltől származó",
+
+  // Low Quality
+  "product_meta_flag_trash": "Alacsony minőség",
+
+  // Refresh List
+  "refresh_channel_list": "Lista frissítése",
+
+  // Click here to reload the channel list
+  "refresh_channel_list_description": "",
+
+  // Made changes?
+  "refresh_channel_list_title": "",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_channel_timeout": "Lassíts! Csak {interval} másodpercenként frissítheted ezt a listát",
+
+  // Channel list refreshed
+  "refresh_channels_success": "",
+
+  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
+  "refresh_channels_timeout": "Túl gyors vagy! Biztonsági okokból csak minden {interval} másodperben engedhetem hogy megnyomd a gombot!\\nMinden tisztelettel, John FreeStuff, FreeStuff alapítója",
+
+  // Refresh List
+  "refresh_role_list": "Lista frissítése",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_role_timeout": "Lassíts! Csak {interval} másodpercenként frissítheted ezt a listát",
+
+  // Welcome to FreeStuff!
+  "settings2_main_1_first_time": "Köszöntelek a FreeStuff-nál!",
+
+  // FreeStuff Settings
+  "settings2_main_1_regular": "FreeStuff Beállítások",
+
+  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
+  "settings2_main_2_first_time": "Nagyon örülök a találkozásnak!\n**Gyorsan állítsuk be az értesítéseket hogy ne maradj le az ingyenes tartalmakról okés?**\n\nFreeStuff informál többféle ingyenes játékról amiket különböző **feliratkozásnak** hívunk. Az összes elérhető feliratkozásodat lent láthatod. Hogy feliratkozz még egyre vagy többre csak kattints a lenti gombokra. Ilyen egyszerű.\n\nDe előbb nézd meg ajánlatunkat: **{recommendation}**. Imádni fogod, kisujj eskü!",
+
+  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
+  "settings2_main_2_first_time_v1prev": "Héj, üdv újra itt! A Beállítások változtak mióta utoljára itt jártál. Segítek hogy gyorsan felzárkózz a változásokhoz. Hidd el hallani akarod:\n\nFreeStuff már többféle **feliratkozást** kezel amikre egyesével fel tudsz iratkozni. Hasonlóak mint a **100%-os Leárazott** játékok amiket már megszoktál. Hozzá adtunk pár új kategóriát beleértve az **Ingyenes Hétvége** játékokat és hamarosan többet is hozzá adunk.\n\nKattints a gombokra hogy kezeld a feliratkozásaid ha ismerősek a beállítások. Ha bármilyen segítség kell bátran keresd fel [Support csapatunk]({invite}) vagy nézd meg az [útmutatónkat]({guide})!\n\nMég találkozunk!",
+
+  // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
+  "settings2_main_2_regular": "Köszöntelek újra! Kezeld a feliratkozásaid lentebb. Kattints egy kategóriára (Kék gomb) több infóért vagy a beállítások szerkesztéséhez.\nSegítség kell? Keresd fel [Support csapatunk]({invite}) vagy [útmutatónkat]({guide})",
+
+  // Disable Auto Publish
+  "settings_auto_publish_off_prompt": "Automatikus Közzététel kikapcsolása",
+
+  // Auto Publish Disabled
+  "settings_auto_publish_off_state": "Automatikus Közzététel kikapcsolva",
+
+  // Enable Auto Publish
+  "settings_auto_publish_on_prompt": "Automatikus Közzététel engedélyezése",
+
+  // Auto Publish Enabled
+  "settings_auto_publish_on_state": "Automatikus Közzététel engedélyezve",
+
+  // This does not look like a url
+  "settings_botprofile_avatar_invalid_url_1": "Ez nem úgy néz ki mint egy link",
+
+  // Please make sure your image actually loads and the link starts with `http://` or `https://`
+  "settings_botprofile_avatar_invalid_url_2": "Kérlek bizonyosodj meg róla hogy a kép biztosan betölt és a link így kezdődik: `http://`vagy `https://`",
+
+  // Ayo what's that
+  "settings_botprofile_avatar_url_too_long_1": "Éjjj ez mi?",
+
+  // Your url is a little... excessive... A little... long, maybe. Could you try make it shorter maybe? Thanks :D
+  "settings_botprofile_avatar_url_too_long_2": "A Linked egy kicsit... túlzott... kicsit... hosszú. Megpróbálnád kicsit rövidebben? Köszi :D",
+
+  // Edit Avatar
+  "settings_botprofile_btn_edit_avatar": "Avatár Szerkesztése",
+
+  // Edit Name
+  "settings_botprofile_btn_edit_name": "Név szerkesztése",
+
+  // Uhhh, very sorry uhhh
+  "settings_botprofile_name_too_long_1": "Uhhh, Nagyon sajnálom, Uhhh :(",
+
+  // But your name can only be 32 characters long. Directive from above, nothing I can do about that, sorry.
+  "settings_botprofile_name_too_long_2": "De a neved csak 32 karakter hosszú lehet. Közvetlen parancs fentről. Bocsi ez ellen semmit nem tehetek.",
+
+  // Avatar and Name
+  "settings_botprofile_ui_1": "Avatár és Név",
+
+  // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.\n\n**Edit Avatar** will allow you to change the bot's profile picture. You will need to provide a link to your desired image. Leave empty to reset to default.\n\n**Edit Name** will allow you to change the bot's name. Leave empty to reset to default.
+  "settings_botprofile_ui_2": "Szerkeszd a bot nevét és profil képét amikor üzeneteket küld. A Discord limitációi miatt ez az Egyedi profil csak az értesítésekben jelenik meg, amikor parancsot használsz mint `/settings` vagy `/free` akkor nem.\n\n**Avatár Szerkesztése** Engedi, hogy megváltoztasd a bot Profil képét. Linket kell használnod hogy megváltoztasd a bot képét. Hagyd üresen ha az alapot akarod használni.\n\n**Név szerkesztése** Engedi, hogy megváltoztasd a bot nevét. Hagyd üresen ha az alapot szeretnéd használni.",
+
+  // Uhhhh what are you doing?
+  "settings_change_any_while_unsubscribed_1": "Uhhhh, mit csinálsz?",
+
+  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
+  "settings_change_any_while_unsubscribed_2": "Megpróbálod átverni a rendszert? Nem változtathatod meg ezt a beállítást amíg nem iratkoztál fel a {channel} csatornára. Iratkozz fel, majd gyere vissza.",
+
+  // Edit Avatar and Name
+  "settings_change_bot_profile": "Avatár és Név szerkesztése",
+
+  // You have too many webhooks in {channel}! Please open the channel settings, go to integrations, delete some unused webhooks, and come back. This limitation is enforced by Discord, we cannot do anything about this unfortunately.
+  "settings_channel_error_too_many_webhooks": "Túl sok webhook van a {channel} csatornán! Légy szíves nyisd meg a csatorna beállításait, keresd meg az Integrációkat és törölj néhány nem használt webhookot majd gyere vissza. Ezt a limitet a Discord szabta meg, ezzel nem tudunk mit kezdeni sajnos.",
+
+  // here
+  "settings_channel_list_here": "itt",
+
+  // No channel
+  "settings_channel_list_no_channel_1": "Hiányzó csatorna",
+
+  // Disable free games feed
+  "settings_channel_list_no_channel_2": "Ingyenes játékok értesítés letiltva",
+
+  // You have too many channels to show them all in the list below.
+  "settings_channel_list_too_many": "Túl sok csatornád van, hogy egyszerre megjeleníthessük a lenti listában.",
+
+  // Missing \"Embed Messages\" Permission
+  "settings_channel_list_warning_missing_embed_messages": "Hiányzó \"Kiemelt hivatkozás\" jogosultság",
+
+  // Missing \"Manage Webhooks\" Permission
+  "settings_channel_list_warning_missing_manage_webhooks": "Hiányzó \"Webhookok kezelése\" jogosultság",
+
+  // Missing \"Send Messages\" Permission
+  "settings_channel_list_warning_missing_send_messages": "Hiányzó \"Üzenetek Küldése\" jogosultság",
+
+  // Missing \"View Channel\" Permission
+  "settings_channel_list_warning_missing_view_channel": "Hiányzó \"Csatorna Megtekintése\" jogosultság",
+
+  // You have waaaaay too many channels to show them all in the list below. How do you even find anything in here?
+  "settings_channel_list_way_too_many": "Túúúl sok csatornád van ahhoz hogy mindet mutassam. Egyáltalán te hogy találsz meg bármit is itt? :o",
+
+  // Change The Channel
+  "settings_channel_ui_1": "Változtasd meg a csatornát",
+
+  // Below you'll find a list of all of your channels. Please pick one for me to send free games to!
+  "settings_channel_ui_2_regular": "Az alábbi listában találod a csatornáid listáját. Kérlek válaszd ki melyikbe küldhetem az ingyenes játékokat!",
+
+  // Below you'll find a list of most of your channels. You had so many I couldn't show them all at once. Please pick one for me to send free games to!
+  "settings_channel_ui_2_too_many": "Az alábbi listában találod a csatornáid egy részét. Annyira sok van nem tudom mindet mutatni. Kérlek válassz egyet hova küldjem a játékokat!",
+
+  // Below you'll find a list of a few of your channels. You have an enormous amount of channels in this server, you know this? So many in fact I could only show you a small selection of them. Please pick one for me to send free games to!
+  "settings_channel_ui_2_way_too_many": "Lentebb láthatod a csatornáid egy kis részét. Rengeteg csatorna van a szervereden, tudsz róla? Olyan sok van hogy alig egy kis részét tudom mutatni neked. Kérlek válassz egyet ezek közül, hova küldhetem az ingyenes játékokat",
+
+  // Can't change channel to {channel}: Missing \"{permissions}\" permissions!
+  "settings_channel_ui_missing_permissions": "Nem változtatható meg {channel} csatornára: Hiányzó \"{permissions}\" jogosultság",
+
+  // If you cannot find your desired channel, run /settings in that very channel to force it to show up.
+  "settings_channel_ui_too_many_channels_tip": "Ha nem találod a kívánt csatornát, lépj be és használd a /settings parancsot hogy mindenképp megjelenjen a listán.",
+
+  // Unknown channel
+  "settings_channel_unknown_channel": "Ismeretlen csatorna",
+
+  // Other Settings
+  "settings_conf_ui_1": "Általános Beállítások",
+
+  // **Select Language** will change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.\n\n**Select Currency** will change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
+  "settings_conf_ui_2": "**Válassz nyelvet** Megváltoztatja az értesítések nyelvét. Ez **nem** változtatja meg a parancsok nyelvét mint például */settings* vagy */free*. Ezek maradnak ugyan azon a nyelven. A Fordításokat a közösség készíti így előfordulhatnak benne hibák.\n\n**Pénznem választása** Megváltoztatja az értesítésekben a pénznemet. Néhány pénznem árfolyammal vagy weboldallal van átváltva ezek nem mindig 100% pontosak",
+
+  // Disable Claim-All Button
+  "settings_display_expressbutton_off_prompt": "Mindet beszed gomb letiltása",
+
+  // Claim-All Button Disabled
+  "settings_display_expressbutton_off_state": "Mindet beszed gomb letiltva",
+
+  // Enable Claim-All Button
+  "settings_display_expressbutton_on_prompt": "Mindet beszed gomb engedélyezése",
+
+  // Claim-All Button Enabled
+  "settings_display_expressbutton_on_state": "Mindet Beszed gomb engedélyezve",
+
+  // Disable Auto Reaction
+  "settings_display_reactions_off_prompt": "Automatikus Reakció kikapcsolása",
+
+  // Auto Reaction Disabled
+  "settings_display_reactions_off_state": "Automatikus Reakció kikapcsolva",
+
+  // Enable Auto Reaction
+  "settings_display_reactions_on_prompt": "Automatikus Reakció engedélyezése",
+
+  // Auto Reaction Enabled
+  "settings_display_reactions_on_state": "Automatikus Reakció engedélyezve",
+
+  // Display Settings
+  "settings_display_ui_1": "Megjelenítési Beállítások",
+
+  // Change the appearance of the bot's messages
+  "settings_display_ui_2": "Megváltoztathatod a bot üzeneteinek kinézetét",
+
+  // Show Bundles
+  "settings_filter_kinds_bundle_1": "",
+
+  // Collections of games, DLCs or other items
+  "settings_filter_kinds_bundle_2": "",
+
+  // Show DLCs
+  "settings_filter_kinds_dlc_1": "",
+
+  // Addons and other game extensions
+  "settings_filter_kinds_dlc_2": "",
+
+  // None selected
+  "settings_filter_kinds_none": "",
+
+  // Show other content
+  "settings_filter_kinds_other_1": "",
+
+  // Stuff that does not fit into the other categories
+  "settings_filter_kinds_other_2": "",
+
+  // Show Store Items
+  "settings_filter_kinds_storeitem_1": "",
+
+  // Things like steam point shop items
+  "settings_filter_kinds_storeitem_2": "",
+
+  // (All disabled)
+  "settings_filter_platforms_none": "(Összes letiltva)",
+
+  // Send all games. Every. Single. One.
+  "settings_filter_price_class_desc_everything": "Minden játék jöhet. Minden. Egyes. Játék.",
+
+  // Only send games worth {price} or more
+  "settings_filter_price_class_desc_generic": "Csak olyan játékokat küldj ami többet ér mint {price}",
+
+  // Disable Games
+  "settings_filter_show_passgames_off_prompt": "Játékok letiltása",
+
+  // Games Disabled
+  "settings_filter_show_passgames_off_state": "Játékok letiltva",
+
+  // Enable Games
+  "settings_filter_show_passgames_on_prompt": "Játékok engedélyezése",
+
+  // Games Enabled
+  "settings_filter_show_passgames_on_state": "Játékok engedélyezve",
+
+  // Disable Loot
+  "settings_filter_show_passloot_off_prompt": "A zsákmány letiltása",
+
+  // Loot Disabled
+  "settings_filter_show_passloot_off_state": "Zsákmány letiltva",
+
+  // Enable Loot
+  "settings_filter_show_passloot_on_prompt": "Loot engedélyezése",
+
+  // Loot Enabled
+  "settings_filter_show_passloot_on_state": "Zsákmány engedélyezve",
+
+  // Disable Bad Quality Games
+  "settings_filter_trash_off_prompt": "Rossz minőségű játékok letiltása",
+
+  // Bad Quality Games Disabled
+  "settings_filter_trash_off_state": "Rossz minőségű játékok letiltva",
+
+  // Enable Bad Quality Games
+  "settings_filter_trash_on_prompt": "Rossz minőségű játékok engedélyezése",
+
+  // Bad Quality Games Enabled
+  "settings_filter_trash_on_state": "Rossz minőségű játékok engedélyezve",
+
+  // Filter Settings
+  "settings_filter_ui_1": "Szűrési beállítások",
+
+  // There are a lot of free games out there, some more interesting than others. In order to not flood your precious Discord server with spam we have some options for you to decide which games you like to see:
+  "settings_filter_ui_2": "Rengeteg ingyenes játék létezik odakint, az egyik izgibb mint a másik. Hogy ne spameljük tele a kedvenc Discord szervered válaszd ki milyen játékokat szeretnél megjeleníteni",
+
+  // Something failed while exporting your data, we are very sorry. You can reach out to us and manually request a copy of your data via team@freestuffbot.xyz - Please include your server id in the E-Mail. Thanks.
+  "settings_guilddata_data_failed": "Nagyon sajnálom valami hiba történt miközben az adataidat exportáltuk. Ha szeretnél egy másolatot az adataidról keress meg minket Emailben a **team@freestuffbot.xyz** címen. Az Email tartalmazza a szervered IDját. Köszönöm!",
+
+  // Please click the Download button below to download your data. The button will only work one time, run the command again to download again. Do not share the link with anyone!
+  "settings_guilddata_data_ready": "Kattints a Letöltés gombra, hogy letöltsed adataidat. A Gomb csak egyszer működik, ahoz hogy újra letöltsed használd újra a parancsot. Ne oszd meg senkivel a linket!",
+
+  // Delete Server Data
+  "settings_guilddata_delete_button": "Szerver adatok törlése",
+
+  // Are you sure?
+  "settings_guilddata_delete_dialogue_confirmation_1": "Biztos vagy benne?",
+
+  // Once you click the button below there is no going back!
+  "settings_guilddata_delete_dialogue_confirmation_2": "Ha rákattintasz erre a gombra nincs visszaút",
+
+  // Slow down!
+  "settings_guilddata_delete_dialogue_cooldown_1": "Lassíts!",
+
+  // Looks like someone already deleted this server's data in the past 12h. Please try again later!
+  "settings_guilddata_delete_dialogue_cooldown_2": "Úgy tűnik valaki már törölte a szerver adatokat az elmúlt 12 órában. Próbáld újra később",
+
+  // Only an admin can do this
+  "settings_guilddata_delete_dialogue_not_allowed_1": "Csak admin teheti meg",
+
+  // Please ask a server admin if you really really wanna do this.
+  "settings_guilddata_delete_dialogue_not_allowed_2": "Kérlek kérdezz meg egy szerver admint, hogy biztos? De tuti tuti biztos? Hogy ezt akarja tenni?",
+
+  // Success!
+  "settings_guilddata_delete_success_1": "Sikeres!",
+
+  // Your server's data has been deleted and reset to default settings!
+  "settings_guilddata_delete_success_2": "A szervered adatai törölve és visszállítva alapértelmezettre!",
+
+  // Uh... that's a bit embarrassing now... There was an error exporting your data. Please [contact our team]({invite}) to get your data.
+  "settings_guilddata_display_error": "Uh... ez kicsit kínos, de... hiba történt az adataid kinyerésekor. Kérlek [keresd fel a csapatunk]({invite}) hogy lekérhesd.",
+
+  // Download Data
+  "settings_guilddata_download": "Adatok letöltése",
+
+  // Okie dokie, data's coming in hot:
+  "settings_guilddata_success_1": "Oké zsoké, az adataid már megvannak:",
+
+  // English with the metric system
+  "settings_language_list_desc_english_eu": "Angol a metrikus rendszerrel",
+
+  // English with the imperial system
+  "settings_language_list_desc_english_us": "Angol a birodalmi rendszerrel",
+
+  // English with football fields per pizza slice
+  "settings_language_list_desc_english_us_easteregg": "Angol focipálya nagyságú pizza szeletekkel",
+
+  // {language} by {translators}
+  "settings_language_list_desc_generic": "{language} általuk {translators}",
+
+  // Language Selection
+  "settings_language_ui_1": "Nyelv kiválasztása",
+
+  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
+  "settings_language_ui_2": "A Nyelv kiválasztása az egész szerveredre érvényes lesz, ez nem személyes beállítás!",
+
+  // Oh no!
+  "settings_locked_premium_1": "Jaj ne!",
+
+  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
+  "settings_locked_premium_2": "**Ez egy FreeStuff Premium funkció.**\nKattints a lenti gombra több infóért:",
+
+  // Change channel
+  "settings_main_btn_channel_change": "Csatorna megváltoztatása",
+
+  // Set channel
+  "settings_main_btn_channel_set": "Csatorna beállítása",
+
+  // Display Settings
+  "settings_main_btn_display": "Megjelenítési Beállítások",
+
+  // Filter Settings
+  "settings_main_btn_filter": "Szűrő beállítások",
+
+  // Other Settings
+  "settings_main_btn_general": "Általános beállítások",
+
+  // Need help?
+  "settings_main_btn_help": "",
+
+  // Advanced
+  "settings_main_btn_more": "Haladó",
+
+  // Notification Settings
+  "settings_main_btn_notifications": "Értesítési Beállítások",
+
+  // Change role mention
+  "settings_main_btn_role_change": "Rang megemlítés változtatása",
+
+  // Mention a role
+  "settings_main_btn_role_set": "Rang megemlítése",
+
+  // Need help?
+  "settings_main_help_1": "",
+
+  // Read the guide
+  "settings_main_help_solution_guide_1": "",
+
+  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
+  "settings_main_help_solution_guide_2": "",
+
+  // Join our support server
+  "settings_main_help_solution_server_1": "",
+
+  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
+  "settings_main_help_solution_server_2": "",
+
+  // Tl;dr
+  "settings_main_help_solution_tldr_1": "",
+
+  // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
+  "settings_main_help_solution_tldr_2": "",
+
+  // Settings
+  "settings_main_ui_1": "Beállítások",
+
+  // Looks like you still didn't finish setting up the bot :eyes:\n\nWhy don't you start by picking a channel for me to send free games to?
+  "settings_main_ui_2_guided_channel_delayed": "Úgy tűnik még mindig nem fejezted be a bot beállítását :eyes:\n\nMiért nem kezded a Csatorna kiválasztásával, hogy tájékoztassalak az ingyenes játékokról?",
+
+  // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel I can use to keep you and your friends up to date with free games! Click the blue button below to continue:
+  "settings_main_ui_2_guided_channel_normal": "Köszöntelek a FreeStuffnál :wave:\n\nÖrülök hogy megtaláltad az utad a beállításokig! Kezdjük először a csatorna kiválasztásával amit használhatok, hogy az ingyenes játékokat közöljem a barátaiddal! Kattints a lenti kék gombra a folytatáshoz:",
+
+  // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
+  "settings_main_ui_2_guided_display_delayed": "Van még néhány beállítás amit meg kell néznünk! Témákról, pénznemről és miegymásról beszélek. Érdekel? A Kék gomb oda vezet téged!",
+
+  // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
+  "settings_main_ui_2_guided_display_normal": "Tökéletes! Utolsó mérföldkő a listán a megjelenítés beállítása. Abszolút megéri, hogy rákukkants! :eyes:",
+
+  // Welcome back! You might be missing out on some free games because the filter options are not configured to your likings! Better check them out real quick, it doesn't take long :eyes:
+  "settings_main_ui_2_guided_filter_delayed": "Köszöntelek újra! Lehetséges, hogy kihagytál néhány ingyenes játékot mert a szűrő beállítások nem a te kedved szerint vannak beállítva! Jobb ha megcsekkolod őket gyorsan! Nyugi, nem tart sokáig :) :eyes:",
+
+  // Okay awesome, let's continue with filter settings. You might be missing out on some games if you don't check those out!
+  "settings_main_ui_2_guided_filter_normal": "Okés, Király! folytassuk a szűrő beállításával. Lecsúszhatsz játékokról ha nem nézed meg a szűrőket!",
+
+  // Awesome, you're done with setting up the FreeStuff Bot! Enjoy your free games! :partying_face:\n\nLooking for other people to talk about free games? [Join our Discord Server]({invite})\n\n*You can always return to this page using /settings*
+  "settings_main_ui_2_guided_finished": "Elképesztő, készen vagy a FreeStuff Bot beállításaival! Mostmár élvezheted az ingyenes játékokat! :partying_face:\n\nSzeretnél másokkal csevegni akiket érdekelnek az ingyenes tartalmak? [csatlakozz discord szerverünkre]({invite})\n\n*Bármikor visszatérhetsz erre az oldalra a /settings parancs használatával*",
+
+  // Wanna continue setting up the bot?\nI'd suggest you check out role mentions next! Just click the button below to see what's possible!
+  "settings_main_ui_2_guided_role_delayed": "Szeretnéd folytatni a bot beállítását?\nAzt javaslom következőnek nézzük meg a jogok megemlítését! Csak kattints a lenti gomba és nézzük mi lehetséges",
+
+  // Good job! Next up, maybe wanna get notified when a game becomes free? I'm talking about pinging a role or maybe even @everyone?\nClick the button below to see what's possible :eyes:
+  "settings_main_ui_2_guided_role_normal": "Szép munka! Következőnek... talán... szeretnél értesülni ha egy játék ingyenes lesz? Arról beszélek, hogy megjelöljek egy rangot vagy akár mindenkit? (@everyone)\nKattints a lenti gombra hogy megnézzük mi lehetséges :eyes:",
+
+  // Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.
+  "settings_main_ui_2_regular": "Héj te ott!\n\nNem találod a beállításod? Segítség kell a bot beállításához? Vagy esetleg kérdésed van? [Kattints ide a segítségért]({guide}) ez lépésenként segít mindenben vagy [keress fel minket]({invite}) személyes segítségért",
+
+  // Opt out of Beta
+  "settings_more_beta_off_prompt": "Leiratkozás bétáról",
+
+  // You're not in beta!
+  "settings_more_beta_off_state": "Sajnos nem kerültél bétába",
+
+  // Opt in to Beta
+  "settings_more_beta_on_prompt": "Feliratkozás bétára",
+
+  // You're in beta!
+  "settings_more_beta_on_state": "Csatlakoztál a bétához!",
+
+  // Disable Boring Mode
+  "settings_more_boringmode_off_prompt": "",
+
+  // Boring Mode is off
+  "settings_more_boringmode_off_state": "",
+
+  // Enable Boring Mode
+  "settings_more_boringmode_on_prompt": "",
+
+  // Boring Mode is on
+  "settings_more_boringmode_on_state": "",
+
+  // View Server Data
+  "settings_more_btn_guilddata": "Szerver Adatok Megtekintése",
+
+  // Re-send Messages
+  "settings_more_btn_resend": "Üzenet újraküldése",
+
+  // Send Test Message
+  "settings_more_btn_test": "Szöveges üzenet küldése",
+
+  // Mysterious Button
+  "settings_more_mysterious_button": "Rejtélyes gomb",
+
+  // Advanced Options
+  "settings_more_ui_1": "Haladó",
+
+  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
+  "settings_more_ui_2": "**Szerver Adat Megtekintése** megmutatja a tárolt adatokat a szerveredről.\n\n**Feliratkozás BÉTA verzióra**engedélyezi számodra, hogy hamarabb juss hozzá frissítésekhez és új funkciókhoz. Vigyázz! Mert ez tartalmazhat instabil funkciókat is! Időnként kérhetünk tőled visszajelzést, hogy fejlesszük a stabilitást.",
+
+  // You need \"Manage Server\" permissions to edit this
+  "settings_permission_disclaimer": "Ennek szerkesztéséhez „Manage Server” engedélyere van szükség",
+
+  // Add Role
+  "settings_role_add_role": "Rang hozzáadása",
+
+  // @everyone
+  "settings_role_list_everyone_1": "@everyone",
+
+  // Ping everyone. That's a lot of people.
+  "settings_role_list_everyone_2": "everyone pingelése. Ez sok embert jelenthet!",
+
+  // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
+  "settings_role_list_hidden_overflow_disclaimer": "Néhány rang rejtve marad mert olyan sok van nem tudom mindet mutatni egyszerre. Húzd legfelülre a rangot ha szeretnéd látni a listán!",
+
+  // Some roles might be hidden because the bot doesn't have the `Mention All Roles` permission!
+  "settings_role_list_hidden_permissions_disclaimer": "Néhány rang lehetséges hogy nem látszik. Ez azért van mert a `Minden rang említése` nincs engedélyezve a bot számára",
+
+  // Disable Mentions
+  "settings_role_list_no_mention_1": "Említés kikapcsolása",
+
+  // Do not ping anyone.
+  "settings_role_list_no_mention_2": "Ne pingeljen senkit.",
+
+  // None selected
+  "settings_role_list_remove_role_1": "Nincs kiválasztva",
+
+  // Click here to remove this role
+  "settings_role_list_remove_role_2": "Kattints ide a rang eltávolításához",
+
+  // Notification Settings
+  "settings_role_ui_1": "Értesítési Beállítások",
+
+  // Pick a role to ping when a new game becomes free!
+  "settings_role_ui_2": "Válassz egy jogot a pingelésre, amikor egy újabb játék ingyenessé válik.",
+
+  // More
+  "settings_sub_btn_more": "Több",
+
+  // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
+  "settings_subscription_locked_premium": "A(z) {subscription} egy prémium feliratkozás. Ha szeretnél híreket kapni ebben a kategóriában [kattints ide több infóért]({website}).",
+
+  // More
+  "settings_subscription_more_ui_1": "Több",
+
+  // **Send Test Message** sends a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.\n\n**Re-send Messages** will re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This button is for you!
+  "settings_subscription_more_ui_2": "**Teszt üzenet küldése** egy teszt üzenetet küld minden beállításoddal.\nHasználd ezt, hogy 100%-ban biztos legyél benne minden működik. Vigyázz! Lehetséges hogy megemlíti az embereket ha beállítottad a funkciót.\n\n**Üzenet újraküldése** Újra küldi az üzeneteket az összes ajánlatról az adott kategóriában ami még érvényes. Véletlen törölted az üzenetet? Megváltoztattad a beállításokat? Vagy csak kétszer szeretnéd ugyan azt az értesítést? Akkor ez a gomb neked való!",
+
+  // Click here to subscribe
+  "settings_subscription_not_subscribed_1": "Kattints ide a feliratkozáshoz!",
+
+  // Pick a channel below to subscribe to {subscription}
+  "settings_subscription_not_subscribed_2": "Kattints egy csatornára hogy feliratkozz erre: {subscription}",
+
+  // Your Premium subscription expired. We have paused your notifications for {subscription} until you resubscribe.
+  "settings_subscription_premium_expired": "A Prémium előfizetésed lejárt. Szüneteljük az értesítéseket ebben: {subscription} amíg újra előfizetsz.",
+
+  // {subscription} is a premium subscription. You can subscribe.
+  "settings_subscription_unlocked_premium": "A(z) {subscription} egy prémium előfizetés. Feliratkozhatsz.",
+
+  // Unsubscribe {subscription}
+  "settings_subscription_unsubscribe_1": "Leiratkozás: {subscription}",
+
+  // You will stop receiving games from this category.
+  "settings_subscription_unsubscribe_2": "Ebből a kategóriából már nem fogsz értesítést kapni!",
+
+  // Slash commands are here!
+  "slash_command_introduction_info_short": "A Perjeles parancsok elérhetőek!",
+
+  // Slash commands are here! Use **{command}** from now on!
+  "slash_command_introduction_label_long": "Perjeles parancsok itt vannak! Használhatod a **{command}** mostantól",
+
+  // Use **{command}** from now on!
+  "slash_command_introduction_label_short": "Használhatod a **{command}** mostantól",
+
+  // {user} used {command}
+  "slash_command_source": "{user} a {command} használta",
+
+  // This subscription will show you all games newly added to the Game Pass suite of titles. These games require a Game Pass subscription to play for free while the offer lasts.\nYou can filter by price and quality.
+  "subscription_gamepass_description": "Ez a feliratkozás megmutatja milyen játékok lettek újonnan hozzáadva a Game Pass-hoz. Ezek futtatásához kell hogy legyen Game Pass előfizetésed hogy ingyenesen játszhass velük. Az ajánlat lejárta után nem játszhatsz már velük.\nÁllíthatsz szűrőt az ár és minőség alapján!",
+
+  // Game Pass
+  "subscription_gamepass_name": "Game Pass",
+
+  // This subscription will show you games that have a 100% discount for a limited amount of time. You can keep those games after the sale is over.\nYou can filter by price, platform and quality.
+  "subscription_keep_description": "Ez a feliratkozás mutatja azokat a játékokat amelyiken 100%-os leárazás van egy adott időre. Ha most megszerzed az idő lejárta után is a tied marad!\nÁllíthatsz szűrőt az ár-, szolgáltató- és minőség alapján!",
+
+  // 100% Discount
+  "subscription_keep_name": "100% Leárazás",
+
+  // This subscription will show you all sorts of other offers that are available at a 100% discount for a limited amount of time. This does usually not include games but may include other software such as DLCs or non-gaming related items.\nYou can filter by price, platform and product type.
+  "subscription_other_description": "Ez a feliratkozás megmutat mindenféle egyéb ajánlatot ami 100%-os leárazással érhető el egy adott ideig. Ezek álltalában nem tartalmazzák az alapjátékot de tartalmazhat DLC-kez és nem játékkal kapcsolatos elemeket.\nÁllíthatsz szűrőt az ár-, szolgáltató- és minőség alapján!",
+
+  // DLCs & More
+  "subscription_other_name": "DLCk és Egyéb",
+
+  // This subscription will show you all games newly added to the Prime Gaming suite of titles. You require a Prime Gaming subscription to obtain games from this category. You can keep them after the offer expired.\nYou can filter by price and quality.
+  "subscription_prime_description": "Ez a feliratkozás megmutatja hogy mik lettek újonnan hozzá adva a Prime Gaming feliratkozók számára. Az itteni tartalmakhoz kell hogy legyen Prime Gaming előfizetésed. Megtarthatod ezeket a tartalmakat az ajánlat lejárata után is.\nÁllíthatsz szűrőt az ár és minőség alapján!",
+
+  // Prime Gaming
+  "subscription_prime_name": "Prime Gaming",
+
+  // Prime Gaming: Games
+  "subscription_primegames_name": "Prime Gaming: Játékok",
+
+  // Prime Gaming: Loot
+  "subscription_primeloot_name": "Prime Gaming: Zsákmány",
+
+  // This subscription will show you games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
+  "subscription_timed_description": "Ez a feliratkozás mutatja azokat a játékokat amelyeket ingyenesen játszhatsz egy adott ideig. Ezeket az idő lejárta után nem tarthatod meg. Meg kell venned hogy tovább játszhass vele.\nÁllíthatsz szűrőt az ár-, szolgáltató- és minőség alapján!",
+
+  // Free Weekend
+  "subscription_timed_name": "Ingyenes Hétvége",
+
+  // Terms of Service
+  "terms_of_service": "Felhasználási feltételek",
+
+  // You cannot get less than this
+  "theme_eight_desc": "Ennél kevesebbet nem kaphatsz",
+
+  // Bare minimum
+  "theme_eight_name": "Minimum",
+
+  // A theme with minimal extra info
+  "theme_five_desc": "Egy téma minimális extra infóval",
+
+  // Keep it simple
+  "theme_five_name": "Ne komplikáld túl",
+
+  // Only weird people chose this
+  "theme_four_desc": "Csak furcsa emberek választják ezt",
+
+  // More info less images!
+  "theme_four_name": "Több infó kevesebb kép!",
+
+  // If you need some context but don't like embeds
+  "theme_nine_desc": "Ha szükséged van némi kontextusra, de nem szereted a beágyazásokat",
+
+  // Text only!
+  "theme_nine_name": "Csak szöveg",
+
+  // Pretty basic
+  "theme_one_desc": "Elég alap",
+
+  // Default Theme
+  "theme_one_name": "Alap téma",
+
+  // It's literally just the link
+  "theme_seven_desc": "Egyszerűen, csak egy link",
+
+  // Literally just the link
+  "theme_seven_name": "Csak egy link",
+
+  // A theme with almost minimal extra info
+  "theme_six_desc": "Egy téma szinte minimális extra infóval",
+
+  // Images are cool!
+  "theme_six_name": "A képek királyak",
+
+  // For ArchiSteamFarm users and alike
+  "theme_ten_desc": "ArchiSteamFarm felhasználóknak és hasonlóknak",
+
+  // Advanced
+  "theme_ten_name": "Haladó",
+
+  // With a short description and ratings
+  "theme_three_desc": "Rövid leírással és értékeléssel",
+
+  // More info!
+  "theme_three_name": "Több infó!",
+
+  // If you don't like images
+  "theme_two_desc": "Ha nem szereted a képeket",
+
+  // No photos please!
+  "theme_two_name": "Semmi kép kérlek!",
+
+  // We send a message in your channel. That's all.
+  "thread_opt_a_description": "Üzenetet küldünk a csatornába. Ennyi.",
+
+  // No threads
+  "thread_opt_a_name": "Nincs gondolatmenet",
+
+  // Message goes in your channel but we start a thread for it.
+  "thread_opt_b_description": "Az üzenet a csatornába megy de indítunk egy Gondolatmenetet neki.",
+
+  // Thread below
+  "thread_opt_b_name": "Alábbi Gondolatmenet",
+
+  // We create a new thread and post the message there.
+  "thread_opt_c_description": "Létrehozunk egy új gondolatmenetet és oda küldjük az üzenetet",
+
+  // Message in thread
+  "thread_opt_c_name": "Gondolatmeneten belül",
+
+  // English translation available! If you want me to use English, use`/settings`
+  "translation_available": "Magyar fordítás elérhető! Ha szeretnéd használni, írd be: @FreeStuff set language hungarian",
+
+  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
+  "translation_available_generic": "",
+
+  // English translation by:
+  "translation_by": "Magyar fordítást készítette:",
+
+  // Maanex
+  "translators": "R.-",
+
+  // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
+  "webhook_create_auditlog_reason": "FreeStuff Webhookokat használ a hirdetések nagy terjedelmű használata miatt. Kérlek ne távolítsd el a webhookot!",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_missing_permissions_1": "Hupsz!",
+
+  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
+  "webhook_migration_failed_missing_permissions_2": "Úgy tűnik hiányzik a \"Webhookok kezelése\" jogom. Kérlek engedélyezd és utána próbáld újra!",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_too_many_hooks_1": "Hupsz!",
+
+  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
+  "webhook_migration_failed_too_many_hooks_2": "Úgy tűnik már van egy pár Webhook ehhez a csatornához. Sajnálatosan egy limitálás miatt 10 webhook lehet egy csatornához, szóval légyszi törölj egyet belőle hogy a FreeStuff tudjon egy újat csinálni",
+
+  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
+  "webhook_migration_notice": "FreeStuff hiányolja a **Webhookok kezelése** jogot ebben a csatornában. Szerver adminok kérlek adjátok meg ezt a jogot vagy használjátok a **/settings** parancsot több infóért különben a bot nem küld több hírt a későbbiekben!"
+}

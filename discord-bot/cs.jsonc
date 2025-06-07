@@ -1,0 +1,1291 @@
+{
+  // Get it for free
+  "announcement_button_text": "Získej zdarma",
+
+  // via {website}
+  "announcement_footer": "via {website}",
+
+  // This is a preview message
+  "announcement_footer_test": "Vypadá to dobře? Jestli ne, napiš @FreeStuff settings",
+
+  // for a very long time
+  "announcement_free_for_a_long_time": "na velmi dlouhou dobu",
+
+  // for a week
+  "announcement_free_for_a_week": "na týden",
+
+  // until {date}
+  "announcement_free_until_date": "do {date}",
+
+  // until {day}
+  "announcement_free_until_day": "do {day}",
+
+  // until {day} next week
+  "announcement_free_until_day_next_week": "do {day} příštího týdne",
+
+  // Free Game!
+  "announcement_header": "Hra zdarma!",
+
+  // Claim for **Free**
+  "announcement_price_gamepass": "",
+
+  // Claim for **Free** until {date}
+  "announcement_price_gamepass_until": "",
+
+  // {prices}
+  "announcement_price_generic": "",
+
+  // {prices} until {date}
+  "announcement_price_generic_until": "",
+
+  // {prices}
+  "announcement_price_keep": "",
+
+  // {prices} until {date}
+  "announcement_price_keep_until": "",
+
+  // {prices}
+  "announcement_price_other": "",
+
+  // {prices} until {date}
+  "announcement_price_other_until": "",
+
+  // Claim for **Free**
+  "announcement_price_prime": "",
+
+  // Claim for **Free** until {date}
+  "announcement_price_prime_until": "",
+
+  // **Free to play**
+  "announcement_price_timed": "",
+
+  // **Free to play** until {date}
+  "announcement_price_timed_until": "",
+
+  // Free
+  "announcement_pricetag_free": "Zdarma",
+
+  // **{name}** is free!\n<{url}>
+  "announcement_theme9": "**{name}** je zdarma!\n<{url}>",
+
+  // {names}
+  "announcement_thread_name_gamepass_multiple_below": "",
+
+  // {amount} new games for Game Pass!
+  "announcement_thread_name_gamepass_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_gamepass_single_below": "",
+
+  // New Game Pass content: {name}!
+  "announcement_thread_name_gamepass_single_outside": "",
+
+  // {names}
+  "announcement_thread_name_keep_multiple_below": "",
+
+  // {amount} games are free!
+  "announcement_thread_name_keep_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_keep_single_below": "",
+
+  // {name} is free!
+  "announcement_thread_name_keep_single_outside": "",
+
+  // {names}
+  "announcement_thread_name_other_multiple_below": "",
+
+  // {amount} games are free!
+  "announcement_thread_name_other_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_other_single_below": "",
+
+  // {name} is free!
+  "announcement_thread_name_other_single_outside": "",
+
+  // {names}
+  "announcement_thread_name_prime_multiple_below": "",
+
+  // {amount} new games for Prime!
+  "announcement_thread_name_prime_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_prime_single_below": "",
+
+  // New Prime loot: {name}!
+  "announcement_thread_name_prime_single_outside": "",
+
+  // {names}
+  "announcement_thread_name_timed_multiple_below": "",
+
+  // Free weekend for {amount} games!
+  "announcement_thread_name_timed_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_timed_single_below": "",
+
+  // Free weekend for {name}!
+  "announcement_thread_name_timed_single_outside": "",
+
+  // {title} is free!
+  "announcement_title_statement": "",
+
+  // An error occurred!
+  "cmd_error_fatal_1": "Objevila se chyba!",
+
+  // We're trying to fix this issue as soon as possible!
+  "cmd_error_fatal_2": "Pokoušíme se opravit tuto chybu co nejdřív to jde!",
+
+  // A wild error occurred!
+  "cmd_error_fixable_1": "Objevila se nečekaná chyba!",
+
+  // Can you please try that again? If this message keeps appearing please wait a bit or [reach out to our support team]({discordInvite}), thanks.
+  "cmd_error_fixable_2": "Můžeš to prosím zkusit znovu? Jestli se tahle zpráva pořád objevuje, chvíli počkej nebo [oslov náš support tým]({discordInvite}), děkujeme.",
+
+  // An error occurred!
+  "cmd_error_readd_1": "Vyskytla se chyba!",
+
+  // Try removing the bot from your server and adding it back in. If this does not help, [please join the support server]({discordInvite}).
+  "cmd_error_readd_2": "Zkus odstranit bota ze serveru a opětovně ho přidat. Jestli tohle nepomůže, [prosím přidej se na náš support server]({discordInvite}).",
+
+  // **Ends soon:**
+  "cmd_free_ends_soon": "**Brzy skončí:** (nebo už skončila)",
+
+  // (Ends soon!)
+  "cmd_free_ends_soon2": "",
+
+  // None :(
+  "cmd_free_no_freebies": "Žádné :(",
+
+  // Nothing free right now :(
+  "cmd_free_no_freebies2": "",
+
+  // These games are currently free:
+  "cmd_free_title": "Tyto hry jsou právě zdarma:",
+
+  // Currently on Game Pass:
+  "cmd_free_title_gamepass": "",
+
+  // Currently free to keep (100% off)
+  "cmd_free_title_keep": "",
+
+  // Other freebies (100% off)
+  "cmd_free_title_other": "",
+
+  // Prime Gaming: Games
+  "cmd_free_title_primegames": "",
+
+  // Prime Gaming: Loot
+  "cmd_free_title_primeloot": "",
+
+  // Currently free to play
+  "cmd_free_title_timed": "",
+
+  // until
+  "cmd_free_until": "do",
+
+  // FreeStuff Bot
+  "cmd_info_1": "FreeStuff Bot",
+
+  // FreeStuff Bot made with :heart: by [some amazing people]({amazingPeople})\n\n[About / Website]({website})\n\n[Add it to your server!]({inviteLink})\n\n[Report a bug or get in contact]({discordInvite})
+  "cmd_info_2": "Bot vytvořen se :heart: s pomocí [pár úžasných lidí]({amazingPeople})\n\nO nás/Web({website})\n\n[Klikni sem pro přidáni bota na svůj server]({inviteLink})\n\n[Nahlaš chybu nebo získej kontakt]({discordInvite})",
+
+  // :eyes:
+  "cmd_invite_1": ":eyes:",
+
+  // [Click here to add me to your server!]({inviteLink})
+  "cmd_invite_2": "[Klikni sem pro přidání bota na svůj server!]({inviteLink})",
+
+  // You're going too fast!
+  "cmd_on_cooldown_1": "Jedeš příliš rychle!",
+
+  // This command can only be used every {time} seconds. Please wait a bit!
+  "cmd_on_cooldown_2": "Tenhle příkaz jde použít jen každých {time} sekund. Prosím počkej chvíli!",
+
+  // Now that's a twist!
+  "cmd_resend_all_filtered_out_1": "Tak to je zvrat!",
+
+  // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
+  "cmd_resend_all_filtered_out_2": "Hry jsou zdarma, ale nastavení filtru neumožňuje zobrazit ani jednu z nich! Pokud jste to neměli v úmyslu, zkontrolujte znovu nastavení filtru.",
+
+  // The webhook in {channel} is broken.
+  "cmd_resend_invalid_webhook_1": "Webový háček v {channel} je nefunkční.",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_resend_invalid_webhook_2": "To zní děsivě. Chcete-li to napravit, zkuste změnit kanál na nějaký jiný a pak zpět na {channel}. Pokud tato chyba přetrvává, kontaktujte prosím podporu!",
+
+  // Uh oh!
+  "cmd_resend_nothing_free_1": "uuu!",
+
+  // There's not a single game from this category for free right now... How could that have happened :thinking:
+  "cmd_resend_nothing_free_2": "Momentálně není žádná hra, která je zdarma.. Jak se to jen mohlo stát? :thinking:",
+
+  // Aaaaaand there it goes!
+  "cmd_resend_success_1": "Aaaa teď to přichází!",
+
+  // Check out {channel}!
+  "cmd_resend_success_2": "Mrkni se na {channel}!",
+
+  // That is an example game. And this here is the example description of said example game. I hope you have a nice day :)
+  "cmd_test_announcement_description": "To je příklad hry. A zde je příklad popisu zmíněné příkladové hry. Doufám, že vám přeji hezký den :)",
+
+  // Game name here
+  "cmd_test_announcement_header": "Jméno hry je tady",
+
+  // The webhook in {channel} is broken.
+  "cmd_test_invalid_webhook_1": "Webový háček v {channel} je nefunkční.",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_test_invalid_webhook_2": "To zní děsivě. Chcete-li to napravit, zkuste změnit kanál na nějaký jiný a pak zpět na {channel}. Pokud tato chyba přetrvává, kontaktujte prosím podporu!",
+
+  // :x:
+  "cmd_test_nochannel_1": ":x:",
+
+  // I don't know where to post the announcements!\nGo to /settings → Set Channel
+  "cmd_test_nochannel_2": "Nevím, kde mám posílat oznámení! Napiš /settings → Set Channel",
+
+  // Oh well...
+  "cmd_test_noembeds_1": "No jasně..",
+
+  // The theme you're using uses embeds to make the message look nicer... now the thing is, I don't have the permission to send embeds in {channel}! Either give me the permission `Embed Links` or choose a different theme that doesn't use embeds!
+  "cmd_test_noembeds_2": "Téma, kterou používáš využívá vložené objekty aby zpráva vypadala lépe... problém je, že já nemám povolení posílat vložené objekty v {channel}! Buď mi dej práva na `Embed Links` nebo si vyber jinou tému, která vložené objekty nepoužívá.",
+
+  // Whoops!
+  "cmd_test_nosee_1": "Jejda!",
+
+  // Looks like I don't have the permission to see the channel {channel}!
+  "cmd_test_nosee_2": "Vypadá to tak, že nemám povolení vidět kanál {channel}!",
+
+  // Whoops!
+  "cmd_test_nosend_1": "Jejda!",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_test_nosend_2": "Vypadá to tak, že nemám povolení posílat zprávy v {channel}!",
+
+  // Aaaaaand there it goes!
+  "cmd_test_success_1": "",
+
+  // Check out {channel}!
+  "cmd_test_success_2": "",
+
+  // Enjoying the free games?
+  "cmd_vote_1": "Užíváš si hry zdarma?",
+
+  // [Click here to vote for me on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases it's visibility and helps others discover free games too! Thank you for every vote!*
+  "cmd_vote_2": "[Klikni sem a hlasuj za mě na top.gg!]({topGGLink})\n\nZa FreeStuff Bota se dá taky zahlasovat i na jiných stránkách:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Hlasování za bota zvětšuje jeho viditelnost a taky to pomáhá ostatním najít hry zdarma! Děkujeme za každý hlas!*",
+
+  // Black
+  "color_black": "",
+
+  // Blue
+  "color_blue": "",
+
+  // Green
+  "color_green": "",
+
+  // Mint
+  "color_mint": "",
+
+  // No color
+  "color_none": "",
+
+  // Pink
+  "color_pink": "",
+
+  // Red
+  "color_red": "",
+
+  // White
+  "color_white": "",
+
+  // Yellow
+  "color_yellow": "",
+
+  // Lev (BGN)
+  "currency_bgn": "Lev (BGN)",
+
+  // Real (BRL)
+  "currency_brl": "Real (BRL)",
+
+  // Bitcoin (brrrr)
+  "currency_btc": "Bitcoin (brrrr)",
+
+  // Euro (EUR)
+  "currency_euro": "Euro (EUR)",
+
+  // Pounds (GBP)
+  "currency_gbp": "Libry (GBP)",
+
+  // Forint (HUF)
+  "currency_huf": "Forint (HUF)",
+
+  // Złoty (PLN)
+  "currency_pln": "Złoty (PLN)",
+
+  // before
+  "currency_sign_dollar_position": "before",
+
+  // before
+  "currency_sign_euro_position": "after",
+
+  // before
+  "currency_sign_position": "after",
+
+  // Dollar (USD)
+  "currency_usd": "Dolar (USD)",
+
+  // en-US
+  "date_format": "cs",
+
+  // usd
+  "default_currency": "eur",
+
+  // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
+  "donation_notice": "Zachránil ti někdy bot pár peněz? Jestli jo, [prispěj]({url}) aby mohl bot žít. Děkujeme!",
+
+  // Claim All
+  "expressbutton_label": "",
+
+  // {next}
+  "fluid_list_delimiter_first": "",
+
+  // {prev}, and {next}
+  "fluid_list_delimiter_last": "",
+
+  // {prev}, {next}
+  "fluid_list_delimiter_middle": "",
+
+  // {prev} and {next}
+  "fluid_list_delimiter_only": "",
+
+  // Third Party Provider
+  "game_meta_flag_thirdparty": "Poskytovatel třetích stran",
+
+  // Low Quality
+  "game_meta_flag_trash": "Nízká kvalita",
+
+  // Back
+  "generic_back": "Zpět",
+
+  // Cancel
+  "generic_cancel": "Zrušit",
+
+  // Cancelled
+  "generic_cancelled": "Zrušené",
+
+  // Close
+  "generic_close": "Zavřít",
+
+  // Continue
+  "generic_continue": "Pokračuj",
+
+  // Delete
+  "generic_delete": "Vymazat",
+
+  // Help
+  "generic_help": "Pomoc",
+
+  // Next
+  "generic_next": "Dál",
+
+  // Ok
+  "generic_ok": "Dobře",
+
+  // Okay
+  "generic_okay": "Jo",
+
+  // Help is on the way!
+  "help_main_1": "Pomoc je na cestě!",
+
+  // The FreeStuff bot keeps you up to date with free games!\n\nUse /free to get a list of free games\n\nUse /settings to configure the bot and to subscribe to free games notifications
+  "help_main_2": "FreeStuff bot zajistí, aby tvůj server byl vždy aktuální, co se týče her zdarma!\n\nNapiš /free a bot ti zobrazí seznam her, které jsou teď zdarma!\n\nNapiš /settings pro nakonfigurování bota a pro přihlásení k odběru her zdarma pomocí notifikací.",
+
+  // You are not {owner}!
+  "interaction_not_owned_1": "Ty nejsi {owner}!",
+
+  // Thus you cannot interact with this widget because you did not create it.\nRun **{command}** to get your own widget.
+  "interaction_not_owned_2": "To znamená, že nemůžeš interagovat s tímhle widgetem, protože jsi ho nevytvořil.\nNapiš **Manage Messages** a dostaneš svůj vlastní widget.",
+
+  // Sorry but I cannot let you do this!
+  "interaction_not_permitted_1": "Promiň, ale tohle tě nemůžu nechat udělat.",
+
+  // Only an admin of this server can do this. You are not an admin of this server.
+  "interaction_not_permitted_2_admin": "Tohle může provést jen admin serveru. Ty nejsi admin serveru.",
+
+  // This button is reserved for some very special people...\nOf course you are special too! Yes! *But not special enough*
+  "interaction_not_permitted_2_bot_admin": "Toto tlačítko je vyhrazeno pro některé výjimečné lidi... Samozřejmě, že i vy jste výjimeční! Ano! *Ale ne dost.*",
+
+  // I also cannot tell you why. But someone somewhere doesn't want you to do this...\nDo you have many enemies?
+  "interaction_not_permitted_2_generic": "Také vám nemohu říct proč. Ale někdo někde nechce, abys to udělal...\nMáš hodně nepřátel?",
+
+  // I would love to let you though! All you have to do is get yourself some **Manage Messages** permissions!
+  "interaction_not_permitted_2_manage_messages": "Moc by jsem tě chtěl nechat jít! Musíš ale mít povolení **Manage Messages**, jinak nikde nepůjdeš!",
+
+  // I was asked to prevent anyone without the **Manage Server** permission from going any further!
+  "interaction_not_permitted_2_manage_server": "Byl jsem nastaven tak, aby jsem dál nepustil nikoho bez povolení **Manage Server**!",
+
+  // Hooooold up!
+  "interaction_server_only_1": "Počkeej!",
+
+  // You cannot run this command in direct messages! Please try using it in a Discord Server.
+  "interaction_server_only_2": "Nemůžeš psát tenhle příkaz v soukromých zprávách! Zkus to napsat do Discord serveru!",
+
+  // :flag_us:
+  "lang_flag_emoji": ":flag_cz:",
+
+  // English (USA)
+  "lang_name": "Czech",
+
+  // english-us
+  "lang_name_en": "czech",
+
+  // Silence
+  "mysterious_modal_no_response_1": "",
+
+  // No one answers...
+  "mysterious_modal_no_response_2": "",
+
+  // ...
+  "mysterious_modal_no_response_3": "",
+
+  // No response
+  "mysterious_modal_no_response_4": "",
+
+  // Nobody heard you...
+  "mysterious_modal_no_response_5": "",
+
+  // What do you want?
+  "mysterious_modal_prompt_1": "",
+
+  // What do you desire?
+  "mysterious_modal_prompt_2": "",
+
+  // The forest is listening...
+  "mysterious_modal_prompt_3": "",
+
+  // Speak your mind...
+  "mysterious_modal_prompt_4": "",
+
+  // You are ready!
+  "mysterious_modal_prompt_5": "",
+
+  // Shout into the forest!
+  "mysterious_modal_title": "",
+
+  // Open in browser
+  "open_in_browser": "Otevřít v prohlížeči",
+
+  // Open in Epic Games Launcher
+  "open_in_epic_games_client": "Otevřít v Epic Games klientovi",
+
+  // Open in Steam Client
+  "open_in_steam_client": "Otevřít v Steam klientovi",
+
+  // About
+  "page_about": "Informace o botovi",
+
+  // Attributions
+  "page_attributions": "",
+
+  // Help Page
+  "page_help": "Stránka pomoci",
+
+  // Invite the bot
+  "page_invite": "Pozvat bota",
+
+  // Bot Settings
+  "page_settings": "Nastavení bota",
+
+  // Support
+  "page_support": "Podpora",
+
+  // Manage Webhooks
+  "permission_manage_webhooks": "Správa webhooků",
+
+  // View Channel
+  "permission_view_channel": "Zobrazit kanál",
+
+  // Apple App Store
+  "platform_apple": "",
+
+  // Discord
+  "platform_discord": "",
+
+  // Epic Games
+  "platform_epic": "",
+
+  // GOG.com
+  "platform_gog": "",
+
+  // Google Play
+  "platform_google": "",
+
+  // Humble Bundle
+  "platform_humble": "",
+
+  // itch.io
+  "platform_itch": "",
+
+  // Origin
+  "platform_origin": "",
+
+  // Other
+  "platform_other": "",
+
+  // Play Station
+  "platform_ps": "",
+
+  // Steam
+  "platform_steam": "",
+
+  // Nintendo Switch
+  "platform_switch": "",
+
+  // Twitch
+  "platform_twitch": "",
+
+  // Ubisoft Store
+  "platform_uplay": "",
+
+  // Xbox
+  "platform_xbox": "",
+
+  // About Premium
+  "premium_promo_button": "",
+
+  // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
+  "premium_upsell_autopublish_description": "",
+
+  // Get premium to use auto publish!
+  "premium_upsell_autopublish_title": "",
+
+  // With FreeStuff premium you can have the bot automatically react to every notification you receive!
+  "premium_upsell_autoreact_description": "",
+
+  // Get premium to use auto reactions!
+  "premium_upsell_autoreact_title": "",
+
+  // With FreeStuff premium you can upload your own image for FreeStuff to use as the profile picture. You can also change the name to whatever you like. Make it blend in to your server!
+  "premium_upsell_botprofile_description": "",
+
+  // Get premium to change bot's profile!
+  "premium_upsell_botprofile_title": "",
+
+  // If you are happy with the one role you selected, you don't need to get premium. Your changes are already saved!\nIf you do want to ping more than one role however, you can do this with premium!
+  "premium_upsell_multiping_description": "",
+
+  // Get premium to ping more than one role!
+  "premium_upsell_multiping_title": "",
+
+  // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
+  "premium_upsell_threadopts_description": "",
+
+  // Get premium to create threads!
+  "premium_upsell_threadopts_title": "",
+
+  // Actual price
+  "price_actual": "Aktuální cena",
+
+  // Everything
+  "price_class_a": "Všechno",
+
+  // Almost Everything
+  "price_class_b": "Téměř všechno",
+
+  // Default
+  "price_class_c": "Základní nastavení",
+
+  // Big fish
+  "price_class_d": "Jen velké ryby",
+
+  // Converted from USD
+  "price_converted": "Konvertováno z USD",
+
+  // Privacy Policy
+  "privacy_policy": "Zásady ochr. osob. údajů",
+
+  // Permanently Free
+  "product_meta_flag_permanent": "Trvale zdarma",
+
+  // FreeStuff Recommendation
+  "product_meta_flag_staff_pick": "Doporučení FreeStuff",
+
+  // Third Party Provider
+  "product_meta_flag_thirdparty": "Poskytovatel třetí strany",
+
+  // Low Quality
+  "product_meta_flag_trash": "Nízká Kvalita",
+
+  // Refresh List
+  "refresh_channel_list": "Provedené změny? Znovu načíst seznam",
+
+  // Click here to reload the channel list
+  "refresh_channel_list_description": "",
+
+  // Made changes?
+  "refresh_channel_list_title": "",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_channel_timeout": "Zpomalte! Tento seznam můžete načíst pouze jednou za {interval} sekund!",
+
+  // Channel list refreshed
+  "refresh_channels_success": "",
+
+  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
+  "refresh_channels_timeout": "Jsi příliš rychlý! Z bezpečnostních důvodů vám můžeme povolit stisknout toto tlačítko pouze jednou za {interval} sekund!\\nS pozdravem, John FreeStuff, zakladatel FreeStuff",
+
+  // Refresh List
+  "refresh_role_list": "Provedené změny? Znovu načíst seznam",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_role_timeout": "Zpomalte! Tento seznam můžete načíst pouze jednou za {interval} sekund!",
+
+  // Welcome to FreeStuff!
+  "settings2_main_1_first_time": "",
+
+  // FreeStuff Settings
+  "settings2_main_1_regular": "",
+
+  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
+  "settings2_main_2_first_time": "",
+
+  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
+  "settings2_main_2_first_time_v1prev": "",
+
+  // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
+  "settings2_main_2_regular": "",
+
+  // Disable Auto Publish
+  "settings_auto_publish_off_prompt": "",
+
+  // Auto Publish Disabled
+  "settings_auto_publish_off_state": "",
+
+  // Enable Auto Publish
+  "settings_auto_publish_on_prompt": "",
+
+  // Auto Publish Enabled
+  "settings_auto_publish_on_state": "",
+
+  // This does not look like a url
+  "settings_botprofile_avatar_invalid_url_1": "",
+
+  // Please make sure your image actually loads and the link starts with `http://` or `https://`
+  "settings_botprofile_avatar_invalid_url_2": "",
+
+  // Ayo what's that
+  "settings_botprofile_avatar_url_too_long_1": "",
+
+  // Your url is a little... excessive... A little... long, maybe. Could you try make it shorter maybe? Thanks :D
+  "settings_botprofile_avatar_url_too_long_2": "",
+
+  // Edit Avatar
+  "settings_botprofile_btn_edit_avatar": "",
+
+  // Edit Name
+  "settings_botprofile_btn_edit_name": "",
+
+  // Uhhh, very sorry uhhh
+  "settings_botprofile_name_too_long_1": "",
+
+  // But your name can only be 32 characters long. Directive from above, nothing I can do about that, sorry.
+  "settings_botprofile_name_too_long_2": "",
+
+  // Avatar and Name
+  "settings_botprofile_ui_1": "",
+
+  // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.\n\n**Edit Avatar** will allow you to change the bot's profile picture. You will need to provide a link to your desired image. Leave empty to reset to default.\n\n**Edit Name** will allow you to change the bot's name. Leave empty to reset to default.
+  "settings_botprofile_ui_2": "",
+
+  // Uhhhh what are you doing?
+  "settings_change_any_while_unsubscribed_1": "",
+
+  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
+  "settings_change_any_while_unsubscribed_2": "",
+
+  // Edit Avatar and Name
+  "settings_change_bot_profile": "",
+
+  // You have too many webhooks in {channel}! Please open the channel settings, go to integrations, delete some unused webhooks, and come back. This limitation is enforced by Discord, we cannot do anything about this unfortunately.
+  "settings_channel_error_too_many_webhooks": "V {channel} je již příliš mnoho webových háčků. Discord povoluje pouze 10, odstraňte prosím jeden nebo více, než to zkusíte znovu!",
+
+  // here
+  "settings_channel_list_here": "tady",
+
+  // No channel
+  "settings_channel_list_no_channel_1": "Žádný kanál",
+
+  // Disable free games feed
+  "settings_channel_list_no_channel_2": "Vypnutí oznámení o hrách zdarma",
+
+  // You have too many channels to show them all in the list below.
+  "settings_channel_list_too_many": "",
+
+  // Missing \"Embed Messages\" Permission
+  "settings_channel_list_warning_missing_embed_messages": "Chybějící povolení \"Embed Messages\"",
+
+  // Missing \"Manage Webhooks\" Permission
+  "settings_channel_list_warning_missing_manage_webhooks": "Chybějící \"Manage Webhooks\" povolení",
+
+  // Missing \"Send Messages\" Permission
+  "settings_channel_list_warning_missing_send_messages": "Chybějící povolení \"Send Messages\"",
+
+  // Missing \"View Channel\" Permission
+  "settings_channel_list_warning_missing_view_channel": "Chybí mi povolení \"View Channel\"",
+
+  // You have waaaaay too many channels to show them all in the list below. How do you even find anything in here?
+  "settings_channel_list_way_too_many": "",
+
+  // Change The Channel
+  "settings_channel_ui_1": "Změnit kanál",
+
+  // Below you'll find a list of all of your channels. Please pick one for me to send free games to!
+  "settings_channel_ui_2_regular": "Níže najdeš seznam všech tvých kanálů",
+
+  // Below you'll find a list of most of your channels. You had so many I couldn't show them all at once. Please pick one for me to send free games to!
+  "settings_channel_ui_2_too_many": "Níže najdeš téměř kompletní seznam tvých kanálů. Máš jich tolik, že je nemůžu zobrazit všechny. Vyber prosím jeden, kde mám posílat oznámení o hrách zdarma!",
+
+  // Below you'll find a list of a few of your channels. You have an enormous amount of channels in this server, you know this? So many in fact I could only show you a small selection of them. Please pick one for me to send free games to!
+  "settings_channel_ui_2_way_too_many": "Níže najdeš téměř kompletní seznam tvých kanálů. Máš obrovské množství kanálů a tak jsem mohl zobrazit fakt jen velmi málo z nich. Vyber prosím jeden, kde mám posílat oznámení o hrách zdarma!",
+
+  // Can't change channel to {channel}: Missing \"{permissions}\" permissions!
+  "settings_channel_ui_missing_permissions": "Nemůžeš změnit kanál na {channel}: Chybějící \"{permissions}\" povolení!",
+
+  // If you cannot find your desired channel, run /settings in that very channel to force it to show up.
+  "settings_channel_ui_too_many_channels_tip": "Kanál, který hledáš tady není? Napiš tohle v kanálu, který chceš vidět na seznamu!",
+
+  // Unknown channel
+  "settings_channel_unknown_channel": "Neznámý kanál",
+
+  // Other Settings
+  "settings_conf_ui_1": "",
+
+  // **Select Language** will change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.\n\n**Select Currency** will change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
+  "settings_conf_ui_2": "",
+
+  // Disable Claim-All Button
+  "settings_display_expressbutton_off_prompt": "",
+
+  // Claim-All Button Disabled
+  "settings_display_expressbutton_off_state": "",
+
+  // Enable Claim-All Button
+  "settings_display_expressbutton_on_prompt": "",
+
+  // Claim-All Button Enabled
+  "settings_display_expressbutton_on_state": "",
+
+  // Disable Auto Reaction
+  "settings_display_reactions_off_prompt": "Vypnout Auto-reakci",
+
+  // Auto Reaction Disabled
+  "settings_display_reactions_off_state": "Auto-reakce vypnuta",
+
+  // Enable Auto Reaction
+  "settings_display_reactions_on_prompt": "Zapnout Auto-reakci",
+
+  // Auto Reaction Enabled
+  "settings_display_reactions_on_state": "Auto-reakce zapnuta",
+
+  // Display Settings
+  "settings_display_ui_1": "Nastavení zobrazení",
+
+  // Change the appearance of the bot's messages
+  "settings_display_ui_2": "Změnit vzhled zpráv bota",
+
+  // Show Bundles
+  "settings_filter_kinds_bundle_1": "",
+
+  // Collections of games, DLCs or other items
+  "settings_filter_kinds_bundle_2": "",
+
+  // Show DLCs
+  "settings_filter_kinds_dlc_1": "",
+
+  // Addons and other game extensions
+  "settings_filter_kinds_dlc_2": "",
+
+  // None selected
+  "settings_filter_kinds_none": "",
+
+  // Show other content
+  "settings_filter_kinds_other_1": "",
+
+  // Stuff that does not fit into the other categories
+  "settings_filter_kinds_other_2": "",
+
+  // Show Store Items
+  "settings_filter_kinds_storeitem_1": "",
+
+  // Things like steam point shop items
+  "settings_filter_kinds_storeitem_2": "",
+
+  // (All disabled)
+  "settings_filter_platforms_none": "(všechno vypnuto)",
+
+  // Send all games. Every. Single. One.
+  "settings_filter_price_class_desc_everything": "Zasílat všechny hry. I ty nezajimavé",
+
+  // Only send games worth {price} or more
+  "settings_filter_price_class_desc_generic": "Zasílat jen hry, které stojí {price} nebo dražší",
+
+  // Disable Games
+  "settings_filter_show_passgames_off_prompt": "",
+
+  // Games Disabled
+  "settings_filter_show_passgames_off_state": "",
+
+  // Enable Games
+  "settings_filter_show_passgames_on_prompt": "",
+
+  // Games Enabled
+  "settings_filter_show_passgames_on_state": "",
+
+  // Disable Loot
+  "settings_filter_show_passloot_off_prompt": "",
+
+  // Loot Disabled
+  "settings_filter_show_passloot_off_state": "",
+
+  // Enable Loot
+  "settings_filter_show_passloot_on_prompt": "",
+
+  // Loot Enabled
+  "settings_filter_show_passloot_on_state": "",
+
+  // Disable Bad Quality Games
+  "settings_filter_trash_off_prompt": "Vypnout hry s horší kvalitou",
+
+  // Bad Quality Games Disabled
+  "settings_filter_trash_off_state": "Hry s horší kvalitou vypnuty",
+
+  // Enable Bad Quality Games
+  "settings_filter_trash_on_prompt": "Zapnout hry s horší kvalitou",
+
+  // Bad Quality Games Enabled
+  "settings_filter_trash_on_state": "Hry s horší kvalitou zapnuty",
+
+  // Filter Settings
+  "settings_filter_ui_1": "Filtrování",
+
+  // There are a lot of free games out there, some more interesting than others. In order to not flood your precious Discord server with spam we have some options for you to decide which games you like to see:
+  "settings_filter_ui_2": "Je mnoho her zdarma, no ne všechny tě mohou zajímat. Aby jsme nezaplavili tvůj discord server hrama, které za to nestojí, tak pro tebe máme možnosti:",
+
+  // Something failed while exporting your data, we are very sorry. You can reach out to us and manually request a copy of your data via team@freestuffbot.xyz - Please include your server id in the E-Mail. Thanks.
+  "settings_guilddata_data_failed": "",
+
+  // Please click the Download button below to download your data. The button will only work one time, run the command again to download again. Do not share the link with anyone!
+  "settings_guilddata_data_ready": "",
+
+  // Delete Server Data
+  "settings_guilddata_delete_button": "Smazání serverových dat",
+
+  // Are you sure?
+  "settings_guilddata_delete_dialogue_confirmation_1": "Jseš si jistej?",
+
+  // Once you click the button below there is no going back!
+  "settings_guilddata_delete_dialogue_confirmation_2": "Když jednou klikneš na tlačítko, už není cesty zpět!",
+
+  // Slow down!
+  "settings_guilddata_delete_dialogue_cooldown_1": "Spomal!",
+
+  // Looks like someone already deleted this server's data in the past 12h. Please try again later!
+  "settings_guilddata_delete_dialogue_cooldown_2": "Vypadá to tak, že někdo už smazal data tohohle serveru v posledních 12h. Zkus to prosím později.",
+
+  // Only an admin can do this
+  "settings_guilddata_delete_dialogue_not_allowed_1": "Tohle může dělat jen admin",
+
+  // Please ask a server admin if you really really wanna do this.
+  "settings_guilddata_delete_dialogue_not_allowed_2": "Zeptej se admina serveru, jestli tohle vážně chceš udělat.",
+
+  // Success!
+  "settings_guilddata_delete_success_1": "Podařilo se!",
+
+  // Your server's data has been deleted and reset to default settings!
+  "settings_guilddata_delete_success_2": "Data tvého serveru byli smazány a resetovány do základních nastavení!",
+
+  // Uh... that's a bit embarrassing now... There was an error exporting your data. Please [contact our team]({invite}) to get your data.
+  "settings_guilddata_display_error": "Ahh.. teď to je trochu trapné.. Objevila se chyba při exportování tvých dat. Kontaktuj náš tím]({invite}) aby jsi získal/a své data, prosím.",
+
+  // Download Data
+  "settings_guilddata_download": "",
+
+  // Okie dokie, data's coming in hot:
+  "settings_guilddata_success_1": "Pohoda jahoda, tvoje data jsou na cestě:",
+
+  // English with the metric system
+  "settings_language_list_desc_english_eu": "Anglicky s metrickou soustavou jednotek",
+
+  // English with the imperial system
+  "settings_language_list_desc_english_us": "Anglicky s imperiální soustavou jednotek",
+
+  // English with football fields per pizza slice
+  "settings_language_list_desc_english_us_easteregg": "Anglicky s futbalovými hřištěmi na každej kousek pizze",
+
+  // {language} by {translators}
+  "settings_language_list_desc_generic": "{language} byl přeložený {translators}",
+
+  // Language Selection
+  "settings_language_ui_1": "Výběr jazyku",
+
+  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
+  "settings_language_ui_2": "Tenhle jazyk se aplikuje na celý server, nejen pro tebe!\n\nSeš ňáký vostrý, ne?",
+
+  // Oh no!
+  "settings_locked_premium_1": "",
+
+  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
+  "settings_locked_premium_2": "",
+
+  // Change channel
+  "settings_main_btn_channel_change": "Změnit kanál",
+
+  // Set channel
+  "settings_main_btn_channel_set": "Nastavit kanál",
+
+  // Display Settings
+  "settings_main_btn_display": "Zobrazovací nastavení",
+
+  // Filter Settings
+  "settings_main_btn_filter": "Nastavení filtru",
+
+  // Other Settings
+  "settings_main_btn_general": "",
+
+  // Need help?
+  "settings_main_btn_help": "",
+
+  // Advanced
+  "settings_main_btn_more": "Více",
+
+  // Notification Settings
+  "settings_main_btn_notifications": "",
+
+  // Change role mention
+  "settings_main_btn_role_change": "Změnit pingovanou roli",
+
+  // Mention a role
+  "settings_main_btn_role_set": "Pingnout roli",
+
+  // Need help?
+  "settings_main_help_1": "",
+
+  // Read the guide
+  "settings_main_help_solution_guide_1": "",
+
+  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
+  "settings_main_help_solution_guide_2": "",
+
+  // Join our support server
+  "settings_main_help_solution_server_1": "",
+
+  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
+  "settings_main_help_solution_server_2": "",
+
+  // Tl;dr
+  "settings_main_help_solution_tldr_1": "",
+
+  // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
+  "settings_main_help_solution_tldr_2": "",
+
+  // Settings
+  "settings_main_ui_1": "Nastavení",
+
+  // Looks like you still didn't finish setting up the bot :eyes:\n\nWhy don't you start by picking a channel for me to send free games to?
+  "settings_main_ui_2_guided_channel_delayed": "Vypadá to tak, že jsi pořád nedokončil nastavení bota :eyes:\n\nProč nezačneš vybráním kanálu, kde budu moct posílat upozornení na hry zdarma?",
+
+  // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel I can use to keep you and your friends up to date with free games! Click the blue button below to continue:
+  "settings_main_ui_2_guided_channel_normal": "Vítej ve FreeStuff :wave:\n\nJsme rádi, že jsi se dostal do nastavení! Začneme tím, že jsi vybereš kanál, kde budeš ty a tvoji kamarádi dostávat upozornení na hry zdarma! Zmáčkni modrý čudlík pro pokračování:",
+
+  // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
+  "settings_main_ui_2_guided_display_delayed": "Máš tady nějaké další nastavení. Říkam o témach, měnách a tak dál. Zajímá tě to?",
+
+  // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
+  "settings_main_ui_2_guided_display_normal": "Perfektní! Poslední zastávka na seznamu jsou zobrazovací nastavení. Určitě jim věnuj rychlý pohled!",
+
+  // Welcome back! You might be missing out on some free games because the filter options are not configured to your likings! Better check them out real quick, it doesn't take long :eyes:
+  "settings_main_ui_2_guided_filter_delayed": "Vítej zpátky! Mohli ti utéct nějaké hry, protože filtr není nastavený podle tvýho gusta! Radši to rychle zkontroluj, nezabere ti to tak dlouho :eyes:",
+
+  // Okay awesome, let's continue with filter settings. You might be missing out on some games if you don't check those out!
+  "settings_main_ui_2_guided_filter_normal": "Super, teď pojďme na nastavení filtru. Jestli tohle přeskočíš, nějaká hra vám může utéct!",
+
+  // Awesome, you're done with setting up the FreeStuff Bot! Enjoy your free games! :partying_face:\n\nLooking for other people to talk about free games? [Join our Discord Server]({invite})\n\n*You can always return to this page using /settings*
+  "settings_main_ui_2_guided_finished": "Úžasné, máš to za sebou! Užij si hry zdarma! :partying_face:\n\nHledáš jiné lidi, s kterýma by jsi se mohl/a bavit o hrách zdarma? [Přidej se na náš Discord Server]({invite})\n\n*vždy se můžeš vrátit na tuhle stránku použitím /settings*",
+
+  // Wanna continue setting up the bot?\nI'd suggest you check out role mentions next! Just click the button below to see what's possible!
+  "settings_main_ui_2_guided_role_delayed": "Chceš pokračovat v nastavování bota?\nJá ti doporučuju vrhnout se na pingování rolí. Jen klikni na čudlík níže a uvídíš, co se dá dělat!",
+
+  // Good job! Next up, maybe wanna get notified when a game becomes free? I'm talking about pinging a role or maybe even @everyone?\nClick the button below to see what's possible :eyes:
+  "settings_main_ui_2_guided_role_normal": "Skvělá práce! Teď jsi nastavíme notifikace. Říkam o pingovaní nějaké konkrétní role. Nebo například @everyone?\nZmáčkni tlačítko níže a uvidíme co se s tím dá dělat :eyes:",
+
+  // Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.
+  "settings_main_ui_2_regular": "Zdravím tě!\n\nNemůžeš najít konkrétní nastavení? Potřebuješ pomoc s nastavením bota? Nebo máš jiné otázky? [Klikni sem pro návod]({guide}), který tě provede všem, co potřebuješ vědet nebo se můžeš [přidat na náš Discord server]({invite}) pro osobitou pomoc.",
+
+  // Opt out of Beta
+  "settings_more_beta_off_prompt": "Odhlásit se z bety",
+
+  // You're not in beta!
+  "settings_more_beta_off_state": "Nejsi v beta programu!",
+
+  // Opt in to Beta
+  "settings_more_beta_on_prompt": "Přihlásit se do bety",
+
+  // You're in beta!
+  "settings_more_beta_on_state": "Jsi v beta programu!",
+
+  // Disable Boring Mode
+  "settings_more_boringmode_off_prompt": "",
+
+  // Boring Mode is off
+  "settings_more_boringmode_off_state": "",
+
+  // Enable Boring Mode
+  "settings_more_boringmode_on_prompt": "",
+
+  // Boring Mode is on
+  "settings_more_boringmode_on_state": "",
+
+  // View Server Data
+  "settings_more_btn_guilddata": "Zobraz serverové dáta",
+
+  // Re-send Messages
+  "settings_more_btn_resend": "Znovu-odeslání zpráv",
+
+  // Send Test Message
+  "settings_more_btn_test": "Pošli testovací zprávu",
+
+  // Mysterious Button
+  "settings_more_mysterious_button": "Záhadné tlačítko",
+
+  // Advanced Options
+  "settings_more_ui_1": "Více",
+
+  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
+  "settings_more_ui_2": "**Odesílání testovací zprávy** odešle zprávu se všemi nastaveními, které jsi nakonfiguroval/a. Použij to, když si chceš být 100% jistý/á, jestli všechno funguje jak má! Pingne to ale některé lidi, pokud jsi to tak nastavil/a!\n\n**Znovu poslání zpráv** znovu odešle novinky pro hry, které jsou stále zdarma. Nechtěně jsi smazal/a zprávu? Změnil/a nastavení? Nebo chceš jen to samé oznámení dvakrát? Tohle tlačítko je pro tebe!\n\n**Zobrazit serverové data** zobrazí všechny data, které o tvém serveru máme.\n\n**Přihlásit se do bety** ti dovolí dostávat novinky dřív, než je dostanou ostatní. Tyhle aktualizace ale nejsou vždy stabilní a spolehlivé. Sem tam můžeš taky být požádán/a o zpětnou vazbu.",
+
+  // You need \"Manage Server\" permissions to edit this
+  "settings_permission_disclaimer": "Potřebuješ povolení \"Manage Server\" aby jsi to mohl/a upravit",
+
+  // Add Role
+  "settings_role_add_role": "",
+
+  // @everyone
+  "settings_role_list_everyone_1": "@everyone",
+
+  // Ping everyone. That's a lot of people.
+  "settings_role_list_everyone_2": "Pingnout všechny. To je dost lidí.",
+
+  // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
+  "settings_role_list_hidden_overflow_disclaimer": "Některé role mohou být skryté, protože jich máte příliš mnoho najednou. Pokud svou roli nemůžete v seznamu najít, přesuňte ji na začátek!",
+
+  // Some roles might be hidden because the bot doesn't have the `Mention All Roles` permission!
+  "settings_role_list_hidden_permissions_disclaimer": "Některé role můžou být skryté, protože bot nemá povolení `Mention All Roles`!",
+
+  // Disable Mentions
+  "settings_role_list_no_mention_1": "Vypnout pingování",
+
+  // Do not ping anyone.
+  "settings_role_list_no_mention_2": "Nikoho nebudeme pingovat.",
+
+  // None selected
+  "settings_role_list_remove_role_1": "",
+
+  // Click here to remove this role
+  "settings_role_list_remove_role_2": "",
+
+  // Notification Settings
+  "settings_role_ui_1": "Nastavení notifikací",
+
+  // Pick a role to ping when a new game becomes free!
+  "settings_role_ui_2": "Vyber si rolu, která bude pingována, když se objeví hra zdarma!",
+
+  // More
+  "settings_sub_btn_more": "",
+
+  // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
+  "settings_subscription_locked_premium": "",
+
+  // More
+  "settings_subscription_more_ui_1": "",
+
+  // **Send Test Message** sends a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.\n\n**Re-send Messages** will re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This button is for you!
+  "settings_subscription_more_ui_2": "",
+
+  // Click here to subscribe
+  "settings_subscription_not_subscribed_1": "",
+
+  // Pick a channel below to subscribe to {subscription}
+  "settings_subscription_not_subscribed_2": "",
+
+  // Your Premium subscription expired. We have paused your notifications for {subscription} until you resubscribe.
+  "settings_subscription_premium_expired": "",
+
+  // {subscription} is a premium subscription. You can subscribe.
+  "settings_subscription_unlocked_premium": "",
+
+  // Unsubscribe {subscription}
+  "settings_subscription_unsubscribe_1": "",
+
+  // You will stop receiving games from this category.
+  "settings_subscription_unsubscribe_2": "",
+
+  // Slash commands are here!
+  "slash_command_introduction_info_short": "Lomítkové příkazy sou tady!",
+
+  // Slash commands are here! Use **{command}** from now on!
+  "slash_command_introduction_label_long": "Lomítkové příkazy sou tady! Od nynějška používej **{command}**!",
+
+  // Use **{command}** from now on!
+  "slash_command_introduction_label_short": "Od nynějška používej **{command}**!",
+
+  // {user} used {command}
+  "slash_command_source": "{user} použil/a {command}",
+
+  // This subscription will show you all games newly added to the Game Pass suite of titles. These games require a Game Pass subscription to play for free while the offer lasts.\nYou can filter by price and quality.
+  "subscription_gamepass_description": "",
+
+  // Game Pass
+  "subscription_gamepass_name": "",
+
+  // This subscription will show you games that have a 100% discount for a limited amount of time. You can keep those games after the sale is over.\nYou can filter by price, platform and quality.
+  "subscription_keep_description": "",
+
+  // 100% Discount
+  "subscription_keep_name": "",
+
+  // This subscription will show you all sorts of other offers that are available at a 100% discount for a limited amount of time. This does usually not include games but may include other software such as DLCs or non-gaming related items.\nYou can filter by price, platform and product type.
+  "subscription_other_description": "",
+
+  // DLCs & More
+  "subscription_other_name": "",
+
+  // This subscription will show you all games newly added to the Prime Gaming suite of titles. You require a Prime Gaming subscription to obtain games from this category. You can keep them after the offer expired.\nYou can filter by price and quality.
+  "subscription_prime_description": "",
+
+  // Prime Gaming
+  "subscription_prime_name": "",
+
+  // Prime Gaming: Games
+  "subscription_primegames_name": "",
+
+  // Prime Gaming: Loot
+  "subscription_primeloot_name": "",
+
+  // This subscription will show you games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
+  "subscription_timed_description": "",
+
+  // Free Weekend
+  "subscription_timed_name": "",
+
+  // Terms of Service
+  "terms_of_service": "Podmínky služby",
+
+  // You cannot get less than this
+  "theme_eight_desc": "Nemůžeš mít méně než tohle",
+
+  // Bare minimum
+  "theme_eight_name": "Absolutní minimum",
+
+  // A theme with minimal extra info
+  "theme_five_desc": "Téma s jen málo informacemi",
+
+  // Keep it simple
+  "theme_five_name": "Jednoduchost.",
+
+  // Only weird people chose this
+  "theme_four_desc": "Tohle je jen pro divné lidi",
+
+  // More info less images!
+  "theme_four_name": "Více info, méně fotek",
+
+  // If you need some context but don't like embeds
+  "theme_nine_desc": "Když máš rád text ale ne odkazy",
+
+  // Text only!
+  "theme_nine_name": "Jen text!",
+
+  // Pretty basic
+  "theme_one_desc": "Dost obyčejné téma",
+
+  // Default Theme
+  "theme_one_name": "Základní téma",
+
+  // It's literally just the link
+  "theme_seven_desc": "Je to prostě jen link, nic jiného",
+
+  // Literally just the link
+  "theme_seven_name": "Jen link",
+
+  // A theme with almost minimal extra info
+  "theme_six_desc": "Téma jen s fakt málo informacemi",
+
+  // Images are cool!
+  "theme_six_name": "Fotky jsou cool!",
+
+  // For ArchiSteamFarm users and alike
+  "theme_ten_desc": "Pro ArchiSteamFarm uživatele a podobně",
+
+  // Advanced
+  "theme_ten_name": "Pokročilá téma",
+
+  // With a short description and ratings
+  "theme_three_desc": "S krátkým opisem a hodnocením",
+
+  // More info!
+  "theme_three_name": "Více info!",
+
+  // If you don't like images
+  "theme_two_desc": "Jestli nemáš rád fotky",
+
+  // No photos please!
+  "theme_two_name": "Téma bez fotek",
+
+  // We send a message in your channel. That's all.
+  "thread_opt_a_description": "",
+
+  // No threads
+  "thread_opt_a_name": "",
+
+  // Message goes in your channel but we start a thread for it.
+  "thread_opt_b_description": "",
+
+  // Thread below
+  "thread_opt_b_name": "",
+
+  // We create a new thread and post the message there.
+  "thread_opt_c_description": "",
+
+  // Message in thread
+  "thread_opt_c_name": "",
+
+  // English translation available! If you want me to use English, use`/settings`
+  "translation_available": "Český překlad k dispozici! Pokud chceš používat češtinu, napiš `@FreeStuff set language czech`",
+
+  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
+  "translation_available_generic": "",
+
+  // English translation by:
+  "translation_by": "Český překlad od:",
+
+  // Maanex
+  "translators": "Flex Powerzanec, JayJake",
+
+  // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
+  "webhook_create_auditlog_reason": "FreeStuff používá odkazy na web pro distribuci oznámení na větším měřítku. Prosím, neodstraňuj tenhle odkaz na web.",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_missing_permissions_1": "Něco tu nehraje!",
+
+  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
+  "webhook_migration_failed_missing_permissions_2": "Vypadá to tak, že mi chybí povolení \"Manage Webhooks\". Dej mi prosím tyhle povolení a zkus to znovu!",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_too_many_hooks_1": "Tak to nene!",
+
+  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
+  "webhook_migration_failed_too_many_hooks_2": "Vypadá to tak, že už jsi pár odkazů na web v tomhle kanáli použil. Naneštěstí je tu limit 10 odkazů na web na kanál. Prosím, smaž alespoň jeden pro FreeStuff, a on pak může jeden vytvořit.",
+
+  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
+  "webhook_migration_notice": "FreeStuff botovi chybějí některé povolení. Admini serveru, prosím, napište **/settings** pro víc info nebo bot může přestat fungovat!"
+}
