@@ -81,6 +81,8 @@
     "slash_command_source": "{user} used {command}",
     "cmd_resend_success_1": "Aaaaaand there it goes!",
     "cmd_resend_success_2": "Check out {channel}!",
+    "cmd_resend_nosend_1": "Whoops!",
+    "cmd_resend_nosend_2": "Looks like I don't have the permission to send messages in {channel}!",
     "cmd_test_announcement_description": "That is an example game. And this here is the example description of said example game. I hope you have a nice day :)",
     "slash_command_introduction_info_short": "Slash commands are here!",
     "slash_command_introduction_label_long": "Slash commands are here! Use **{command}** from now on!",
