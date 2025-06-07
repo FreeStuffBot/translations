@@ -30,7 +30,7 @@ Once you're done you click on the green button **"Commit changes"** in the top r
 
 In the popup you click on the green button **"Propose changes"**.
 
-You should now see a text field where it says `### Please selext all that apply`. Ignore this for now and click the green button "Create pull request" one more time.
+You should now see a text field where it says `### Please select all that apply`. Ignore this for now and click the green button "Create pull request" one more time.
 
 You can now check all the checkboxes that apply.
 
