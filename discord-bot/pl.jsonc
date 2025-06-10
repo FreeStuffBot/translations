@@ -6,7 +6,7 @@
   "announcement_footer": "przez {website}",
 
   // This is a preview message
-  "announcement_footer_test": "Wszystko ok? Jeżeli nie, wpisz: @FreeStuff settings",
+  "announcement_footer_test": "To jest podgląd ogłoszenia",
 
   // for a very long time
   "announcement_free_for_a_long_time": "przez bardzo długi czas",
@@ -27,40 +27,40 @@
   "announcement_header": "Darmowa gra!",
 
   // Claim for **Free**
-  "announcement_price_gamepass": "",
+  "announcement_price_gamepass": "Odbierz **Za darmo**",
 
   // Claim for **Free** until {date}
-  "announcement_price_gamepass_until": "",
+  "announcement_price_gamepass_until": "Odbierz **Za darmo** do {date}",
 
   // {prices}
   "announcement_price_generic": "",
 
   // {prices} until {date}
-  "announcement_price_generic_until": "",
+  "announcement_price_generic_until": "{prices} do {date}",
 
   // {prices}
   "announcement_price_keep": "",
 
   // {prices} until {date}
-  "announcement_price_keep_until": "",
+  "announcement_price_keep_until": "{prices} do {date}",
 
   // {prices}
   "announcement_price_other": "",
 
   // {prices} until {date}
-  "announcement_price_other_until": "",
+  "announcement_price_other_until": "{prices} do {date}",
 
   // Claim for **Free**
-  "announcement_price_prime": "",
+  "announcement_price_prime": "Odbierz **Za darmo**",
 
   // Claim for **Free** until {date}
-  "announcement_price_prime_until": "",
+  "announcement_price_prime_until": "Odbierz **Za darmo** do {date}",
 
   // **Free to play**
-  "announcement_price_timed": "",
+  "announcement_price_timed": "**Darmowe granie**",
 
   // **Free to play** until {date}
-  "announcement_price_timed_until": "",
+  "announcement_price_timed_until": "**Darmowe granie** do {date}",
 
   // Free
   "announcement_pricetag_free": "Za darmo",
@@ -72,43 +72,43 @@
   "announcement_thread_name_gamepass_multiple_below": "",
 
   // {amount} new games for Game Pass!
-  "announcement_thread_name_gamepass_multiple_outside": "",
+  "announcement_thread_name_gamepass_multiple_outside": "{amount} nowych gier na Game Pass!",
 
   // {name}
   "announcement_thread_name_gamepass_single_below": "",
 
   // New Game Pass content: {name}!
-  "announcement_thread_name_gamepass_single_outside": "",
+  "announcement_thread_name_gamepass_single_outside": "Nowa zawartość Game Pass: {name}!",
 
   // {names}
   "announcement_thread_name_keep_multiple_below": "",
 
   // {amount} games are free!
-  "announcement_thread_name_keep_multiple_outside": "",
+  "announcement_thread_name_keep_multiple_outside": "{amount} gry są za darmo!",
 
   // {name}
   "announcement_thread_name_keep_single_below": "",
 
   // {name} is free!
-  "announcement_thread_name_keep_single_outside": "",
+  "announcement_thread_name_keep_single_outside": "{name} jest za darmo!",
 
   // {names}
   "announcement_thread_name_other_multiple_below": "",
 
   // {amount} games are free!
-  "announcement_thread_name_other_multiple_outside": "",
+  "announcement_thread_name_other_multiple_outside": "{amount} gry są za darmo!",
 
   // {name}
   "announcement_thread_name_other_single_below": "",
 
   // {name} is free!
-  "announcement_thread_name_other_single_outside": "",
+  "announcement_thread_name_other_single_outside": "{name} jest za darmo!",
 
   // {names}
   "announcement_thread_name_prime_multiple_below": "",
 
   // {amount} new games for Prime!
-  "announcement_thread_name_prime_multiple_outside": "",
+  "announcement_thread_name_prime_multiple_outside": "{amount} nowych gier w Prime",
 
   // {name}
   "announcement_thread_name_prime_single_below": "",
@@ -120,67 +120,67 @@
   "announcement_thread_name_timed_multiple_below": "",
 
   // Free weekend for {amount} games!
-  "announcement_thread_name_timed_multiple_outside": "",
+  "announcement_thread_name_timed_multiple_outside": "Darmowy weekend dla {amount} gier",
 
   // {name}
   "announcement_thread_name_timed_single_below": "",
 
   // Free weekend for {name}!
-  "announcement_thread_name_timed_single_outside": "",
+  "announcement_thread_name_timed_single_outside": "Darmowy weekend dla {name}",
 
   // {title} is free!
-  "announcement_title_statement": "",
+  "announcement_title_statement": "{title} jest za darmo!",
 
   // An error occurred!
   "cmd_error_fatal_1": "Niespodziewany błąd!",
 
   // We're trying to fix this issue as soon as possible!
-  "cmd_error_fatal_2": "Postaramy sie naprawić bład najwcześniej jak to możliwe!",
+  "cmd_error_fatal_2": "Postaramy się naprawić błąd najwcześniej jak to możliwe!",
 
   // A wild error occurred!
   "cmd_error_fixable_1": "Niespodziewany błąd!",
 
   // Can you please try that again? If this message keeps appearing please wait a bit or [reach out to our support team]({discordInvite}), thanks.
-  "cmd_error_fixable_2": "Możesz spróbować ponownie? Jeżeli nic się nie zmieni poczekaj chwile lub [skontaktuj się z nami]({discordInvite}).",
+  "cmd_error_fixable_2": "Możesz spróbować ponownie? Jeżeli nic się nie zmieni, poczekaj chwilę lub [skontaktuj się z nami]({discordInvite}).",
 
   // An error occurred!
   "cmd_error_readd_1": "Niespodziewany błąd!",
 
   // Try removing the bot from your server and adding it back in. If this does not help, [please join the support server]({discordInvite}).
-  "cmd_error_readd_2": "Spróbuj usunąć bota i dodać go ponownie, jeżeli nic się nie zmieni [skontaktuj się z nami]({discordInvite}).",
+  "cmd_error_readd_2": "Spróbuj usunąć bota i dodać go ponownie. Jeżeli nic się nie zmieni, [skontaktuj się z nami]({discordInvite}).",
 
   // **Ends soon:**
-  "cmd_free_ends_soon": "**Wkrótce się kończą:** (lub już się skończyły)",
+  "cmd_free_ends_soon": "**Wkrótce się kończą:**",
 
   // (Ends soon!)
-  "cmd_free_ends_soon2": "",
+  "cmd_free_ends_soon2": "(Wkrótce się kończy!)",
 
   // None :(
   "cmd_free_no_freebies": "Brak :/",
 
   // Nothing free right now :(
-  "cmd_free_no_freebies2": "",
+  "cmd_free_no_freebies2": "Nie ma nic za darmo :/",
 
   // These games are currently free:
   "cmd_free_title": "Te gry są obecnie darmowe:",
 
   // Currently on Game Pass:
-  "cmd_free_title_gamepass": "",
+  "cmd_free_title_gamepass": "Obecnie w Game Pass:",
 
   // Currently free to keep (100% off)
-  "cmd_free_title_keep": "",
+  "cmd_free_title_keep": "Obecnie za darmo (100% zniżki)",
 
   // Other freebies (100% off)
-  "cmd_free_title_other": "",
+  "cmd_free_title_other": "Inne gratisy (100% zniżki)",
 
   // Prime Gaming: Games
-  "cmd_free_title_primegames": "",
+  "cmd_free_title_primegames": "Prime Gaming: Gry",
 
   // Prime Gaming: Loot
   "cmd_free_title_primeloot": "",
 
   // Currently free to play
-  "cmd_free_title_timed": "",
+  "cmd_free_title_timed": "Obecnie darmowe do grania",
 
   // until
   "cmd_free_until": "do",
@@ -189,7 +189,7 @@
   "cmd_info_1": "FreeStuff Bot",
 
   // FreeStuff Bot made with :heart: by [some amazing people]({amazingPeople})\n\n[About / Website]({website})\n\n[Add it to your server!]({inviteLink})\n\n[Report a bug or get in contact]({discordInvite})
-  "cmd_info_2": "Bot stworzony z :heart: przez [Tude Team]({website})\\nz pomocą [paru niesamowitych ludzi]({amazingPeople})\\n\\n[O bocie / Strona]({website})\\n\\n[Dodaj na serwer]({inviteLink})\\n[Zgłoś błąd]({discordInvite})",
+  "cmd_info_2": "Bot stworzony z :heart: przez [Tude Team]({website})\nz pomocą [paru niesamowitych ludzi]({amazingPeople})\n\n[O bocie / Strona]({website})\n\n[Dodaj na serwer]({inviteLink})\n\n[Zgłoś błąd]({discordInvite})",
 
   // :eyes:
   "cmd_invite_1": ":eyes:",
@@ -198,28 +198,28 @@
   "cmd_invite_2": "[Kliknij tu aby mnie dodać!]({inviteLink})",
 
   // You're going too fast!
-  "cmd_on_cooldown_1": "Częstość używania komendy ma limit czasowy!",
+  "cmd_on_cooldown_1": "Nie pędź tak!",
 
   // This command can only be used every {time} seconds. Please wait a bit!
-  "cmd_on_cooldown_2": "Komende można użyc ponownie za {time} sekund.",
+  "cmd_on_cooldown_2": "Komendę można użyć ponownie za {time} sekund.",
 
   // Now that's a twist!
   "cmd_resend_all_filtered_out_1": "",
 
   // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
-  "cmd_resend_all_filtered_out_2": "",
+  "cmd_resend_all_filtered_out_2": "Są gry za darmo, ale twoje ustawienia filtrów nie pozwalają żadnej z nich ogłosić! Jeżeli to nie było twoim zamiarem, sprawdź swoje ustawienia filtrów.",
 
   // The webhook in {channel} is broken.
-  "cmd_resend_invalid_webhook_1": "",
+  "cmd_resend_invalid_webhook_1": "Webhook na kanale {channel} się popsuł.",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
-  "cmd_resend_invalid_webhook_2": "",
+  "cmd_resend_invalid_webhook_2": "Nie przejmuj się. Aby to naprawić, wystarczy ustawić kanał na inny i z powrotem na {channel}. Jeżeli ten error dalej będzie się pojawiał, proszę skontaktuj się z nami!",
 
   // Uh oh!
-  "cmd_resend_nothing_free_1": "",
+  "cmd_resend_nothing_free_1": "Ojoj!",
 
   // There's not a single game from this category for free right now... How could that have happened :thinking:
-  "cmd_resend_nothing_free_2": "",
+  "cmd_resend_nothing_free_2": "Nie ma żadnej gry za darmo w tej kategorii w tym momencie... Jak to się mogło stać :thinking:",
 
   // Aaaaaand there it goes!
   "cmd_resend_success_1": "",
@@ -228,40 +228,40 @@
   "cmd_resend_success_2": "",
 
   // That is an example game. And this here is the example description of said example game. I hope you have a nice day :)
-  "cmd_test_announcement_description": "",
+  "cmd_test_announcement_description": "To jest gra przykładowa. A to tutaj to jest przykład opisu tej przykładowej gry. Miłego dnia życzę :3",
 
   // Game name here
   "cmd_test_announcement_header": "Nazwa gry tutaj",
 
   // The webhook in {channel} is broken.
-  "cmd_test_invalid_webhook_1": "",
+  "cmd_test_invalid_webhook_1": "Webhook na kanale {channel} się popsuł.",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
-  "cmd_test_invalid_webhook_2": "",
+  "cmd_test_invalid_webhook_2": "Nie przejmuj się. Aby to naprawić, wystarczy ustawić kanał na inny i z powrotem na {channel}. Jeżeli ten error dalej będzie się pojawiał, proszę skontaktuj się z nami!",
 
   // :x:
   "cmd_test_nochannel_1": ":x:",
 
   // I don't know where to post the announcements!\nGo to /settings → Set Channel
-  "cmd_test_nochannel_2": "Nie wiem gdzie wysyłać darmowe gry!\\n Wpisz `@FreeStuff set channel {channel}`",
+  "cmd_test_nochannel_2": "Nie wiem gdzie wysyłać ogłoszenia!\n Przejdź do /settings → Set Channel",
 
   // Oh well...
   "cmd_test_noembeds_1": "O kurcze...",
 
   // The theme you're using uses embeds to make the message look nicer... now the thing is, I don't have the permission to send embeds in {channel}! Either give me the permission `Embed Links` or choose a different theme that doesn't use embeds!
-  "cmd_test_noembeds_2": "Skórka, której używasz, używa embedow... Musisz dać botowi permisje `Embed Links` albo wybrać inną skórke!",
+  "cmd_test_noembeds_2": "Motyw który używasz, wykorzystuje embedy... Musisz dać botowi permisje `Embed Links` albo wybrać inny motyw!",
 
   // Whoops!
   "cmd_test_nosee_1": "O cholera!",
 
   // Looks like I don't have the permission to see the channel {channel}!
-  "cmd_test_nosee_2": "Wygląda na to, że nie mam permisji, żeby widzieć {channel}!",
+  "cmd_test_nosee_2": "Wygląda na to, że nie mam permisji, żeby widzieć kanał {channel}!",
 
   // Whoops!
   "cmd_test_nosend_1": "O cholera!",
 
   // Looks like I don't have the permission to send messages in {channel}!
-  "cmd_test_nosend_2": "Wygląda na to, że nie mam permisji, żeby wysyłać wiadomości w {channel}!",
+  "cmd_test_nosend_2": "Wygląda na to, że nie mam permisji, żeby wysyłać wiadomości na kanale {channel}!",
 
   // Aaaaaand there it goes!
   "cmd_test_success_1": "",
@@ -273,34 +273,34 @@
   "cmd_vote_1": "Lubisz darmowe gry?",
 
   // [Click here to vote for me on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases it's visibility and helps others discover free games too! Thank you for every vote!*
-  "cmd_vote_2": "[Kliknij aby zagłosować na top.gg!]({topGGLink})",
+  "cmd_vote_2": "[Kliknij aby zagłosować na top.gg!]({topGGLink})\n\nAlternatywnie, FreeStuff Bot jest również na następujących stronach:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Głosowanie na bota zwiększa jego widoczność i pomaga innym odkrywać darmowe gry! Dziękujemy za każdy głos!*",
 
   // Black
-  "color_black": "",
+  "color_black": "Czarny",
 
   // Blue
-  "color_blue": "",
+  "color_blue": "Niebieski",
 
   // Green
-  "color_green": "",
+  "color_green": "Zielony",
 
   // Mint
-  "color_mint": "",
+  "color_mint": "Miętowy",
 
   // No color
-  "color_none": "",
+  "color_none": "Bez koloru",
 
   // Pink
-  "color_pink": "",
+  "color_pink": "Różowy",
 
   // Red
-  "color_red": "",
+  "color_red": "Czerwony",
 
   // White
-  "color_white": "",
+  "color_white": "Biały",
 
   // Yellow
-  "color_yellow": "",
+  "color_yellow": "Żółty",
 
   // Lev (BGN)
   "currency_bgn": "",
@@ -330,7 +330,7 @@
   "currency_sign_euro_position": "after",
 
   // before
-  "currency_sign_position": "",
+  "currency_sign_position": "after",
 
   // Dollar (USD)
   "currency_usd": "",
@@ -342,22 +342,22 @@
   "default_currency": "",
 
   // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
-  "donation_notice": "",
+  "donation_notice": "Czy ten bot oszczędził ci trochę pieniędzy? Rozważ przesłać [darowiznę]({url}), aby pomóc utrzymać go przy życiu. Dzięki!",
 
   // Claim All
-  "expressbutton_label": "",
+  "expressbutton_label": "Odbierz Wszystkie",
 
   // {next}
-  "fluid_list_delimiter_first": "",
+  "fluid_list_delimiter_first": "{next}",
 
   // {prev}, and {next}
-  "fluid_list_delimiter_last": "",
+  "fluid_list_delimiter_last": "{prev} oraz {next}",
 
   // {prev}, {next}
-  "fluid_list_delimiter_middle": "",
+  "fluid_list_delimiter_middle": "{prev}, {next}",
 
   // {prev} and {next}
-  "fluid_list_delimiter_only": "",
+  "fluid_list_delimiter_only": "{prev} i {next}",
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Zewnętrzne Źródło",
@@ -366,64 +366,64 @@
   "game_meta_flag_trash": "Słabej Jakości",
 
   // Back
-  "generic_back": "",
+  "generic_back": "Wróć",
 
   // Cancel
-  "generic_cancel": "",
+  "generic_cancel": "Anuluj",
 
   // Cancelled
-  "generic_cancelled": "",
+  "generic_cancelled": "Anulowano",
 
   // Close
-  "generic_close": "",
+  "generic_close": "Zamknij",
 
   // Continue
-  "generic_continue": "",
+  "generic_continue": "Kontynuuj",
 
   // Delete
-  "generic_delete": "",
+  "generic_delete": "Usuń",
 
   // Help
-  "generic_help": "",
+  "generic_help": "Pomoc",
 
   // Next
-  "generic_next": "",
+  "generic_next": "Dalej",
 
   // Ok
-  "generic_ok": "",
+  "generic_ok": "Ok",
 
   // Okay
-  "generic_okay": "",
+  "generic_okay": "Okej",
 
   // Help is on the way!
-  "help_main_1": "",
+  "help_main_1": "Pomoc nadchodzi!",
 
   // The FreeStuff bot keeps you up to date with free games!\n\nUse /free to get a list of free games\n\nUse /settings to configure the bot and to subscribe to free games notifications
-  "help_main_2": "",
+  "help_main_2": "FreeStuff bot pozwala być na bieżąco z darmowymi grami!\n\nUżyj /free, aby uzyskać listę darmowych gier\n\nUżyj /settings, aby skonfigurować bota i włączyć automatyczne powiadomienia o darmowych grach",
 
   // You are not {owner}!
-  "interaction_not_owned_1": "",
+  "interaction_not_owned_1": "Nie jesteś {owner}!",
 
   // Thus you cannot interact with this widget because you did not create it.\nRun **{command}** to get your own widget.
-  "interaction_not_owned_2": "",
+  "interaction_not_owned_2": "Więc nie możesz wchodzić w interakcje z tym widżetem, gdyż go nie utworzyłeś.\nUżyj **{command}**, aby uzyskać własny widżet.",
 
   // Sorry but I cannot let you do this!
-  "interaction_not_permitted_1": "",
+  "interaction_not_permitted_1": "Przepraszam, ale nie mogę ci na to pozwolić!",
 
   // Only an admin of this server can do this. You are not an admin of this server.
-  "interaction_not_permitted_2_admin": "",
+  "interaction_not_permitted_2_admin": "Tylko administrator tego serwera może to zrobić, a ty nie jesteś nim.",
 
   // This button is reserved for some very special people...\nOf course you are special too! Yes! *But not special enough*
-  "interaction_not_permitted_2_bot_admin": "",
+  "interaction_not_permitted_2_bot_admin": "Ten przycisk jest zarezerwowany dla wyjątkowych osób...\nOczywiście ty też jesteś wyjątkowy! Oczywiście! *Ale nie wystarczająco wyjątkowy*",
 
   // I also cannot tell you why. But someone somewhere doesn't want you to do this...\nDo you have many enemies?
-  "interaction_not_permitted_2_generic": "",
+  "interaction_not_permitted_2_generic": "Nie mogę też powiedzieć dlaczego. Ale ktoś gdzieś nie chce, żebyś to robił...\nMasz wielu wrogów?",
 
   // I would love to let you though! All you have to do is get yourself some **Manage Messages** permissions!
-  "interaction_not_permitted_2_manage_messages": "",
+  "interaction_not_permitted_2_manage_messages": "Ale chciałbym ci na to pozwolić! Wszystko, co musisz zrobić, to zdobyć uprawnienie **Zarządzanie wiadomościami**!",
 
   // I was asked to prevent anyone without the **Manage Server** permission from going any further!
-  "interaction_not_permitted_2_manage_server": "",
+  "interaction_not_permitted_2_manage_server": "Poproszono mnie, abym nie pozwolił komukolwiek bez uprawnienia **Zarządzanie serwerem** na przejście dalej!",
 
   // Hooooold up!
   "interaction_server_only_1": "",
@@ -441,37 +441,37 @@
   "lang_name_en": "polish",
 
   // Silence
-  "mysterious_modal_no_response_1": "",
+  "mysterious_modal_no_response_1": "Cisza",
 
   // No one answers...
-  "mysterious_modal_no_response_2": "",
+  "mysterious_modal_no_response_2": "Nikt nie odpowiada...",
 
   // ...
-  "mysterious_modal_no_response_3": "",
+  "mysterious_modal_no_response_3": "...",
 
   // No response
-  "mysterious_modal_no_response_4": "",
+  "mysterious_modal_no_response_4": "Brak odpowiedzi",
 
   // Nobody heard you...
-  "mysterious_modal_no_response_5": "",
+  "mysterious_modal_no_response_5": "Nikt cie nie usłyszał...",
 
   // What do you want?
-  "mysterious_modal_prompt_1": "",
+  "mysterious_modal_prompt_1": "Czego chcesz?",
 
   // What do you desire?
-  "mysterious_modal_prompt_2": "",
+  "mysterious_modal_prompt_2": "Czego pragniesz?",
 
   // The forest is listening...
-  "mysterious_modal_prompt_3": "",
+  "mysterious_modal_prompt_3": "Las nasłuchuje...",
 
   // Speak your mind...
-  "mysterious_modal_prompt_4": "",
+  "mysterious_modal_prompt_4": "Przekaż swoje myśli...",
 
   // You are ready!
-  "mysterious_modal_prompt_5": "",
+  "mysterious_modal_prompt_5": "Jesteś gotów!",
 
   // Shout into the forest!
-  "mysterious_modal_title": "",
+  "mysterious_modal_title": "Krzycz do lasu!",
 
   // Open in browser
   "open_in_browser": "Otwórz w przeglądarce",
@@ -483,169 +483,169 @@
   "open_in_steam_client": "Otwórz w kliencie Steam",
 
   // About
-  "page_about": "",
+  "page_about": "O bocie",
 
   // Attributions
   "page_attributions": "",
 
   // Help Page
-  "page_help": "",
+  "page_help": "Pomoc",
 
   // Invite the bot
-  "page_invite": "",
+  "page_invite": "Zaproś bota",
 
   // Bot Settings
-  "page_settings": "",
+  "page_settings": "Ustawienia Bota",
 
   // Support
-  "page_support": "",
+  "page_support": "Support",
 
   // Manage Webhooks
-  "permission_manage_webhooks": "",
+  "permission_manage_webhooks": "Zarządzanie webhookami",
 
   // View Channel
-  "permission_view_channel": "",
+  "permission_view_channel": "Wyświetlanie kanału",
 
   // Apple App Store
-  "platform_apple": "",
+  "platform_apple": "Apple App Store",
 
   // Discord
-  "platform_discord": "",
+  "platform_discord": "Discord",
 
   // Epic Games
-  "platform_epic": "",
+  "platform_epic": "Epic Games",
 
   // GOG.com
-  "platform_gog": "",
+  "platform_gog": "GOG.com",
 
   // Google Play
-  "platform_google": "",
+  "platform_google": "Google Play",
 
   // Humble Bundle
-  "platform_humble": "",
+  "platform_humble": "Humble Bundle",
 
   // itch.io
-  "platform_itch": "",
+  "platform_itch": "itch.io",
 
   // Origin
-  "platform_origin": "",
+  "platform_origin": "Origin",
 
   // Other
-  "platform_other": "",
+  "platform_other": "Inne",
 
   // Play Station
-  "platform_ps": "",
+  "platform_ps": "Play Station",
 
   // Steam
-  "platform_steam": "",
+  "platform_steam": "Steam",
 
   // Nintendo Switch
-  "platform_switch": "",
+  "platform_switch": "Nintendo Switch",
 
   // Twitch
-  "platform_twitch": "",
+  "platform_twitch": "Twitch",
 
   // Ubisoft Store
-  "platform_uplay": "",
+  "platform_uplay": "Ubisoft Store",
 
   // Xbox
-  "platform_xbox": "",
+  "platform_xbox": "Xbox",
 
   // About Premium
-  "premium_promo_button": "",
+  "premium_promo_button": "O Premium",
 
   // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
-  "premium_upsell_autopublish_description": "",
+  "premium_upsell_autopublish_description": "Koniec z ręcznym klikaniem! Dzięki FreeStuff premium możesz sprawić, że bot automatycznie opublikuje (na inne serwery) każde powiadomienie, które otrzymasz w kanałach ogłoszeń!",
 
   // Get premium to use auto publish!
-  "premium_upsell_autopublish_title": "",
+  "premium_upsell_autopublish_title": "Uzyskaj premium, aby korzystać z automatycznego publikowania!",
 
   // With FreeStuff premium you can have the bot automatically react to every notification you receive!
-  "premium_upsell_autoreact_description": "",
+  "premium_upsell_autoreact_description": "Dzięki FreeStuff premium możesz sprawić, że bot będzie automatycznie dodawał reakcję przy każdym otrzymanym powiadomieniu!",
 
   // Get premium to use auto reactions!
-  "premium_upsell_autoreact_title": "",
+  "premium_upsell_autoreact_title": "Uzyskaj premium, aby korzystać z automatycznych reakcji!",
 
   // With FreeStuff premium you can upload your own image for FreeStuff to use as the profile picture. You can also change the name to whatever you like. Make it blend in to your server!
-  "premium_upsell_botprofile_description": "",
+  "premium_upsell_botprofile_description": "Dzięki FreeStuff premium możesz ustawić własne zdjęcie na profilowe bota. Możesz także zmienić nazwę bota na dowolną. Spraw, aby wpasował się do twojego serwera!",
 
   // Get premium to change bot's profile!
-  "premium_upsell_botprofile_title": "",
+  "premium_upsell_botprofile_title": "Uzyskaj premium, aby zmienić profil bota!",
 
   // If you are happy with the one role you selected, you don't need to get premium. Your changes are already saved!\nIf you do want to ping more than one role however, you can do this with premium!
-  "premium_upsell_multiping_description": "",
+  "premium_upsell_multiping_description": "Jeśli jesteś zadowolony z jednej wybranej roli, nie musisz kupować premium. Zmiany są już zapisane!\nJeśli jednak chcesz pingować więcej niż jedną rolę, możesz to zrobić za pomocą premium!",
 
   // Get premium to ping more than one role!
-  "premium_upsell_multiping_title": "",
+  "premium_upsell_multiping_title": "Uzyskaj premium, aby pingować więcej niż jedną rolę!",
 
   // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
-  "premium_upsell_threadopts_description": "",
+  "premium_upsell_threadopts_description": "Dzięki FreeStuff premium możesz sprawić, by bot automatycznie tworzył wątki dla każdego otrzymanego powiadomienia!\nMożesz mieć wątek pod każdym powiadomieniem lub pozwolić mu utworzyć nowy wątek, w którym opublikuje powiadomienie. Wybór należy do ciebie!",
 
   // Get premium to create threads!
-  "premium_upsell_threadopts_title": "",
+  "premium_upsell_threadopts_title": "Uzyskaj premium, aby tworzyć wątki!",
 
   // Actual price
-  "price_actual": "",
+  "price_actual": "Rzeczywista cena",
 
   // Everything
-  "price_class_a": "",
+  "price_class_a": "Wszystko",
 
   // Almost Everything
-  "price_class_b": "",
+  "price_class_b": "Prawie Wszystko",
 
   // Default
-  "price_class_c": "",
+  "price_class_c": "Domyślnie",
 
   // Big fish
-  "price_class_d": "",
+  "price_class_d": "Gruba ryba",
 
   // Converted from USD
-  "price_converted": "",
+  "price_converted": "W przeliczeniu z USD",
 
   // Privacy Policy
-  "privacy_policy": "",
+  "privacy_policy": "Polityka Prywatności",
 
   // Permanently Free
-  "product_meta_flag_permanent": "",
+  "product_meta_flag_permanent": "Darmowe na zawsze",
 
   // FreeStuff Recommendation
-  "product_meta_flag_staff_pick": "",
+  "product_meta_flag_staff_pick": "Rekomendacja FreeStuff",
 
   // Third Party Provider
-  "product_meta_flag_thirdparty": "",
+  "product_meta_flag_thirdparty": "Zewnętrzne Źródło",
 
   // Low Quality
-  "product_meta_flag_trash": "",
+  "product_meta_flag_trash": "Słabej Jakości",
 
   // Refresh List
-  "refresh_channel_list": "",
+  "refresh_channel_list": "Odśwież Listę",
 
   // Click here to reload the channel list
-  "refresh_channel_list_description": "",
+  "refresh_channel_list_description": "Kliknij tutaj, aby odświeżyć listę kanałów",
 
   // Made changes?
-  "refresh_channel_list_title": "",
+  "refresh_channel_list_title": "Dokonałeś zmian?",
 
   // Slow down! You can only reload this list every {interval} seconds!
-  "refresh_channel_timeout": "",
+  "refresh_channel_timeout": "Zwolnij! Możesz odświeżać tą listę raz na {interval} sekund!",
 
   // Channel list refreshed
-  "refresh_channels_success": "",
+  "refresh_channels_success": "Odświeżono listę kanałów",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
-  "refresh_channels_timeout": "",
+  "refresh_channels_timeout": "Jesteś zbyt szybki! Ze względów bezpieczeństwa możemy zezwolić na naciśnięcie tego przycisku tylko raz na {interval} sekund!\nZ wyrazami szacunku, Jan FreeStuff, założyciel FreeStuff",
 
   // Refresh List
-  "refresh_role_list": "",
+  "refresh_role_list": "Odśwież Listę",
 
   // Slow down! You can only reload this list every {interval} seconds!
-  "refresh_role_timeout": "",
+  "refresh_role_timeout": "Zwolnij! Możesz odświeżać tą listę raz na {interval} sekund!",
 
   // Welcome to FreeStuff!
-  "settings2_main_1_first_time": "",
+  "settings2_main_1_first_time": "Witamy w FreeStuff!",
 
   // FreeStuff Settings
-  "settings2_main_1_regular": "",
+  "settings2_main_1_regular": "Ustawienia FreeStuff",
 
   // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
   "settings2_main_2_first_time": "",
@@ -1260,7 +1260,7 @@
   "thread_opt_c_name": "",
 
   // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "Polskie tłumaczenie dostępne! Jak ma być wszystko po angielsku, użyj `@FreeStuff set language polish`",
+  "translation_available": "Polskie tłumaczenie jest dostępne! Jak ma być wszystko po angielsku, użyj `/settings`",
 
   // English is not your primary language? This bot has many translations available, use `/settings` for more info.
   "translation_available_generic": "",
