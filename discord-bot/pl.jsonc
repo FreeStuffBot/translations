@@ -1,6 +1,6 @@
 {
   // Get it for free
-  "announcement_button_text": "Za darmo",
+  "announcement_button_text": "Zdobądź za darmo",
 
   // via {website}
   "announcement_footer": "przez {website}",
@@ -24,7 +24,7 @@
   "announcement_free_until_day_next_week": "do {day} następnego tygodnia",
 
   // Free Game!
-  "announcement_header": "Darmowa gra!",
+  "announcement_header": "Darmowa Gra!",
 
   // Claim for **Free**
   "announcement_price_gamepass": "Odbierz **Za darmo**",
@@ -33,19 +33,19 @@
   "announcement_price_gamepass_until": "Odbierz **Za darmo** do {date}",
 
   // {prices}
-  "announcement_price_generic": "",
+  "announcement_price_generic": "{prices}",
 
   // {prices} until {date}
   "announcement_price_generic_until": "{prices} do {date}",
 
   // {prices}
-  "announcement_price_keep": "",
+  "announcement_price_keep": "{prices}",
 
   // {prices} until {date}
   "announcement_price_keep_until": "{prices} do {date}",
 
   // {prices}
-  "announcement_price_other": "",
+  "announcement_price_other": "{prices}",
 
   // {prices} until {date}
   "announcement_price_other_until": "{prices} do {date}",
@@ -69,61 +69,61 @@
   "announcement_theme9": "**{name}** jest za darmo!\\n<{url}>",
 
   // {names}
-  "announcement_thread_name_gamepass_multiple_below": "",
+  "announcement_thread_name_gamepass_multiple_below": "{names}",
 
   // {amount} new games for Game Pass!
   "announcement_thread_name_gamepass_multiple_outside": "{amount} nowych gier na Game Pass!",
 
   // {name}
-  "announcement_thread_name_gamepass_single_below": "",
+  "announcement_thread_name_gamepass_single_below": "{name}",
 
   // New Game Pass content: {name}!
   "announcement_thread_name_gamepass_single_outside": "Nowa zawartość Game Pass: {name}!",
 
   // {names}
-  "announcement_thread_name_keep_multiple_below": "",
+  "announcement_thread_name_keep_multiple_below": "{names}",
 
   // {amount} games are free!
   "announcement_thread_name_keep_multiple_outside": "{amount} gry są za darmo!",
 
   // {name}
-  "announcement_thread_name_keep_single_below": "",
+  "announcement_thread_name_keep_single_below": "{name}",
 
   // {name} is free!
   "announcement_thread_name_keep_single_outside": "{name} jest za darmo!",
 
   // {names}
-  "announcement_thread_name_other_multiple_below": "",
+  "announcement_thread_name_other_multiple_below": "{names}",
 
   // {amount} games are free!
   "announcement_thread_name_other_multiple_outside": "{amount} gry są za darmo!",
 
   // {name}
-  "announcement_thread_name_other_single_below": "",
+  "announcement_thread_name_other_single_below": "{name}",
 
   // {name} is free!
   "announcement_thread_name_other_single_outside": "{name} jest za darmo!",
 
   // {names}
-  "announcement_thread_name_prime_multiple_below": "",
+  "announcement_thread_name_prime_multiple_below": "{names}",
 
   // {amount} new games for Prime!
   "announcement_thread_name_prime_multiple_outside": "{amount} nowych gier w Prime",
 
   // {name}
-  "announcement_thread_name_prime_single_below": "",
+  "announcement_thread_name_prime_single_below": "{name}",
 
   // New Prime loot: {name}!
   "announcement_thread_name_prime_single_outside": "",
 
   // {names}
-  "announcement_thread_name_timed_multiple_below": "",
+  "announcement_thread_name_timed_multiple_below": "{names}",
 
   // Free weekend for {amount} games!
   "announcement_thread_name_timed_multiple_outside": "Darmowy weekend dla {amount} gier",
 
   // {name}
-  "announcement_thread_name_timed_single_below": "",
+  "announcement_thread_name_timed_single_below": "{name}",
 
   // Free weekend for {name}!
   "announcement_thread_name_timed_single_outside": "Darmowy weekend dla {name}",
@@ -204,7 +204,7 @@
   "cmd_on_cooldown_2": "Komendę można użyć ponownie za {time} sekund.",
 
   // Now that's a twist!
-  "cmd_resend_all_filtered_out_1": "",
+  "cmd_resend_all_filtered_out_1": "Ale zwrot akcji!",
 
   // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
   "cmd_resend_all_filtered_out_2": "Są gry za darmo, ale twoje ustawienia filtrów nie pozwalają żadnej z nich ogłosić! Jeżeli to nie było twoim zamiarem, sprawdź swoje ustawienia filtrów.",
@@ -222,10 +222,10 @@
   "cmd_resend_nothing_free_2": "Nie ma żadnej gry za darmo w tej kategorii w tym momencie... Jak to się mogło stać :thinking:",
 
   // Aaaaaand there it goes!
-  "cmd_resend_success_1": "",
+  "cmd_resend_success_1": "Lecimy!",
 
   // Check out {channel}!
-  "cmd_resend_success_2": "",
+  "cmd_resend_success_2": "Sprawdź kanał {channel}!",
 
   // That is an example game. And this here is the example description of said example game. I hope you have a nice day :)
   "cmd_test_announcement_description": "To jest gra przykładowa. A to tutaj to jest przykład opisu tej przykładowej gry. Miłego dnia życzę :3",
@@ -264,10 +264,10 @@
   "cmd_test_nosend_2": "Wygląda na to, że nie mam permisji, żeby wysyłać wiadomości na kanale {channel}!",
 
   // Aaaaaand there it goes!
-  "cmd_test_success_1": "",
+  "cmd_test_success_1": "Lecimy!",
 
   // Check out {channel}!
-  "cmd_test_success_2": "",
+  "cmd_test_success_2": "Sprawdź kanał {channel}!",
 
   // Enjoying the free games?
   "cmd_vote_1": "Lubisz darmowe gry?",
@@ -303,25 +303,25 @@
   "color_yellow": "Żółty",
 
   // Lev (BGN)
-  "currency_bgn": "",
+  "currency_bgn": "Lew (BGN)",
 
   // Real (BRL)
-  "currency_brl": "",
+  "currency_brl": "Real (BRL)",
 
   // Bitcoin (brrrr)
-  "currency_btc": "",
+  "currency_btc": "Bitcoin (brrrr)",
 
   // Euro (EUR)
-  "currency_euro": "",
+  "currency_euro": "Euro (EUR)",
 
   // Pounds (GBP)
-  "currency_gbp": "",
+  "currency_gbp": "Funty (GBP)",
 
   // Forint (HUF)
-  "currency_huf": "",
+  "currency_huf": "Forinty (HUF)",
 
   // Złoty (PLN)
-  "currency_pln": "",
+  "currency_pln": "Złoty (PLN)",
 
   // before
   "currency_sign_dollar_position": "after",
@@ -333,7 +333,7 @@
   "currency_sign_position": "after",
 
   // Dollar (USD)
-  "currency_usd": "",
+  "currency_usd": "Dolar (USD)",
 
   // en-US
   "date_format": "pl",
@@ -426,10 +426,10 @@
   "interaction_not_permitted_2_manage_server": "Poproszono mnie, abym nie pozwolił komukolwiek bez uprawnienia **Zarządzanie serwerem** na przejście dalej!",
 
   // Hooooold up!
-  "interaction_server_only_1": "",
+  "interaction_server_only_1": "Stój, *przestępco*!",
 
   // You cannot run this command in direct messages! Please try using it in a Discord Server.
-  "interaction_server_only_2": "",
+  "interaction_server_only_2": "*Złamałeś prawo!* Nie możesz używać tej komendy w wiadomościach prywatnych! Proszę użyj ją na serwerze Discord.",
 
   // :flag_us:
   "lang_flag_emoji": ":flag_pl:",
@@ -486,7 +486,7 @@
   "page_about": "O bocie",
 
   // Attributions
-  "page_attributions": "",
+  "page_attributions": "Wykorzystane Zasoby",
 
   // Help Page
   "page_help": "Pomoc",
@@ -723,7 +723,7 @@
   "settings_channel_list_too_many": "Masz zbyt wiele kanałów, żeby je wszystkie pokazać na poniższej liście.",
 
   // Missing \"Embed Messages\" Permission
-  "settings_channel_list_warning_missing_embed_messages": "",
+  "settings_channel_list_warning_missing_embed_messages": "Brakuje uprawnienia \"Wyświetlanie podglądu linku\"",
 
   // Missing \"Manage Webhooks\" Permission
   "settings_channel_list_warning_missing_manage_webhooks": "Brakuje uprawnienia \"Zarządzanie Webhookami\"",
