@@ -32,8 +32,7 @@ const compareJson = async (oldJson, newJson, file) => {
         changes.push({ key, oldVal, newVal, translated }) 
       } catch {
         await new Promise(res => setTimeout(res, 2000))
-        const translated = (await translate(newVal, { to: 'en' })).text
-        changes.push({ key, oldVal, newVal, translated }) 
+        changes.push({ key, oldVal, newVal, translated: '<failed>' }) 
       }
     }
   }
@@ -62,7 +61,7 @@ const run = async () => {
     markdown += `## ${file}\n\n`
     markdown += '| Key | Old Value | New Value | Translated (EN) |\n|------|-----------|-----------|-----------------|\n'
     for (const change of changes) {
-      markdown += `| ${change.key} | ${change.oldVal} | ${change.newVal} | ${change.translated} |\n`
+      markdown += `| \`${change.key}\` | ${change.oldVal} | ${change.newVal} | ${change.translated}  [[g]](https://translate.google.com/?sl=auto&text=${encodeURIComponent(change.newVal)}) |\n`
     }
   }
 
