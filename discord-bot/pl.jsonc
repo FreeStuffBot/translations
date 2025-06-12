@@ -1278,7 +1278,7 @@
   "webhook_migration_failed_missing_permissions_1": "O jeny!",
 
   // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "Wygląda na to, że brakuje mi uprawnienia \"Zarządzanie webhookami\". Proszę daj mi je i spróbuj ponownie!",
+  "webhook_migration_failed_missing_permissions_2": "Wygląda na to, że FreeStuff Bot nie ma uprawnienia \"Zarządzanie webhookami\". Proszę dodaj je i spróbuj ponownie!",
 
   // Oopsie daisy!
   "webhook_migration_failed_too_many_hooks_1": "Kurza twarz!",
