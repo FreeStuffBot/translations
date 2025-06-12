@@ -43,7 +43,7 @@ const compareJson = async (oldJson, newJson, file) => {
 
 const run = async () => {
   const files = getChangedJsonFiles()
-  console.log(`Changded JSON files: ${files.join(', ')}`)
+  console.log(`v4 - Changded JSON files: ${files.join(', ')}`)
   let markdown = ''
 
   for (const file of files) {
