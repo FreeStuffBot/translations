@@ -114,7 +114,7 @@
   "announcement_thread_name_prime_single_below": "{name}",
 
   // New Prime loot: {name}!
-  "announcement_thread_name_prime_single_outside": "",
+  "announcement_thread_name_prime_single_outside": "Nowy Prime loot: {name}",
 
   // {names}
   "announcement_thread_name_timed_multiple_below": "{names}",
@@ -177,7 +177,7 @@
   "cmd_free_title_primegames": "Prime Gaming: Gry",
 
   // Prime Gaming: Loot
-  "cmd_free_title_primeloot": "",
+  "cmd_free_title_primeloot": "Prime Gaming: Loot",
 
   // Currently free to play
   "cmd_free_title_timed": "Obecnie darmowe do grania",
@@ -498,7 +498,7 @@
   "page_settings": "Ustawienia Bota",
 
   // Support
-  "page_support": "Support",
+  "page_support": "Serwer Wsparcia",
 
   // Manage Webhooks
   "permission_manage_webhooks": "Zarządzanie webhookami",
@@ -843,16 +843,16 @@
   "settings_filter_show_passgames_on_state": "Gry Włączone",
 
   // Disable Loot
-  "settings_filter_show_passloot_off_prompt": "",
+  "settings_filter_show_passloot_off_prompt": "Wyłącz Loot",
 
   // Loot Disabled
-  "settings_filter_show_passloot_off_state": "",
+  "settings_filter_show_passloot_off_state": "Loot Wyłączony",
 
   // Enable Loot
-  "settings_filter_show_passloot_on_prompt": "",
+  "settings_filter_show_passloot_on_prompt": "Włącz Loot",
 
   // Loot Enabled
-  "settings_filter_show_passloot_on_state": "",
+  "settings_filter_show_passloot_on_state": "Loot Włączony",
 
   // Disable Bad Quality Games
   "settings_filter_trash_off_prompt": "Wyłącz Gry Słabej Jakości",
@@ -1167,10 +1167,10 @@
   "subscription_prime_name": "Prime Gaming",
 
   // Prime Gaming: Games
-  "subscription_primegames_name": "",
+  "subscription_primegames_name": "Prime Gaming: Gry",
 
   // Prime Gaming: Loot
-  "subscription_primeloot_name": "",
+  "subscription_primeloot_name": "Prime Gaming: Loot",
 
   // This subscription will show you games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
   "subscription_timed_description": "Ta subskrypcja pokaże gry, które możesz wypróbować i grać w nie za darmo przez ograniczony czas. Nie możesz zachować tych gier po upływie tego czasu i musisz je kupić, aby kontynuować grę. Możesz filtrować według ceny, platformy i jakości.",
