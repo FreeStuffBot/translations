@@ -26,8 +26,15 @@ const compareJson = async (oldJson, newJson, file) => {
 
     if (oldVal !== newVal) {
       if (typeof newVal !== 'string') throw new Error(`Non-string value changed in ${file}`)
-      const translated = (await translate(newVal, { to: 'en' })).text
-      changes.push({ key, oldVal, newVal, translated })
+      try {
+        await new Promise(res => setTimeout(res, 250)) // dont spam gtranslate
+        const translated = (await translate(newVal, { to: 'en' })).text
+        changes.push({ key, oldVal, newVal, translated }) 
+      } catch {
+        await new Promise(res => setTimeout(res, 2000))
+        const translated = (await translate(newVal, { to: 'en' })).text
+        changes.push({ key, oldVal, newVal, translated }) 
+      }
     }
   }
 
@@ -36,7 +43,7 @@ const compareJson = async (oldJson, newJson, file) => {
 
 const run = async () => {
   const files = getChangedJsonFiles()
-  console.log(`Changded JSON files: ${files.join(', ')}`)
+  console.log(`v4 - Changded JSON files: ${files.join(', ')}`)
   let markdown = ''
 
   for (const file of files) {
