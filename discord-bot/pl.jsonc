@@ -741,13 +741,13 @@
   "settings_channel_ui_1": "Zmień Kanał",
 
   // Below you'll find a list of all of your channels. Please pick one for me to send free games to!
-  "settings_channel_ui_2_regular": "Poniżej znajdziej listę wszystkich swoich kanałów. Proszę wybierz jeden, na który mam wysyłać darmowe gry!",
+  "settings_channel_ui_2_regular": "Poniżej znajdziesz listę wszystkich swoich kanałów. Proszę wybierz jeden, na który mam wysyłać darmowe gry!",
 
   // Below you'll find a list of most of your channels. You had so many I couldn't show them all at once. Please pick one for me to send free games to!
-  "settings_channel_ui_2_too_many": "Poniżej znajdziej listę większości swoich kanałów. Masz ich za dużo, więc nie mogłem ich wszystkich pokazać. Proszę wybierz jeden, na który mam wysyłać darmowe gry!",
+  "settings_channel_ui_2_too_many": "Poniżej znajdziesz listę większości swoich kanałów. Masz ich za dużo, więc nie mogłem ich wszystkich pokazać. Proszę wybierz jeden, na który mam wysyłać darmowe gry!",
 
   // Below you'll find a list of a few of your channels. You have an enormous amount of channels in this server, you know this? So many in fact I could only show you a small selection of them. Please pick one for me to send free games to!
-  "settings_channel_ui_2_way_too_many": "Poniżej znajdziej listę części swoich kanałów. Masz ogromną liczbę kanałów na tym serwerze... Tak dużą, że mogę pokazać tylko małą część z nich. Proszę wybierz jeden, na który mam wysyłać darmowe gry!",
+  "settings_channel_ui_2_way_too_many": "Poniżej znajdziesz listę części swoich kanałów. Masz ogromną liczbę kanałów na tym serwerze... Tak dużą, że mogę pokazać tylko małą część z nich. Proszę wybierz jeden, na który mam wysyłać darmowe gry!",
 
   // Can't change channel to {channel}: Missing \"{permissions}\" permissions!
   "settings_channel_ui_missing_permissions": "Nie można zmienić kanału na {channel}: Brakuje uprawnień \"{permissions}\"",
