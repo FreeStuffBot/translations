@@ -12,6 +12,9 @@ on:
     paths:
       - '**/*.jsonc'
 
+permissions:
+  pull-requests: write
+
 jobs:
   check-json:
     runs-on: ubuntu-latest
