@@ -27,40 +27,40 @@
   "announcement_header": "Hra zadarmo!",
 
   // Claim for **Free**
-  "announcement_price_gamepass": "",
+  "announcement_price_gamepass": "Získaj **zadarmo**",
 
   // Claim for **Free** until {date}
-  "announcement_price_gamepass_until": "",
+  "announcement_price_gamepass_until": "Získaj **zadarmo** do {date}",
 
   // {prices}
-  "announcement_price_generic": "",
+  "announcement_price_generic": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_generic_until": "",
+  "announcement_price_generic_until": "{prices} do {date}",
 
   // {prices}
-  "announcement_price_keep": "",
+  "announcement_price_keep": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_keep_until": "",
+  "announcement_price_keep_until": "{prices} do {date}",
 
   // {prices}
-  "announcement_price_other": "",
+  "announcement_price_other": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_other_until": "",
+  "announcement_price_other_until": "{prices} do {date}",
 
   // Claim for **Free**
-  "announcement_price_prime": "",
+  "announcement_price_prime": "Získaj **zadarmo**",
 
   // Claim for **Free** until {date}
-  "announcement_price_prime_until": "",
+  "announcement_price_prime_until": "Získiaj **zadarmo** do {date}",
 
   // **Free to play**
-  "announcement_price_timed": "",
+  "announcement_price_timed": "**Hraj zadarmo**",
 
   // **Free to play** until {date}
-  "announcement_price_timed_until": "",
+  "announcement_price_timed_until": "**Hraj zadarmo** do {date}",
 
   // Free
   "announcement_pricetag_free": "zadarmo",
@@ -69,67 +69,67 @@
   "announcement_theme9": "**{name}** je zadarmo!\n<{url}>",
 
   // {names}
-  "announcement_thread_name_gamepass_multiple_below": "",
+  "announcement_thread_name_gamepass_multiple_below": "{names}",
 
   // {amount} new games for Game Pass!
-  "announcement_thread_name_gamepass_multiple_outside": "",
+  "announcement_thread_name_gamepass_multiple_outside": "{amount} nových hier do Game Pass!",
 
   // {name}
-  "announcement_thread_name_gamepass_single_below": "",
+  "announcement_thread_name_gamepass_single_below": "{name}",
 
   // New Game Pass content: {name}!
-  "announcement_thread_name_gamepass_single_outside": "",
+  "announcement_thread_name_gamepass_single_outside": "Nový Game Pass kontent: {name}",
 
   // {names}
-  "announcement_thread_name_keep_multiple_below": "",
+  "announcement_thread_name_keep_multiple_below": "{names}",
 
   // {amount} games are free!
-  "announcement_thread_name_keep_multiple_outside": "",
+  "announcement_thread_name_keep_multiple_outside": "{amount} hier je zadarmo!",
 
   // {name}
-  "announcement_thread_name_keep_single_below": "",
+  "announcement_thread_name_keep_single_below": "{name}",
 
   // {name} is free!
-  "announcement_thread_name_keep_single_outside": "",
+  "announcement_thread_name_keep_single_outside": "{name} je zadarmo!",
 
   // {names}
-  "announcement_thread_name_other_multiple_below": "",
+  "announcement_thread_name_other_multiple_below": "{names}",
 
   // {amount} games are free!
-  "announcement_thread_name_other_multiple_outside": "",
+  "announcement_thread_name_other_multiple_outside": "{amount} hier je zadarmo!",
 
   // {name}
-  "announcement_thread_name_other_single_below": "",
+  "announcement_thread_name_other_single_below": "{name}",
 
   // {name} is free!
-  "announcement_thread_name_other_single_outside": "",
+  "announcement_thread_name_other_single_outside": "{name} je zadarmo!",
 
   // {names}
-  "announcement_thread_name_prime_multiple_below": "",
+  "announcement_thread_name_prime_multiple_below": "{names}",
 
   // {amount} new games for Prime!
-  "announcement_thread_name_prime_multiple_outside": "",
+  "announcement_thread_name_prime_multiple_outside": "{amount} nových hier pre Prime!",
 
   // {name}
-  "announcement_thread_name_prime_single_below": "",
+  "announcement_thread_name_prime_single_below": "{name}",
 
   // New Prime loot: {name}!
-  "announcement_thread_name_prime_single_outside": "",
+  "announcement_thread_name_prime_single_outside": "Nová Prime korisť: {name}",
 
   // {names}
-  "announcement_thread_name_timed_multiple_below": "",
+  "announcement_thread_name_timed_multiple_below": "{names}",
 
   // Free weekend for {amount} games!
-  "announcement_thread_name_timed_multiple_outside": "",
+  "announcement_thread_name_timed_multiple_outside": "Výkend zadarmo pre {amount} hier!",
 
   // {name}
-  "announcement_thread_name_timed_single_below": "",
+  "announcement_thread_name_timed_single_below": "{name}",
 
   // Free weekend for {name}!
-  "announcement_thread_name_timed_single_outside": "",
+  "announcement_thread_name_timed_single_outside": "Výkend zadarmo pre {name}!",
 
   // {title} is free!
-  "announcement_title_statement": "",
+  "announcement_title_statement": "{title} je zadarmo!",
 
   // An error occurred!
   "cmd_error_fatal_1": "Vyskytla sa chyba!",
@@ -159,13 +159,13 @@
   "cmd_free_no_freebies": "Žiadne :(",
 
   // Nothing free right now :(
-  "cmd_free_no_freebies2": "",
+  "cmd_free_no_freebies2": "Teraz nieje nič zadarmo :(",
 
   // These games are currently free:
   "cmd_free_title": "Tieto hry sú momentálne zadarmo:",
 
   // Currently on Game Pass:
-  "cmd_free_title_gamepass": "",
+  "cmd_free_title_gamepass": "Momentálne na Game Pass",
 
   // Currently free to keep (100% off)
   "cmd_free_title_keep": "",
@@ -177,10 +177,10 @@
   "cmd_free_title_primegames": "",
 
   // Prime Gaming: Loot
-  "cmd_free_title_primeloot": "",
+  "cmd_free_title_primeloot": "Prime Hranie: Korisť",
 
   // Currently free to play
-  "cmd_free_title_timed": "",
+  "cmd_free_title_timed": "Momentálne zadarmo na hranie",
 
   // until
   "cmd_free_until": "do",
@@ -213,7 +213,7 @@
   "cmd_resend_invalid_webhook_1": "",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
-  "cmd_resend_invalid_webhook_2": "",
+  "cmd_resend_invalid_webhook_2": "To znie strašidelne. Aby si opravil túto chybu, skús zmeniť kanál na niektorý iný a potom naspäť na {channel}. Ak to stále nebude fungovať, prosím kontaktuj podporu!",
 
   // Uh oh!
   "cmd_resend_nothing_free_1": "uuu!",
@@ -237,7 +237,7 @@
   "cmd_test_invalid_webhook_1": "",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
-  "cmd_test_invalid_webhook_2": "",
+  "cmd_test_invalid_webhook_2": "To znie strašidelne. Aby si opravil túto chybu, skús zmeniť kanál na niektorý iný a potom naspäť na {channel}. Ak to stále nebude fungovať, prosím kontaktuj podporu!",
 
   // :x:
   "cmd_test_nochannel_1": ":x:",
@@ -267,7 +267,7 @@
   "cmd_test_success_1": "",
 
   // Check out {channel}!
-  "cmd_test_success_2": "",
+  "cmd_test_success_2": "Pozri {channel}!",
 
   // Enjoying the free games?
   "cmd_vote_1": "Užívaš si hry zadarmo?",
@@ -276,31 +276,31 @@
   "cmd_vote_2": "[Klikni sem pre zahlasovanie na top.gg!]({topGGLink})\n\nTaktiež môžeš zahlasovať za FreeStuff Bota aj na týchto stránkach:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Hlasovanie za bota ho zviditeľnuje a tiež pomáha ostatným nájsť hry zadarmo! Ďakujeme za každý hlas!*",
 
   // Black
-  "color_black": "",
+  "color_black": "Čierna",
 
   // Blue
-  "color_blue": "",
+  "color_blue": "Modrá",
 
   // Green
-  "color_green": "",
+  "color_green": "Zelená",
 
   // Mint
-  "color_mint": "",
+  "color_mint": "Mentolová",
 
   // No color
-  "color_none": "",
+  "color_none": "Bez farby",
 
   // Pink
-  "color_pink": "",
+  "color_pink": "Rúžová",
 
   // Red
-  "color_red": "",
+  "color_red": "Červená",
 
   // White
-  "color_white": "",
+  "color_white": "Biela",
 
   // Yellow
-  "color_yellow": "",
+  "color_yellow": "Žltá",
 
   // Lev (BGN)
   "currency_bgn": "Lev (BGN)",
@@ -324,13 +324,13 @@
   "currency_pln": "Złoty (PLN)",
 
   // before
-  "currency_sign_dollar_position": "after",
+  "currency_sign_dollar_position": "pred",
 
   // before
-  "currency_sign_euro_position": "after",
+  "currency_sign_euro_position": "pred",
 
   // before
-  "currency_sign_position": "after",
+  "currency_sign_position": "pred",
 
   // Dollar (USD)
   "currency_usd": "Dolár (USD)",
@@ -441,34 +441,34 @@
   "lang_name_en": "slovak",
 
   // Silence
-  "mysterious_modal_no_response_1": "",
+  "mysterious_modal_no_response_1": "Ticho",
 
   // No one answers...
-  "mysterious_modal_no_response_2": "",
+  "mysterious_modal_no_response_2": "Nikto neodpovedal...",
 
   // ...
-  "mysterious_modal_no_response_3": "",
+  "mysterious_modal_no_response_3": "...",
 
   // No response
-  "mysterious_modal_no_response_4": "",
+  "mysterious_modal_no_response_4": "Bez odpovede",
 
   // Nobody heard you...
-  "mysterious_modal_no_response_5": "",
+  "mysterious_modal_no_response_5": "Nikto ťa nepočul...",
 
   // What do you want?
-  "mysterious_modal_prompt_1": "",
+  "mysterious_modal_prompt_1": "Čo chceš?",
 
   // What do you desire?
-  "mysterious_modal_prompt_2": "",
+  "mysterious_modal_prompt_2": "Čo by si si prial?",
 
   // The forest is listening...
-  "mysterious_modal_prompt_3": "",
+  "mysterious_modal_prompt_3": "Les počúva...",
 
   // Speak your mind...
   "mysterious_modal_prompt_4": "",
 
   // You are ready!
-  "mysterious_modal_prompt_5": "",
+  "mysterious_modal_prompt_5": "Si pripravený!",
 
   // Shout into the forest!
   "mysterious_modal_title": "",
