@@ -1,9 +1,11 @@
 {
   // Get it for free
   "announcement_button_text": "Dapatkan secara gratis",
+  // Note ↑ Some themes don't have the big \"GET\" button. Then this text will be there instead //
 
   // via {website}
   "announcement_footer": "via {website}",
+  // Note ↑ That's on the bottom of each announcement //
 
   // This is a preview message
   "announcement_footer_test": "Ini adalah pesan pratinjau",
@@ -64,9 +66,11 @@
 
   // Free
   "announcement_pricetag_free": "Gratis",
+  // Note ↑ Game price: not 19.99 but FREE! //
 
   // **{name}** is free!\n<{url}>
   "announcement_theme9": "**{nama}** gratis!\n<{url}>",
+  // Note ↑ Don't forget the <>! //
 
   // {names}
   "announcement_thread_name_gamepass_multiple_below": "{names}",
@@ -215,6 +219,12 @@
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
   "cmd_resend_invalid_webhook_2": "Itu terdengar menakutkan. Untuk memperbaiki ini coba ubah channel ke channel yang berbeda kemudian kembali ke {channel}. Jika error ini tetap berlanjut silakan hubungi support!",
 
+  // Whoops!
+  "cmd_resend_nosend_1": "",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_resend_nosend_2": "",
+
   // Uh oh!
   "cmd_resend_nothing_free_1": "Uh oh!",
 
@@ -325,18 +335,22 @@
 
   // before
   "currency_sign_dollar_position": "sebelumnya",
+  // Note ↑ 5$ or $5? Choose either 'before' or 'after'. In english. That's just info for the bot. //
 
   // before
   "currency_sign_euro_position": "sebelumnya",
+  // Note ↑ 5€ or €5? Choose either 'before' or 'after'. In english. That's just info for the bot. //
 
   // before
   "currency_sign_position": "sebelumnya",
+  // Note ↑ Generic currency sign position (yes, we'll be supporting more currencies in the future!!!) //
 
   // Dollar (USD)
   "currency_usd": "Dollar (USD)",
 
   // en-US
   "date_format": "id-ID",
+  // Note ↑ Don't change this one. //
 
   // usd
   "default_currency": "idr",
@@ -361,39 +375,50 @@
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Provider Pihak Ketiga",
+  // Note ↑ When you need to go to a different website than the proper store in order to claim a key or smth. Similar to how humble bundle does it. //
 
   // Low Quality
   "game_meta_flag_trash": "Kualitas rendah",
+  // Note ↑ When a game has bad ratings //
 
   // Back
   "generic_back": "Kembali",
+  // Note ↑ max 25 characters //
 
   // Cancel
   "generic_cancel": "Batalkan",
+  // Note ↑ max 25 characters //
 
   // Cancelled
   "generic_cancelled": "Dibatalkan",
+  // Note ↑ max 25 characters //
 
   // Close
   "generic_close": "Tutup",
 
   // Continue
   "generic_continue": "Lanjutkan",
+  // Note ↑ max 25 characters //
 
   // Delete
   "generic_delete": "Hapus",
+  // Note ↑ max 25 characters //
 
   // Help
   "generic_help": "Help",
+  // Note ↑ max 25 characters //
 
   // Next
   "generic_next": "Selanjutnya",
+  // Note ↑ max 25 characters //
 
   // Ok
   "generic_ok": "Oke",
+  // Note ↑ max 25 characters //
 
   // Okay
   "generic_okay": "Okey",
+  // Note ↑ max 25 characters //
 
   // Help is on the way!
   "help_main_1": "Bantuan sedang dalam perjalanan!",
@@ -436,9 +461,11 @@
 
   // English (USA)
   "lang_name": "Bahasa Indonesia",
+  // Note ↑ The name of the language in your language - not in English. (Don't include the stuff in the brackets; that's a special case to distinguish American and British English). First letter in uppercase please. //
 
   // english-us
   "lang_name_en": "indonesian-ID",
+  // Note ↑ The name of the language - this time in english. All lowercase please. //
 
   // Silence
   "mysterious_modal_no_response_1": "Kesunyian",
@@ -484,21 +511,26 @@
 
   // About
   "page_about": "Tentang",
+  // Note ↑ max 25 characters //
 
   // Attributions
   "page_attributions": "Atribusi",
 
   // Help Page
   "page_help": "Halaman Bantuan",
+  // Note ↑ max 25 characters //
 
   // Invite the bot
   "page_invite": "Undang bot",
+  // Note ↑ max 25 characters //
 
   // Bot Settings
   "page_settings": "Pengaturan Bot",
+  // Note ↑ max 25 characters //
 
   // Support
   "page_support": "Support",
+  // Note ↑ max 25 characters //
 
   // Manage Webhooks
   "permission_manage_webhooks": "Kelola Webhook",
@@ -508,48 +540,63 @@
 
   // Apple App Store
   "platform_apple": "Apple App Store",
+  // Note ↑ NO_TRANSLATION //
 
   // Discord
   "platform_discord": "Discord",
+  // Note ↑ NO_TRANSLATION //
 
   // Epic Games
   "platform_epic": "Epic Games",
+  // Note ↑ NO_TRANSLATION //
 
   // GOG.com
   "platform_gog": "GOG.com",
+  // Note ↑ NO_TRANSLATION //
 
   // Google Play
   "platform_google": "Google Play",
+  // Note ↑ NO_TRANSLATION //
 
   // Humble Bundle
   "platform_humble": "Humble Bundle",
+  // Note ↑ NO_TRANSLATION //
 
   // itch.io
   "platform_itch": "itch.io",
+  // Note ↑ NO_TRANSLATION //
 
   // Origin
   "platform_origin": "Origin",
+  // Note ↑ NO_TRANSLATION //
 
   // Other
   "platform_other": "Lainnya",
+  // Note ↑ NO_TRANSLATION //
 
   // Play Station
   "platform_ps": "Play Station",
+  // Note ↑ NO_TRANSLATION //
 
   // Steam
   "platform_steam": "Steam",
+  // Note ↑ NO_TRANSLATION //
 
   // Nintendo Switch
   "platform_switch": "Nintendo Switch",
+  // Note ↑ NO_TRANSLATION //
 
   // Twitch
   "platform_twitch": "Twitch",
+  // Note ↑ NO_TRANSLATION //
 
   // Ubisoft Store
   "platform_uplay": "Ubisoft Store",
+  // Note ↑ NO_TRANSLATION //
 
   // Xbox
   "platform_xbox": "Xbox",
+  // Note ↑ NO_TRANSLATION //
 
   // About Premium
   "premium_promo_button": "Tentang Premium",
@@ -589,21 +636,26 @@
 
   // Everything
   "price_class_a": "Semuanya",
+  // Note ↑ Instead of setting any price you now have 4 minimum prices to choose from. This one is the equivalent to $0\n -- \nmax 25 characters //
 
   // Almost Everything
   "price_class_b": "Hampir semuanya",
+  // Note ↑ $1 and up\n -- \nmax 25 characters //
 
   // Default
   "price_class_c": "Default",
+  // Note ↑ $3 and up (default, surprise)\n -- \nmax 25 characters //
 
   // Big fish
   "price_class_d": "Ikan besar",
+  // Note ↑ $10 and up. feel free to give this another name lol\n -- \nmax 25 characters //
 
   // Converted from USD
   "price_converted": "Dikonversi dari USD",
 
   // Privacy Policy
   "privacy_policy": "Kebijakan Pribadi",
+  // Note ↑ max 25 characters //
 
   // Permanently Free
   "product_meta_flag_permanent": "Gratis Selamanya",
@@ -712,12 +764,15 @@
 
   // here
   "settings_channel_list_here": "Di Sini",
+  // Note ↑ max 10 characters //
 
   // No channel
   "settings_channel_list_no_channel_1": "Tidak ada channel",
+  // Note ↑ max 25 characters //
 
   // Disable free games feed
   "settings_channel_list_no_channel_2": "Nonaktifkan feed game gratis",
+  // Note ↑ max 50 characters //
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "Kamu memiliki terlalu banyak channel untuk menampilkan semuanya dalam daftar di bawah.",
@@ -757,6 +812,7 @@
 
   // Unknown channel
   "settings_channel_unknown_channel": "Channel tidak dikenal",
+
   // Other Settings
   "settings_conf_ui_1": "Pengaturan Lainnya",
 
@@ -777,15 +833,19 @@
 
   // Disable Auto Reaction
   "settings_display_reactions_off_prompt": "Nonaktifkan Auto Reaction",
+  // Note ↑ max 25 characters //
 
   // Auto Reaction Disabled
   "settings_display_reactions_off_state": "Auto Reaction Dinonaktifkan",
+  // Note ↑ max 25 characters //
 
   // Enable Auto Reaction
   "settings_display_reactions_on_prompt": "Aktifkan Auto Reaction",
+  // Note ↑ max 25 characters //
 
   // Auto Reaction Enabled
   "settings_display_reactions_on_state": "Auto Reaction Diaktifkan",
+  // Note ↑ max 25 characters //
 
   // Display Settings
   "settings_display_ui_1": "Pengaturan Tampilan",
@@ -822,12 +882,15 @@
 
   // (All disabled)
   "settings_filter_platforms_none": "(Semua dinonaktifkan)",
+  // Note ↑ max 50 characters //
 
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "Kirim semua games. Semuanya.",
+  // Note ↑ max 50 characters //
 
   // Only send games worth {price} or more
   "settings_filter_price_class_desc_generic": "Hanya kirimkan game senilai {price} atau lebih",
+  // Note ↑ max 50 characters in total (count {price} as 5 characters) //
 
   // Disable Games
   "settings_filter_show_passgames_off_prompt": "Nonaktifkan Game",
@@ -855,15 +918,19 @@
 
   // Disable Bad Quality Games
   "settings_filter_trash_off_prompt": "Nonaktifkan Game Berkualitas Buruk",
+  // Note ↑ max 25 characters //
 
   // Bad Quality Games Disabled
   "settings_filter_trash_off_state": "Game Berkualitas Buruk Dinonaktifkan",
+  // Note ↑ max 25 characters //
 
   // Enable Bad Quality Games
   "settings_filter_trash_on_prompt": "Aktifkan Game Berkualitas Buruk",
+  // Note ↑ max 25 characters //
 
   // Bad Quality Games Enabled
   "settings_filter_trash_on_state": "Game Berkualitas Buruk Diaktifkan",
+  // Note ↑ max 25 characters //
 
   // Filter Settings
   "settings_filter_ui_1": "Pengaturan Filter",
@@ -879,6 +946,7 @@
 
   // Delete Server Data
   "settings_guilddata_delete_button": "Hapus Data Server",
+  // Note ↑ max 25 characters //
 
   // Are you sure?
   "settings_guilddata_delete_dialogue_confirmation_1": "Apakah kamu yakin?",
@@ -915,15 +983,19 @@
 
   // English with the metric system
   "settings_language_list_desc_english_eu": "Bahasa Inggris dengan sistem metrik",
+  // Note ↑ max 50 characters //
 
   // English with the imperial system
   "settings_language_list_desc_english_us": "Bahasa Inggris dengan sistem imperial",
+  // Note ↑ max 50 characters //
 
   // English with football fields per pizza slice
   "settings_language_list_desc_english_us_easteregg": "Bahasa Inggris dengan lapangan sepak bola per potong pizza",
+  // Note ↑ max 50 characters //
 
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} oleh {translators}",
+  // Note ↑ don't add text after {translators} or else it will probably get cut off. oh and in general, don't write much here //
 
   // Language Selection
   "settings_language_ui_1": "Pilihan Bahasa",
@@ -939,15 +1011,19 @@
 
   // Change channel
   "settings_main_btn_channel_change": "Ganti channel",
+  // Note ↑ max 25 characters //
 
   // Set channel
   "settings_main_btn_channel_set": "Atur channel",
+  // Note ↑ max 25 characters //
 
   // Display Settings
   "settings_main_btn_display": "Pengaturan Tampilan",
+  // Note ↑ max 25 characters //
 
   // Filter Settings
   "settings_main_btn_filter": "Pengaturan Filter",
+  // Note ↑ max 25 characters //
 
   // Other Settings
   "settings_main_btn_general": "Pengaturan Lainnya",
@@ -957,15 +1033,18 @@
 
   // Advanced
   "settings_main_btn_more": "Lanjutan",
+  // Note ↑ max 25 characters //
 
   // Notification Settings
   "settings_main_btn_notifications": "Pengaturan Notifikasi",
 
   // Change role mention
   "settings_main_btn_role_change": "Ganti mention role",
+  // Note ↑ max 25 characters //
 
   // Mention a role
   "settings_main_btn_role_set": "Mention sebuah role",
+  // Note ↑ max 25 characters //
 
   // Need help?
   "settings_main_help_1": "Butuh bantuan?",
@@ -999,6 +1078,7 @@
 
   // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
   "settings_main_ui_2_guided_display_delayed": "Kamu punya beberapa pengaturan lagi untuk dilihat! Aku sedang berbicara tentang tema dan opsi mata uang dan lain-lain. Tertarik? Tombol biru akan membawamu ke sana!",
+
   // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
   "settings_main_ui_2_guided_display_normal": "Sempurna! Checkpoint terakhir dalam daftar adalah pengaturan tampilan. Sangat layak untuk melihatnya sekilas!",
 
@@ -1022,15 +1102,19 @@
 
   // Opt out of Beta
   "settings_more_beta_off_prompt": "Keluar dari Beta",
+  // Note ↑ max 25 characters //
 
   // You're not in beta!
   "settings_more_beta_off_state": "Kamu tidak dalam beta!",
+  // Note ↑ max 25 characters //
 
   // Opt in to Beta
   "settings_more_beta_on_prompt": "Bergabung ke Beta",
+  // Note ↑ max 25 characters //
 
   // You're in beta!
   "settings_more_beta_on_state": "Kamu dalam beta!",
+  // Note ↑ max 25 characters //
 
   // Disable Boring Mode
   "settings_more_boringmode_off_prompt": "Nonaktifkan Boring Mode",
@@ -1046,12 +1130,15 @@
 
   // View Server Data
   "settings_more_btn_guilddata": "Lihat Data Server",
+  // Note ↑ max 25 characters //
 
   // Re-send Messages
   "settings_more_btn_resend": "Kirim Ulang Pesan",
+  // Note ↑ max 25 characters //
 
   // Send Test Message
   "settings_more_btn_test": "Kirim Pesan Test",
+  // Note ↑ max 25 characters //
 
   // Mysterious Button
   "settings_more_mysterious_button": "Tombol Misterius",
@@ -1070,9 +1157,11 @@
 
   // @everyone
   "settings_role_list_everyone_1": "@everyone",
+  // Note ↑ just keep this @everyone\n -- \nmax 25 characters //
 
   // Ping everyone. That's a lot of people.
   "settings_role_list_everyone_2": "Ping semua orang. Itu banyak orang.",
+  // Note ↑ max 50 characters //
 
   // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
   "settings_role_list_hidden_overflow_disclaimer": "Beberapa role mungkin tersembunyi karena kamu memiliki terlalu banyak untuk ditampilkan sekaligus. Pindahkan rolemu ke atas jika kamu tidak dapat menemukannya dalam daftar!",
@@ -1082,9 +1171,11 @@
 
   // Disable Mentions
   "settings_role_list_no_mention_1": "Nonaktifkan Mention",
+  // Note ↑ max 25 characters //
 
   // Do not ping anyone.
   "settings_role_list_no_mention_2": "Jangan ping siapa pun.",
+  // Note ↑ max 50 characters //
 
   // None selected
   "settings_role_list_remove_role_1": "Tidak ada yang dipilih",
@@ -1178,66 +1269,87 @@
 
   // Terms of Service
   "terms_of_service": "Ketentuan Layanan",
+  // Note ↑ max 25 characters //
 
   // You cannot get less than this
   "theme_eight_desc": "Kamu tidak bisa mendapatkan kurang dari ini",
+  // Note ↑ max 50 characters //
 
   // Bare minimum
   "theme_eight_name": "Minimum",
+  // Note ↑ max 25 characters //
 
   // A theme with minimal extra info
   "theme_five_desc": "Tema dengan sedikit info tambahan",
+  // Note ↑ max 50 characters //
 
   // Keep it simple
   "theme_five_name": "Tetap simple dan sederhana",
+  // Note ↑ max 25 characters //
 
   // Only weird people chose this
   "theme_four_desc": "Cuma orang aneh yang memilih ini",
+  // Note ↑ max 50 characters //
 
   // More info less images!
   "theme_four_name": "Info lengkap, sedikit gambar!",
+  // Note ↑ max 25 characters //
 
   // If you need some context but don't like embeds
   "theme_nine_desc": "Jika kamu memerlukan konteks tetapi tidak menyukai embed",
+  // Note ↑ max 50 characters //
 
   // Text only!
   "theme_nine_name": "Hanya text!",
+  // Note ↑ max 25 characters //
 
   // Pretty basic
   "theme_one_desc": "Cukup basic",
+  // Note ↑ And descriptions too! Get creative! Doesn't need to be a 1:1 translation!\n -- \nmax 50 characters //
 
   // Default Theme
   "theme_one_name": "Tema Default",
+  // Note ↑ Themes now have name, not just 1, 2, 3 and so on\n -- \nmax 25 characters //
 
   // It's literally just the link
   "theme_seven_desc": "Ini sebenarnya cuma linknya",
+  // Note ↑ max 50 characters //
 
   // Literally just the link
   "theme_seven_name": "Literally cuma link",
+  // Note ↑ max 25 characters //
 
   // A theme with almost minimal extra info
   "theme_six_desc": "Tema dengan informasi tambahan yang hampir minimal",
+  // Note ↑ max 50 characters //
 
   // Images are cool!
   "theme_six_name": "Gambarnya keren!",
+  // Note ↑ max 25 characters //
 
   // For ArchiSteamFarm users and alike
   "theme_ten_desc": "Untuk user ArchiSteamFarm dan semacamnya",
+  // Note ↑ max 50 characters //
 
   // Advanced
   "theme_ten_name": "Lanjutan",
+  // Note ↑ max 25 characters //
 
   // With a short description and ratings
   "theme_three_desc": "Dengan deskripsi singkat dan rating",
+  // Note ↑ max 50 characters //
 
   // More info!
   "theme_three_name": "Info lainnya!",
+  // Note ↑ max 25 characters //
 
   // If you don't like images
   "theme_two_desc": "Jika kamu tidak menyukai gambar",
+  // Note ↑ max 50 characters //
 
   // No photos please!
   "theme_two_name": "Tolong jangan ada foto!",
+  // Note ↑ max 25 characters //
 
   // We send a message in your channel. That's all.
   "thread_opt_a_description": "Kami mengirim pesan di channelmu. Itu saja.",
@@ -1253,21 +1365,25 @@
 
   // We create a new thread and post the message there.
   "thread_opt_c_description": "Kami membuat thread baru dan memposting pesan di sana.",
-  
+
   // Message in thread
   "thread_opt_c_name": "Pesan dalam thread",
 
   // English translation available! If you want me to use English, use`/settings`
   "translation_available": "Terjemahan Bahasa Indonesia tersedia!  Jika kamu ingin saya menggunakan Bahasa Indonesia, gunakan /settings",
+  // Note ↑ [your language] translation available! If you want me to use [your language], use /settings //
 
   // English is not your primary language? This bot has many translations available, use `/settings` for more info.
   "translation_available_generic": "Bahasa Inggris bukan bahasa utamamu? Bot ini memiliki banyak terjemahan yang tersedia, gunakan `/settings` untuk info lebih lanjut.",
+  // Note ↑ NO_TRANSLATION //
 
   // English translation by:
   "translation_by": "Translasi ke bahasa Indonesia oleh:",
+  // Note ↑ Translate this one 1:1 except with your language instead of \"English\" - don't add your name here or anything. //
 
   // Maanex
   "translators": "iaMJ",
+  // Note ↑ Names of everyone who helped translating. Seperate names using a comma. //
 
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
   "webhook_create_auditlog_reason": "FreeStuff menggunakan Webhook untuk mendistribusikan pengumuman dalam skala besar. Tolong jangan hapus webhook ini.",
