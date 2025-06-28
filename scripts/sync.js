@@ -9,11 +9,16 @@ const readJson = (file) => {
 const base = 'en-US.jsonc'
 const baseContent = readJson(`./${package}/${base}`)
 
+const descr = 'descriptions.jsonc'
+const descrContent = readJson(`./${package}/${descr}`)
+
 const sorted = obj => Object.keys(obj).sort().reduce((acc, key) => {
   if (key.startsWith('//') || key.startsWith('_'))
     return acc
   acc[`//${key}`] = baseContent[key] || '(missing)'
   acc[key] = obj[key]
+  if (descrContent[key])
+    acc[`///${key}`] = `Note ↑ ${descrContent[key]} //`
   return acc
 }, {})
 
@@ -43,14 +48,15 @@ for (const file of fs.readdirSync(`./${package}`)) {
     removed++
   }
 
-  if (added > 0 || removed > 0) {
+  // if (added > 0 || removed > 0) {
     const rendered = JSON
       .stringify(sorted(content), null, 2)
+      .replace(/"\/\/\/.*?": ?"(.*?)",?\n/g, '// $1\n')
       .replace(/"\/\/.*?": ?"(.*?)",?\n/g, '\n  // $1\n')
       .replace(/^\s+$/gm, '')
       .replace('{\n\n', '{\n')
     fs.writeFileSync(`./${package}/${file}`, rendered)
-  }
+  // }
 
   console.log(`Updated ${file}: added ${added} keys, removed ${removed} keys`)
 }

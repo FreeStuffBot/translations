@@ -1,9 +1,11 @@
 {
   // Get it for free
   "announcement_button_text": "Obține-l gratuit",
+  // Note ↑ Some themes don't have the big \"GET\" button. Then this text will be there instead //
 
   // via {website}
   "announcement_footer": "prin {website}",
+  // Note ↑ That's on the bottom of each announcement //
 
   // This is a preview message
   "announcement_footer_test": "Arată bine? Dacă nu, foloseste @FreeStuff settings",
@@ -64,9 +66,11 @@
 
   // Free
   "announcement_pricetag_free": "Gratuit",
+  // Note ↑ Game price: not 19.99 but FREE! //
 
   // **{name}** is free!\n<{url}>
   "announcement_theme9": "**{name}** este gratuit!\n<​{url}​>",
+  // Note ↑ Don't forget the <>! //
 
   // {names}
   "announcement_thread_name_gamepass_multiple_below": "{names}",
@@ -215,6 +219,12 @@
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
   "cmd_resend_invalid_webhook_2": "Asta suna infricosator. Ca sa rezolvi problema incearca sa schimbi canalul cu unul diferit si apoi inapoi cu {channel}. Daca problema inca persista nu ezita sa ne contactezi!",
 
+  // Whoops!
+  "cmd_resend_nosend_1": "",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_resend_nosend_2": "",
+
   // Uh oh!
   "cmd_resend_nothing_free_1": "Uh oh!",
 
@@ -325,18 +335,22 @@
 
   // before
   "currency_sign_dollar_position": "before",
+  // Note ↑ 5$ or $5? Choose either 'before' or 'after'. In english. That's just info for the bot. //
 
   // before
   "currency_sign_euro_position": "before",
+  // Note ↑ 5€ or €5? Choose either 'before' or 'after'. In english. That's just info for the bot. //
 
   // before
   "currency_sign_position": "after",
+  // Note ↑ Generic currency sign position (yes, we'll be supporting more currencies in the future!!!) //
 
   // Dollar (USD)
   "currency_usd": "Dolar (USD)",
 
   // en-US
   "date_format": "ro",
+  // Note ↑ Don't change this one. //
 
   // usd
   "default_currency": "ron",
@@ -361,39 +375,50 @@
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Furnizor terț",
+  // Note ↑ When you need to go to a different website than the proper store in order to claim a key or smth. Similar to how humble bundle does it. //
 
   // Low Quality
   "game_meta_flag_trash": "Calitate scăzută",
+  // Note ↑ When a game has bad ratings //
 
   // Back
   "generic_back": "Înapoi",
+  // Note ↑ max 25 characters //
 
   // Cancel
   "generic_cancel": "Anulează",
+  // Note ↑ max 25 characters //
 
   // Cancelled
   "generic_cancelled": "Anulat",
+  // Note ↑ max 25 characters //
 
   // Close
   "generic_close": "Inchide",
 
   // Continue
   "generic_continue": "Continuare",
+  // Note ↑ max 25 characters //
 
   // Delete
   "generic_delete": "Șterge",
+  // Note ↑ max 25 characters //
 
   // Help
   "generic_help": "Ajutor",
+  // Note ↑ max 25 characters //
 
   // Next
   "generic_next": "Următorul",
+  // Note ↑ max 25 characters //
 
   // Ok
   "generic_ok": "Ok",
+  // Note ↑ max 25 characters //
 
   // Okay
   "generic_okay": "Okay",
+  // Note ↑ max 25 characters //
 
   // Help is on the way!
   "help_main_1": "Ajutorul este pe drum!",
@@ -436,9 +461,11 @@
 
   // English (USA)
   "lang_name": "Romana (RO)",
+  // Note ↑ The name of the language in your language - not in English. (Don't include the stuff in the brackets; that's a special case to distinguish American and British English). First letter in uppercase please. //
 
   // english-us
   "lang_name_en": "romanian-ro",
+  // Note ↑ The name of the language - this time in english. All lowercase please. //
 
   // Silence
   "mysterious_modal_no_response_1": "Silentios",
@@ -484,21 +511,26 @@
 
   // About
   "page_about": "Despre",
+  // Note ↑ max 25 characters //
 
   // Attributions
   "page_attributions": "Atribuții",
 
   // Help Page
   "page_help": "Pagină de Ajutor",
+  // Note ↑ max 25 characters //
 
   // Invite the bot
   "page_invite": "Invită bot-ul",
+  // Note ↑ max 25 characters //
 
   // Bot Settings
   "page_settings": "Setări Bot",
+  // Note ↑ max 25 characters //
 
   // Support
   "page_support": "Suport",
+  // Note ↑ max 25 characters //
 
   // Manage Webhooks
   "permission_manage_webhooks": "Gestioneaza Webhook-urile",
@@ -508,48 +540,63 @@
 
   // Apple App Store
   "platform_apple": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Discord
   "platform_discord": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Epic Games
   "platform_epic": "",
+  // Note ↑ NO_TRANSLATION //
 
   // GOG.com
   "platform_gog": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Google Play
   "platform_google": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Humble Bundle
   "platform_humble": "",
+  // Note ↑ NO_TRANSLATION //
 
   // itch.io
   "platform_itch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Origin
   "platform_origin": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Other
   "platform_other": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Play Station
   "platform_ps": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Steam
   "platform_steam": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Nintendo Switch
   "platform_switch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Twitch
   "platform_twitch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Ubisoft Store
   "platform_uplay": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Xbox
   "platform_xbox": "",
+  // Note ↑ NO_TRANSLATION //
 
   // About Premium
   "premium_promo_button": "Despre Premium",
@@ -589,21 +636,26 @@
 
   // Everything
   "price_class_a": "Toate",
+  // Note ↑ Instead of setting any price you now have 4 minimum prices to choose from. This one is the equivalent to $0\n -- \nmax 25 characters //
 
   // Almost Everything
   "price_class_b": "Aproape Toate",
+  // Note ↑ $1 and up\n -- \nmax 25 characters //
 
   // Default
   "price_class_c": "Implicit",
+  // Note ↑ $3 and up (default, surprise)\n -- \nmax 25 characters //
 
   // Big fish
   "price_class_d": "Alea mari tati!",
+  // Note ↑ $10 and up. feel free to give this another name lol\n -- \nmax 25 characters //
 
   // Converted from USD
   "price_converted": "Convertiți din USD",
 
   // Privacy Policy
   "privacy_policy": "Politica de Confidenți...",
+  // Note ↑ max 25 characters //
 
   // Permanently Free
   "product_meta_flag_permanent": "Permanent Gratuit",
@@ -712,12 +764,15 @@
 
   // here
   "settings_channel_list_here": "aici",
+  // Note ↑ max 10 characters //
 
   // No channel
   "settings_channel_list_no_channel_1": "Niciun canal",
+  // Note ↑ max 25 characters //
 
   // Disable free games feed
   "settings_channel_list_no_channel_2": "Dezactivează fluxul de jocuri gratuite",
+  // Note ↑ max 50 characters //
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "Ai prea multe canale si nu pot fi afisate in lista de mai jos.",
@@ -778,15 +833,19 @@
 
   // Disable Auto Reaction
   "settings_display_reactions_off_prompt": "Dezactiveaza Reacție Auto",
+  // Note ↑ max 25 characters //
 
   // Auto Reaction Disabled
   "settings_display_reactions_off_state": "Reacție Auto Dezactivată",
+  // Note ↑ max 25 characters //
 
   // Enable Auto Reaction
   "settings_display_reactions_on_prompt": "Activează Reacție Auto",
+  // Note ↑ max 25 characters //
 
   // Auto Reaction Enabled
   "settings_display_reactions_on_state": "Reacție Auto Activă",
+  // Note ↑ max 25 characters //
 
   // Display Settings
   "settings_display_ui_1": "Setări Afișare",
@@ -823,12 +882,15 @@
 
   // (All disabled)
   "settings_filter_platforms_none": "(Toate dezactivate)",
+  // Note ↑ max 50 characters //
 
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "Trimite toate jocurile. Fiecare. Singur. Unu.",
+  // Note ↑ max 50 characters //
 
   // Only send games worth {price} or more
   "settings_filter_price_class_desc_generic": "Doar jocuri in valoare de {price} sau mai mult",
+  // Note ↑ max 50 characters in total (count {price} as 5 characters) //
 
   // Disable Games
   "settings_filter_show_passgames_off_prompt": "Dezactiveaza Games",
@@ -856,15 +918,19 @@
 
   // Disable Bad Quality Games
   "settings_filter_trash_off_prompt": "Fără Jocuri Nasoale",
+  // Note ↑ max 25 characters //
 
   // Bad Quality Games Disabled
   "settings_filter_trash_off_state": "Fără Jocuri Nasoale",
+  // Note ↑ max 25 characters //
 
   // Enable Bad Quality Games
   "settings_filter_trash_on_prompt": "Activează Jocurile Nașpa",
+  // Note ↑ max 25 characters //
 
   // Bad Quality Games Enabled
   "settings_filter_trash_on_state": "Cu Jocuri Nasoale",
+  // Note ↑ max 25 characters //
 
   // Filter Settings
   "settings_filter_ui_1": "Setări Filtrare",
@@ -880,6 +946,7 @@
 
   // Delete Server Data
   "settings_guilddata_delete_button": "Șterge Datele Server-ului",
+  // Note ↑ max 25 characters //
 
   // Are you sure?
   "settings_guilddata_delete_dialogue_confirmation_1": "Ești sigur?",
@@ -916,15 +983,19 @@
 
   // English with the metric system
   "settings_language_list_desc_english_eu": "Engleză cu sistemul metric",
+  // Note ↑ max 50 characters //
 
   // English with the imperial system
   "settings_language_list_desc_english_us": "Engleză cu sistemul imperial",
+  // Note ↑ max 50 characters //
 
   // English with football fields per pizza slice
   "settings_language_list_desc_english_us_easteregg": "Engleză cu terenuri de fotbal pe felie de pizza",
+  // Note ↑ max 50 characters //
 
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} de către {translators}",
+  // Note ↑ don't add text after {translators} or else it will probably get cut off. oh and in general, don't write much here //
 
   // Language Selection
   "settings_language_ui_1": "Selecția Limbii",
@@ -940,15 +1011,19 @@
 
   // Change channel
   "settings_main_btn_channel_change": "Schimbă canalul",
+  // Note ↑ max 25 characters //
 
   // Set channel
   "settings_main_btn_channel_set": "Setează canalul",
+  // Note ↑ max 25 characters //
 
   // Display Settings
   "settings_main_btn_display": "Setări Afișare",
+  // Note ↑ max 25 characters //
 
   // Filter Settings
   "settings_main_btn_filter": "Setări Filtru",
+  // Note ↑ max 25 characters //
 
   // Other Settings
   "settings_main_btn_general": "Setari Generale",
@@ -958,15 +1033,18 @@
 
   // Advanced
   "settings_main_btn_more": "Mai mult",
+  // Note ↑ max 25 characters //
 
   // Notification Settings
   "settings_main_btn_notifications": "Setari de Notificari",
 
   // Change role mention
   "settings_main_btn_role_change": "Schimbă rolul menționat",
+  // Note ↑ max 25 characters //
 
   // Mention a role
   "settings_main_btn_role_set": "Menționeză un rol",
+  // Note ↑ max 25 characters //
 
   // Need help?
   "settings_main_help_1": "",
@@ -1024,15 +1102,19 @@
 
   // Opt out of Beta
   "settings_more_beta_off_prompt": "Renunță la Beta",
+  // Note ↑ max 25 characters //
 
   // You're not in beta!
   "settings_more_beta_off_state": "Nu ești în beta!",
+  // Note ↑ max 25 characters //
 
   // Opt in to Beta
   "settings_more_beta_on_prompt": "Optează pentru Beta",
+  // Note ↑ max 25 characters //
 
   // You're in beta!
   "settings_more_beta_on_state": "Ești în beta!",
+  // Note ↑ max 25 characters //
 
   // Disable Boring Mode
   "settings_more_boringmode_off_prompt": "",
@@ -1048,12 +1130,15 @@
 
   // View Server Data
   "settings_more_btn_guilddata": "Vezi datele serverului",
+  // Note ↑ max 25 characters //
 
   // Re-send Messages
   "settings_more_btn_resend": "Retrimite mesaje",
+  // Note ↑ max 25 characters //
 
   // Send Test Message
   "settings_more_btn_test": "Trimite un mesaj de test",
+  // Note ↑ max 25 characters //
 
   // Mysterious Button
   "settings_more_mysterious_button": "Buton Misterios",
@@ -1072,9 +1157,11 @@
 
   // @everyone
   "settings_role_list_everyone_1": "@everyone",
+  // Note ↑ just keep this @everyone\n -- \nmax 25 characters //
 
   // Ping everyone. That's a lot of people.
   "settings_role_list_everyone_2": "Voi menționa pe toată lumea.",
+  // Note ↑ max 50 characters //
 
   // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
   "settings_role_list_hidden_overflow_disclaimer": "Unele roluri ar putea fi ascunse, deoarece ai prea multe de afișat simultan. Mută-ți rolul în partea de sus dacă nu-l găsești în listă!",
@@ -1084,9 +1171,11 @@
 
   // Disable Mentions
   "settings_role_list_no_mention_1": "Dezactivează mențiunile",
+  // Note ↑ max 25 characters //
 
   // Do not ping anyone.
   "settings_role_list_no_mention_2": "Nu voi menționa pe nimeni.",
+  // Note ↑ max 50 characters //
 
   // None selected
   "settings_role_list_remove_role_1": "Nimic selectat",
@@ -1180,66 +1269,87 @@
 
   // Terms of Service
   "terms_of_service": "Termenii Serviciului",
+  // Note ↑ max 25 characters //
 
   // You cannot get less than this
   "theme_eight_desc": "Nu poți obține mai puțin de atât",
+  // Note ↑ max 50 characters //
 
   // Bare minimum
   "theme_eight_name": "Strictul necesar",
+  // Note ↑ max 25 characters //
 
   // A theme with minimal extra info
   "theme_five_desc": "O temă cu minimul de extra informații",
+  // Note ↑ max 50 characters //
 
   // Keep it simple
   "theme_five_name": "Nu te complica",
+  // Note ↑ max 25 characters //
 
   // Only weird people chose this
   "theme_four_desc": "Doar ciudații aleg asta",
+  // Note ↑ max 50 characters //
 
   // More info less images!
   "theme_four_name": "Mult info, puține imagini!",
+  // Note ↑ max 25 characters //
 
   // If you need some context but don't like embeds
   "theme_nine_desc": "Dacă ai nevoie context dar nu-ți plac embed-urile",
+  // Note ↑ max 50 characters //
 
   // Text only!
   "theme_nine_name": "Doar text!",
+  // Note ↑ max 25 characters //
 
   // Pretty basic
   "theme_one_desc": "Destul de simplu",
+  // Note ↑ And descriptions too! Get creative! Doesn't need to be a 1:1 translation!\n -- \nmax 50 characters //
 
   // Default Theme
   "theme_one_name": "Tema implicită",
+  // Note ↑ Themes now have name, not just 1, 2, 3 and so on\n -- \nmax 25 characters //
 
   // It's literally just the link
   "theme_seven_desc": "Este literalmente doar link-ul",
+  // Note ↑ max 50 characters //
 
   // Literally just the link
   "theme_seven_name": "Literalmente doar link-ul",
+  // Note ↑ max 25 characters //
 
   // A theme with almost minimal extra info
   "theme_six_desc": "O temă cu aproape minimul de extra informații",
+  // Note ↑ max 50 characters //
 
   // Images are cool!
   "theme_six_name": "Imaginile sunt super!",
+  // Note ↑ max 25 characters //
 
   // For ArchiSteamFarm users and alike
   "theme_ten_desc": "Pentru utilizatorii ArchiSteamFarm și altele",
+  // Note ↑ max 50 characters //
 
   // Advanced
   "theme_ten_name": "Avansat",
+  // Note ↑ max 25 characters //
 
   // With a short description and ratings
   "theme_three_desc": "Cu o scurtă descriere și recenzii",
+  // Note ↑ max 50 characters //
 
   // More info!
   "theme_three_name": "Multe informații!",
+  // Note ↑ max 25 characters //
 
   // If you don't like images
   "theme_two_desc": "Dacă nu-ți plac imaginile",
+  // Note ↑ max 50 characters //
 
   // No photos please!
   "theme_two_name": "Fără imagini, te rog!",
+  // Note ↑ max 25 characters //
 
   // We send a message in your channel. That's all.
   "thread_opt_a_description": "Vom trimite un mesaj in canalul tau. Asta e tot.",
@@ -1261,15 +1371,19 @@
 
   // English translation available! If you want me to use English, use`/settings`
   "translation_available": "Traducere în limba română disponibilă! Dacă dorești să folosesc limba Rom\nână, tastează @FreeStuff set language română",
+  // Note ↑ [your language] translation available! If you want me to use [your language], use /settings //
 
   // English is not your primary language? This bot has many translations available, use `/settings` for more info.
   "translation_available_generic": "",
+  // Note ↑ NO_TRANSLATION //
 
   // English translation by:
   "translation_by": "Traducere în limba română de:",
+  // Note ↑ Translate this one 1:1 except with your language instead of \"English\" - don't add your name here or anything. //
 
   // Maanex
   "translators": "GroWy",
+  // Note ↑ Names of everyone who helped translating. Seperate names using a comma. //
 
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
   "webhook_create_auditlog_reason": "FreeStuff foloseste Webhook-uri pentru a distribui anunturi la scara larga. Te rog sa nu inlaturi acest webhook.",

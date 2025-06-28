@@ -1,9 +1,11 @@
 {
   // Get it for free
   "announcement_button_text": "احصل عليها مجّاناً",
+  // Note ↑ Some themes don't have the big \"GET\" button. Then this text will be there instead //
 
   // via {website}
   "announcement_footer": "تقدمة {website}",
+  // Note ↑ That's on the bottom of each announcement //
 
   // This is a preview message
   "announcement_footer_test": "هذه رسالة للمعاينة",
@@ -64,9 +66,11 @@
 
   // Free
   "announcement_pricetag_free": "مجّاناً",
+  // Note ↑ Game price: not 19.99 but FREE! //
 
   // **{name}** is free!\n<{url}>
   "announcement_theme9": "إنَّ **{name}** مجّانيّة!\n<{url}>",
+  // Note ↑ Don't forget the <>! //
 
   // {names}
   "announcement_thread_name_gamepass_multiple_below": "",
@@ -215,6 +219,12 @@
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
   "cmd_resend_invalid_webhook_2": "",
 
+  // Whoops!
+  "cmd_resend_nosend_1": "",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_resend_nosend_2": "",
+
   // Uh oh!
   "cmd_resend_nothing_free_1": "أه له!",
 
@@ -325,18 +335,22 @@
 
   // before
   "currency_sign_dollar_position": "قبل",
+  // Note ↑ 5$ or $5? Choose either 'before' or 'after'. In english. That's just info for the bot. //
 
   // before
   "currency_sign_euro_position": "قبل",
+  // Note ↑ 5€ or €5? Choose either 'before' or 'after'. In english. That's just info for the bot. //
 
   // before
   "currency_sign_position": "قبل",
+  // Note ↑ Generic currency sign position (yes, we'll be supporting more currencies in the future!!!) //
 
   // Dollar (USD)
   "currency_usd": "دولار (USD)",
 
   // en-US
   "date_format": "ar-SY",
+  // Note ↑ Don't change this one. //
 
   // usd
   "default_currency": "",
@@ -361,39 +375,50 @@
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "مزوّد من جهة ثالثة",
+  // Note ↑ When you need to go to a different website than the proper store in order to claim a key or smth. Similar to how humble bundle does it. //
 
   // Low Quality
   "game_meta_flag_trash": "رديئة الجودة",
+  // Note ↑ When a game has bad ratings //
 
   // Back
   "generic_back": "العودة",
+  // Note ↑ max 25 characters //
 
   // Cancel
   "generic_cancel": "إلغاء",
+  // Note ↑ max 25 characters //
 
   // Cancelled
   "generic_cancelled": "ملغي",
+  // Note ↑ max 25 characters //
 
   // Close
   "generic_close": "",
 
   // Continue
   "generic_continue": "المتابعة",
+  // Note ↑ max 25 characters //
 
   // Delete
   "generic_delete": "احذف",
+  // Note ↑ max 25 characters //
 
   // Help
   "generic_help": "المساعدة",
+  // Note ↑ max 25 characters //
 
   // Next
   "generic_next": "التالي",
+  // Note ↑ max 25 characters //
 
   // Ok
   "generic_ok": "أوك",
+  // Note ↑ max 25 characters //
 
   // Okay
   "generic_okay": "أوكُاي",
+  // Note ↑ max 25 characters //
 
   // Help is on the way!
   "help_main_1": "المساعدة على الطريق!",
@@ -436,9 +461,11 @@
 
   // English (USA)
   "lang_name": "العربية",
+  // Note ↑ The name of the language in your language - not in English. (Don't include the stuff in the brackets; that's a special case to distinguish American and British English). First letter in uppercase please. //
 
   // english-us
   "lang_name_en": "arabic",
+  // Note ↑ The name of the language - this time in english. All lowercase please. //
 
   // Silence
   "mysterious_modal_no_response_1": "",
@@ -484,21 +511,26 @@
 
   // About
   "page_about": "حول",
+  // Note ↑ max 25 characters //
 
   // Attributions
   "page_attributions": "",
 
   // Help Page
   "page_help": "صفحة المساعدة",
+  // Note ↑ max 25 characters //
 
   // Invite the bot
   "page_invite": "إدعو البوت",
+  // Note ↑ max 25 characters //
 
   // Bot Settings
   "page_settings": "إعدادات البوت",
+  // Note ↑ max 25 characters //
 
   // Support
   "page_support": "الدعم",
+  // Note ↑ max 25 characters //
 
   // Manage Webhooks
   "permission_manage_webhooks": "إدارة الـWebhooks",
@@ -508,48 +540,63 @@
 
   // Apple App Store
   "platform_apple": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Discord
   "platform_discord": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Epic Games
   "platform_epic": "",
+  // Note ↑ NO_TRANSLATION //
 
   // GOG.com
   "platform_gog": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Google Play
   "platform_google": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Humble Bundle
   "platform_humble": "",
+  // Note ↑ NO_TRANSLATION //
 
   // itch.io
   "platform_itch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Origin
   "platform_origin": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Other
   "platform_other": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Play Station
   "platform_ps": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Steam
   "platform_steam": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Nintendo Switch
   "platform_switch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Twitch
   "platform_twitch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Ubisoft Store
   "platform_uplay": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Xbox
   "platform_xbox": "",
+  // Note ↑ NO_TRANSLATION //
 
   // About Premium
   "premium_promo_button": "",
@@ -589,21 +636,26 @@
 
   // Everything
   "price_class_a": "جميعُها",
+  // Note ↑ Instead of setting any price you now have 4 minimum prices to choose from. This one is the equivalent to $0\n -- \nmax 25 characters //
 
   // Almost Everything
   "price_class_b": "تقريباً جميعُها",
+  // Note ↑ $1 and up\n -- \nmax 25 characters //
 
   // Default
   "price_class_c": "الافتراضي",
+  // Note ↑ $3 and up (default, surprise)\n -- \nmax 25 characters //
 
   // Big fish
   "price_class_d": "سمكة كبيرة",
+  // Note ↑ $10 and up. feel free to give this another name lol\n -- \nmax 25 characters //
 
   // Converted from USD
   "price_converted": "محوّل من USD",
 
   // Privacy Policy
   "privacy_policy": "سياسة الخصوصيّة",
+  // Note ↑ max 25 characters //
 
   // Permanently Free
   "product_meta_flag_permanent": "",
@@ -712,12 +764,15 @@
 
   // here
   "settings_channel_list_here": "هنا",
+  // Note ↑ max 10 characters //
 
   // No channel
   "settings_channel_list_no_channel_1": "لا قناة",
+  // Note ↑ max 25 characters //
 
   // Disable free games feed
   "settings_channel_list_no_channel_2": "إبطال مورود الألعاب المجّانيّة",
+  // Note ↑ max 50 characters //
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "",
@@ -778,15 +833,19 @@
 
   // Disable Auto Reaction
   "settings_display_reactions_off_prompt": "إبطال التفاعل التلقائي",
+  // Note ↑ max 25 characters //
 
   // Auto Reaction Disabled
   "settings_display_reactions_off_state": "التفاعل التلقائي مُبْطَل",
+  // Note ↑ max 25 characters //
 
   // Enable Auto Reaction
   "settings_display_reactions_on_prompt": "تفعيل التفاعل التلقائي",
+  // Note ↑ max 25 characters //
 
   // Auto Reaction Enabled
   "settings_display_reactions_on_state": "التفاعل التلقائي مُفعَّل",
+  // Note ↑ max 25 characters //
 
   // Display Settings
   "settings_display_ui_1": "إعدادات الإظهار",
@@ -823,12 +882,15 @@
 
   // (All disabled)
   "settings_filter_platforms_none": "(الكل مُبطل)",
+  // Note ↑ max 50 characters //
 
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": ".أرسل جميع الألعاب. كلُّ. واحدةٌ. منها",
+  // Note ↑ max 50 characters //
 
   // Only send games worth {price} or more
   "settings_filter_price_class_desc_generic": "أرسل فقط الألعاب بقيمة {price} أو أكثر",
+  // Note ↑ max 50 characters in total (count {price} as 5 characters) //
 
   // Disable Games
   "settings_filter_show_passgames_off_prompt": "",
@@ -856,15 +918,19 @@
 
   // Disable Bad Quality Games
   "settings_filter_trash_off_prompt": "إبطال الألعاب رديئة الجودة",
+  // Note ↑ max 25 characters //
 
   // Bad Quality Games Disabled
   "settings_filter_trash_off_state": "الألعاب رديئة الجودة مُبطلة",
+  // Note ↑ max 25 characters //
 
   // Enable Bad Quality Games
   "settings_filter_trash_on_prompt": "تفعيل الألعاب رديئة الجودة",
+  // Note ↑ max 25 characters //
 
   // Bad Quality Games Enabled
   "settings_filter_trash_on_state": "الألعاب رديئة الجودة مُفعّلة",
+  // Note ↑ max 25 characters //
 
   // Filter Settings
   "settings_filter_ui_1": "إعدادات التصفية",
@@ -880,6 +946,7 @@
 
   // Delete Server Data
   "settings_guilddata_delete_button": "حذف بيانات السرفر",
+  // Note ↑ max 25 characters //
 
   // Are you sure?
   "settings_guilddata_delete_dialogue_confirmation_1": "هل أنت متأكّد؟",
@@ -916,15 +983,19 @@
 
   // English with the metric system
   "settings_language_list_desc_english_eu": "الانجليزيّة بالنظام المتري",
+  // Note ↑ max 50 characters //
 
   // English with the imperial system
   "settings_language_list_desc_english_us": "الانجليزيّة بالنظام الامبراطوري",
+  // Note ↑ max 50 characters //
 
   // English with football fields per pizza slice
   "settings_language_list_desc_english_us_easteregg": "الانجليزيّة بحقول كرة القدم لكل شريحة بيتزا",
+  // Note ↑ max 50 characters //
 
   // {language} by {translators}
   "settings_language_list_desc_generic": "{translators} ترجَمها {language}",
+  // Note ↑ don't add text after {translators} or else it will probably get cut off. oh and in general, don't write much here //
 
   // Language Selection
   "settings_language_ui_1": "اختبار الّلغة",
@@ -940,15 +1011,19 @@
 
   // Change channel
   "settings_main_btn_channel_change": "غيّر القناة",
+  // Note ↑ max 25 characters //
 
   // Set channel
   "settings_main_btn_channel_set": "حدّد القناة",
+  // Note ↑ max 25 characters //
 
   // Display Settings
   "settings_main_btn_display": "إعدادات الإظهار",
+  // Note ↑ max 25 characters //
 
   // Filter Settings
   "settings_main_btn_filter": "إعدادات التصفية",
+  // Note ↑ max 25 characters //
 
   // Other Settings
   "settings_main_btn_general": "",
@@ -958,15 +1033,18 @@
 
   // Advanced
   "settings_main_btn_more": "المزيد",
+  // Note ↑ max 25 characters //
 
   // Notification Settings
   "settings_main_btn_notifications": "",
 
   // Change role mention
   "settings_main_btn_role_change": "المُنبّهة (role) غيّر الرتبة",
+  // Note ↑ max 25 characters //
 
   // Mention a role
   "settings_main_btn_role_set": "(role) تنبيه الرتبة",
+  // Note ↑ max 25 characters //
 
   // Need help?
   "settings_main_help_1": "",
@@ -1024,15 +1102,19 @@
 
   // Opt out of Beta
   "settings_more_beta_off_prompt": "beta الانسحاب من النسخة التجريبيّة",
+  // Note ↑ max 25 characters //
 
   // You're not in beta!
   "settings_more_beta_off_state": "أنت لست ضمن النسخة التجريبيّة beta!",
+  // Note ↑ max 25 characters //
 
   // Opt in to Beta
   "settings_more_beta_on_prompt": "beta الانضمام للنسخة التجريبيّة",
+  // Note ↑ max 25 characters //
 
   // You're in beta!
   "settings_more_beta_on_state": " !beta أنت مُنضَم للنسخة التجريبيّة",
+  // Note ↑ max 25 characters //
 
   // Disable Boring Mode
   "settings_more_boringmode_off_prompt": "",
@@ -1048,12 +1130,15 @@
 
   // View Server Data
   "settings_more_btn_guilddata": "عرض بيانات السرفر",
+  // Note ↑ max 25 characters //
 
   // Re-send Messages
   "settings_more_btn_resend": "أعد إرسال الرسائل",
+  // Note ↑ max 25 characters //
 
   // Send Test Message
   "settings_more_btn_test": "أرسل رسالة الإختبار",
+  // Note ↑ max 25 characters //
 
   // Mysterious Button
   "settings_more_mysterious_button": "",
@@ -1072,9 +1157,11 @@
 
   // @everyone
   "settings_role_list_everyone_1": "@everyone",
+  // Note ↑ just keep this @everyone\n -- \nmax 25 characters //
 
   // Ping everyone. That's a lot of people.
   "settings_role_list_everyone_2": "نبّه الجميع. إنّه الكثير من الناس",
+  // Note ↑ max 50 characters //
 
   // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
   "settings_role_list_hidden_overflow_disclaimer": "قد تكون بعض الرتب مخفيّة لأنه لديك الكثير منهم ليتم إظهارهم معاً. انقل الرتبة للأعلى إذا لم تستطع إيجادها في اللائحة!",
@@ -1084,9 +1171,11 @@
 
   // Disable Mentions
   "settings_role_list_no_mention_1": "إبطال التنبيهات",
+  // Note ↑ max 25 characters //
 
   // Do not ping anyone.
   "settings_role_list_no_mention_2": "لا تُنبِّه أي أحد",
+  // Note ↑ max 50 characters //
 
   // None selected
   "settings_role_list_remove_role_1": "",
@@ -1180,66 +1269,87 @@
 
   // Terms of Service
   "terms_of_service": "شروط الخدمة",
+  // Note ↑ max 25 characters //
 
   // You cannot get less than this
   "theme_eight_desc": "لا يمكن الوصول لأقل من هذا",
+  // Note ↑ max 50 characters //
 
   // Bare minimum
   "theme_eight_name": "الحد الأدنى",
+  // Note ↑ max 25 characters //
 
   // A theme with minimal extra info
   "theme_five_desc": "شكل مع الحد الأدنى من المعلومات الإضافيّة",
+  // Note ↑ max 50 characters //
 
   // Keep it simple
   "theme_five_name": "اجعلها بسيطة",
+  // Note ↑ max 25 characters //
 
   // Only weird people chose this
   "theme_four_desc": "فقط غريبو الأطوار يختارون هذا",
+  // Note ↑ max 50 characters //
 
   // More info less images!
   "theme_four_name": "مزيدٌ من المعلومات وصورٌ أقلّ",
+  // Note ↑ max 25 characters //
 
   // If you need some context but don't like embeds
   "theme_nine_desc": "embedsإذا أردت بعض المضمون ولكن لا تحبّ الـ",
+  // Note ↑ max 50 characters //
 
   // Text only!
   "theme_nine_name": "!كتابة فقط",
+  // Note ↑ max 25 characters //
 
   // Pretty basic
   "theme_one_desc": "أساسي جدّاً",
+  // Note ↑ And descriptions too! Get creative! Doesn't need to be a 1:1 translation!\n -- \nmax 50 characters //
 
   // Default Theme
   "theme_one_name": "الشكل الافتراضي",
+  // Note ↑ Themes now have name, not just 1, 2, 3 and so on\n -- \nmax 25 characters //
 
   // It's literally just the link
   "theme_seven_desc": "إنّه حرفيّاً الرابط فقط",
+  // Note ↑ max 50 characters //
 
   // Literally just the link
   "theme_seven_name": "حرفيّا فقط الرابط",
+  // Note ↑ max 25 characters //
 
   // A theme with almost minimal extra info
   "theme_six_desc": "شكل مع تقريبا الحد الأدنى من المعلومات الإضافية",
+  // Note ↑ max 50 characters //
 
   // Images are cool!
   "theme_six_name": "!الصور رائعة",
+  // Note ↑ max 25 characters //
 
   // For ArchiSteamFarm users and alike
   "theme_ten_desc": "وأمثاله ArchiSteamFarm لمستخدمي",
+  // Note ↑ max 50 characters //
 
   // Advanced
   "theme_ten_name": "متقدّم",
+  // Note ↑ max 25 characters //
 
   // With a short description and ratings
   "theme_three_desc": "مع شرح مختصر وتقييمات",
+  // Note ↑ max 50 characters //
 
   // More info!
   "theme_three_name": "!المزيد من المعلومات",
+  // Note ↑ max 25 characters //
 
   // If you don't like images
   "theme_two_desc": "اذا كنت لا تحبّ الصور",
+  // Note ↑ max 50 characters //
 
   // No photos please!
   "theme_two_name": "!من دون صور رجاءً",
+  // Note ↑ max 25 characters //
 
   // We send a message in your channel. That's all.
   "thread_opt_a_description": "",
@@ -1261,15 +1371,19 @@
 
   // English translation available! If you want me to use English, use`/settings`
   "translation_available": "الترجمة العربيّة متوفّرة! إن كنت تريدني أن أستخدم العربية، اكتب `@FreeStuff set language arabic`",
+  // Note ↑ [your language] translation available! If you want me to use [your language], use /settings //
 
   // English is not your primary language? This bot has many translations available, use `/settings` for more info.
   "translation_available_generic": "",
+  // Note ↑ NO_TRANSLATION //
 
   // English translation by:
   "translation_by": "تمت الترجمة من قبل:",
+  // Note ↑ Translate this one 1:1 except with your language instead of \"English\" - don't add your name here or anything. //
 
   // Maanex
   "translators": "محمّد رامي صبّاغ",
+  // Note ↑ Names of everyone who helped translating. Seperate names using a comma. //
 
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
   "webhook_create_auditlog_reason": "FreeStuff يستخدم Webhooks ليوزّع الإعلانات على نطاق واسع. رجاءً لا تحذف هذه الـWebhook.",

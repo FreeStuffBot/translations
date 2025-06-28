@@ -1,9 +1,11 @@
 {
   // Get it for free
   "announcement_button_text": "Вземи го безплатно",
+  // Note ↑ Some themes don't have the big \"GET\" button. Then this text will be there instead //
 
   // via {website}
   "announcement_footer": "чрез {website}",
+  // Note ↑ That's on the bottom of each announcement //
 
   // This is a preview message
   "announcement_footer_test": "Изглежда ли добре? Ако не, пробвай: /settings",
@@ -64,9 +66,11 @@
 
   // Free
   "announcement_pricetag_free": "Безплатно",
+  // Note ↑ Game price: not 19.99 but FREE! //
 
   // **{name}** is free!\n<{url}>
   "announcement_theme9": "**{name}** е безплатна!\n<{url}>",
+  // Note ↑ Don't forget the <>! //
 
   // {names}
   "announcement_thread_name_gamepass_multiple_below": "{names}",
@@ -215,6 +219,12 @@
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
   "cmd_resend_invalid_webhook_2": "Това звучи страшно. За да коригираш това, опитай да промениш канала на друг и след това обратно на {channel}. Ако тази грешка продължава, моля, свържи се с нас за да ударим едно рамо!",
 
+  // Whoops!
+  "cmd_resend_nosend_1": "",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_resend_nosend_2": "",
+
   // Uh oh!
   "cmd_resend_nothing_free_1": "Опа!",
 
@@ -325,18 +335,22 @@
 
   // before
   "currency_sign_dollar_position": "before",
+  // Note ↑ 5$ or $5? Choose either 'before' or 'after'. In english. That's just info for the bot. //
 
   // before
   "currency_sign_euro_position": "before",
+  // Note ↑ 5€ or €5? Choose either 'before' or 'after'. In english. That's just info for the bot. //
 
   // before
   "currency_sign_position": "after",
+  // Note ↑ Generic currency sign position (yes, we'll be supporting more currencies in the future!!!) //
 
   // Dollar (USD)
   "currency_usd": "Американски долар",
 
   // en-US
   "date_format": "bg",
+  // Note ↑ Don't change this one. //
 
   // usd
   "default_currency": "bgn",
@@ -361,39 +375,50 @@
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Third Party Provider",
+  // Note ↑ When you need to go to a different website than the proper store in order to claim a key or smth. Similar to how humble bundle does it. //
 
   // Low Quality
   "game_meta_flag_trash": "Ниско качество",
+  // Note ↑ When a game has bad ratings //
 
   // Back
   "generic_back": "Назад",
+  // Note ↑ max 25 characters //
 
   // Cancel
   "generic_cancel": "Отказ",
+  // Note ↑ max 25 characters //
 
   // Cancelled
   "generic_cancelled": "Отказано",
+  // Note ↑ max 25 characters //
 
   // Close
   "generic_close": "Затвори",
 
   // Continue
   "generic_continue": "Продължи",
+  // Note ↑ max 25 characters //
 
   // Delete
   "generic_delete": "Изтрий",
+  // Note ↑ max 25 characters //
 
   // Help
   "generic_help": "Помощ",
+  // Note ↑ max 25 characters //
 
   // Next
   "generic_next": "Следващ",
+  // Note ↑ max 25 characters //
 
   // Ok
   "generic_ok": "Ок",
+  // Note ↑ max 25 characters //
 
   // Okay
   "generic_okay": "Добре",
+  // Note ↑ max 25 characters //
 
   // Help is on the way!
   "help_main_1": "Помощта идва!",
@@ -436,9 +461,11 @@
 
   // English (USA)
   "lang_name": "Български",
+  // Note ↑ The name of the language in your language - not in English. (Don't include the stuff in the brackets; that's a special case to distinguish American and British English). First letter in uppercase please. //
 
   // english-us
   "lang_name_en": "bulgarian",
+  // Note ↑ The name of the language - this time in english. All lowercase please. //
 
   // Silence
   "mysterious_modal_no_response_1": "Тишина",
@@ -484,21 +511,26 @@
 
   // About
   "page_about": "За нас",
+  // Note ↑ max 25 characters //
 
   // Attributions
   "page_attributions": "",
 
   // Help Page
   "page_help": "Помощна страница",
+  // Note ↑ max 25 characters //
 
   // Invite the bot
   "page_invite": "Покани бота",
+  // Note ↑ max 25 characters //
 
   // Bot Settings
   "page_settings": "Настройки на бота",
+  // Note ↑ max 25 characters //
 
   // Support
   "page_support": "Помощ",
+  // Note ↑ max 25 characters //
 
   // Manage Webhooks
   "permission_manage_webhooks": "Управление на Webhooks",
@@ -508,48 +540,63 @@
 
   // Apple App Store
   "platform_apple": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Discord
   "platform_discord": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Epic Games
   "platform_epic": "",
+  // Note ↑ NO_TRANSLATION //
 
   // GOG.com
   "platform_gog": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Google Play
   "platform_google": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Humble Bundle
   "platform_humble": "",
+  // Note ↑ NO_TRANSLATION //
 
   // itch.io
   "platform_itch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Origin
   "platform_origin": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Other
   "platform_other": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Play Station
   "platform_ps": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Steam
   "platform_steam": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Nintendo Switch
   "platform_switch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Twitch
   "platform_twitch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Ubisoft Store
   "platform_uplay": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Xbox
   "platform_xbox": "",
+  // Note ↑ NO_TRANSLATION //
 
   // About Premium
   "premium_promo_button": "За Premium",
@@ -589,21 +636,26 @@
 
   // Everything
   "price_class_a": "Всичко",
+  // Note ↑ Instead of setting any price you now have 4 minimum prices to choose from. This one is the equivalent to $0\n -- \nmax 25 characters //
 
   // Almost Everything
   "price_class_b": "Почти всичко",
+  // Note ↑ $1 and up\n -- \nmax 25 characters //
 
   // Default
   "price_class_c": "По подразбиране",
+  // Note ↑ $3 and up (default, surprise)\n -- \nmax 25 characters //
 
   // Big fish
   "price_class_d": "Големите риби",
+  // Note ↑ $10 and up. feel free to give this another name lol\n -- \nmax 25 characters //
 
   // Converted from USD
   "price_converted": "Конвертирано от американски долари (USD)",
 
   // Privacy Policy
   "privacy_policy": "Политика за поверителност",
+  // Note ↑ max 25 characters //
 
   // Permanently Free
   "product_meta_flag_permanent": "Безплатно завинаги",
@@ -712,12 +764,15 @@
 
   // here
   "settings_channel_list_here": "тук",
+  // Note ↑ max 10 characters //
 
   // No channel
   "settings_channel_list_no_channel_1": "Няма канал",
+  // Note ↑ max 25 characters //
 
   // Disable free games feed
   "settings_channel_list_no_channel_2": "Деактивиране на известията за безплатни игри",
+  // Note ↑ max 50 characters //
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "Имате твърде много канали, за да покажа всички в списъка по-долу.",
@@ -778,15 +833,19 @@
 
   // Disable Auto Reaction
   "settings_display_reactions_off_prompt": "Деактивирай авто. реакция",
+  // Note ↑ max 25 characters //
 
   // Auto Reaction Disabled
   "settings_display_reactions_off_state": "Авт. реакция деактивирана",
+  // Note ↑ max 25 characters //
 
   // Enable Auto Reaction
   "settings_display_reactions_on_prompt": "Активирай автом. реакция",
+  // Note ↑ max 25 characters //
 
   // Auto Reaction Enabled
   "settings_display_reactions_on_state": "Автом. реакция активирана",
+  // Note ↑ max 25 characters //
 
   // Display Settings
   "settings_display_ui_1": "Настройки на изгледа",
@@ -823,12 +882,15 @@
 
   // (All disabled)
   "settings_filter_platforms_none": "(Всички деактивирани)",
+  // Note ↑ max 50 characters //
 
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "Изпращай всички игри. Всяка. Една. От. Тях.",
+  // Note ↑ max 50 characters //
 
   // Only send games worth {price} or more
   "settings_filter_price_class_desc_generic": "Изпращай само игри на стойност {price} или повече",
+  // Note ↑ max 50 characters in total (count {price} as 5 characters) //
 
   // Disable Games
   "settings_filter_show_passgames_off_prompt": "",
@@ -856,15 +918,19 @@
 
   // Disable Bad Quality Games
   "settings_filter_trash_off_prompt": "Деактивирай лошо качество",
+  // Note ↑ max 25 characters //
 
   // Bad Quality Games Disabled
   "settings_filter_trash_off_state": "❌Игри с лошо качество",
+  // Note ↑ max 25 characters //
 
   // Enable Bad Quality Games
   "settings_filter_trash_on_prompt": "Активирай лошо качество",
+  // Note ↑ max 25 characters //
 
   // Bad Quality Games Enabled
   "settings_filter_trash_on_state": "✔ Игри с лошо качество",
+  // Note ↑ max 25 characters //
 
   // Filter Settings
   "settings_filter_ui_1": "Настройки на филтъра",
@@ -880,6 +946,7 @@
 
   // Delete Server Data
   "settings_guilddata_delete_button": "Изтрий сървърните данни",
+  // Note ↑ max 25 characters //
 
   // Are you sure?
   "settings_guilddata_delete_dialogue_confirmation_1": "Сигурен/а ли си?",
@@ -916,15 +983,19 @@
 
   // English with the metric system
   "settings_language_list_desc_english_eu": "Английски с метричната система",
+  // Note ↑ max 50 characters //
 
   // English with the imperial system
   "settings_language_list_desc_english_us": "Английски с имперската система",
+  // Note ↑ max 50 characters //
 
   // English with football fields per pizza slice
   "settings_language_list_desc_english_us_easteregg": "Английски с футболни игрища на парче пица",
+  // Note ↑ max 50 characters //
 
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} от {translators}",
+  // Note ↑ don't add text after {translators} or else it will probably get cut off. oh and in general, don't write much here //
 
   // Language Selection
   "settings_language_ui_1": "Избор на език",
@@ -940,15 +1011,19 @@
 
   // Change channel
   "settings_main_btn_channel_change": "Промени канал",
+  // Note ↑ max 25 characters //
 
   // Set channel
   "settings_main_btn_channel_set": "Задай канал",
+  // Note ↑ max 25 characters //
 
   // Display Settings
   "settings_main_btn_display": "Настройки на изгледа",
+  // Note ↑ max 25 characters //
 
   // Filter Settings
   "settings_main_btn_filter": "Настройки на филтъра",
+  // Note ↑ max 25 characters //
 
   // Other Settings
   "settings_main_btn_general": "Основни настройки",
@@ -958,15 +1033,18 @@
 
   // Advanced
   "settings_main_btn_more": "Разширени",
+  // Note ↑ max 25 characters //
 
   // Notification Settings
   "settings_main_btn_notifications": "Настройки за известията",
 
   // Change role mention
   "settings_main_btn_role_change": "Промени ролята",
+  // Note ↑ max 25 characters //
 
   // Mention a role
   "settings_main_btn_role_set": "Споменавай роля",
+  // Note ↑ max 25 characters //
 
   // Need help?
   "settings_main_help_1": "",
@@ -1024,15 +1102,19 @@
 
   // Opt out of Beta
   "settings_more_beta_off_prompt": "Откажи се от бета",
+  // Note ↑ max 25 characters //
 
   // You're not in beta!
   "settings_more_beta_off_state": "Ти не си в бета!",
+  // Note ↑ max 25 characters //
 
   // Opt in to Beta
   "settings_more_beta_on_prompt": "Включване в бета",
+  // Note ↑ max 25 characters //
 
   // You're in beta!
   "settings_more_beta_on_state": "Ти си в бета!",
+  // Note ↑ max 25 characters //
 
   // Disable Boring Mode
   "settings_more_boringmode_off_prompt": "",
@@ -1048,12 +1130,15 @@
 
   // View Server Data
   "settings_more_btn_guilddata": "Данни на сървъра",
+  // Note ↑ max 25 characters //
 
   // Re-send Messages
   "settings_more_btn_resend": "Повторно изпращане",
+  // Note ↑ max 25 characters //
 
   // Send Test Message
   "settings_more_btn_test": "Изпрати тестово съобщение",
+  // Note ↑ max 25 characters //
 
   // Mysterious Button
   "settings_more_mysterious_button": "Мистериозен бутон",
@@ -1072,9 +1157,11 @@
 
   // @everyone
   "settings_role_list_everyone_1": "@everyone",
+  // Note ↑ just keep this @everyone\n -- \nmax 25 characters //
 
   // Ping everyone. That's a lot of people.
   "settings_role_list_everyone_2": "Споменавай всички. Това са доста хора.",
+  // Note ↑ max 50 characters //
 
   // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
   "settings_role_list_hidden_overflow_disclaimer": "Някои роли може да са скрити, защото тук има твърде много, за да ги покажа наведнъж. Премести желаната роля възможно най-горе, ако не можеш да я намериш в списъка!",
@@ -1084,9 +1171,11 @@
 
   // Disable Mentions
   "settings_role_list_no_mention_1": "Деактив. на споменавания",
+  // Note ↑ max 25 characters //
 
   // Do not ping anyone.
   "settings_role_list_no_mention_2": "Не споменавай никого.",
+  // Note ↑ max 50 characters //
 
   // None selected
   "settings_role_list_remove_role_1": "Няма избрани",
@@ -1180,66 +1269,87 @@
 
   // Terms of Service
   "terms_of_service": "Условия за ползване",
+  // Note ↑ max 25 characters //
 
   // You cannot get less than this
   "theme_eight_desc": "Не можеш да получиш по-малко от това",
+  // Note ↑ max 50 characters //
 
   // Bare minimum
   "theme_eight_name": "Минимумът",
+  // Note ↑ max 25 characters //
 
   // A theme with minimal extra info
   "theme_five_desc": "Тема с минимална допълнителна информация",
+  // Note ↑ max 50 characters //
 
   // Keep it simple
   "theme_five_name": "Нека е просто",
+  // Note ↑ max 25 characters //
 
   // Only weird people chose this
   "theme_four_desc": "Само странни хора избират това",
+  // Note ↑ max 50 characters //
 
   // More info less images!
   "theme_four_name": "Повече информация!",
+  // Note ↑ max 25 characters //
 
   // If you need some context but don't like embeds
   "theme_nine_desc": "Ако искаш контекст, но не харесваш вгражданията",
+  // Note ↑ max 50 characters //
 
   // Text only!
   "theme_nine_name": "Само текст!",
+  // Note ↑ max 25 characters //
 
   // Pretty basic
   "theme_one_desc": "Доста обикновено",
+  // Note ↑ And descriptions too! Get creative! Doesn't need to be a 1:1 translation!\n -- \nmax 50 characters //
 
   // Default Theme
   "theme_one_name": "Тема по подразбиране",
+  // Note ↑ Themes now have name, not just 1, 2, 3 and so on\n -- \nmax 25 characters //
 
   // It's literally just the link
   "theme_seven_desc": "Това е буквално само линкът",
+  // Note ↑ max 50 characters //
 
   // Literally just the link
   "theme_seven_name": "Буквално само линкът",
+  // Note ↑ max 25 characters //
 
   // A theme with almost minimal extra info
   "theme_six_desc": "Тема с почти минимална допълнителна информация",
+  // Note ↑ max 50 characters //
 
   // Images are cool!
   "theme_six_name": "Изображенията са яки!",
+  // Note ↑ max 25 characters //
 
   // For ArchiSteamFarm users and alike
   "theme_ten_desc": "За потребители на ArchiSteamFarm и други подобни",
+  // Note ↑ max 50 characters //
 
   // Advanced
   "theme_ten_name": "За напреднали",
+  // Note ↑ max 25 characters //
 
   // With a short description and ratings
   "theme_three_desc": "С кратко описание и оценки",
+  // Note ↑ max 50 characters //
 
   // More info!
   "theme_three_name": "Повече информация!",
+  // Note ↑ max 25 characters //
 
   // If you don't like images
   "theme_two_desc": "Ако имаш снимкофобия 😂",
+  // Note ↑ max 50 characters //
 
   // No photos please!
   "theme_two_name": "Без снимки, моля!",
+  // Note ↑ max 25 characters //
 
   // We send a message in your channel. That's all.
   "thread_opt_a_description": "Изпращаме съобщение във вашия канал. Това е всичко.",
@@ -1261,15 +1371,19 @@
 
   // English translation available! If you want me to use English, use`/settings`
   "translation_available": "Български превод е наличен! Ако искаш да използвам български език, използвай `/settings`",
+  // Note ↑ [your language] translation available! If you want me to use [your language], use /settings //
 
   // English is not your primary language? This bot has many translations available, use `/settings` for more info.
   "translation_available_generic": "",
+  // Note ↑ NO_TRANSLATION //
 
   // English translation by:
   "translation_by": "Български превод от:",
+  // Note ↑ Translate this one 1:1 except with your language instead of \"English\" - don't add your name here or anything. //
 
   // Maanex
   "translators": "EasyThe",
+  // Note ↑ Names of everyone who helped translating. Seperate names using a comma. //
 
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
   "webhook_create_auditlog_reason": "FreeStuff използва Webhooks за разпространение на съобщения в голям мащаб. Моля, не премахвайте този webhook.",

@@ -1,9 +1,11 @@
 {
   // Get it for free
   "announcement_button_text": "Krijg het gratis",
+  // Note ↑ Some themes don't have the big \"GET\" button. Then this text will be there instead //
 
   // via {website}
   "announcement_footer": "via {website}",
+  // Note ↑ That's on the bottom of each announcement //
 
   // This is a preview message
   "announcement_footer_test": "Dit is een voorbeeldbericht",
@@ -64,9 +66,11 @@
 
   // Free
   "announcement_pricetag_free": "Gratis",
+  // Note ↑ Game price: not 19.99 but FREE! //
 
   // **{name}** is free!\n<{url}>
   "announcement_theme9": "**{name}** is gratis!\\n<{url}>",
+  // Note ↑ Don't forget the <>! //
 
   // {names}
   "announcement_thread_name_gamepass_multiple_below": "{names}",
@@ -215,6 +219,12 @@
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
   "cmd_resend_invalid_webhook_2": "Dat klinkt eng. Om dit op te lossen, probeert u het kanaal te wijzigen in een ander en vervolgens terug naar {channel}. Neem contact op met de ondersteuning als deze fout zich blijft voordoen!",
 
+  // Whoops!
+  "cmd_resend_nosend_1": "",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_resend_nosend_2": "",
+
   // Uh oh!
   "cmd_resend_nothing_free_1": "Uh oh!",
 
@@ -325,18 +335,22 @@
 
   // before
   "currency_sign_dollar_position": "before",
+  // Note ↑ 5$ or $5? Choose either 'before' or 'after'. In english. That's just info for the bot. //
 
   // before
   "currency_sign_euro_position": "before",
+  // Note ↑ 5€ or €5? Choose either 'before' or 'after'. In english. That's just info for the bot. //
 
   // before
   "currency_sign_position": "",
+  // Note ↑ Generic currency sign position (yes, we'll be supporting more currencies in the future!!!) //
 
   // Dollar (USD)
   "currency_usd": "",
 
   // en-US
   "date_format": "nl-NL",
+  // Note ↑ Don't change this one. //
 
   // usd
   "default_currency": "Amerikaanse Dollar / USD",
@@ -361,39 +375,50 @@
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Verstrekt door derde partij",
+  // Note ↑ When you need to go to a different website than the proper store in order to claim a key or smth. Similar to how humble bundle does it. //
 
   // Low Quality
   "game_meta_flag_trash": "Lage kwaliteit",
+  // Note ↑ When a game has bad ratings //
 
   // Back
   "generic_back": "",
+  // Note ↑ max 25 characters //
 
   // Cancel
   "generic_cancel": "",
+  // Note ↑ max 25 characters //
 
   // Cancelled
   "generic_cancelled": "Geannuleerd",
+  // Note ↑ max 25 characters //
 
   // Close
   "generic_close": "Sluiten",
 
   // Continue
   "generic_continue": "",
+  // Note ↑ max 25 characters //
 
   // Delete
   "generic_delete": "",
+  // Note ↑ max 25 characters //
 
   // Help
   "generic_help": "",
+  // Note ↑ max 25 characters //
 
   // Next
   "generic_next": "",
+  // Note ↑ max 25 characters //
 
   // Ok
   "generic_ok": "",
+  // Note ↑ max 25 characters //
 
   // Okay
   "generic_okay": "",
+  // Note ↑ max 25 characters //
 
   // Help is on the way!
   "help_main_1": "Hulp is onderweg!",
@@ -436,9 +461,11 @@
 
   // English (USA)
   "lang_name": "Nederlands",
+  // Note ↑ The name of the language in your language - not in English. (Don't include the stuff in the brackets; that's a special case to distinguish American and British English). First letter in uppercase please. //
 
   // english-us
   "lang_name_en": "dutch",
+  // Note ↑ The name of the language - this time in english. All lowercase please. //
 
   // Silence
   "mysterious_modal_no_response_1": "Stilte",
@@ -484,21 +511,26 @@
 
   // About
   "page_about": "",
+  // Note ↑ max 25 characters //
 
   // Attributions
   "page_attributions": "",
 
   // Help Page
   "page_help": "",
+  // Note ↑ max 25 characters //
 
   // Invite the bot
   "page_invite": "Nodig de bot uit",
+  // Note ↑ max 25 characters //
 
   // Bot Settings
   "page_settings": "Bot-instellingen",
+  // Note ↑ max 25 characters //
 
   // Support
   "page_support": "",
+  // Note ↑ max 25 characters //
 
   // Manage Webhooks
   "permission_manage_webhooks": "",
@@ -508,48 +540,63 @@
 
   // Apple App Store
   "platform_apple": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Discord
   "platform_discord": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Epic Games
   "platform_epic": "",
+  // Note ↑ NO_TRANSLATION //
 
   // GOG.com
   "platform_gog": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Google Play
   "platform_google": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Humble Bundle
   "platform_humble": "",
+  // Note ↑ NO_TRANSLATION //
 
   // itch.io
   "platform_itch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Origin
   "platform_origin": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Other
   "platform_other": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Play Station
   "platform_ps": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Steam
   "platform_steam": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Nintendo Switch
   "platform_switch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Twitch
   "platform_twitch": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Ubisoft Store
   "platform_uplay": "",
+  // Note ↑ NO_TRANSLATION //
 
   // Xbox
   "platform_xbox": "",
+  // Note ↑ NO_TRANSLATION //
 
   // About Premium
   "premium_promo_button": "",
@@ -589,21 +636,26 @@
 
   // Everything
   "price_class_a": "",
+  // Note ↑ Instead of setting any price you now have 4 minimum prices to choose from. This one is the equivalent to $0\n -- \nmax 25 characters //
 
   // Almost Everything
   "price_class_b": "",
+  // Note ↑ $1 and up\n -- \nmax 25 characters //
 
   // Default
   "price_class_c": "",
+  // Note ↑ $3 and up (default, surprise)\n -- \nmax 25 characters //
 
   // Big fish
   "price_class_d": "Grote betaler",
+  // Note ↑ $10 and up. feel free to give this another name lol\n -- \nmax 25 characters //
 
   // Converted from USD
   "price_converted": "",
 
   // Privacy Policy
   "privacy_policy": "Privacybeleid",
+  // Note ↑ max 25 characters //
 
   // Permanently Free
   "product_meta_flag_permanent": "",
@@ -712,12 +764,15 @@
 
   // here
   "settings_channel_list_here": "",
+  // Note ↑ max 10 characters //
 
   // No channel
   "settings_channel_list_no_channel_1": "",
+  // Note ↑ max 25 characters //
 
   // Disable free games feed
   "settings_channel_list_no_channel_2": "",
+  // Note ↑ max 50 characters //
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "Je hebt teveel kanalen om ze hieronder in de lijst te weergeven.",
@@ -778,15 +833,19 @@
 
   // Disable Auto Reaction
   "settings_display_reactions_off_prompt": "",
+  // Note ↑ max 25 characters //
 
   // Auto Reaction Disabled
   "settings_display_reactions_off_state": "",
+  // Note ↑ max 25 characters //
 
   // Enable Auto Reaction
   "settings_display_reactions_on_prompt": "",
+  // Note ↑ max 25 characters //
 
   // Auto Reaction Enabled
   "settings_display_reactions_on_state": "",
+  // Note ↑ max 25 characters //
 
   // Display Settings
   "settings_display_ui_1": "",
@@ -823,12 +882,15 @@
 
   // (All disabled)
   "settings_filter_platforms_none": "",
+  // Note ↑ max 50 characters //
 
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "",
+  // Note ↑ max 50 characters //
 
   // Only send games worth {price} or more
   "settings_filter_price_class_desc_generic": "",
+  // Note ↑ max 50 characters in total (count {price} as 5 characters) //
 
   // Disable Games
   "settings_filter_show_passgames_off_prompt": "",
@@ -856,15 +918,19 @@
 
   // Disable Bad Quality Games
   "settings_filter_trash_off_prompt": "Schakel spellen van slechte kwaliteit uit",
+  // Note ↑ max 25 characters //
 
   // Bad Quality Games Disabled
   "settings_filter_trash_off_state": "Games van slechte kwaliteit uitgeschakeld",
+  // Note ↑ max 25 characters //
 
   // Enable Bad Quality Games
   "settings_filter_trash_on_prompt": "Schakel games van slechte kwaliteit in",
+  // Note ↑ max 25 characters //
 
   // Bad Quality Games Enabled
   "settings_filter_trash_on_state": "Games van slechte kwaliteit ingeschakeld",
+  // Note ↑ max 25 characters //
 
   // Filter Settings
   "settings_filter_ui_1": "",
@@ -880,6 +946,7 @@
 
   // Delete Server Data
   "settings_guilddata_delete_button": "",
+  // Note ↑ max 25 characters //
 
   // Are you sure?
   "settings_guilddata_delete_dialogue_confirmation_1": "",
@@ -916,15 +983,19 @@
 
   // English with the metric system
   "settings_language_list_desc_english_eu": "Engels uit Engeland",
+  // Note ↑ max 50 characters //
 
   // English with the imperial system
   "settings_language_list_desc_english_us": "Engels uit United States",
+  // Note ↑ max 50 characters //
 
   // English with football fields per pizza slice
   "settings_language_list_desc_english_us_easteregg": "",
+  // Note ↑ max 50 characters //
 
   // {language} by {translators}
   "settings_language_list_desc_generic": "",
+  // Note ↑ don't add text after {translators} or else it will probably get cut off. oh and in general, don't write much here //
 
   // Language Selection
   "settings_language_ui_1": "Taal selectie",
@@ -940,15 +1011,19 @@
 
   // Change channel
   "settings_main_btn_channel_change": "",
+  // Note ↑ max 25 characters //
 
   // Set channel
   "settings_main_btn_channel_set": "",
+  // Note ↑ max 25 characters //
 
   // Display Settings
   "settings_main_btn_display": "Beeldscherminstellingen",
+  // Note ↑ max 25 characters //
 
   // Filter Settings
   "settings_main_btn_filter": "Filterinstellingen",
+  // Note ↑ max 25 characters //
 
   // Other Settings
   "settings_main_btn_general": "Algemene Instellingen",
@@ -958,15 +1033,18 @@
 
   // Advanced
   "settings_main_btn_more": "Geavanceerd",
+  // Note ↑ max 25 characters //
 
   // Notification Settings
   "settings_main_btn_notifications": "Notificatie Instellingen",
 
   // Change role mention
   "settings_main_btn_role_change": "Rolvermelding wijzigen",
+  // Note ↑ max 25 characters //
 
   // Mention a role
   "settings_main_btn_role_set": "Noem een rol",
+  // Note ↑ max 25 characters //
 
   // Need help?
   "settings_main_help_1": "",
@@ -1024,15 +1102,19 @@
 
   // Opt out of Beta
   "settings_more_beta_off_prompt": "Afmelden voor bèta",
+  // Note ↑ max 25 characters //
 
   // You're not in beta!
   "settings_more_beta_off_state": "",
+  // Note ↑ max 25 characters //
 
   // Opt in to Beta
   "settings_more_beta_on_prompt": "Aanmelden voor bèta",
+  // Note ↑ max 25 characters //
 
   // You're in beta!
   "settings_more_beta_on_state": "",
+  // Note ↑ max 25 characters //
 
   // Disable Boring Mode
   "settings_more_boringmode_off_prompt": "",
@@ -1048,12 +1130,15 @@
 
   // View Server Data
   "settings_more_btn_guilddata": "",
+  // Note ↑ max 25 characters //
 
   // Re-send Messages
   "settings_more_btn_resend": "",
+  // Note ↑ max 25 characters //
 
   // Send Test Message
   "settings_more_btn_test": "",
+  // Note ↑ max 25 characters //
 
   // Mysterious Button
   "settings_more_mysterious_button": "Mysterieuze knop",
@@ -1072,9 +1157,11 @@
 
   // @everyone
   "settings_role_list_everyone_1": "@everyone",
+  // Note ↑ just keep this @everyone\n -- \nmax 25 characters //
 
   // Ping everyone. That's a lot of people.
   "settings_role_list_everyone_2": "Ping iedereen. Dat zijn veel mensen.",
+  // Note ↑ max 50 characters //
 
   // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
   "settings_role_list_hidden_overflow_disclaimer": "Sommige rollen zijn mogelijk verborgen omdat je er te veel hebt om in één keer te laten zien. Verplaats uw rol naar boven als u deze niet in de lijst kunt vinden!",
@@ -1084,9 +1171,11 @@
 
   // Disable Mentions
   "settings_role_list_no_mention_1": "Schakel vermeldingen uit",
+  // Note ↑ max 25 characters //
 
   // Do not ping anyone.
   "settings_role_list_no_mention_2": "Ping niemand.",
+  // Note ↑ max 50 characters //
 
   // None selected
   "settings_role_list_remove_role_1": "Geen geselecteerd",
@@ -1180,66 +1269,87 @@
 
   // Terms of Service
   "terms_of_service": "",
+  // Note ↑ max 25 characters //
 
   // You cannot get less than this
   "theme_eight_desc": "",
+  // Note ↑ max 50 characters //
 
   // Bare minimum
   "theme_eight_name": "",
+  // Note ↑ max 25 characters //
 
   // A theme with minimal extra info
   "theme_five_desc": "",
+  // Note ↑ max 50 characters //
 
   // Keep it simple
   "theme_five_name": "",
+  // Note ↑ max 25 characters //
 
   // Only weird people chose this
   "theme_four_desc": "",
+  // Note ↑ max 50 characters //
 
   // More info less images!
   "theme_four_name": "",
+  // Note ↑ max 25 characters //
 
   // If you need some context but don't like embeds
   "theme_nine_desc": "Als je wat context nodig hebt, maar niet van insluitingen houdt",
+  // Note ↑ max 50 characters //
 
   // Text only!
   "theme_nine_name": "",
+  // Note ↑ max 25 characters //
 
   // Pretty basic
   "theme_one_desc": "",
+  // Note ↑ And descriptions too! Get creative! Doesn't need to be a 1:1 translation!\n -- \nmax 50 characters //
 
   // Default Theme
   "theme_one_name": "",
+  // Note ↑ Themes now have name, not just 1, 2, 3 and so on\n -- \nmax 25 characters //
 
   // It's literally just the link
   "theme_seven_desc": "",
+  // Note ↑ max 50 characters //
 
   // Literally just the link
   "theme_seven_name": "",
+  // Note ↑ max 25 characters //
 
   // A theme with almost minimal extra info
   "theme_six_desc": "",
+  // Note ↑ max 50 characters //
 
   // Images are cool!
   "theme_six_name": "",
+  // Note ↑ max 25 characters //
 
   // For ArchiSteamFarm users and alike
   "theme_ten_desc": "",
+  // Note ↑ max 50 characters //
 
   // Advanced
   "theme_ten_name": "",
+  // Note ↑ max 25 characters //
 
   // With a short description and ratings
   "theme_three_desc": "",
+  // Note ↑ max 50 characters //
 
   // More info!
   "theme_three_name": "",
+  // Note ↑ max 25 characters //
 
   // If you don't like images
   "theme_two_desc": "Als je niet van foto's houdt",
+  // Note ↑ max 50 characters //
 
   // No photos please!
   "theme_two_name": "Geen plaatjes graag!",
+  // Note ↑ max 25 characters //
 
   // We send a message in your channel. That's all.
   "thread_opt_a_description": "Wij versturen een bericht in jouw kanaal. Dat is alles.",
@@ -1261,15 +1371,19 @@
 
   // English translation available! If you want me to use English, use`/settings`
   "translation_available": "Nederlands is beschikbaar! Als je wilt dat ik in het Nederlands praat, type `@FreeStuff set language dutch`",
+  // Note ↑ [your language] translation available! If you want me to use [your language], use /settings //
 
   // English is not your primary language? This bot has many translations available, use `/settings` for more info.
   "translation_available_generic": "",
+  // Note ↑ NO_TRANSLATION //
 
   // English translation by:
   "translation_by": "Nederlandse vertaling door:",
+  // Note ↑ Translate this one 1:1 except with your language instead of \"English\" - don't add your name here or anything. //
 
   // Maanex
   "translators": "Bucketsmith, Remco0o",
+  // Note ↑ Names of everyone who helped translating. Seperate names using a comma. //
 
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
   "webhook_create_auditlog_reason": "FreeStuff gebruikt Webhooks om aankondigingen op grote schaal te verspreiden. Verwijder deze webhook niet.",
