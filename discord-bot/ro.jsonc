@@ -15,7 +15,7 @@
   "announcement_free_for_a_week": "timp de o săptămână",
 
   // until {date}
-  "announcement_free_until_date": "până la {date}",
+  "announcement_free_until_date": "până pe {date}",
 
   // until {day}
   "announcement_free_until_day": "până pe {day}",
@@ -30,7 +30,7 @@
   "announcement_price_gamepass": "Obtine **Gratuit**",
 
   // Claim for **Free** until {date}
-  "announcement_price_gamepass_until": "Obtine **Gratuit** pana la {date}",
+  "announcement_price_gamepass_until": "Obtine **Gratuit** pana pe {date}",
 
   // {prices}
   "announcement_price_generic": "",
@@ -42,25 +42,25 @@
   "announcement_price_keep": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_keep_until": "{prices} pana la {date}",
+  "announcement_price_keep_until": "{prices} pana pe {date}",
 
   // {prices}
   "announcement_price_other": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_other_until": "{prices} pana la {date}",
+  "announcement_price_other_until": "{prices} pana pe {date}",
 
   // Claim for **Free**
   "announcement_price_prime": "Obtine **Gratuit**",
 
   // Claim for **Free** until {date}
-  "announcement_price_prime_until": "Obtine **Gratuit** pana la {date}",
+  "announcement_price_prime_until": "Obtine **Gratuit** pana pe {date}",
 
   // **Free to play**
   "announcement_price_timed": "**Gratuit**",
 
   // **Free to play** until {date}
-  "announcement_price_timed_until": "**Gratuit** pana la {date}",
+  "announcement_price_timed_until": "**Gratuit** pana pe {date}",
 
   // Free
   "announcement_pricetag_free": "Gratuit",
