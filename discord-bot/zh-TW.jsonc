@@ -95,7 +95,7 @@
     "theme_two_name": "不要圖片！",
     "theme_two_desc": "如果你不喜歡圖片",
     "theme_three_name": "更多資訊！",
-    "theme_three_desc": "有簡短描述和評價"
+    "theme_three_desc": "有簡短描述和評價",
     "theme_four_name": "資訊多一點、圖片少一點！",
     "theme_four_desc": "只有奇怪的人才會選這個",
     "theme_five_name": "簡單就好",
@@ -197,7 +197,7 @@
     "settings_role_list_no_mention_2": "不要 ping 任何人。",
     "settings_role_list_everyone_1": "@everyone",
     "settings_role_list_everyone_2": "通知所有人。人真的很多喔。",
-    "settings_role_list_hidden_permissions_disclaimer": "有些角色可能沒顯示，因為機器人沒有 `提及所有角色` 的權限！"
+    "settings_role_list_hidden_permissions_disclaimer": "有些角色可能沒顯示，因為機器人沒有 `提及所有角色` 的權限！",
     "settings_role_list_hidden_overflow_disclaimer": "有些角色可能未顯示，因為你擁有太多角色無法全部列出。如果找不到請將該角色移到上方！",
     "interaction_not_permitted_1": "抱歉，我不能讓你這麼做！",
     "interaction_not_owned_1": "你不是 {owner}！",
@@ -296,7 +296,7 @@
     "settings_subscription_more_ui_2": "**發送測試訊息** 會根據你目前的設定發出一則測試訊息。可以確認一切運作正常，但注意如果你設定了通知角色，這可能會 ping 到人。\n\n**重新推送訊息** 會將仍有效的優惠訊息重新發送。若你誤刪了訊息、變更了設定、或只是想再看到一次通知，這按鈕就是給你的！",
     "settings_main_btn_general": "其他設定",
     "settings_change_any_while_unsubscribed_1": "呃你在幹嘛？",
-    "settings_change_any_while_unsubscribed_2": "想騙過系統？你不能在尚未訂閱 {channel} 的狀況下更改這個設定。請先訂閱再回來。"
+    "settings_change_any_while_unsubscribed_2": "想騙過系統？你不能在尚未訂閱 {channel} 的狀況下更改這個設定。請先訂閱再回來。",
     "settings_conf_ui_1": "其他設定",
     "settings_conf_ui_2": "**選擇語言** 將變更通知中使用的語言。這**不會**影響像是 /settings 或 /free 等指令的語言，這些指令會依照你 Discord 的介面語言來顯示。翻譯由社群提供，可能會有錯誤。\n\n**選擇貨幣** 將變更通知中的顯示貨幣。有些價格可能是從其他幣別或網站換算而來，因此可能會有些微誤差。",
     "announcement_price_keep": "{prices}",
