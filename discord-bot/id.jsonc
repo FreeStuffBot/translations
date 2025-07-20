@@ -215,6 +215,12 @@
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
   "cmd_resend_invalid_webhook_2": "Itu terdengar menakutkan. Untuk memperbaiki ini coba ubah channel ke channel yang berbeda kemudian kembali ke {channel}. Jika error ini tetap berlanjut silakan hubungi support!",
 
+  // Whoops!
+  "cmd_resend_nosend_1": "",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_resend_nosend_2": "",
+
   // Uh oh!
   "cmd_resend_nothing_free_1": "Uh oh!",
 
@@ -757,6 +763,7 @@
 
   // Unknown channel
   "settings_channel_unknown_channel": "Channel tidak dikenal",
+
   // Other Settings
   "settings_conf_ui_1": "Pengaturan Lainnya",
 
@@ -999,6 +1006,7 @@
 
   // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
   "settings_main_ui_2_guided_display_delayed": "Kamu punya beberapa pengaturan lagi untuk dilihat! Aku sedang berbicara tentang tema dan opsi mata uang dan lain-lain. Tertarik? Tombol biru akan membawamu ke sana!",
+
   // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
   "settings_main_ui_2_guided_display_normal": "Sempurna! Checkpoint terakhir dalam daftar adalah pengaturan tampilan. Sangat layak untuk melihatnya sekilas!",
 
@@ -1253,7 +1261,7 @@
 
   // We create a new thread and post the message there.
   "thread_opt_c_description": "Kami membuat thread baru dan memposting pesan di sana.",
-  
+
   // Message in thread
   "thread_opt_c_name": "Pesan dalam thread",
 

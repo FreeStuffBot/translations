@@ -1,440 +1,1297 @@
 {
-    "_id": "zh-TW",
-    "_index": 0,
-    "_enabled": true,
-    "_meta_progress": 214,
-    "_meta_last_edit": 1655384058666,
-    "_meta_last_editor": "171675309177831424",
-    "translators": "NikolaJyun",
-    "lang_name": "中文（台灣）",
-    "lang_name_en": "Traditional Chinese",
-    "date_format": "zh-TW",
-    "currency_sign_euro_position": "before",
-    "currency_sign_dollar_position": "before",
-    "currency_sign_position": "before",
-    "lang_flag_emoji": ":flag_tw:",
-    "translation_by": "中文翻譯由：",
-    "announcement_free_until_date": "直到 {date}",
-    "announcement_free_until_day": "直到 {day}",
-    "announcement_free_until_day_next_week": "直到下週 {day}",
-    "announcement_free_for_a_week": "免費一週",
-    "announcement_free_for_a_long_time": "免費很長一段時間",
-    "announcement_pricetag_free": "免費",
-    "announcement_button_text": "免費領取",
-    "announcement_header": "免費遊戲！",
-    "announcement_footer": "來自 {website}",
-    "announcement_footer_test": "這是一則預覽訊息",
-    "announcement_theme9": "**{name}** 現在免費！\n<{url}>",
-    "game_meta_flag_trash": "品質較差",
-    "game_meta_flag_thirdparty": "第三方提供",
-    "translation_available": "已有英文翻譯！若你想切換為英文，請使用 `/settings`",
-    "open_in_browser": "在瀏覽器中開啟",
-    "open_in_steam_client": "在 Steam 客戶端中開啟",
-    "open_in_epic_games_client": "在 Epic Games 啟動器中開啟",
-    "cmd_on_cooldown_1": "你動作太快啦！",
-    "cmd_on_cooldown_2": "這個指令每 {time} 秒才能用一次，請稍等一下！",
-    "cmd_error_fixable_1": "出現了一個小錯誤！",
-    "cmd_error_fixable_2": "可以請你再試一次嗎？如果這訊息一直出現，請稍等或[聯繫我們的支援團隊]({discordInvite})，謝謝。",
-    "cmd_error_readd_1": "發生錯誤！",
-    "cmd_error_readd_2": "請試著將機器人從你的伺服器移除後重新加入。如果仍無效，[請加入支援伺服器]({discordInvite})。",
-    "cmd_error_fatal_1": "發生錯誤！",
-    "cmd_error_fatal_2": "我們會盡快修復這個問題！",
-    "cmd_info_1": "FreeStuff 機器人",
-    "cmd_info_2": "FreeStuff Bot 由 [一群很棒的人]({amazingPeople}) 用 :heart: 打造\n\n[關於 / 官方網站]({website})\n\n[邀請我到你的伺服器！]({inviteLink})\n\n[回報錯誤或聯絡我們]({discordInvite})",
-    "cmd_invite_1": ":eyes:",
-    "cmd_invite_2": "[點我邀請我加入你的伺服器！]({inviteLink})",
-    "cmd_vote_1": "喜歡這些免費遊戲嗎？",
-    "cmd_vote_2": "[點我到 top.gg 為我投票]({topGGLink})\n\n另外，FreeStuff Bot 也列在以下網站：\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*為機器人投票能提高曝光率，也幫助更多人發現免費遊戲！感謝你的每一票！*",
-    "cmd_free_title": "以下遊戲目前免費：",
-    "cmd_free_ends_soon": "**即將結束：**",
-    "cmd_free_until": "直到",
-    "cmd_free_no_freebies": "沒有 :(",
-    "cmd_test_announcement_header": "遊戲名稱在這裡",
-    "cmd_test_noembeds_1": "唉呀……",
-    "cmd_test_noembeds_2": "你使用的主題需要嵌入訊息讓外觀更好看……但我在 {channel} 沒有發送嵌入的權限！請給我 `嵌入連結` 的權限，或選擇不需要嵌入的主題！",
-    "cmd_test_nosee_1": "哎呀！",
-    "cmd_test_nosee_2": "看起來我沒有權限查看頻道 {channel}！",
-    "cmd_test_nosend_1": "哎呀！",
-    "cmd_test_nosend_2": "看起來我無法在 {channel} 發送訊息！",
-    "cmd_test_nochannel_1": ":x:",
-    "cmd_test_nochannel_2": "我不知道要在哪裡發佈公告！\n請前往 /settings → 設定頻道",
-    "translation_available_generic": "你的主要語言不是英文嗎？這個機器人支援多種語言，請使用 `/settings` 查看更多資訊。",
-    "platform_steam": "Steam",
-    "platform_epic": "Epic Games",
-    "platform_humble": "Humble Bundle",
-    "platform_gog": "GOG.com",
-    "platform_origin": "Origin",
-    "platform_uplay": "Ubisoft 商店",
-    "platform_twitch": "Twitch",
-    "platform_itch": "itch.io",
-    "platform_discord": "Discord",
-    "platform_apple": "Apple App Store",
-    "platform_google": "Google Play",
-    "platform_switch": "Nintendo Switch",
-    "platform_ps": "PlayStation",
-    "platform_xbox": "Xbox",
-    "platform_other": "其他",
-    "_ranking": 43822,
-    "cmd_resend_nothing_free_1": "哎呀！",
-    "cmd_resend_nothing_free_2": "目前這個類別居然沒有任何免費遊戲……怎麼可能 :thinking:",
-    "slash_command_source": "{user} 使用了 {command}",
-    "cmd_resend_success_1": "送出囉！",
-    "cmd_resend_success_2": "快去看看 {channel}！",
-    "cmd_resend_nosend_1": "哎呀！",
-    "cmd_resend_nosend_2": "我似乎沒辦法在 {channel} 發訊息！",
-    "cmd_test_announcement_description": "這是一個範例遊戲。這裡是該遊戲的範例描述。祝你有個美好的一天 :)",
-    "slash_command_introduction_info_short": "斜線指令登場！",
-    "slash_command_introduction_label_long": "斜線指令來啦！從現在起請使用 **{command}**！",
-    "slash_command_introduction_label_short": "從現在起請使用 **{command}**！",
-    "price_class_a": "全部",
-    "price_class_b": "幾乎全部",
-    "price_class_c": "預設",
-    "price_class_d": "大咖",
-    "theme_one_name": "預設主題",
-    "theme_one_desc": "很基本",
-    "theme_two_name": "不要圖片！",
-    "theme_two_desc": "如果你不喜歡圖片",
-    "theme_three_name": "更多資訊！",
-    "theme_three_desc": "有簡短描述和評價",
-    "theme_four_name": "資訊多一點、圖片少一點！",
-    "theme_four_desc": "只有奇怪的人才會選這個",
-    "theme_five_name": "簡單就好",
-    "theme_five_desc": "最少資訊的主題",
-    "theme_six_name": "圖片超讚！",
-    "theme_six_desc": "幾乎沒什麼額外資訊的主題",
-    "theme_seven_name": "只有連結",
-    "theme_seven_desc": "真的就只有連結而已",
-    "theme_eight_name": "最低限度",
-    "theme_eight_desc": "不能再更少了",
-    "theme_nine_name": "純文字！",
-    "theme_nine_desc": "如果你需要一些上下文但不喜歡嵌入",
-    "theme_ten_name": "進階模式",
-    "theme_ten_desc": "為 ArchiSteamFarm 使用者及類似用途設計",
-    "generic_cancelled": "已取消",
-    "generic_cancel": "取消",
-    "generic_delete": "刪除",
-    "generic_back": "返回",
-    "generic_ok": "確定",
-    "generic_okay": "好喔",
-    "generic_continue": "繼續",
-    "generic_next": "下一步",
-    "generic_help": "幫助",
-    "privacy_policy": "隱私權政策",
-    "terms_of_service": "服務條款",
-    "settings_permission_disclaimer": "你需要擁有「管理伺服器」權限才能修改這些設定",
-    "settings_guilddata_display_error": "呃……這有點尷尬……導出資料時發生錯誤。請 [聯絡我們的團隊]({invite}) 以取得你的資料。",
-    "settings_guilddata_success_1": "好耶，資料來囉：",
-    "settings_guilddata_delete_button": "刪除伺服器資料",
-    "settings_guilddata_delete_success_1": "成功！",
-    "settings_guilddata_delete_success_2": "你的伺服器資料已刪除，並重設為預設設定！",
-    "settings_guilddata_delete_dialogue_cooldown_1": "冷靜一點！",
-    "settings_guilddata_delete_dialogue_cooldown_2": "看起來這個伺服器的資料在過去 12 小時內已經被刪除過了。請稍後再試！",
-    "settings_guilddata_delete_dialogue_not_allowed_1": "只有管理員能執行這個操作",
-    "settings_guilddata_delete_dialogue_not_allowed_2": "如果你真的很想刪除，請找伺服器管理員幫忙。",
-    "settings_guilddata_delete_dialogue_confirmation_1": "你確定嗎？",
-    "settings_guilddata_delete_dialogue_confirmation_2": "按下下面的按鈕後就無法復原了喔！",
-    "settings_channel_list_warning_missing_view_channel": "缺少「檢視頻道」權限",
-    "settings_channel_list_warning_missing_send_messages": "缺少「發送訊息」權限",
-    "settings_channel_list_warning_missing_embed_messages": "缺少「嵌入連結」權限",
-    "settings_channel_list_here": "這裡",
-    "settings_channel_list_no_channel_1": "沒有頻道",
-    "settings_channel_list_no_channel_2": "停用免費遊戲推播",
-    "settings_channel_ui_1": "變更頻道",
-    "settings_channel_ui_2_regular": "以下是你所有的頻道，請選擇一個讓我推送免費遊戲的頻道！",
-    "settings_channel_ui_2_too_many": "以下是大多數的頻道，你的頻道太多了我無法一次顯示全部。請選擇一個讓我推送免費遊戲的頻道！",
-    "settings_channel_ui_2_way_too_many": "你伺服器的頻道數量多到我只能顯示一小部分。請選擇一個讓我推送免費遊戲的頻道！",
-    "settings_channel_ui_too_many_channels_tip": "如果找不到想要的頻道，請在該頻道中執行 /settings 以強制顯示。",
-    "settings_display_ui_1": "顯示設定",
-    "settings_display_ui_2": "調整機器人訊息的外觀",
-    "settings_display_reactions_on_state": "自動反應已啟用",
-    "settings_display_reactions_on_prompt": "啟用自動反應",
-    "settings_display_reactions_off_state": "自動反應已停用",
-    "settings_display_reactions_off_prompt": "停用自動反應",
-    "settings_filter_ui_1": "過濾器設定",
-    "settings_filter_ui_2": "免費遊戲很多，有的比較優，有的可能沒興趣。為了不讓你的伺服器變成垃圾桶，我們提供一些篩選設定讓你選擇想看到的遊戲：",
-    "settings_filter_price_class_desc_generic": "僅推送價值在 {price} 或以上的遊戲",
-    "settings_filter_price_class_desc_everything": "推送所有遊戲，真的所有！",
-    "settings_filter_platforms_none": "（全部關閉）",
-    "settings_filter_trash_on_state": "低品質遊戲已啟用",
-    "settings_filter_trash_on_prompt": "啟用低品質遊戲推播",
-    "settings_filter_trash_off_state": "低品質遊戲已停用",
-    "settings_filter_trash_off_prompt": "停用低品質遊戲推播",
-    "settings_language_ui_1": "語言設定",
-    "settings_language_ui_2": "這是整個伺服器的語言設定，不是你個人的喔！\n\n給正在翻譯這段文字的各位，請自由發揮寫些有趣的內容，向同胞們打聲招呼吧 ;)",
-    "settings_language_list_desc_generic": "{language} - 由 {translators} 翻譯",
-    "settings_language_list_desc_english_eu": "使用公制單位的英文",
-    "settings_language_list_desc_english_us": "使用英制單位的英文",
-    "settings_language_list_desc_english_us_easteregg": "以足球場每片披薩的單位顯示英文",
-    "settings_main_ui_1": "設定",
-    "settings_main_ui_2_regular": "哈囉！\n\n找不到某個設定嗎？不確定怎麼設置機器人？有任何其他問題嗎？[點我查看設定指南]({guide})，也可以 [加入支援伺服器]({invite}) 尋求協助。",
-    "settings_main_ui_2_guided_channel_normal": "歡迎使用 FreeStuff :wave:\n\n歡迎來到設定頁面！首先讓我們選個頻道，我可以在那裡推送免費遊戲訊息給你和朋友們！點擊下方的藍色按鈕繼續：",
-    "settings_main_ui_2_guided_channel_delayed": "你還沒完成機器人的設定呢 :eyes:\n\n先選一個頻道讓我來推送免費遊戲吧！",
-    "settings_main_ui_2_guided_role_normal": "做得好！下一步，你想要在有免費遊戲時收到通知嗎？像是 ping 一個角色或甚至 @everyone？\n點擊下方按鈕看看可以怎麼設！",
-    "settings_main_ui_2_guided_role_delayed": "想繼續設定機器人嗎？\n我建議你接下來看看通知角色的設定！點擊下面的按鈕來了解！",
-    "settings_main_ui_2_guided_filter_normal": "很好，我們來看一下過濾器設定。沒設好的話可能會錯過一些好遊戲喔！",
-    "settings_main_ui_2_guided_filter_delayed": "歡迎回來！你可能錯過了一些免費遊戲，因為過濾條件還沒調整好！快去看看，不會花你太多時間 :eyes:",
-    "settings_main_ui_2_guided_display_normal": "太棒了！最後一站是顯示設定。超值得花點時間看一下！",
-    "settings_main_ui_2_guided_display_delayed": "還有一些設定可以調整！像是主題、貨幣顯示之類的。想看嗎？點藍色按鈕就對了！",
-    "settings_main_ui_2_guided_finished": "太棒了，你已完成 FreeStuff Bot 的設定！享受免費遊戲吧！:partying_face:\n\n想找人聊聊免費遊戲嗎？[加入我們的 Discord 社群]({invite})\n\n*隨時都可以用 /settings 回到這個頁面喔*",
-    "settings_main_btn_channel_set": "設定頻道",
-    "settings_main_btn_channel_change": "變更頻道",
-    "settings_main_btn_role_set": "設定通知角色",
-    "settings_main_btn_role_change": "變更通知角色",
-    "settings_main_btn_display": "顯示設定",
-    "settings_main_btn_filter": "過濾器設定",
-    "settings_main_btn_more": "進階選項",
-    "settings_more_ui_1": "進階選項",
-    "settings_more_btn_guilddata": "查看伺服器資料",
-    "settings_more_btn_test": "發送測試訊息",
-    "settings_more_btn_resend": "重新推送訊息",
-    "settings_more_beta_on_state": "你正在參與測試版！",
-    "settings_more_beta_on_prompt": "加入測試版",
-    "settings_more_beta_off_state": "你尚未參與測試版！",
-    "settings_more_beta_off_prompt": "退出測試版",
-    "settings_role_ui_1": "通知設定",
-    "settings_role_ui_2": "選擇在有新遊戲免費時要通知哪個角色！",
-    "settings_role_list_no_mention_1": "停用通知",
-    "settings_role_list_no_mention_2": "不要 ping 任何人。",
-    "settings_role_list_everyone_1": "@everyone",
-    "settings_role_list_everyone_2": "通知所有人。人真的很多喔。",
-    "settings_role_list_hidden_permissions_disclaimer": "有些角色可能沒顯示，因為機器人沒有 `提及所有角色` 的權限！",
-    "settings_role_list_hidden_overflow_disclaimer": "有些角色可能未顯示，因為你擁有太多角色無法全部列出。如果找不到請將該角色移到上方！",
-    "interaction_not_permitted_1": "抱歉，我不能讓你這麼做！",
-    "interaction_not_owned_1": "你不是 {owner}！",
-    "interaction_not_owned_2": "因此你無法操作這個元件，因為它不是你建立的。\n請執行 **{command}** 建立你自己的元件。",
-    "interaction_not_permitted_2_admin": "只有伺服器的管理員可以這麼做。你不是這個伺服器的管理員。",
-    "interaction_not_permitted_2_bot_admin": "這個按鈕是給非常特別的人使用的……\n當然你也很特別啦！真的！*但還不夠特別*",
-    "interaction_not_permitted_2_generic": "我也不知道為什麼。但某個神秘的人不讓你這麼做……\n你是不是得罪很多人？",
-    "interaction_not_permitted_2_manage_messages": "我也很想讓你用啊！你只需要獲得 **管理訊息** 的權限就好了！",
-    "interaction_not_permitted_2_manage_server": "有人要求我不讓沒有 **管理伺服器** 權限的人繼續操作！",
-    "page_settings": "機器人設定",
-    "page_about": "關於",
-    "page_support": "支援",
-    "page_help": "幫助頁面",
-    "page_invite": "邀請機器人",
-    "interaction_server_only_1": "先慢著！",
-    "interaction_server_only_2": "你不能在私人訊息中使用這個指令！請在 Discord 伺服器內試試。",
-    "help_main_1": "幫助來啦！",
-    "help_main_2": "FreeStuff 機器人讓你隨時掌握免費遊戲！\n\n使用 /free 查看目前免費的遊戲清單\n\n使用 /settings 設定機器人與訂閱通知",
-    "currency_euro": "歐元 (EUR)",
-    "currency_usd": "美元 (USD)",
-    "currency_gbp": "英鎊 (GBP)",
-    "currency_brl": "巴西里爾 (BRL)",
-    "currency_bgn": "保加利亞列弗 (BGN)",
-    "currency_pln": "波蘭茲羅提 (PLN)",
-    "currency_huf": "匈牙利福林 (HUF)",
-    "currency_btc": "比特幣 (brrrr)",
-    "price_converted": "從美元轉換",
-    "price_actual": "實際價格",
-    "donation_notice": "這個機器人幫你省錢了嗎？考慮[捐款]({url})支持我們繼續營運，感謝你！",
-    "webhook_migration_notice": "FreeStuff 缺少在此頻道中 **管理 Webhooks** 的權限。請伺服器管理員授予此權限，或執行 **/settings** 查看更多資訊。否則機器人將停止推播免費遊戲。",
-    "webhook_migration_failed_missing_permissions_1": "哎呀出錯了！",
-    "webhook_migration_failed_missing_permissions_2": "看來我缺少「管理 Webhooks」的權限。請授予權限後再試一次！",
-    "webhook_create_auditlog_reason": "FreeStuff 使用 Webhook 大規模發佈公告。請勿刪除此 Webhook。",
-    "settings_channel_ui_missing_permissions": "無法將頻道更改為 {channel}：缺少「{permissions}」權限！",
-    "settings_channel_list_warning_missing_manage_webhooks": "缺少「管理 Webhooks」權限",
-    "permission_view_channel": "檢視頻道",
-    "permission_manage_webhooks": "管理 Webhooks",
-    "webhook_migration_failed_too_many_hooks_1": "哎呀出錯了！",
-    "webhook_migration_failed_too_many_hooks_2": "你在這個頻道中已經有太多 Webhooks 了。每個頻道最多只能有 10 個 Webhooks，請刪除一些未使用的 Webhooks 後再試。",
-    "refresh_channel_list": "重新整理清單",
-    "refresh_role_list": "重新整理清單",
-    "refresh_channel_timeout": "慢一點！你只能每 {interval} 秒重新載入一次這個清單！",
-    "refresh_role_timeout": "慢一點！你只能每 {interval} 秒重新載入一次這個清單！",
-    "settings_channel_error_too_many_webhooks": "你在 {channel} 中的 Webhooks 數量太多了！請打開頻道設定 → 整合 → 刪除一些不使用的 Webhooks 再回來。這是 Discord 設定的限制，我們無法更改。",
-    "cmd_resend_all_filtered_out_1": "這下有趣了！",
-    "cmd_resend_all_filtered_out_2": "現在的確有免費遊戲，但你的過濾器設定擋掉了全部！如果不是你本意，請再檢查一次過濾器設定。",
-    "settings_more_mysterious_button": "神秘按鈕",
-    "cmd_resend_invalid_webhook_1": "{channel} 中的 Webhook 壞掉了。",
-    "cmd_resend_invalid_webhook_2": "聽起來很可怕。請先把頻道換成別的，再換回 {channel} 看是否修復。如果仍有問題請聯繫支援！",
-    "cmd_test_invalid_webhook_1": "{channel} 中的 Webhook 壞掉了。",
-    "cmd_test_invalid_webhook_2": "聽起來很可怕。請先把頻道換成別的，再換回 {channel} 看是否修復。如果仍有問題請聯繫支援！",
-    "default_currency": "usd",
-    "product_meta_flag_trash": "品質較差",
-    "product_meta_flag_thirdparty": "第三方提供",
-    "product_meta_flag_permanent": "永久免費",
-    "product_meta_flag_staff_pick": "FreeStuff 精選",
-    "generic_close": "關閉",
-    "settings_channel_unknown_channel": "未知的頻道",
-    "refresh_channels_timeout": "你太快了！為了安全起見，每 {interval} 秒只能按一次這個按鈕！\n此致敬禮，FreeStuff 創辦人 John FreeStuff",
-    "subscription_keep_name": "限時 100% 折扣",
-    "subscription_keep_description": "這個訂閱會顯示所有限時免費（100% 折扣）的遊戲，活動結束後你仍然可以保留這些遊戲。\n可依價格、平台及品質進行過濾。",
-    "subscription_timed_name": "免費週末",
-    "subscription_timed_description": "這個訂閱會顯示可在限時內免費遊玩的遊戲，但活動結束後無法保留，需購買才能繼續遊玩。\n可依價格、平台及品質進行過濾。",
-    "subscription_other_name": "DLC 與其他",
-    "subscription_other_description": "這個訂閱會顯示限時 100% 折扣的其他內容，通常不包含遊戲，可能包含 DLC 或非遊戲相關的項目。\n可依價格、平台及產品類型進行過濾。",
-    "subscription_prime_name": "Prime Gaming",
-    "subscription_prime_description": "這個訂閱會顯示所有新增到 Prime Gaming 的遊戲。需要 Prime 會員資格才能領取，領取後可永久保留。\n可依價格與品質進行過濾。",
-    "subscription_gamepass_name": "Game Pass",
-    "subscription_gamepass_description": "這個訂閱會顯示所有新增到 Game Pass 的遊戲。需有 Game Pass 訂閱才能免費遊玩，活動結束後將失效。\n可依價格與品質進行過濾。",
-    "settings2_main_1_first_time": "歡迎使用 FreeStuff！",
-    "settings2_main_2_first_time": "我們很高興見到你！\n**讓我們快速設定通知，這樣你就不會錯過任何免費遊戲囉！**\n\nFreeStuff 可以通知你多種免費遊戲內容，我們稱這些為 **訂閱分類**。你可以在下方看到所有分類。點擊按鈕即可訂閱或查看更多資訊，超簡單！\n\n我們建議你先看看 **{recommendation}**，你一定會喜歡的，我們發誓。",
-    "settings2_main_2_first_time_v1prev": "嗨，歡迎回來！設定方式跟你上次看到時有點不同，讓我快速幫你更新一下：\n\nFreeStuff 現在支援多種 **訂閱類別**，你可以選擇自己感興趣的訂閱。除了你習慣的 **100% 折扣** 遊戲外，我們還新增了 **免費週末** 等分類，更多即將推出！\n\n點擊分類即可管理，設定方式會讓你感到熟悉。如果需要幫助，歡迎加入我們的 [支援伺服器]({invite}) 或查看 [使用指南]({guide})！\n\n我們下次見！",
-    "settings2_main_1_regular": "FreeStuff 設定",
-    "settings2_main_2_regular": "歡迎回來！在下方管理你的訂閱分類。點擊分類（藍色按鈕）查看更多資訊或變更設定。\n需要幫助？看看我們的 [支援伺服器]({invite}) 或 [使用指南]({guide})！",
-    "settings_subscription_unsubscribe_1": "取消訂閱 {subscription}",
-    "settings_subscription_unsubscribe_2": "你將不再收到此分類的免費遊戲通知。",
-    "settings_subscription_not_subscribed_1": "點我訂閱",
-    "settings_subscription_not_subscribed_2": "請選擇一個頻道以訂閱 {subscription}",
-    "settings_channel_list_too_many": "你的頻道太多，無法全部顯示在清單中。",
-    "settings_channel_list_way_too_many": "你的頻道實在太多了，清單無法全部顯示。你是怎麼找到東西的啦？",
-    "settings_main_btn_notifications": "通知設定",
-    "settings_role_add_role": "新增角色",
-    "settings_role_list_remove_role_1": "尚未選擇",
-    "settings_role_list_remove_role_2": "點我移除此角色",
-    "thread_opt_a_name": "不使用討論串",
-    "thread_opt_a_description": "我們會直接在你的頻道中發訊息，就這樣。",
-    "thread_opt_b_name": "討論串留言",
-    "thread_opt_b_description": "我們會在頻道中發訊息，並開啟一個討論串。",
-    "thread_opt_c_name": "僅使用討論串",
-    "thread_opt_c_description": "我們會建立新討論串並在其中發訊息。",
-    "settings_auto_publish_on_state": "自動發佈已啟用",
-    "settings_auto_publish_on_prompt": "啟用自動發佈",
-    "settings_auto_publish_off_state": "自動發佈已停用",
-    "settings_auto_publish_off_prompt": "停用自動發佈",
-    "settings_subscription_more_ui_1": "更多功能",
-    "settings_subscription_more_ui_2": "**發送測試訊息** 會根據你目前的設定發出一則測試訊息。可以確認一切運作正常，但注意如果你設定了通知角色，這可能會 ping 到人。\n\n**重新推送訊息** 會將仍有效的優惠訊息重新發送。若你誤刪了訊息、變更了設定、或只是想再看到一次通知，這按鈕就是給你的！",
-    "settings_main_btn_general": "其他設定",
-    "settings_change_any_while_unsubscribed_1": "呃你在幹嘛？",
-    "settings_change_any_while_unsubscribed_2": "想騙過系統？你不能在尚未訂閱 {channel} 的狀況下更改這個設定。請先訂閱再回來。",
-    "settings_conf_ui_1": "其他設定",
-    "settings_conf_ui_2": "**選擇語言** 將變更通知中使用的語言。這**不會**影響像是 /settings 或 /free 等指令的語言，這些指令會依照你 Discord 的介面語言來顯示。翻譯由社群提供，可能會有錯誤。\n\n**選擇貨幣** 將變更通知中的顯示貨幣。有些價格可能是從其他幣別或網站換算而來，因此可能會有些微誤差。",
-    "announcement_price_keep": "{prices}",
-    "announcement_price_keep_until": "{prices}，直到 {date}",
-    "announcement_price_timed": "**限時免費遊玩**",
-    "announcement_price_timed_until": "**限時免費遊玩**，直到 {date}",
-    "announcement_price_other": "{prices}",
-    "announcement_price_other_until": "{prices}，直到 {date}",
-    "announcement_price_prime": "限時 **免費領取**",
-    "announcement_price_prime_until": "限時 **免費領取**，直到 {date}",
-    "announcement_price_gamepass": "限時 **免費領取**",
-    "announcement_price_gamepass_until": "限時 **免費領取**，直到 {date}",
-    "announcement_thread_name_keep_single_below": "{name}",
-    "announcement_thread_name_keep_single_outside": "{name} 現在免費！",
-    "announcement_thread_name_keep_multiple_below": "{names}",
-    "announcement_thread_name_keep_multiple_outside": "有 {amount} 款遊戲免費中！",
-    "announcement_thread_name_timed_single_below": "{name}",
-    "announcement_thread_name_timed_single_outside": "{name} 免費週末！",
-    "announcement_thread_name_timed_multiple_below": "{names}",
-    "announcement_thread_name_timed_multiple_outside": "{amount} 款遊戲免費週末中！",
-    "announcement_thread_name_other_single_below": "{name}",
-    "announcement_thread_name_other_single_outside": "{name} 現在免費！",
-    "announcement_thread_name_other_multiple_below": "{names}",
-    "announcement_thread_name_other_multiple_outside": "有 {amount} 款其他內容免費中！",
-    "announcement_thread_name_prime_single_below": "{name}",
-    "announcement_thread_name_prime_single_outside": "新的 Prime 戰利品：{name}！",
-    "announcement_thread_name_prime_multiple_below": "{names}",
-    "announcement_thread_name_prime_multiple_outside": "Prime 有 {amount} 款新遊戲可領取！",
-    "announcement_thread_name_gamepass_single_below": "{name}",
-    "announcement_thread_name_gamepass_single_outside": "Game Pass 新增內容：{name}！",
-    "announcement_thread_name_gamepass_multiple_below": "{names}",
-    "announcement_thread_name_gamepass_multiple_outside": "Game Pass 新增 {amount} 款遊戲！",
-    "announcement_title_statement": "{title} 現在免費！",
-    "mysterious_modal_title": "對森林大聲呼喊！",
-    "mysterious_modal_prompt_1": "你想要什麼？",
-    "mysterious_modal_prompt_2": "你渴望什麼？",
-    "mysterious_modal_prompt_3": "森林正在傾聽……",
-    "mysterious_modal_prompt_4": "把你的心聲說出來……",
-    "mysterious_modal_prompt_5": "你準備好了！",
-    "mysterious_modal_no_response_1": "一片寂靜",
-    "mysterious_modal_no_response_2": "沒有人回應……",
-    "mysterious_modal_no_response_3": "……",
-    "mysterious_modal_no_response_4": "沒有回應",
-    "mysterious_modal_no_response_5": "沒人聽見你……",
-    "color_red": "紅色",
-    "color_green": "綠色",
-    "color_blue": "藍色",
-    "color_yellow": "黃色",
-    "color_pink": "粉紅色",
-    "color_mint": "薄荷綠",
-    "color_white": "白色",
-    "color_black": "黑色",
-    "cmd_test_success_1": "訊息已發送！",
-    "cmd_test_success_2": "快去 {channel} 看看吧！",
-    "cmd_free_title_keep": "目前限時免費可保留（100% 折扣）",
-    "cmd_free_title_timed": "目前限時免費遊玩",
-    "cmd_free_title_other": "其他免費內容（100% 折扣）",
-    "cmd_free_ends_soon2": "（即將結束！）",
-    "cmd_free_no_freebies2": "目前沒有免費項目 :(",
-    "settings_sub_btn_more": "更多",
-    "settings_filter_show_passgames_on_state": "遊戲通知已啟用",
-    "settings_filter_show_passgames_on_prompt": "啟用遊戲通知",
-    "settings_filter_show_passgames_off_state": "遊戲通知已停用",
-    "settings_filter_show_passgames_off_prompt": "停用遊戲通知",
-    "settings_filter_show_passloot_on_state": "戰利品通知已啟用",
-    "settings_filter_show_passloot_on_prompt": "啟用戰利品通知",
-    "settings_filter_show_passloot_off_state": "戰利品通知已停用",
-    "settings_filter_show_passloot_off_prompt": "停用戰利品通知",
-    "cmd_free_title_primegames": "Prime Gaming：遊戲",
-    "subscription_primegames_name": "Prime Gaming：遊戲",
-    "cmd_free_title_primeloot": "Prime Gaming：戰利品",
-    "subscription_primeloot_name": "Prime Gaming：戰利品",
-    "settings_subscription_locked_premium": "{subscription} 是 Premium 訂閱內容。如需接收此分類的通知，請 [點我了解更多]({website})",
-    "settings_subscription_unlocked_premium": "{subscription} 是 Premium 訂閱內容。你可以訂閱。",
-    "settings_subscription_premium_expired": "你的 Premium 訂閱已到期。已暫停你對 {subscription} 的通知，直到你重新訂閱為止。",
-    "settings_locked_premium_1": "喔不！",
-    "settings_locked_premium_2": "**這是 FreeStuff Premium 功能。**\n點擊下方按鈕查看更多資訊：",
-    "premium_promo_button": "了解 Premium",
-    "expressbutton_label": "一鍵領取",
-    "settings_display_expressbutton_on_state": "一鍵領取按鈕已啟用",
-    "settings_display_expressbutton_on_prompt": "啟用一鍵領取按鈕",
-    "settings_display_expressbutton_off_state": "一鍵領取按鈕已停用",
-    "settings_display_expressbutton_off_prompt": "停用一鍵領取按鈕",
-    "settings_guilddata_download": "下載資料",
-    "settings_guilddata_data_ready": "請點擊下方「下載」按鈕以下載你的資料。該按鈕僅限使用一次，如需再次下載請重新執行指令。請勿與他人分享連結！",
-    "settings_guilddata_data_failed": "導出你的資料時出現錯誤，真的很抱歉。你可以透過 email 向我們人工請求資料副本：team@freestuffbot.xyz，請在信中附上你的伺服器 ID。感謝。",
-    "settings_change_bot_profile": "修改頭像與名稱",
-    "settings_botprofile_ui_1": "頭像與名稱",
-    "settings_botprofile_ui_2": "你可以自訂機器人在發送通知時顯示的名稱與頭像。由於 Discord 限制，這項設定**只適用於通知訊息**，不適用於像是 `/settings` 或 `/free` 這類指令。\n\n**修改頭像**：提供圖片連結來更換頭像，留空則恢復預設。\n\n**修改名稱**：輸入新的名稱來更改機器人顯示名稱，留空則恢復預設。",
-    "settings_botprofile_btn_edit_name": "修改名稱",
-    "settings_botprofile_btn_edit_avatar": "修改頭像",
-    "settings_botprofile_avatar_invalid_url_1": "這好像不是一個網址",
-    "settings_botprofile_avatar_invalid_url_2": "請確認你的圖片能正確載入，並且連結以 `http://` 或 `https://` 開頭",
-    "settings_botprofile_avatar_url_too_long_1": "哇這是什麼東西",
-    "settings_botprofile_avatar_url_too_long_2": "你的網址也太長了吧…能不能弄短一點呢？拜託啦 :D",
-    "settings_botprofile_name_too_long_1": "呃呃呃，真的很抱歉",
-    "settings_botprofile_name_too_long_2": "但名稱最多只能有 32 個字元。這是上層的規定，我無法更改，抱歉啦。",
-    "page_attributions": "致謝",
-    "color_none": "無顏色",
-    "premium_upsell_autopublish_description": "再也不用手動點擊啦！升級 FreeStuff Premium 後，機器人可以自動在公告頻道中發佈所有你收到的通知！",
-    "premium_upsell_autoreact_title": "升級 Premium 以啟用自動反應！",
-    "premium_upsell_autoreact_description": "升級 FreeStuff Premium 後，機器人可以自動對所有通知訊息加上反應表情！",
-    "premium_upsell_threadopts_title": "升級 Premium 以啟用討論串功能！",
-    "premium_upsell_threadopts_description": "升級 FreeStuff Premium 後，機器人會為每則通知自動建立討論串！\n你可以選擇讓通知在原本訊息下方開啟討論串，或是建立新討論串並將通知發在裡面，任你選擇！",
-    "premium_upsell_multiping_title": "升級 Premium 可同時提及多個角色！",
-    "premium_upsell_multiping_description": "如果你只需提及一個角色，就不需要升級 Premium，我們已儲存你的設定！\n但如果你想提及多個角色，那就需要升級 Premium 才能使用此功能！",
-    "premium_upsell_botprofile_title": "升級 Premium 可自訂機器人頭像與名稱！",
-    "premium_upsell_botprofile_description": "升級 FreeStuff Premium 後，你可以上傳自訂圖片作為機器人頭像，也可以更改機器人名稱，讓它更符合你伺服器的風格！",
-    "fluid_list_delimiter_only": "{prev} 和 {next}",
-    "fluid_list_delimiter_first": "{next}",
-    "fluid_list_delimiter_middle": "{prev}, {next}",
-    "fluid_list_delimiter_last": "{prev}，以及 {next}",
-    "announcement_price_generic_until": "{prices}，直到 {date}",
-    "announcement_price_generic": "{prices}",
-    "settings_main_help_1": "需要幫助嗎？",
-    "settings_main_help_solution_tldr_1": "快速說明",
-    "settings_main_help_solution_tldr_2": "1. 點選上方的 `{text}`\n2. 選擇任一來源（帶有 {premium} 的為 Premium，**其餘皆免費**）\n3. 在新開的頁面中選擇推送頻道\n4. 完成！",
-    "settings_main_help_solution_guide_1": "查看指南",
-    "settings_main_help_solution_guide_2": "我們有網站指南教你從頭到尾完成設定，也解釋每個選項的用途。如果你有點迷路，請一定要看一眼！",
-    "settings_main_help_solution_server_1": "加入支援伺服器",
-    "settings_main_help_solution_server_2": "指南幫不上忙嗎？我們有專屬支援伺服器，能協助你並解答所有疑問，隨時歡迎加入！",
-    "settings_more_boringmode_on_state": "無聊模式已啟用",
-    "settings_more_boringmode_on_prompt": "啟用無聊模式",
-    "settings_more_boringmode_off_state": "無聊模式已停用",
-    "settings_more_boringmode_off_prompt": "停用無聊模式",
-    "settings_more_ui_2": "**查看伺服器資料** 會顯示我們儲存的伺服器相關資料。\n\n**加入 Beta 測試** 可提前體驗新功能與更新。但請注意，這些功能可能尚不穩定或實驗性質，你也可能會收到回饋調查邀請。\n\n**啟用無聊模式** 將讓你退出愚人節等活動，整體體驗也會變得更沉悶（真的）。",
-    "cmd_free_title_gamepass": "目前在 Game Pass 上：",
-    "refresh_channel_list_title": "有變更嗎？",
-    "refresh_channel_list_description": "點這裡重新載入頻道清單",
-    "refresh_channels_success": "頻道清單已重新載入",
-    "settings_filter_kinds_none": "未選擇任何類型",
-    "settings_filter_kinds_dlc_1": "顯示 DLC",
-    "settings_filter_kinds_dlc_2": "附加內容與其他遊戲擴充",
-    "settings_filter_kinds_storeitem_1": "顯示商城物品",
-    "settings_filter_kinds_storeitem_2": "例如 Steam 點數商店道具等",
-    "settings_filter_kinds_bundle_1": "顯示遊戲組合包",
-    "settings_filter_kinds_bundle_2": "包含遊戲、DLC 或其他項目的組合包",
-    "settings_filter_kinds_other_1": "顯示其他內容",
-    "settings_filter_kinds_other_2": "不屬於任何其他類別的項目",
-    "settings_main_btn_help": "需要幫助？"
+  // Get it for free
+  "announcement_button_text": "免費領取",
+
+  // via {website}
+  "announcement_footer": "來自 {website}",
+
+  // This is a preview message
+  "announcement_footer_test": "這是一則預覽訊息",
+
+  // for a very long time
+  "announcement_free_for_a_long_time": "免費很長一段時間",
+
+  // for a week
+  "announcement_free_for_a_week": "免費一週",
+
+  // until {date}
+  "announcement_free_until_date": "直到 {date}",
+
+  // until {day}
+  "announcement_free_until_day": "直到 {day}",
+
+  // until {day} next week
+  "announcement_free_until_day_next_week": "直到下週 {day}",
+
+  // Free Game!
+  "announcement_header": "免費遊戲！",
+
+  // Claim for **Free**
+  "announcement_price_gamepass": "限時 **免費領取**",
+
+  // Claim for **Free** until {date}
+  "announcement_price_gamepass_until": "限時 **免費領取**，直到 {date}",
+
+  // {prices}
+  "announcement_price_generic": "{prices}",
+
+  // {prices} until {date}
+  "announcement_price_generic_until": "{prices}，直到 {date}",
+
+  // {prices}
+  "announcement_price_keep": "{prices}",
+
+  // {prices} until {date}
+  "announcement_price_keep_until": "{prices}，直到 {date}",
+
+  // {prices}
+  "announcement_price_other": "{prices}",
+
+  // {prices} until {date}
+  "announcement_price_other_until": "{prices}，直到 {date}",
+
+  // Claim for **Free**
+  "announcement_price_prime": "限時 **免費領取**",
+
+  // Claim for **Free** until {date}
+  "announcement_price_prime_until": "限時 **免費領取**，直到 {date}",
+
+  // **Free to play**
+  "announcement_price_timed": "**限時免費遊玩**",
+
+  // **Free to play** until {date}
+  "announcement_price_timed_until": "**限時免費遊玩**，直到 {date}",
+
+  // Free
+  "announcement_pricetag_free": "免費",
+
+  // **{name}** is free!\n<{url}>
+  "announcement_theme9": "**{name}** 現在免費！\n<{url}>",
+
+  // {names}
+  "announcement_thread_name_gamepass_multiple_below": "{names}",
+
+  // {amount} new games for Game Pass!
+  "announcement_thread_name_gamepass_multiple_outside": "Game Pass 新增 {amount} 款遊戲！",
+
+  // {name}
+  "announcement_thread_name_gamepass_single_below": "{name}",
+
+  // New Game Pass content: {name}!
+  "announcement_thread_name_gamepass_single_outside": "Game Pass 新增內容：{name}！",
+
+  // {names}
+  "announcement_thread_name_keep_multiple_below": "{names}",
+
+  // {amount} games are free!
+  "announcement_thread_name_keep_multiple_outside": "有 {amount} 款遊戲免費中！",
+
+  // {name}
+  "announcement_thread_name_keep_single_below": "{name}",
+
+  // {name} is free!
+  "announcement_thread_name_keep_single_outside": "{name} 現在免費！",
+
+  // {names}
+  "announcement_thread_name_other_multiple_below": "{names}",
+
+  // {amount} games are free!
+  "announcement_thread_name_other_multiple_outside": "有 {amount} 款其他內容免費中！",
+
+  // {name}
+  "announcement_thread_name_other_single_below": "{name}",
+
+  // {name} is free!
+  "announcement_thread_name_other_single_outside": "{name} 現在免費！",
+
+  // {names}
+  "announcement_thread_name_prime_multiple_below": "{names}",
+
+  // {amount} new games for Prime!
+  "announcement_thread_name_prime_multiple_outside": "Prime 有 {amount} 款新遊戲可領取！",
+
+  // {name}
+  "announcement_thread_name_prime_single_below": "{name}",
+
+  // New Prime loot: {name}!
+  "announcement_thread_name_prime_single_outside": "新的 Prime 戰利品：{name}！",
+
+  // {names}
+  "announcement_thread_name_timed_multiple_below": "{names}",
+
+  // Free weekend for {amount} games!
+  "announcement_thread_name_timed_multiple_outside": "{amount} 款遊戲免費週末中！",
+
+  // {name}
+  "announcement_thread_name_timed_single_below": "{name}",
+
+  // Free weekend for {name}!
+  "announcement_thread_name_timed_single_outside": "{name} 免費週末！",
+
+  // {title} is free!
+  "announcement_title_statement": "{title} 現在免費！",
+
+  // An error occurred!
+  "cmd_error_fatal_1": "發生錯誤！",
+
+  // We're trying to fix this issue as soon as possible!
+  "cmd_error_fatal_2": "我們會盡快修復這個問題！",
+
+  // A wild error occurred!
+  "cmd_error_fixable_1": "出現了一個小錯誤！",
+
+  // Can you please try that again? If this message keeps appearing please wait a bit or [reach out to our support team]({discordInvite}), thanks.
+  "cmd_error_fixable_2": "可以請你再試一次嗎？如果這訊息一直出現，請稍等或[聯繫我們的支援團隊]({discordInvite})，謝謝。",
+
+  // An error occurred!
+  "cmd_error_readd_1": "發生錯誤！",
+
+  // Try removing the bot from your server and adding it back in. If this does not help, [please join the support server]({discordInvite}).
+  "cmd_error_readd_2": "請試著將機器人從你的伺服器移除後重新加入。如果仍無效，[請加入支援伺服器]({discordInvite})。",
+
+  // **Ends soon:**
+  "cmd_free_ends_soon": "**即將結束：**",
+
+  // (Ends soon!)
+  "cmd_free_ends_soon2": "（即將結束！）",
+
+  // None :(
+  "cmd_free_no_freebies": "沒有 :(",
+
+  // Nothing free right now :(
+  "cmd_free_no_freebies2": "目前沒有免費項目 :(",
+
+  // These games are currently free:
+  "cmd_free_title": "以下遊戲目前免費：",
+
+  // Currently on Game Pass:
+  "cmd_free_title_gamepass": "目前在 Game Pass 上：",
+
+  // Currently free to keep (100% off)
+  "cmd_free_title_keep": "目前限時免費可保留（100% 折扣）",
+
+  // Other freebies (100% off)
+  "cmd_free_title_other": "其他免費內容（100% 折扣）",
+
+  // Prime Gaming: Games
+  "cmd_free_title_primegames": "Prime Gaming：遊戲",
+
+  // Prime Gaming: Loot
+  "cmd_free_title_primeloot": "Prime Gaming：戰利品",
+
+  // Currently free to play
+  "cmd_free_title_timed": "目前限時免費遊玩",
+
+  // until
+  "cmd_free_until": "直到",
+
+  // FreeStuff Bot
+  "cmd_info_1": "FreeStuff 機器人",
+
+  // FreeStuff Bot made with :heart: by [some amazing people]({amazingPeople})\n\n[About / Website]({website})\n\n[Add it to your server!]({inviteLink})\n\n[Report a bug or get in contact]({discordInvite})
+  "cmd_info_2": "FreeStuff Bot 由 [一群很棒的人]({amazingPeople}) 用 :heart: 打造\n\n[關於 / 官方網站]({website})\n\n[邀請我到你的伺服器！]({inviteLink})\n\n[回報錯誤或聯絡我們]({discordInvite})",
+
+  // :eyes:
+  "cmd_invite_1": ":eyes:",
+
+  // [Click here to add me to your server!]({inviteLink})
+  "cmd_invite_2": "[點我邀請我加入你的伺服器！]({inviteLink})",
+
+  // You're going too fast!
+  "cmd_on_cooldown_1": "你動作太快啦！",
+
+  // This command can only be used every {time} seconds. Please wait a bit!
+  "cmd_on_cooldown_2": "這個指令每 {time} 秒才能用一次，請稍等一下！",
+
+  // Now that's a twist!
+  "cmd_resend_all_filtered_out_1": "這下有趣了！",
+
+  // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
+  "cmd_resend_all_filtered_out_2": "現在的確有免費遊戲，但你的過濾器設定擋掉了全部！如果不是你本意，請再檢查一次過濾器設定。",
+
+  // The webhook in {channel} is broken.
+  "cmd_resend_invalid_webhook_1": "{channel} 中的 Webhook 壞掉了。",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_resend_invalid_webhook_2": "聽起來很可怕。請先把頻道換成別的，再換回 {channel} 看是否修復。如果仍有問題請聯繫支援！",
+
+  // Whoops!
+  "cmd_resend_nosend_1": "哎呀！",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_resend_nosend_2": "我似乎沒辦法在 {channel} 發訊息！",
+
+  // Uh oh!
+  "cmd_resend_nothing_free_1": "哎呀！",
+
+  // There's not a single game from this category for free right now... How could that have happened :thinking:
+  "cmd_resend_nothing_free_2": "目前這個類別居然沒有任何免費遊戲……怎麼可能 :thinking:",
+
+  // Aaaaaand there it goes!
+  "cmd_resend_success_1": "送出囉！",
+
+  // Check out {channel}!
+  "cmd_resend_success_2": "快去看看 {channel}！",
+
+  // That is an example game. And this here is the example description of said example game. I hope you have a nice day :)
+  "cmd_test_announcement_description": "這是一個範例遊戲。這裡是該遊戲的範例描述。祝你有個美好的一天 :)",
+
+  // Game name here
+  "cmd_test_announcement_header": "遊戲名稱在這裡",
+
+  // The webhook in {channel} is broken.
+  "cmd_test_invalid_webhook_1": "{channel} 中的 Webhook 壞掉了。",
+
+  // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
+  "cmd_test_invalid_webhook_2": "聽起來很可怕。請先把頻道換成別的，再換回 {channel} 看是否修復。如果仍有問題請聯繫支援！",
+
+  // :x:
+  "cmd_test_nochannel_1": ":x:",
+
+  // I don't know where to post the announcements!\nGo to /settings → Set Channel
+  "cmd_test_nochannel_2": "我不知道要在哪裡發佈公告！\n請前往 /settings → 設定頻道",
+
+  // Oh well...
+  "cmd_test_noembeds_1": "唉呀……",
+
+  // The theme you're using uses embeds to make the message look nicer... now the thing is, I don't have the permission to send embeds in {channel}! Either give me the permission `Embed Links` or choose a different theme that doesn't use embeds!
+  "cmd_test_noembeds_2": "你使用的主題需要嵌入訊息讓外觀更好看……但我在 {channel} 沒有發送嵌入的權限！請給我 `嵌入連結` 的權限，或選擇不需要嵌入的主題！",
+
+  // Whoops!
+  "cmd_test_nosee_1": "哎呀！",
+
+  // Looks like I don't have the permission to see the channel {channel}!
+  "cmd_test_nosee_2": "看起來我沒有權限查看頻道 {channel}！",
+
+  // Whoops!
+  "cmd_test_nosend_1": "哎呀！",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_test_nosend_2": "看起來我無法在 {channel} 發送訊息！",
+
+  // Aaaaaand there it goes!
+  "cmd_test_success_1": "訊息已發送！",
+
+  // Check out {channel}!
+  "cmd_test_success_2": "快去 {channel} 看看吧！",
+
+  // Enjoying the free games?
+  "cmd_vote_1": "喜歡這些免費遊戲嗎？",
+
+  // [Click here to vote for me on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases it's visibility and helps others discover free games too! Thank you for every vote!*
+  "cmd_vote_2": "[點我到 top.gg 為我投票]({topGGLink})\n\n另外，FreeStuff Bot 也列在以下網站：\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*為機器人投票能提高曝光率，也幫助更多人發現免費遊戲！感謝你的每一票！*",
+
+  // Black
+  "color_black": "黑色",
+
+  // Blue
+  "color_blue": "藍色",
+
+  // Green
+  "color_green": "綠色",
+
+  // Mint
+  "color_mint": "薄荷綠",
+
+  // No color
+  "color_none": "無顏色",
+
+  // Pink
+  "color_pink": "粉紅色",
+
+  // Red
+  "color_red": "紅色",
+
+  // White
+  "color_white": "白色",
+
+  // Yellow
+  "color_yellow": "黃色",
+
+  // Lev (BGN)
+  "currency_bgn": "保加利亞列弗 (BGN)",
+
+  // Real (BRL)
+  "currency_brl": "巴西里爾 (BRL)",
+
+  // Bitcoin (brrrr)
+  "currency_btc": "比特幣 (brrrr)",
+
+  // Euro (EUR)
+  "currency_euro": "歐元 (EUR)",
+
+  // Pounds (GBP)
+  "currency_gbp": "英鎊 (GBP)",
+
+  // Forint (HUF)
+  "currency_huf": "匈牙利福林 (HUF)",
+
+  // Złoty (PLN)
+  "currency_pln": "波蘭茲羅提 (PLN)",
+
+  // before
+  "currency_sign_dollar_position": "before",
+
+  // before
+  "currency_sign_euro_position": "before",
+
+  // before
+  "currency_sign_position": "before",
+
+  // Dollar (USD)
+  "currency_usd": "美元 (USD)",
+
+  // en-US
+  "date_format": "zh-TW",
+
+  // usd
+  "default_currency": "usd",
+
+  // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
+  "donation_notice": "這個機器人幫你省錢了嗎？考慮[捐款]({url})支持我們繼續營運，感謝你！",
+
+  // Claim All
+  "expressbutton_label": "一鍵領取",
+
+  // {next}
+  "fluid_list_delimiter_first": "{next}",
+
+  // {prev}, and {next}
+  "fluid_list_delimiter_last": "{prev}，以及 {next}",
+
+  // {prev}, {next}
+  "fluid_list_delimiter_middle": "{prev}, {next}",
+
+  // {prev} and {next}
+  "fluid_list_delimiter_only": "{prev} 和 {next}",
+
+  // Third Party Provider
+  "game_meta_flag_thirdparty": "第三方提供",
+
+  // Low Quality
+  "game_meta_flag_trash": "品質較差",
+
+  // Back
+  "generic_back": "返回",
+
+  // Cancel
+  "generic_cancel": "取消",
+
+  // Cancelled
+  "generic_cancelled": "已取消",
+
+  // Close
+  "generic_close": "關閉",
+
+  // Continue
+  "generic_continue": "繼續",
+
+  // Delete
+  "generic_delete": "刪除",
+
+  // Help
+  "generic_help": "幫助",
+
+  // Next
+  "generic_next": "下一步",
+
+  // Ok
+  "generic_ok": "確定",
+
+  // Okay
+  "generic_okay": "好喔",
+
+  // Help is on the way!
+  "help_main_1": "幫助來啦！",
+
+  // The FreeStuff bot keeps you up to date with free games!\n\nUse /free to get a list of free games\n\nUse /settings to configure the bot and to subscribe to free games notifications
+  "help_main_2": "FreeStuff 機器人讓你隨時掌握免費遊戲！\n\n使用 /free 查看目前免費的遊戲清單\n\n使用 /settings 設定機器人與訂閱通知",
+
+  // You are not {owner}!
+  "interaction_not_owned_1": "你不是 {owner}！",
+
+  // Thus you cannot interact with this widget because you did not create it.\nRun **{command}** to get your own widget.
+  "interaction_not_owned_2": "因此你無法操作這個元件，因為它不是你建立的。\n請執行 **{command}** 建立你自己的元件。",
+
+  // Sorry but I cannot let you do this!
+  "interaction_not_permitted_1": "抱歉，我不能讓你這麼做！",
+
+  // Only an admin of this server can do this. You are not an admin of this server.
+  "interaction_not_permitted_2_admin": "只有伺服器的管理員可以這麼做。你不是這個伺服器的管理員。",
+
+  // This button is reserved for some very special people...\nOf course you are special too! Yes! *But not special enough*
+  "interaction_not_permitted_2_bot_admin": "這個按鈕是給非常特別的人使用的……\n當然你也很特別啦！真的！*但還不夠特別*",
+
+  // I also cannot tell you why. But someone somewhere doesn't want you to do this...\nDo you have many enemies?
+  "interaction_not_permitted_2_generic": "我也不知道為什麼。但某個神秘的人不讓你這麼做……\n你是不是得罪很多人？",
+
+  // I would love to let you though! All you have to do is get yourself some **Manage Messages** permissions!
+  "interaction_not_permitted_2_manage_messages": "我也很想讓你用啊！你只需要獲得 **管理訊息** 的權限就好了！",
+
+  // I was asked to prevent anyone without the **Manage Server** permission from going any further!
+  "interaction_not_permitted_2_manage_server": "有人要求我不讓沒有 **管理伺服器** 權限的人繼續操作！",
+
+  // Hooooold up!
+  "interaction_server_only_1": "先慢著！",
+
+  // You cannot run this command in direct messages! Please try using it in a Discord Server.
+  "interaction_server_only_2": "你不能在私人訊息中使用這個指令！請在 Discord 伺服器內試試。",
+
+  // :flag_us:
+  "lang_flag_emoji": ":flag_tw:",
+
+  // English (USA)
+  "lang_name": "中文（台灣）",
+
+  // english-us
+  "lang_name_en": "Traditional Chinese",
+
+  // Silence
+  "mysterious_modal_no_response_1": "一片寂靜",
+
+  // No one answers...
+  "mysterious_modal_no_response_2": "沒有人回應……",
+
+  // ...
+  "mysterious_modal_no_response_3": "……",
+
+  // No response
+  "mysterious_modal_no_response_4": "沒有回應",
+
+  // Nobody heard you...
+  "mysterious_modal_no_response_5": "沒人聽見你……",
+
+  // What do you want?
+  "mysterious_modal_prompt_1": "你想要什麼？",
+
+  // What do you desire?
+  "mysterious_modal_prompt_2": "你渴望什麼？",
+
+  // The forest is listening...
+  "mysterious_modal_prompt_3": "森林正在傾聽……",
+
+  // Speak your mind...
+  "mysterious_modal_prompt_4": "把你的心聲說出來……",
+
+  // You are ready!
+  "mysterious_modal_prompt_5": "你準備好了！",
+
+  // Shout into the forest!
+  "mysterious_modal_title": "對森林大聲呼喊！",
+
+  // Open in browser
+  "open_in_browser": "在瀏覽器中開啟",
+
+  // Open in Epic Games Launcher
+  "open_in_epic_games_client": "在 Epic Games 啟動器中開啟",
+
+  // Open in Steam Client
+  "open_in_steam_client": "在 Steam 客戶端中開啟",
+
+  // About
+  "page_about": "關於",
+
+  // Attributions
+  "page_attributions": "致謝",
+
+  // Help Page
+  "page_help": "幫助頁面",
+
+  // Invite the bot
+  "page_invite": "邀請機器人",
+
+  // Bot Settings
+  "page_settings": "機器人設定",
+
+  // Support
+  "page_support": "支援",
+
+  // Manage Webhooks
+  "permission_manage_webhooks": "管理 Webhooks",
+
+  // View Channel
+  "permission_view_channel": "檢視頻道",
+
+  // Apple App Store
+  "platform_apple": "Apple App Store",
+
+  // Discord
+  "platform_discord": "Discord",
+
+  // Epic Games
+  "platform_epic": "Epic Games",
+
+  // GOG.com
+  "platform_gog": "GOG.com",
+
+  // Google Play
+  "platform_google": "Google Play",
+
+  // Humble Bundle
+  "platform_humble": "Humble Bundle",
+
+  // itch.io
+  "platform_itch": "itch.io",
+
+  // Origin
+  "platform_origin": "Origin",
+
+  // Other
+  "platform_other": "其他",
+
+  // Play Station
+  "platform_ps": "PlayStation",
+
+  // Steam
+  "platform_steam": "Steam",
+
+  // Nintendo Switch
+  "platform_switch": "Nintendo Switch",
+
+  // Twitch
+  "platform_twitch": "Twitch",
+
+  // Ubisoft Store
+  "platform_uplay": "Ubisoft 商店",
+
+  // Xbox
+  "platform_xbox": "Xbox",
+
+  // About Premium
+  "premium_promo_button": "了解 Premium",
+
+  // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
+  "premium_upsell_autopublish_description": "再也不用手動點擊啦！升級 FreeStuff Premium 後，機器人可以自動在公告頻道中發佈所有你收到的通知！",
+
+  // Get premium to use auto publish!
+  "premium_upsell_autopublish_title": "",
+
+  // With FreeStuff premium you can have the bot automatically react to every notification you receive!
+  "premium_upsell_autoreact_description": "升級 FreeStuff Premium 後，機器人可以自動對所有通知訊息加上反應表情！",
+
+  // Get premium to use auto reactions!
+  "premium_upsell_autoreact_title": "升級 Premium 以啟用自動反應！",
+
+  // With FreeStuff premium you can upload your own image for FreeStuff to use as the profile picture. You can also change the name to whatever you like. Make it blend in to your server!
+  "premium_upsell_botprofile_description": "升級 FreeStuff Premium 後，你可以上傳自訂圖片作為機器人頭像，也可以更改機器人名稱，讓它更符合你伺服器的風格！",
+
+  // Get premium to change bot's profile!
+  "premium_upsell_botprofile_title": "升級 Premium 可自訂機器人頭像與名稱！",
+
+  // If you are happy with the one role you selected, you don't need to get premium. Your changes are already saved!\nIf you do want to ping more than one role however, you can do this with premium!
+  "premium_upsell_multiping_description": "如果你只需提及一個角色，就不需要升級 Premium，我們已儲存你的設定！\n但如果你想提及多個角色，那就需要升級 Premium 才能使用此功能！",
+
+  // Get premium to ping more than one role!
+  "premium_upsell_multiping_title": "升級 Premium 可同時提及多個角色！",
+
+  // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
+  "premium_upsell_threadopts_description": "升級 FreeStuff Premium 後，機器人會為每則通知自動建立討論串！\n你可以選擇讓通知在原本訊息下方開啟討論串，或是建立新討論串並將通知發在裡面，任你選擇！",
+
+  // Get premium to create threads!
+  "premium_upsell_threadopts_title": "升級 Premium 以啟用討論串功能！",
+
+  // Actual price
+  "price_actual": "實際價格",
+
+  // Everything
+  "price_class_a": "全部",
+
+  // Almost Everything
+  "price_class_b": "幾乎全部",
+
+  // Default
+  "price_class_c": "預設",
+
+  // Big fish
+  "price_class_d": "大咖",
+
+  // Converted from USD
+  "price_converted": "從美元轉換",
+
+  // Privacy Policy
+  "privacy_policy": "隱私權政策",
+
+  // Permanently Free
+  "product_meta_flag_permanent": "永久免費",
+
+  // FreeStuff Recommendation
+  "product_meta_flag_staff_pick": "FreeStuff 精選",
+
+  // Third Party Provider
+  "product_meta_flag_thirdparty": "第三方提供",
+
+  // Low Quality
+  "product_meta_flag_trash": "品質較差",
+
+  // Refresh List
+  "refresh_channel_list": "重新整理清單",
+
+  // Click here to reload the channel list
+  "refresh_channel_list_description": "點這裡重新載入頻道清單",
+
+  // Made changes?
+  "refresh_channel_list_title": "有變更嗎？",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_channel_timeout": "慢一點！你只能每 {interval} 秒重新載入一次這個清單！",
+
+  // Channel list refreshed
+  "refresh_channels_success": "頻道清單已重新載入",
+
+  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
+  "refresh_channels_timeout": "你太快了！為了安全起見，每 {interval} 秒只能按一次這個按鈕！\n此致敬禮，FreeStuff 創辦人 John FreeStuff",
+
+  // Refresh List
+  "refresh_role_list": "重新整理清單",
+
+  // Slow down! You can only reload this list every {interval} seconds!
+  "refresh_role_timeout": "慢一點！你只能每 {interval} 秒重新載入一次這個清單！",
+
+  // Welcome to FreeStuff!
+  "settings2_main_1_first_time": "歡迎使用 FreeStuff！",
+
+  // FreeStuff Settings
+  "settings2_main_1_regular": "FreeStuff 設定",
+
+  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
+  "settings2_main_2_first_time": "我們很高興見到你！\n**讓我們快速設定通知，這樣你就不會錯過任何免費遊戲囉！**\n\nFreeStuff 可以通知你多種免費遊戲內容，我們稱這些為 **訂閱分類**。你可以在下方看到所有分類。點擊按鈕即可訂閱或查看更多資訊，超簡單！\n\n我們建議你先看看 **{recommendation}**，你一定會喜歡的，我們發誓。",
+
+  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
+  "settings2_main_2_first_time_v1prev": "嗨，歡迎回來！設定方式跟你上次看到時有點不同，讓我快速幫你更新一下：\n\nFreeStuff 現在支援多種 **訂閱類別**，你可以選擇自己感興趣的訂閱。除了你習慣的 **100% 折扣** 遊戲外，我們還新增了 **免費週末** 等分類，更多即將推出！\n\n點擊分類即可管理，設定方式會讓你感到熟悉。如果需要幫助，歡迎加入我們的 [支援伺服器]({invite}) 或查看 [使用指南]({guide})！\n\n我們下次見！",
+
+  // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
+  "settings2_main_2_regular": "歡迎回來！在下方管理你的訂閱分類。點擊分類（藍色按鈕）查看更多資訊或變更設定。\n需要幫助？看看我們的 [支援伺服器]({invite}) 或 [使用指南]({guide})！",
+
+  // Disable Auto Publish
+  "settings_auto_publish_off_prompt": "停用自動發佈",
+
+  // Auto Publish Disabled
+  "settings_auto_publish_off_state": "自動發佈已停用",
+
+  // Enable Auto Publish
+  "settings_auto_publish_on_prompt": "啟用自動發佈",
+
+  // Auto Publish Enabled
+  "settings_auto_publish_on_state": "自動發佈已啟用",
+
+  // This does not look like a url
+  "settings_botprofile_avatar_invalid_url_1": "這好像不是一個網址",
+
+  // Please make sure your image actually loads and the link starts with `http://` or `https://`
+  "settings_botprofile_avatar_invalid_url_2": "請確認你的圖片能正確載入，並且連結以 `http://` 或 `https://` 開頭",
+
+  // Ayo what's that
+  "settings_botprofile_avatar_url_too_long_1": "哇這是什麼東西",
+
+  // Your url is a little... excessive... A little... long, maybe. Could you try make it shorter maybe? Thanks :D
+  "settings_botprofile_avatar_url_too_long_2": "你的網址也太長了吧…能不能弄短一點呢？拜託啦 :D",
+
+  // Edit Avatar
+  "settings_botprofile_btn_edit_avatar": "修改頭像",
+
+  // Edit Name
+  "settings_botprofile_btn_edit_name": "修改名稱",
+
+  // Uhhh, very sorry uhhh
+  "settings_botprofile_name_too_long_1": "呃呃呃，真的很抱歉",
+
+  // But your name can only be 32 characters long. Directive from above, nothing I can do about that, sorry.
+  "settings_botprofile_name_too_long_2": "但名稱最多只能有 32 個字元。這是上層的規定，我無法更改，抱歉啦。",
+
+  // Avatar and Name
+  "settings_botprofile_ui_1": "頭像與名稱",
+
+  // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.\n\n**Edit Avatar** will allow you to change the bot's profile picture. You will need to provide a link to your desired image. Leave empty to reset to default.\n\n**Edit Name** will allow you to change the bot's name. Leave empty to reset to default.
+  "settings_botprofile_ui_2": "你可以自訂機器人在發送通知時顯示的名稱與頭像。由於 Discord 限制，這項設定**只適用於通知訊息**，不適用於像是 `/settings` 或 `/free` 這類指令。\n\n**修改頭像**：提供圖片連結來更換頭像，留空則恢復預設。\n\n**修改名稱**：輸入新的名稱來更改機器人顯示名稱，留空則恢復預設。",
+
+  // Uhhhh what are you doing?
+  "settings_change_any_while_unsubscribed_1": "呃你在幹嘛？",
+
+  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
+  "settings_change_any_while_unsubscribed_2": "想騙過系統？你不能在尚未訂閱 {channel} 的狀況下更改這個設定。請先訂閱再回來。",
+
+  // Edit Avatar and Name
+  "settings_change_bot_profile": "修改頭像與名稱",
+
+  // You have too many webhooks in {channel}! Please open the channel settings, go to integrations, delete some unused webhooks, and come back. This limitation is enforced by Discord, we cannot do anything about this unfortunately.
+  "settings_channel_error_too_many_webhooks": "你在 {channel} 中的 Webhooks 數量太多了！請打開頻道設定 → 整合 → 刪除一些不使用的 Webhooks 再回來。這是 Discord 設定的限制，我們無法更改。",
+
+  // here
+  "settings_channel_list_here": "這裡",
+
+  // No channel
+  "settings_channel_list_no_channel_1": "沒有頻道",
+
+  // Disable free games feed
+  "settings_channel_list_no_channel_2": "停用免費遊戲推播",
+
+  // You have too many channels to show them all in the list below.
+  "settings_channel_list_too_many": "你的頻道太多，無法全部顯示在清單中。",
+
+  // Missing \"Embed Messages\" Permission
+  "settings_channel_list_warning_missing_embed_messages": "缺少「嵌入連結」權限",
+
+  // Missing \"Manage Webhooks\" Permission
+  "settings_channel_list_warning_missing_manage_webhooks": "缺少「管理 Webhooks」權限",
+
+  // Missing \"Send Messages\" Permission
+  "settings_channel_list_warning_missing_send_messages": "缺少「發送訊息」權限",
+
+  // Missing \"View Channel\" Permission
+  "settings_channel_list_warning_missing_view_channel": "缺少「檢視頻道」權限",
+
+  // You have waaaaay too many channels to show them all in the list below. How do you even find anything in here?
+  "settings_channel_list_way_too_many": "你的頻道實在太多了，清單無法全部顯示。你是怎麼找到東西的啦？",
+
+  // Change The Channel
+  "settings_channel_ui_1": "變更頻道",
+
+  // Below you'll find a list of all of your channels. Please pick one for me to send free games to!
+  "settings_channel_ui_2_regular": "以下是你所有的頻道，請選擇一個讓我推送免費遊戲的頻道！",
+
+  // Below you'll find a list of most of your channels. You had so many I couldn't show them all at once. Please pick one for me to send free games to!
+  "settings_channel_ui_2_too_many": "以下是大多數的頻道，你的頻道太多了我無法一次顯示全部。請選擇一個讓我推送免費遊戲的頻道！",
+
+  // Below you'll find a list of a few of your channels. You have an enormous amount of channels in this server, you know this? So many in fact I could only show you a small selection of them. Please pick one for me to send free games to!
+  "settings_channel_ui_2_way_too_many": "你伺服器的頻道數量多到我只能顯示一小部分。請選擇一個讓我推送免費遊戲的頻道！",
+
+  // Can't change channel to {channel}: Missing \"{permissions}\" permissions!
+  "settings_channel_ui_missing_permissions": "無法將頻道更改為 {channel}：缺少「{permissions}」權限！",
+
+  // If you cannot find your desired channel, run /settings in that very channel to force it to show up.
+  "settings_channel_ui_too_many_channels_tip": "如果找不到想要的頻道，請在該頻道中執行 /settings 以強制顯示。",
+
+  // Unknown channel
+  "settings_channel_unknown_channel": "未知的頻道",
+
+  // Other Settings
+  "settings_conf_ui_1": "其他設定",
+
+  // **Select Language** will change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.\n\n**Select Currency** will change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
+  "settings_conf_ui_2": "**選擇語言** 將變更通知中使用的語言。這**不會**影響像是 /settings 或 /free 等指令的語言，這些指令會依照你 Discord 的介面語言來顯示。翻譯由社群提供，可能會有錯誤。\n\n**選擇貨幣** 將變更通知中的顯示貨幣。有些價格可能是從其他幣別或網站換算而來，因此可能會有些微誤差。",
+
+  // Disable Claim-All Button
+  "settings_display_expressbutton_off_prompt": "停用一鍵領取按鈕",
+
+  // Claim-All Button Disabled
+  "settings_display_expressbutton_off_state": "一鍵領取按鈕已停用",
+
+  // Enable Claim-All Button
+  "settings_display_expressbutton_on_prompt": "啟用一鍵領取按鈕",
+
+  // Claim-All Button Enabled
+  "settings_display_expressbutton_on_state": "一鍵領取按鈕已啟用",
+
+  // Disable Auto Reaction
+  "settings_display_reactions_off_prompt": "停用自動反應",
+
+  // Auto Reaction Disabled
+  "settings_display_reactions_off_state": "自動反應已停用",
+
+  // Enable Auto Reaction
+  "settings_display_reactions_on_prompt": "啟用自動反應",
+
+  // Auto Reaction Enabled
+  "settings_display_reactions_on_state": "自動反應已啟用",
+
+  // Display Settings
+  "settings_display_ui_1": "顯示設定",
+
+  // Change the appearance of the bot's messages
+  "settings_display_ui_2": "調整機器人訊息的外觀",
+
+  // Show Bundles
+  "settings_filter_kinds_bundle_1": "顯示遊戲組合包",
+
+  // Collections of games, DLCs or other items
+  "settings_filter_kinds_bundle_2": "包含遊戲、DLC 或其他項目的組合包",
+
+  // Show DLCs
+  "settings_filter_kinds_dlc_1": "顯示 DLC",
+
+  // Addons and other game extensions
+  "settings_filter_kinds_dlc_2": "附加內容與其他遊戲擴充",
+
+  // None selected
+  "settings_filter_kinds_none": "未選擇任何類型",
+
+  // Show other content
+  "settings_filter_kinds_other_1": "顯示其他內容",
+
+  // Stuff that does not fit into the other categories
+  "settings_filter_kinds_other_2": "不屬於任何其他類別的項目",
+
+  // Show Store Items
+  "settings_filter_kinds_storeitem_1": "顯示商城物品",
+
+  // Things like steam point shop items
+  "settings_filter_kinds_storeitem_2": "例如 Steam 點數商店道具等",
+
+  // (All disabled)
+  "settings_filter_platforms_none": "（全部關閉）",
+
+  // Send all games. Every. Single. One.
+  "settings_filter_price_class_desc_everything": "推送所有遊戲，真的所有！",
+
+  // Only send games worth {price} or more
+  "settings_filter_price_class_desc_generic": "僅推送價值在 {price} 或以上的遊戲",
+
+  // Disable Games
+  "settings_filter_show_passgames_off_prompt": "停用遊戲通知",
+
+  // Games Disabled
+  "settings_filter_show_passgames_off_state": "遊戲通知已停用",
+
+  // Enable Games
+  "settings_filter_show_passgames_on_prompt": "啟用遊戲通知",
+
+  // Games Enabled
+  "settings_filter_show_passgames_on_state": "遊戲通知已啟用",
+
+  // Disable Loot
+  "settings_filter_show_passloot_off_prompt": "停用戰利品通知",
+
+  // Loot Disabled
+  "settings_filter_show_passloot_off_state": "戰利品通知已停用",
+
+  // Enable Loot
+  "settings_filter_show_passloot_on_prompt": "啟用戰利品通知",
+
+  // Loot Enabled
+  "settings_filter_show_passloot_on_state": "戰利品通知已啟用",
+
+  // Disable Bad Quality Games
+  "settings_filter_trash_off_prompt": "停用低品質遊戲推播",
+
+  // Bad Quality Games Disabled
+  "settings_filter_trash_off_state": "低品質遊戲已停用",
+
+  // Enable Bad Quality Games
+  "settings_filter_trash_on_prompt": "啟用低品質遊戲推播",
+
+  // Bad Quality Games Enabled
+  "settings_filter_trash_on_state": "低品質遊戲已啟用",
+
+  // Filter Settings
+  "settings_filter_ui_1": "過濾器設定",
+
+  // There are a lot of free games out there, some more interesting than others. In order to not flood your precious Discord server with spam we have some options for you to decide which games you like to see:
+  "settings_filter_ui_2": "免費遊戲很多，有的比較優，有的可能沒興趣。為了不讓你的伺服器變成垃圾桶，我們提供一些篩選設定讓你選擇想看到的遊戲：",
+
+  // Something failed while exporting your data, we are very sorry. You can reach out to us and manually request a copy of your data via team@freestuffbot.xyz - Please include your server id in the E-Mail. Thanks.
+  "settings_guilddata_data_failed": "導出你的資料時出現錯誤，真的很抱歉。你可以透過 email 向我們人工請求資料副本：team@freestuffbot.xyz，請在信中附上你的伺服器 ID。感謝。",
+
+  // Please click the Download button below to download your data. The button will only work one time, run the command again to download again. Do not share the link with anyone!
+  "settings_guilddata_data_ready": "請點擊下方「下載」按鈕以下載你的資料。該按鈕僅限使用一次，如需再次下載請重新執行指令。請勿與他人分享連結！",
+
+  // Delete Server Data
+  "settings_guilddata_delete_button": "刪除伺服器資料",
+
+  // Are you sure?
+  "settings_guilddata_delete_dialogue_confirmation_1": "你確定嗎？",
+
+  // Once you click the button below there is no going back!
+  "settings_guilddata_delete_dialogue_confirmation_2": "按下下面的按鈕後就無法復原了喔！",
+
+  // Slow down!
+  "settings_guilddata_delete_dialogue_cooldown_1": "冷靜一點！",
+
+  // Looks like someone already deleted this server's data in the past 12h. Please try again later!
+  "settings_guilddata_delete_dialogue_cooldown_2": "看起來這個伺服器的資料在過去 12 小時內已經被刪除過了。請稍後再試！",
+
+  // Only an admin can do this
+  "settings_guilddata_delete_dialogue_not_allowed_1": "只有管理員能執行這個操作",
+
+  // Please ask a server admin if you really really wanna do this.
+  "settings_guilddata_delete_dialogue_not_allowed_2": "如果你真的很想刪除，請找伺服器管理員幫忙。",
+
+  // Success!
+  "settings_guilddata_delete_success_1": "成功！",
+
+  // Your server's data has been deleted and reset to default settings!
+  "settings_guilddata_delete_success_2": "你的伺服器資料已刪除，並重設為預設設定！",
+
+  // Uh... that's a bit embarrassing now... There was an error exporting your data. Please [contact our team]({invite}) to get your data.
+  "settings_guilddata_display_error": "呃……這有點尷尬……導出資料時發生錯誤。請 [聯絡我們的團隊]({invite}) 以取得你的資料。",
+
+  // Download Data
+  "settings_guilddata_download": "下載資料",
+
+  // Okie dokie, data's coming in hot:
+  "settings_guilddata_success_1": "好耶，資料來囉：",
+
+  // English with the metric system
+  "settings_language_list_desc_english_eu": "使用公制單位的英文",
+
+  // English with the imperial system
+  "settings_language_list_desc_english_us": "使用英制單位的英文",
+
+  // English with football fields per pizza slice
+  "settings_language_list_desc_english_us_easteregg": "以足球場每片披薩的單位顯示英文",
+
+  // {language} by {translators}
+  "settings_language_list_desc_generic": "{language} - 由 {translators} 翻譯",
+
+  // Language Selection
+  "settings_language_ui_1": "語言設定",
+
+  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
+  "settings_language_ui_2": "這是整個伺服器的語言設定，不是你個人的喔！\n\n給正在翻譯這段文字的各位，請自由發揮寫些有趣的內容，向同胞們打聲招呼吧 ;)",
+
+  // Oh no!
+  "settings_locked_premium_1": "喔不！",
+
+  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
+  "settings_locked_premium_2": "**這是 FreeStuff Premium 功能。**\n點擊下方按鈕查看更多資訊：",
+
+  // Change channel
+  "settings_main_btn_channel_change": "變更頻道",
+
+  // Set channel
+  "settings_main_btn_channel_set": "設定頻道",
+
+  // Display Settings
+  "settings_main_btn_display": "顯示設定",
+
+  // Filter Settings
+  "settings_main_btn_filter": "過濾器設定",
+
+  // Other Settings
+  "settings_main_btn_general": "其他設定",
+
+  // Need help?
+  "settings_main_btn_help": "需要幫助？",
+
+  // Advanced
+  "settings_main_btn_more": "進階選項",
+
+  // Notification Settings
+  "settings_main_btn_notifications": "通知設定",
+
+  // Change role mention
+  "settings_main_btn_role_change": "變更通知角色",
+
+  // Mention a role
+  "settings_main_btn_role_set": "設定通知角色",
+
+  // Need help?
+  "settings_main_help_1": "需要幫助嗎？",
+
+  // Read the guide
+  "settings_main_help_solution_guide_1": "查看指南",
+
+  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
+  "settings_main_help_solution_guide_2": "我們有網站指南教你從頭到尾完成設定，也解釋每個選項的用途。如果你有點迷路，請一定要看一眼！",
+
+  // Join our support server
+  "settings_main_help_solution_server_1": "加入支援伺服器",
+
+  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
+  "settings_main_help_solution_server_2": "指南幫不上忙嗎？我們有專屬支援伺服器，能協助你並解答所有疑問，隨時歡迎加入！",
+
+  // Tl;dr
+  "settings_main_help_solution_tldr_1": "快速說明",
+
+  // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
+  "settings_main_help_solution_tldr_2": "1. 點選上方的 `{text}`\n2. 選擇任一來源（帶有 {premium} 的為 Premium，**其餘皆免費**）\n3. 在新開的頁面中選擇推送頻道\n4. 完成！",
+
+  // Settings
+  "settings_main_ui_1": "設定",
+
+  // Looks like you still didn't finish setting up the bot :eyes:\n\nWhy don't you start by picking a channel for me to send free games to?
+  "settings_main_ui_2_guided_channel_delayed": "你還沒完成機器人的設定呢 :eyes:\n\n先選一個頻道讓我來推送免費遊戲吧！",
+
+  // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel I can use to keep you and your friends up to date with free games! Click the blue button below to continue:
+  "settings_main_ui_2_guided_channel_normal": "歡迎使用 FreeStuff :wave:\n\n歡迎來到設定頁面！首先讓我們選個頻道，我可以在那裡推送免費遊戲訊息給你和朋友們！點擊下方的藍色按鈕繼續：",
+
+  // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
+  "settings_main_ui_2_guided_display_delayed": "還有一些設定可以調整！像是主題、貨幣顯示之類的。想看嗎？點藍色按鈕就對了！",
+
+  // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
+  "settings_main_ui_2_guided_display_normal": "太棒了！最後一站是顯示設定。超值得花點時間看一下！",
+
+  // Welcome back! You might be missing out on some free games because the filter options are not configured to your likings! Better check them out real quick, it doesn't take long :eyes:
+  "settings_main_ui_2_guided_filter_delayed": "歡迎回來！你可能錯過了一些免費遊戲，因為過濾條件還沒調整好！快去看看，不會花你太多時間 :eyes:",
+
+  // Okay awesome, let's continue with filter settings. You might be missing out on some games if you don't check those out!
+  "settings_main_ui_2_guided_filter_normal": "很好，我們來看一下過濾器設定。沒設好的話可能會錯過一些好遊戲喔！",
+
+  // Awesome, you're done with setting up the FreeStuff Bot! Enjoy your free games! :partying_face:\n\nLooking for other people to talk about free games? [Join our Discord Server]({invite})\n\n*You can always return to this page using /settings*
+  "settings_main_ui_2_guided_finished": "太棒了，你已完成 FreeStuff Bot 的設定！享受免費遊戲吧！:partying_face:\n\n想找人聊聊免費遊戲嗎？[加入我們的 Discord 社群]({invite})\n\n*隨時都可以用 /settings 回到這個頁面喔*",
+
+  // Wanna continue setting up the bot?\nI'd suggest you check out role mentions next! Just click the button below to see what's possible!
+  "settings_main_ui_2_guided_role_delayed": "想繼續設定機器人嗎？\n我建議你接下來看看通知角色的設定！點擊下面的按鈕來了解！",
+
+  // Good job! Next up, maybe wanna get notified when a game becomes free? I'm talking about pinging a role or maybe even @everyone?\nClick the button below to see what's possible :eyes:
+  "settings_main_ui_2_guided_role_normal": "做得好！下一步，你想要在有免費遊戲時收到通知嗎？像是 ping 一個角色或甚至 @everyone？\n點擊下方按鈕看看可以怎麼設！",
+
+  // Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.
+  "settings_main_ui_2_regular": "哈囉！\n\n找不到某個設定嗎？不確定怎麼設置機器人？有任何其他問題嗎？[點我查看設定指南]({guide})，也可以 [加入支援伺服器]({invite}) 尋求協助。",
+
+  // Opt out of Beta
+  "settings_more_beta_off_prompt": "退出測試版",
+
+  // You're not in beta!
+  "settings_more_beta_off_state": "你尚未參與測試版！",
+
+  // Opt in to Beta
+  "settings_more_beta_on_prompt": "加入測試版",
+
+  // You're in beta!
+  "settings_more_beta_on_state": "你正在參與測試版！",
+
+  // Disable Boring Mode
+  "settings_more_boringmode_off_prompt": "停用無聊模式",
+
+  // Boring Mode is off
+  "settings_more_boringmode_off_state": "無聊模式已停用",
+
+  // Enable Boring Mode
+  "settings_more_boringmode_on_prompt": "啟用無聊模式",
+
+  // Boring Mode is on
+  "settings_more_boringmode_on_state": "無聊模式已啟用",
+
+  // View Server Data
+  "settings_more_btn_guilddata": "查看伺服器資料",
+
+  // Re-send Messages
+  "settings_more_btn_resend": "重新推送訊息",
+
+  // Send Test Message
+  "settings_more_btn_test": "發送測試訊息",
+
+  // Mysterious Button
+  "settings_more_mysterious_button": "神秘按鈕",
+
+  // Advanced Options
+  "settings_more_ui_1": "進階選項",
+
+  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
+  "settings_more_ui_2": "**查看伺服器資料** 會顯示我們儲存的伺服器相關資料。\n\n**加入 Beta 測試** 可提前體驗新功能與更新。但請注意，這些功能可能尚不穩定或實驗性質，你也可能會收到回饋調查邀請。\n\n**啟用無聊模式** 將讓你退出愚人節等活動，整體體驗也會變得更沉悶（真的）。",
+
+  // You need \"Manage Server\" permissions to edit this
+  "settings_permission_disclaimer": "你需要擁有「管理伺服器」權限才能修改這些設定",
+
+  // Add Role
+  "settings_role_add_role": "新增角色",
+
+  // @everyone
+  "settings_role_list_everyone_1": "@everyone",
+
+  // Ping everyone. That's a lot of people.
+  "settings_role_list_everyone_2": "通知所有人。人真的很多喔。",
+
+  // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
+  "settings_role_list_hidden_overflow_disclaimer": "有些角色可能未顯示，因為你擁有太多角色無法全部列出。如果找不到請將該角色移到上方！",
+
+  // Some roles might be hidden because the bot doesn't have the `Mention All Roles` permission!
+  "settings_role_list_hidden_permissions_disclaimer": "有些角色可能沒顯示，因為機器人沒有 `提及所有角色` 的權限！",
+
+  // Disable Mentions
+  "settings_role_list_no_mention_1": "停用通知",
+
+  // Do not ping anyone.
+  "settings_role_list_no_mention_2": "不要 ping 任何人。",
+
+  // None selected
+  "settings_role_list_remove_role_1": "尚未選擇",
+
+  // Click here to remove this role
+  "settings_role_list_remove_role_2": "點我移除此角色",
+
+  // Notification Settings
+  "settings_role_ui_1": "通知設定",
+
+  // Pick a role to ping when a new game becomes free!
+  "settings_role_ui_2": "選擇在有新遊戲免費時要通知哪個角色！",
+
+  // More
+  "settings_sub_btn_more": "更多",
+
+  // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
+  "settings_subscription_locked_premium": "{subscription} 是 Premium 訂閱內容。如需接收此分類的通知，請 [點我了解更多]({website})",
+
+  // More
+  "settings_subscription_more_ui_1": "更多功能",
+
+  // **Send Test Message** sends a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.\n\n**Re-send Messages** will re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This button is for you!
+  "settings_subscription_more_ui_2": "**發送測試訊息** 會根據你目前的設定發出一則測試訊息。可以確認一切運作正常，但注意如果你設定了通知角色，這可能會 ping 到人。\n\n**重新推送訊息** 會將仍有效的優惠訊息重新發送。若你誤刪了訊息、變更了設定、或只是想再看到一次通知，這按鈕就是給你的！",
+
+  // Click here to subscribe
+  "settings_subscription_not_subscribed_1": "點我訂閱",
+
+  // Pick a channel below to subscribe to {subscription}
+  "settings_subscription_not_subscribed_2": "請選擇一個頻道以訂閱 {subscription}",
+
+  // Your Premium subscription expired. We have paused your notifications for {subscription} until you resubscribe.
+  "settings_subscription_premium_expired": "你的 Premium 訂閱已到期。已暫停你對 {subscription} 的通知，直到你重新訂閱為止。",
+
+  // {subscription} is a premium subscription. You can subscribe.
+  "settings_subscription_unlocked_premium": "{subscription} 是 Premium 訂閱內容。你可以訂閱。",
+
+  // Unsubscribe {subscription}
+  "settings_subscription_unsubscribe_1": "取消訂閱 {subscription}",
+
+  // You will stop receiving games from this category.
+  "settings_subscription_unsubscribe_2": "你將不再收到此分類的免費遊戲通知。",
+
+  // Slash commands are here!
+  "slash_command_introduction_info_short": "斜線指令登場！",
+
+  // Slash commands are here! Use **{command}** from now on!
+  "slash_command_introduction_label_long": "斜線指令來啦！從現在起請使用 **{command}**！",
+
+  // Use **{command}** from now on!
+  "slash_command_introduction_label_short": "從現在起請使用 **{command}**！",
+
+  // {user} used {command}
+  "slash_command_source": "{user} 使用了 {command}",
+
+  // This subscription will show you all games newly added to the Game Pass suite of titles. These games require a Game Pass subscription to play for free while the offer lasts.\nYou can filter by price and quality.
+  "subscription_gamepass_description": "這個訂閱會顯示所有新增到 Game Pass 的遊戲。需有 Game Pass 訂閱才能免費遊玩，活動結束後將失效。\n可依價格與品質進行過濾。",
+
+  // Game Pass
+  "subscription_gamepass_name": "Game Pass",
+
+  // This subscription will show you games that have a 100% discount for a limited amount of time. You can keep those games after the sale is over.\nYou can filter by price, platform and quality.
+  "subscription_keep_description": "這個訂閱會顯示所有限時免費（100% 折扣）的遊戲，活動結束後你仍然可以保留這些遊戲。\n可依價格、平台及品質進行過濾。",
+
+  // 100% Discount
+  "subscription_keep_name": "限時 100% 折扣",
+
+  // This subscription will show you all sorts of other offers that are available at a 100% discount for a limited amount of time. This does usually not include games but may include other software such as DLCs or non-gaming related items.\nYou can filter by price, platform and product type.
+  "subscription_other_description": "這個訂閱會顯示限時 100% 折扣的其他內容，通常不包含遊戲，可能包含 DLC 或非遊戲相關的項目。\n可依價格、平台及產品類型進行過濾。",
+
+  // DLCs & More
+  "subscription_other_name": "DLC 與其他",
+
+  // This subscription will show you all games newly added to the Prime Gaming suite of titles. You require a Prime Gaming subscription to obtain games from this category. You can keep them after the offer expired.\nYou can filter by price and quality.
+  "subscription_prime_description": "這個訂閱會顯示所有新增到 Prime Gaming 的遊戲。需要 Prime 會員資格才能領取，領取後可永久保留。\n可依價格與品質進行過濾。",
+
+  // Prime Gaming
+  "subscription_prime_name": "Prime Gaming",
+
+  // Prime Gaming: Games
+  "subscription_primegames_name": "Prime Gaming：遊戲",
+
+  // Prime Gaming: Loot
+  "subscription_primeloot_name": "Prime Gaming：戰利品",
+
+  // This subscription will show you games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
+  "subscription_timed_description": "這個訂閱會顯示可在限時內免費遊玩的遊戲，但活動結束後無法保留，需購買才能繼續遊玩。\n可依價格、平台及品質進行過濾。",
+
+  // Free Weekend
+  "subscription_timed_name": "免費週末",
+
+  // Terms of Service
+  "terms_of_service": "服務條款",
+
+  // You cannot get less than this
+  "theme_eight_desc": "不能再更少了",
+
+  // Bare minimum
+  "theme_eight_name": "最低限度",
+
+  // A theme with minimal extra info
+  "theme_five_desc": "最少資訊的主題",
+
+  // Keep it simple
+  "theme_five_name": "簡單就好",
+
+  // Only weird people chose this
+  "theme_four_desc": "只有奇怪的人才會選這個",
+
+  // More info less images!
+  "theme_four_name": "資訊多一點、圖片少一點！",
+
+  // If you need some context but don't like embeds
+  "theme_nine_desc": "如果你需要一些上下文但不喜歡嵌入",
+
+  // Text only!
+  "theme_nine_name": "純文字！",
+
+  // Pretty basic
+  "theme_one_desc": "很基本",
+
+  // Default Theme
+  "theme_one_name": "預設主題",
+
+  // It's literally just the link
+  "theme_seven_desc": "真的就只有連結而已",
+
+  // Literally just the link
+  "theme_seven_name": "只有連結",
+
+  // A theme with almost minimal extra info
+  "theme_six_desc": "幾乎沒什麼額外資訊的主題",
+
+  // Images are cool!
+  "theme_six_name": "圖片超讚！",
+
+  // For ArchiSteamFarm users and alike
+  "theme_ten_desc": "為 ArchiSteamFarm 使用者及類似用途設計",
+
+  // Advanced
+  "theme_ten_name": "進階模式",
+
+  // With a short description and ratings
+  "theme_three_desc": "有簡短描述和評價",
+
+  // More info!
+  "theme_three_name": "更多資訊！",
+
+  // If you don't like images
+  "theme_two_desc": "如果你不喜歡圖片",
+
+  // No photos please!
+  "theme_two_name": "不要圖片！",
+
+  // We send a message in your channel. That's all.
+  "thread_opt_a_description": "我們會直接在你的頻道中發訊息，就這樣。",
+
+  // No threads
+  "thread_opt_a_name": "不使用討論串",
+
+  // Message goes in your channel but we start a thread for it.
+  "thread_opt_b_description": "我們會在頻道中發訊息，並開啟一個討論串。",
+
+  // Thread below
+  "thread_opt_b_name": "討論串留言",
+
+  // We create a new thread and post the message there.
+  "thread_opt_c_description": "我們會建立新討論串並在其中發訊息。",
+
+  // Message in thread
+  "thread_opt_c_name": "僅使用討論串",
+
+  // English translation available! If you want me to use English, use`/settings`
+  "translation_available": "已有英文翻譯！若你想切換為英文，請使用 `/settings`",
+
+  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
+  "translation_available_generic": "你的主要語言不是英文嗎？這個機器人支援多種語言，請使用 `/settings` 查看更多資訊。",
+
+  // English translation by:
+  "translation_by": "中文翻譯由：",
+
+  // Maanex
+  "translators": "NikolaJyun",
+
+  // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
+  "webhook_create_auditlog_reason": "FreeStuff 使用 Webhook 大規模發佈公告。請勿刪除此 Webhook。",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_missing_permissions_1": "哎呀出錯了！",
+
+  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
+  "webhook_migration_failed_missing_permissions_2": "看來我缺少「管理 Webhooks」的權限。請授予權限後再試一次！",
+
+  // Oopsie daisy!
+  "webhook_migration_failed_too_many_hooks_1": "哎呀出錯了！",
+
+  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
+  "webhook_migration_failed_too_many_hooks_2": "你在這個頻道中已經有太多 Webhooks 了。每個頻道最多只能有 10 個 Webhooks，請刪除一些未使用的 Webhooks 後再試。",
+
+  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
+  "webhook_migration_notice": "FreeStuff 缺少在此頻道中 **管理 Webhooks** 的權限。請伺服器管理員授予此權限，或執行 **/settings** 查看更多資訊。否則機器人將停止推播免費遊戲。"
 }

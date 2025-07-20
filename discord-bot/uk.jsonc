@@ -215,6 +215,12 @@
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
   "cmd_resend_invalid_webhook_2": "Звучить страшно. Для того, щоб виправити це, спробуйте змінити канал на інший, а потім знову на {channel}. Якщо помилка не зникне, зверніться до служби підтримки!",
 
+  // Whoops!
+  "cmd_resend_nosend_1": "",
+
+  // Looks like I don't have the permission to send messages in {channel}!
+  "cmd_resend_nosend_2": "",
+
   // Uh oh!
   "cmd_resend_nothing_free_1": "Ух, ох!",
 
