@@ -33,10 +33,10 @@
   "announcement_price_gamepass_until": "Szerezd be **ingyen** eddig {date}",
 
   // {prices}
-  "announcement_price_generic": "",
+  "announcement_price_generic": "Ár:",
 
   // {prices} until {date}
-  "announcement_price_generic_until": "",
+  "announcement_price_generic_until": "Ár eddig:",
 
   // {prices}
   "announcement_price_keep": "{prices}",
@@ -165,7 +165,7 @@
   "cmd_free_title": "Jelenleg ingyenes játékok",
 
   // Currently on Game Pass:
-  "cmd_free_title_gamepass": "",
+  "cmd_free_title_gamepass": "Elérhető GamePass-szal",
 
   // Currently free to keep (100% off)
   "cmd_free_title_keep": "Jelenleg ingyenesen megtartható (100%-os Akció)",
@@ -216,10 +216,10 @@
   "cmd_resend_invalid_webhook_2": "Ez ijesztőnek hangzik. Ahhoz hogy ezt kijavítsd változtasd meg a csatornát egy másikra majd vissza a {channel} csatornára. Ha a hiba továbbra is fennáll kérj segítséget csapatunktól!",
 
   // Whoops!
-  "cmd_resend_nosend_1": "",
+  "cmd_resend_nosend_1": "A bot nem tudta elküldeni, próbáld újra később.",
 
   // Looks like I don't have the permission to send messages in {channel}!
-  "cmd_resend_nosend_2": "",
+  "cmd_resend_nosend_2": "Nem sikerült az üzenet küldése. Próbáld újra!",
 
   // Uh oh!
   "cmd_resend_nothing_free_1": "Uh őő...",
@@ -294,7 +294,7 @@
   "color_mint": "Menta",
 
   // No color
-  "color_none": "",
+  "color_none": "Nincs szín",
 
   // Pink
   "color_pink": "Rózsaszín",
@@ -354,13 +354,13 @@
   "expressbutton_label": "Mindet beszed",
 
   // {next}
-  "fluid_list_delimiter_first": "",
+  "fluid_list_delimiter_first": "és",
 
   // {prev}, and {next}
-  "fluid_list_delimiter_last": "",
+  "fluid_list_delimiter_last": "és",
 
   // {prev}, {next}
-  "fluid_list_delimiter_middle": "",
+  "fluid_list_delimiter_middle": ",",
 
   // {prev} and {next}
   "fluid_list_delimiter_only": "",
@@ -492,7 +492,7 @@
   "page_about": "Rólunk",
 
   // Attributions
-  "page_attributions": "",
+  "page_attributions": "Források",
 
   // Help Page
   "page_help": "Segítség",
@@ -513,82 +513,82 @@
   "permission_view_channel": "Csatorna megtekintése",
 
   // Apple App Store
-  "platform_apple": "",
+  "platform_apple": "Apple",
 
   // Discord
-  "platform_discord": "",
+  "platform_discord": "Discord",
 
   // Epic Games
-  "platform_epic": "",
+  "platform_epic": "Epic Games",
 
   // GOG.com
-  "platform_gog": "",
+  "platform_gog": "GOG",
 
   // Google Play
-  "platform_google": "",
+  "platform_google": "Google",
 
   // Humble Bundle
-  "platform_humble": "",
+  "platform_humble": "Humble Bundle",
 
   // itch.io
-  "platform_itch": "",
+  "platform_itch": "itch.io",
 
   // Origin
-  "platform_origin": "",
+  "platform_origin": "Origin",
 
   // Other
-  "platform_other": "",
+  "platform_other": "Egyéb",
 
   // Play Station
-  "platform_ps": "",
+  "platform_ps": "PlayStation",
 
   // Steam
-  "platform_steam": "",
+  "platform_steam": "Steam",
 
   // Nintendo Switch
-  "platform_switch": "",
+  "platform_switch": "Nintendo Switch",
 
   // Twitch
-  "platform_twitch": "",
+  "platform_twitch": "Twitch",
 
   // Ubisoft Store
-  "platform_uplay": "",
+  "platform_uplay": "Ubisoft Connect",
 
   // Xbox
-  "platform_xbox": "",
+  "platform_xbox": "Xbox",
 
   // About Premium
   "premium_promo_button": "A Prémiumról",
 
   // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
-  "premium_upsell_autopublish_description": "",
+  "premium_upsell_autopublish_description": "Automatikusan közzéteszi az értesítéseket prémium funkcióként.",
 
   // Get premium to use auto publish!
-  "premium_upsell_autopublish_title": "",
+  "premium_upsell_autopublish_title": "Automatikus közzététel",
 
   // With FreeStuff premium you can have the bot automatically react to every notification you receive!
-  "premium_upsell_autoreact_description": "",
+  "premium_upsell_autoreact_description": "Automatikus reakciók hozzáadása az üzenetekhez prémium funkcióként.",
 
   // Get premium to use auto reactions!
-  "premium_upsell_autoreact_title": "",
+  "premium_upsell_autoreact_title": "Automatikus reakciók",
 
   // With FreeStuff premium you can upload your own image for FreeStuff to use as the profile picture. You can also change the name to whatever you like. Make it blend in to your server!
-  "premium_upsell_botprofile_description": "",
+  "premium_upsell_botprofile_description": "Bővítsd a bot profilját prémium extrákkal.",
 
   // Get premium to change bot's profile!
-  "premium_upsell_botprofile_title": "",
+  "premium_upsell_botprofile_title": "Bot profil testreszabás",
 
   // If you are happy with the one role you selected, you don't need to get premium. Your changes are already saved!\nIf you do want to ping more than one role however, you can do this with premium!
-  "premium_upsell_multiping_description": "",
+  "premium_upsell_multiping_description": "Egyszerre több pingelés lehetősége prémium funkcióként.",
 
   // Get premium to ping more than one role!
-  "premium_upsell_multiping_title": "",
+  "premium_upsell_multiping_title": "Több ping",
 
   // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
-  "premium_upsell_threadopts_description": "",
+  "premium_upsell_threadopts_description": "További beállítások szálakhoz prémium funkcióként.",
 
   // Get premium to create threads!
-  "premium_upsell_threadopts_title": "",
+  "premium_upsell_threadopts_title": "Szál opciók",
 
   // Actual price
   "price_actual": "Jelenlegi ár",
@@ -627,16 +627,16 @@
   "refresh_channel_list": "Lista frissítése",
 
   // Click here to reload the channel list
-  "refresh_channel_list_description": "",
+  "refresh_channel_list_description": "Frissíti a csatornalistát, ha valami nem látszik helyesen.",
 
   // Made changes?
-  "refresh_channel_list_title": "",
+  "refresh_channel_list_title": "Csatornalista frissítése",
 
   // Slow down! You can only reload this list every {interval} seconds!
   "refresh_channel_timeout": "Lassíts! Csak {interval} másodpercenként frissítheted ezt a listát",
 
   // Channel list refreshed
-  "refresh_channels_success": "",
+  "refresh_channels_success": "A csatornák sikeresen frissítve!",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
   "refresh_channels_timeout": "Túl gyors vagy! Biztonsági okokból csak minden {interval} másodperben engedhetem hogy megnyomd a gombot!\\nMinden tisztelettel, John FreeStuff, FreeStuff alapítója",
@@ -801,31 +801,31 @@
   "settings_display_ui_2": "Megváltoztathatod a bot üzeneteinek kinézetét",
 
   // Show Bundles
-  "settings_filter_kinds_bundle_1": "",
+  "settings_filter_kinds_bundle_1": "Csomag",
 
   // Collections of games, DLCs or other items
-  "settings_filter_kinds_bundle_2": "",
+  "settings_filter_kinds_bundle_2": "Csomagok",
 
   // Show DLCs
-  "settings_filter_kinds_dlc_1": "",
+  "settings_filter_kinds_dlc_1": "Kiegészítő",
 
   // Addons and other game extensions
-  "settings_filter_kinds_dlc_2": "",
+  "settings_filter_kinds_dlc_2": "Kiegészítők",
 
   // None selected
-  "settings_filter_kinds_none": "",
+  "settings_filter_kinds_none": "Nincs",
 
   // Show other content
-  "settings_filter_kinds_other_1": "",
+  "settings_filter_kinds_other_1": "Egyéb",
 
   // Stuff that does not fit into the other categories
-  "settings_filter_kinds_other_2": "",
+  "settings_filter_kinds_other_2": "Egyebek",
 
   // Show Store Items
-  "settings_filter_kinds_storeitem_1": "",
+  "settings_filter_kinds_storeitem_1": "Bolt tétel",
 
   // Things like steam point shop items
-  "settings_filter_kinds_storeitem_2": "",
+  "settings_filter_kinds_storeitem_2": "Bolt tételek",
 
   // (All disabled)
   "settings_filter_platforms_none": "(Összes letiltva)",
@@ -960,7 +960,7 @@
   "settings_main_btn_general": "Általános beállítások",
 
   // Need help?
-  "settings_main_btn_help": "",
+  "settings_main_btn_help": "Segítség",
 
   // Advanced
   "settings_main_btn_more": "Haladó",
@@ -975,25 +975,25 @@
   "settings_main_btn_role_set": "Rang megemlítése",
 
   // Need help?
-  "settings_main_help_1": "",
+  "settings_main_help_1": "Ha problémád van, próbáld meg ezeket a megoldásokat:",
 
   // Read the guide
-  "settings_main_help_solution_guide_1": "",
+  "settings_main_help_solution_guide_1": "Olvasd el az útmutatót.",
 
   // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "",
+  "settings_main_help_solution_guide_2": "Részletes leírást találsz itt.",
 
   // Join our support server
-  "settings_main_help_solution_server_1": "",
+  "settings_main_help_solution_server_1": "Csatlakozz a szerverünkhöz segítségért.",
 
   // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "",
+  "settings_main_help_solution_server_2": "Segítséget kapsz a közösségtől.",
 
   // Tl;dr
-  "settings_main_help_solution_tldr_1": "",
+  "settings_main_help_solution_tldr_1": "Gyors megoldás: próbáld újraindítani.",
 
   // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
-  "settings_main_help_solution_tldr_2": "",
+  "settings_main_help_solution_tldr_2": "Ha nem segít, ellenőrizd a beállításaid.",
 
   // Settings
   "settings_main_ui_1": "Beállítások",
@@ -1041,16 +1041,16 @@
   "settings_more_beta_on_state": "Csatlakoztál a bétához!",
 
   // Disable Boring Mode
-  "settings_more_boringmode_off_prompt": "",
+  "settings_more_boringmode_off_prompt": "Unalmas mód kikapcsolva. Aktiválod újra?",
 
   // Boring Mode is off
-  "settings_more_boringmode_off_state": "",
+  "settings_more_boringmode_off_state": "Unalmas mód kikapcsolva.",
 
   // Enable Boring Mode
-  "settings_more_boringmode_on_prompt": "",
+  "settings_more_boringmode_on_prompt": "Unalmas mód bekapcsolva. Kikapcsolod?",
 
   // Boring Mode is on
-  "settings_more_boringmode_on_state": "",
+  "settings_more_boringmode_on_state": "Unalmas mód bekapcsolva.",
 
   // View Server Data
   "settings_more_btn_guilddata": "Szerver Adatok Megtekintése",
@@ -1269,7 +1269,7 @@
   "translation_available": "Magyar fordítás elérhető! Ha szeretnéd használni, írd be: @FreeStuff set language hungarian",
 
   // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "",
+  "translation_available_generic": "Fordítás elérhető.",
 
   // English translation by:
   "translation_by": "Magyar fordítást készítette:",
