@@ -33,10 +33,10 @@
   "announcement_price_gamepass_until": "Szerezd be **ingyen** {date}-ig",
 
   // {prices}
-  "announcement_price_generic": "Ár:",
+  "announcement_price_generic": "Árak: {prices}",
 
   // {prices} until {date}
-  "announcement_price_generic_until": "Ár eddig:",
+  "announcement_price_generic_until": "Árak {date}-ig",
 
   // {prices}
   "announcement_price_keep": "{prices}",
@@ -801,10 +801,10 @@
   "settings_display_ui_2": "Megváltoztathatod a bot üzeneteinek kinézetét",
 
   // Show Bundles
-  "settings_filter_kinds_bundle_1": "Csomag",
+  "settings_filter_kinds_bundle_1": "Csomagok megjelenítése",
 
   // Collections of games, DLCs or other items
-  "settings_filter_kinds_bundle_2": "Csomagok",
+  "settings_filter_kinds_bundle_2": "Játékok, DLC-k vagy más elemek gyűjteménye",
 
   // Show DLCs
   "settings_filter_kinds_dlc_1": "Kiegészítő",
@@ -816,10 +816,10 @@
   "settings_filter_kinds_none": "Nincs",
 
   // Show other content
-  "settings_filter_kinds_other_1": "Egyéb",
+  "settings_filter_kinds_other_1": "Egyéb tartalmak megjelenítése",
 
   // Stuff that does not fit into the other categories
-  "settings_filter_kinds_other_2": "Egyebek",
+  "settings_filter_kinds_other_2": "Olyan dolgok, amelyek nem férnek bele a többi kategóriába",
 
   // Show Store Items
   "settings_filter_kinds_storeitem_1": "Bolt tétel",
@@ -975,10 +975,10 @@
   "settings_main_btn_role_set": "Rang megemlítése",
 
   // Need help?
-  "settings_main_help_1": "Ha problémád van, próbáld meg ezeket a megoldásokat:",
+  "settings_main_help_1": "Segítség kell?",
 
   // Read the guide
-  "settings_main_help_solution_guide_1": "Olvasd el az útmutatót.",
+  "settings_main_help_solution_guide_1": "Olvasd el az útmutatót",
 
   // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
   "settings_main_help_solution_guide_2": "Részletes leírást találsz itt.",
@@ -1047,7 +1047,7 @@
   "settings_more_boringmode_off_state": "Unalmas mód kikapcsolva.",
 
   // Enable Boring Mode
-  "settings_more_boringmode_on_prompt": "Unalmas mód bekapcsolva. Kikapcsolod?",
+  "settings_more_boringmode_on_prompt": "Unalmas mód bekapcsolása",
 
   // Boring Mode is on
   "settings_more_boringmode_on_state": "Unalmas mód bekapcsolva.",
@@ -1269,7 +1269,7 @@
   "translation_available": "Magyar fordítás elérhető! Ha szeretnéd használni, írd be: @FreeStuff set language hungarian",
 
   // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "Fordítás elérhető.",
+  "translation_available_generic": "Ez a bot több fordítással is elérhető, használd a /settings parancsot további infóért.",
 
   // English translation by:
   "translation_by": "Magyar fordítást készítette:",
