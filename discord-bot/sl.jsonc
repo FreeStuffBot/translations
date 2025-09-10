@@ -164,14 +164,38 @@
   // These games are currently free:
   "cmd_free_title": "Trenutno so zastonj naslednje igre:",
 
-  // Currently on Game Pass:
+  // Free on Epic Games Store
+  "cmd_free_title_epic": "",
+
+  // Free on Fab
+  "cmd_free_title_fab": "",
+
+  // Currently on Xbox Game Pass
   "cmd_free_title_gamepass": "",
+
+  // Free on GOG
+  "cmd_free_title_gog": "",
+
+  // Free on Google Play Store
+  "cmd_free_title_gplay": "",
+
+  // Free on Humble Bundle
+  "cmd_free_title_humble": "",
+
+  // Free on itch.io
+  "cmd_free_title_itch": "",
 
   // Currently free to keep (100% off)
   "cmd_free_title_keep": "",
 
-  // Other freebies (100% off)
+  // Free on Origin
+  "cmd_free_title_origin": "",
+
+  // Free on other stores
   "cmd_free_title_other": "",
+
+  // Currently on Prime Gaming
+  "cmd_free_title_prime": "",
 
   // Prime Gaming: Games
   "cmd_free_title_primegames": "",
@@ -179,16 +203,22 @@
   // Prime Gaming: Loot
   "cmd_free_title_primeloot": "",
 
+  // Free on Steam
+  "cmd_free_title_steam": "",
+
   // Currently free to play
   "cmd_free_title_timed": "",
+
+  // Free on Ubisoft
+  "cmd_free_title_ubi": "",
 
   // until
   "cmd_free_until": "do",
 
-  // FreeStuff Bot
+  // FreeStuff
   "cmd_info_1": "FreeStuff Bot",
 
-  // FreeStuff Bot made with :heart: by [some amazing people]({amazingPeople})\n\n[About / Website]({website})\n\n[Add it to your server!]({inviteLink})\n\n[Report a bug or get in contact]({discordInvite})
+  // Discord Bot made by some [really cool people]({amazingPeople})\n\n* [About / Website]({website})\n* [Add it to your server!]({inviteLink})\n* [Report a bug or get in contact]({discordInvite})
   "cmd_info_2": "FreeStuff Bot je bil ustvarjen z :heart: s pomočjo [nekaj zakon ljudi]({amazingPeople})\n\n[O botu / Spletna stran]({website})\n\n[Klikni tukaj, da ga dodaš v svoj server]({inviteLink})\n\n[Prijavi napako ali pa stopi v stik]({discordInvite})",
 
   // :eyes:
@@ -365,6 +395,42 @@
   // {prev} and {next}
   "fluid_list_delimiter_only": "",
 
+  // ONLY ON APRIL FIRST
+  "free_recommendation_april_fools": "",
+
+  // Free on {store}!
+  "free_recommendation_by_store": "",
+
+  // Interested in ${tag}?
+  "free_recommendation_by_tag": "",
+
+  // Expires in {hours, plural, =1 {1 hour} other {# hours} }!
+  "free_recommendation_expires_hours": "",
+
+  // Expires in {minutes, plural, =1 {1 minute} other {# minutes} }!
+  "free_recommendation_expires_minutes": "",
+
+  // Over 95% positive reviews:
+  "free_recommendation_extremely_positive": "",
+
+  // Check this out!
+  "free_recommendation_generic_1": "",
+
+  // You might enjoy:
+  "free_recommendation_generic_2": "",
+
+  // In case you missed it...
+  "free_recommendation_generic_3": "",
+
+  // Well received:
+  "free_recommendation_positive": "",
+
+  // FreeStuff team recommends:
+  "free_recommendation_staff_pick": "",
+
+  // Popular!
+  "free_recommendation_very_positive": "",
+
   // Third Party Provider
   "game_meta_flag_thirdparty": "Kr en ponudnik (3rd party)",
 
@@ -389,7 +455,7 @@
   // Delete
   "generic_delete": "Izbriši",
 
-  // Help
+  // Need help?
   "generic_help": "Pomoč",
 
   // Next
@@ -404,8 +470,11 @@
   // Help is on the way!
   "help_main_1": "",
 
-  // The FreeStuff bot keeps you up to date with free games!\n\nUse /free to get a list of free games\n\nUse /settings to configure the bot and to subscribe to free games notifications
+  // The FreeStuff bot keeps you up to date with free games!\n* Use {commandFree} to get a list of free games\n* Use {commandSettings} to configure the bot and to subscribe to free games notifications
   "help_main_2": "",
+
+  // Nuh uhhh! Only {author} can press these buttons. If you want to press them too, you need to run {command} yourself!
+  "interaction_not_owned": "",
 
   // You are not {owner}!
   "interaction_not_owned_1": "",
@@ -445,6 +514,12 @@
 
   // english-us
   "lang_name_en": "slovenian",
+
+  // Stop!
+  "missing_setting_permissions_1": "",
+
+  // You are not allowed to change settings for this server!\nGet someone with `Manage Server` or `Administrator` permissions and we can talk.
+  "missing_setting_permissions_2": "",
 
   // Silence
   "mysterious_modal_no_response_1": "",
@@ -575,7 +650,7 @@
   // With FreeStuff premium you can upload your own image for FreeStuff to use as the profile picture. You can also change the name to whatever you like. Make it blend in to your server!
   "premium_upsell_botprofile_description": "",
 
-  // Get premium to change bot's profile!
+  // Get premium to change the bot's profile!
   "premium_upsell_botprofile_title": "",
 
   // If you are happy with the one role you selected, you don't need to get premium. Your changes are already saved!\nIf you do want to ping more than one role however, you can do this with premium!
@@ -674,11 +749,17 @@
   // Auto Publish Enabled
   "settings_auto_publish_on_state": "",
 
+  // Unfortunately Discord took our ability to preview your avatar. Click the link to see if it's working…
+  "settings_botprofile_avatar_description": "",
+
   // This does not look like a url
   "settings_botprofile_avatar_invalid_url_1": "",
 
   // Please make sure your image actually loads and the link starts with `http://` or `https://`
   "settings_botprofile_avatar_invalid_url_2": "",
+
+  // Bot Avatar
+  "settings_botprofile_avatar_label": "",
 
   // Ayo what's that
   "settings_botprofile_avatar_url_too_long_1": "",
@@ -692,6 +773,12 @@
   // Edit Name
   "settings_botprofile_btn_edit_name": "",
 
+  // (missing)
+  "settings_botprofile_name_description": "",
+
+  // Bot Name
+  "settings_botprofile_name_label": "",
+
   // Uhhh, very sorry uhhh
   "settings_botprofile_name_too_long_1": "",
 
@@ -701,7 +788,7 @@
   // Avatar and Name
   "settings_botprofile_ui_1": "",
 
-  // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.\n\n**Edit Avatar** will allow you to change the bot's profile picture. You will need to provide a link to your desired image. Leave empty to reset to default.\n\n**Edit Name** will allow you to change the bot's name. Leave empty to reset to default.
+  // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
   "settings_botprofile_ui_2": "",
 
   // Uhhhh what are you doing?
@@ -770,6 +857,18 @@
   // **Select Language** will change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.\n\n**Select Currency** will change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
   "settings_conf_ui_2": "",
 
+  // Change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
+  "settings_conf_ui_currency_description": "",
+
+  // Select Currency
+  "settings_conf_ui_currency_label": "",
+
+  // Change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.
+  "settings_conf_ui_language_description": "",
+
+  // Select Language
+  "settings_conf_ui_language_label": "",
+
   // Disable Claim-All Button
   "settings_display_expressbutton_off_prompt": "",
 
@@ -781,6 +880,9 @@
 
   // Claim-All Button Enabled
   "settings_display_expressbutton_on_state": "",
+
+  // More options
+  "settings_display_extra_label": "",
 
   // Disable Auto Reaction
   "settings_display_reactions_off_prompt": "Onemogoči samodejni odziv",
@@ -794,11 +896,23 @@
   // Auto Reaction Enabled
   "settings_display_reactions_on_state": "Samodejni odziv omogočen",
 
+  // Select theme
+  "settings_display_theme_label": "",
+
+  // Thread behavior
+  "settings_display_threadopt_label": "",
+
   // Display Settings
   "settings_display_ui_1": "Nastavitve prikaza",
 
   // Change the appearance of the bot's messages
   "settings_display_ui_2": "Spremeni izgled sporočil bota",
+
+  // Additional filters
+  "settings_filter_extra_label": "",
+
+  // None enabled
+  "settings_filter_extra_none": "",
 
   // Show Bundles
   "settings_filter_kinds_bundle_1": "",
@@ -811,6 +925,21 @@
 
   // Addons and other game extensions
   "settings_filter_kinds_dlc_2": "",
+
+  // Games
+  "settings_filter_kinds_game_1": "",
+
+  // Well. Games. The thing you play.
+  "settings_filter_kinds_game_2": "",
+
+  // Only these kinds of items
+  "settings_filter_kinds_label": "",
+
+  // Loot
+  "settings_filter_kinds_loot_1": "",
+
+  // This is ingame content like skins, items, etc.
+  "settings_filter_kinds_loot_2": "",
 
   // None selected
   "settings_filter_kinds_none": "",
@@ -836,6 +965,9 @@
   // Only send games worth {price} or more
   "settings_filter_price_class_desc_generic": "",
 
+  // Minimum original price
+  "settings_filter_prices_label": "",
+
   // Disable Games
   "settings_filter_show_passgames_off_prompt": "",
 
@@ -860,6 +992,15 @@
   // Loot Enabled
   "settings_filter_show_passloot_on_state": "",
 
+  // Only from these stores
+  "settings_filter_stores_label": "",
+
+  // Show bad quality games
+  "settings_filter_trash_1": "",
+
+  // By default we won't show you games with bad ratings or of gernal poor quality
+  "settings_filter_trash_2": "",
+
   // Disable Bad Quality Games
   "settings_filter_trash_off_prompt": "",
 
@@ -877,6 +1018,18 @@
 
   // There are a lot of free games out there, some more interesting than others. In order to not flood your precious Discord server with spam we have some options for you to decide which games you like to see:
   "settings_filter_ui_2": "",
+
+  // Read the guide
+  "settings_generic_help_solution_guide_1": "",
+
+  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
+  "settings_generic_help_solution_guide_2": "",
+
+  // Join our support server
+  "settings_generic_help_solution_server_1": "",
+
+  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
+  "settings_generic_help_solution_server_2": "",
 
   // Something failed while exporting your data, we are very sorry. You can reach out to us and manually request a copy of your data via team@freestuffbot.xyz - Please include your server id in the E-Mail. Thanks.
   "settings_guilddata_data_failed": "",
@@ -944,6 +1097,24 @@
   // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
   "settings_locked_premium_2": "",
 
+  // Active Notifications
+  "settings_main_active_notifications_1": "",
+
+  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
+  "settings_main_active_notifications_2": "",
+
+  // Click to add a news source
+  "settings_main_add_first_source_placeholder": "",
+
+  // You are subscribed to everything!
+  "settings_main_add_sources_empty_1": "",
+
+  // There's nothing else you can be notified about currently.
+  "settings_main_add_sources_empty_2": "",
+
+  // Click to add new sources
+  "settings_main_add_sources_placeholder": "",
+
   // Change channel
   "settings_main_btn_channel_change": "",
 
@@ -995,6 +1166,12 @@
   // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
   "settings_main_help_solution_tldr_2": "",
 
+  // Suggested for you
+  "settings_main_suggested_categories_1": "",
+
+  // {promo} {dash} Select from the list below to learn more!
+  "settings_main_suggested_categories_2": "",
+
   // Settings
   "settings_main_ui_1": "",
 
@@ -1028,6 +1205,18 @@
   // Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.
   "settings_main_ui_2_regular": "",
 
+  // Welcome to FreeStuff!\n\nIf you want to get **automatic notifications** for **free games**, you need to **add** at least **one source** below. You can always come back later and add or remove more sources.
+  "settings_main_welcome": "",
+
+  // Pick a type of notification from the list below to get started!
+  "settings_main_welcome_extra": "",
+
+  // With beta enabled you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.
+  "settings_more_beta_description": "",
+
+  // Beta
+  "settings_more_beta_name": "",
+
   // Opt out of Beta
   "settings_more_beta_off_prompt": "",
 
@@ -1039,6 +1228,12 @@
 
   // You're in beta!
   "settings_more_beta_on_state": "",
+
+  // When Boring Mode is enabled you are opted out from april fools events and things might be more dull in general.
+  "settings_more_boringmode_description": "",
+
+  // Boring Mode
+  "settings_more_boringmode_name": "",
 
   // Disable Boring Mode
   "settings_more_boringmode_off_prompt": "",
@@ -1052,6 +1247,9 @@
   // Boring Mode is on
   "settings_more_boringmode_on_state": "",
 
+  // Show Debug Info
+  "settings_more_btn_debug": "",
+
   // View Server Data
   "settings_more_btn_guilddata": "",
 
@@ -1060,6 +1258,9 @@
 
   // Send Test Message
   "settings_more_btn_test": "",
+
+  // Your Data
+  "settings_more_data_label": "",
 
   // Mysterious Button
   "settings_more_mysterious_button": "",
@@ -1109,8 +1310,41 @@
   // More
   "settings_sub_btn_more": "",
 
+  // Oopsie woopsie!
+  "settings_sub_help_solution_premium_locked_1": "",
+
+  // {name} is only available to FreeStuff Premium users. You can either subscribe to FreeStuff Premium to receive notifications for {name} or **click the back button and pick a different source**. There are many free ones available!
+  "settings_sub_help_solution_premium_locked_2": "",
+
+  // Tl;dr
+  "settings_sub_help_solution_tldr_1": "",
+
+  // 1. Click on the dropdown menu above\n2. Select a channel for the bot to send notifications to\n3. And that's it, you're done! You will now receive automatic notifications!\n4. Optional: Click on the buttons above to customize things
+  "settings_sub_help_solution_tldr_2": "",
+
   // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
   "settings_subscription_locked_premium": "",
+
+  // More
+  "settings_subscription_more_1": "",
+
+  // Resend Notifications
+  "settings_subscription_more_resend_1": "",
+
+  // You can re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This is for you!
+  "settings_subscription_more_resend_2": "",
+
+  // Resend
+  "settings_subscription_more_resend_btn": "",
+
+  // Test Message
+  "settings_subscription_more_test_1": "",
+
+  // You can send a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.
+  "settings_subscription_more_test_2": "",
+
+  // Send Test
+  "settings_subscription_more_test_btn": "",
 
   // More
   "settings_subscription_more_ui_1": "",
@@ -1118,10 +1352,10 @@
   // **Send Test Message** sends a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.\n\n**Re-send Messages** will re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This button is for you!
   "settings_subscription_more_ui_2": "",
 
-  // Click here to subscribe
+  // Click here to get notified
   "settings_subscription_not_subscribed_1": "",
 
-  // Pick a channel below to subscribe to {subscription}
+  // Pick a channel below to enable automatic notifications for {subscription}
   "settings_subscription_not_subscribed_2": "",
 
   // Your Premium subscription expired. We have paused your notifications for {subscription} until you resubscribe.
@@ -1148,29 +1382,83 @@
   // {user} used {command}
   "slash_command_source": "{user} je uporabil {command}",
 
-  // This subscription will show you all games newly added to the Game Pass suite of titles. These games require a Game Pass subscription to play for free while the offer lasts.\nYou can filter by price and quality.
+  // Gamedev Assets
+  "subscription_assets_name": "",
+
+  // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
+  "subscription_debug_promo": "",
+
+  // Sign up to get notified about any games or other content newly added to Game Pass. You require a Game Pass subscription to make use of these offers.\nYou can filter by price and quality.
   "subscription_gamepass_description": "",
+
+  // New arrivals on Xbox Game Pass.
+  "subscription_gamepass_hint": "",
 
   // Game Pass
   "subscription_gamepass_name": "",
 
-  // This subscription will show you games that have a 100% discount for a limited amount of time. You can keep those games after the sale is over.\nYou can filter by price, platform and quality.
+  // Game pass users, we've got you! Check out {name} to receive all new arrivals directly in Discord!
+  "subscription_gamepass_promo": "",
+
+  // Sign up to get a notification when any game gets a 100% discount for a limited amount of time. This means you can get them for free and even keep them after the sale is over. Nothing to lose.\nYou can filter by price, platform and quality.
   "subscription_keep_description": "",
+
+  // Games with a temporary 100% discount.
+  "subscription_keep_hint": "",
 
   // 100% Discount
   "subscription_keep_name": "",
 
-  // This subscription will show you all sorts of other offers that are available at a 100% discount for a limited amount of time. This does usually not include games but may include other software such as DLCs or non-gaming related items.\nYou can filter by price, platform and product type.
+  // {name} is a must have! Receive notifications for regular, paid games at a temporary 100% discount! Claim in time and keep them forever!
+  "subscription_keep_promo": "",
+
+  // Are you into mobile gaming? Did you know there's free games for you too?
+  "subscription_mobile_description": "",
+
+  // Mobile games with a 100% discount.
+  "subscription_mobile_hint": "",
+
+  // Mobile Games
+  "subscription_mobile_name": "",
+
+  // Do you own a phone? If so, {name} has you covered with temporary 100% discounts on mobile games!
+  "subscription_mobile_promo": "",
+
+  // Big news. Big releases. Big offers. Never ads or paid posts.\nSubscribe to get a hand-curated selection of news and big things happening.
+  "subscription_news_description": "",
+
+  // Big news from the gaming world.
+  "subscription_news_hint": "",
+
+  // Gaming News
+  "subscription_news_name": "",
+
+  // Do you regularly miss out on big things happening? Check out {name} where the FreeStuff team lets you know when GTA6 is delayed again or when Fortnite is deleted.
+  "subscription_news_promo": "",
+
+  // Sign up to see all sorts of other offers that are available at a temporary 100% discount. This means DLCs, Addons, Ingame Content, Store Items or something else entirely, but always free to claim and keep forever.\nYou can filter by price, platform and product type.
   "subscription_other_description": "",
+
+  // DLCs, Addons, Ingame Content & more at 100% off.
+  "subscription_other_hint": "",
 
   // DLCs & More
   "subscription_other_name": "",
 
-  // This subscription will show you all games newly added to the Prime Gaming suite of titles. You require a Prime Gaming subscription to obtain games from this category. You can keep them after the offer expired.\nYou can filter by price and quality.
+  // Check out {name} for news about any 100% discounted DLCs, Addons or Ingame Content from all the same places you know and love!
+  "subscription_other_promo": "",
+
+  // Sign up to get notified about any games or other content newly added to Prime Gaming. You require a Prime Gaming subscription to make use of these offers. \nYou can filter by type, price and quality.
   "subscription_prime_description": "",
+
+  // New arrivals on Prime Gaming.
+  "subscription_prime_hint": "",
 
   // Prime Gaming
   "subscription_prime_name": "",
+
+  // Got an Amazon Prime Gaming subscription or thinking of getting one? With our {name} notifications you'll stay ahead and never miss out!
+  "subscription_prime_promo": "",
 
   // Prime Gaming: Games
   "subscription_primegames_name": "",
@@ -1178,11 +1466,17 @@
   // Prime Gaming: Loot
   "subscription_primeloot_name": "",
 
-  // This subscription will show you games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
+  // Sign up to receive notifications about games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
   "subscription_timed_description": "",
+
+  // Games that are temporarily free to play.
+  "subscription_timed_hint": "",
 
   // Free Weekend
   "subscription_timed_name": "",
+
+  // Into exploring new games? {name} got you covered, with news about games that are temporarily free to play, usually for a couple of days.
+  "subscription_timed_promo": "",
 
   // Terms of Service
   "terms_of_service": "Pogoji storitve",

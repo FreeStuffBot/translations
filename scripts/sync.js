@@ -20,10 +20,20 @@ const sorted = obj => Object.keys(obj).sort().reduce((acc, key) => {
 for (const file of fs.readdirSync(`./${package}`)) {
   if (!file.endsWith('.jsonc'))
     continue
-  if (file === base)
-    continue
 
   const content = readJson(`./${package}/${file}`)
+
+  if (file === base) {
+    // we sort the base file as well to keep comments in order
+    const rendered = JSON
+      .stringify(sorted(content), null, 2)
+      .replace(/"\/\/.*?": ?"(.*?)",?\n/g, '')
+      .replace(/^\s+$/gm, '')
+      .replace('{\n\n', '{\n')
+    fs.writeFileSync(`./${package}/${file}`, rendered)
+    continue
+  }
+
   let added = 0
   let removed = 0
   for (const key of Object.keys(baseContent)) {
