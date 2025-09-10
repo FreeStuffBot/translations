@@ -53,14 +53,14 @@ for (const file of fs.readdirSync(`./${package}`)) {
     removed++
   }
 
-  if (added > 0 || removed > 0) {
-    const rendered = JSON
-      .stringify(sorted(content), null, 2)
-      .replace(/"\/\/.*?": ?"(.*?)",?\n/g, '\n  // $1\n')
-      .replace(/^\s+$/gm, '')
-      .replace('{\n\n', '{\n')
-    fs.writeFileSync(`./${package}/${file}`, rendered)
-  }
+  // if (added > 0 || removed > 0) {
+  const rendered = JSON
+    .stringify(sorted(content), null, 2)
+    .replace(/"\/\/.*?": ?"(.*?)",?\n/g, '\n  // $1\n')
+    .replace(/^\s+$/gm, '')
+    .replace('{\n\n', '{\n')
+  fs.writeFileSync(`./${package}/${file}`, rendered)
+  // }
 
   console.log(`Updated ${file}: added ${added} keys, removed ${removed} keys`)
 }

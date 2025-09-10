@@ -133,7 +133,7 @@
     "fluid_list_delimiter_only": "{prev} and {next}",
     "free_recommendation_april_fools": "ONLY ON APRIL FIRST",
     "free_recommendation_by_store": "Free on {store}!",
-    "free_recommendation_by_tag": "Interested in ${tag}?",
+    "free_recommendation_by_tag": "Interested in {tag}?",
     "free_recommendation_expires_hours": "Expires in {hours, plural, =1 {1 hour} other {# hours} }!",
     "free_recommendation_expires_minutes": "Expires in {minutes, plural, =1 {1 minute} other {# minutes} }!",
     "free_recommendation_extremely_positive": "Over 95% positive reviews:",

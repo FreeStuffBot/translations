@@ -401,7 +401,7 @@
   // Free on {store}!
   "free_recommendation_by_store": "",
 
-  // Interested in ${tag}?
+  // Interested in {tag}?
   "free_recommendation_by_tag": "",
 
   // Expires in {hours, plural, =1 {1 hour} other {# hours} }!
