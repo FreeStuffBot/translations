@@ -332,7 +332,7 @@
     "settings_filter_show_passloot_on_state": "Loot Enabled",
     "settings_filter_stores_label": "Only from these stores",
     "settings_filter_trash_1": "Show bad quality games",
-    "settings_filter_trash_2": "By default we won't show you games with bad ratings or of gernal poor quality",
+    "settings_filter_trash_2": "By default we won't show you games with bad ratings or of general poor quality",
     "settings_filter_trash_off_prompt": "Disable Bad Quality Games",
     "settings_filter_trash_off_state": "Bad Quality Games Disabled",
     "settings_filter_trash_on_prompt": "Enable Bad Quality Games",
