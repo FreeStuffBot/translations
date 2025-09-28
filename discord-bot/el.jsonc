@@ -338,39 +338,6 @@
   // Yellow
   "color_yellow": "Κίτρινο",
 
-  // Lev (BGN)
-  "currency_bgn": "Λεβ (BGN)",
-
-  // Real (BRL)
-  "currency_brl": "Ρεάλ (BRL)",
-
-  // Bitcoin (brrrr)
-  "currency_btc": "Bitcoin (BTC)",
-
-  // Euro (EUR)
-  "currency_euro": "Ευρώ (EUR)",
-
-  // Pounds (GBP)
-  "currency_gbp": "Λίρες (GBP)",
-
-  // Forint (HUF)
-  "currency_huf": "Φιορίνι (HUF)",
-
-  // Złoty (PLN)
-  "currency_pln": "Ζλότι (PLN)",
-
-  // before
-  "currency_sign_dollar_position": "after",
-
-  // before
-  "currency_sign_euro_position": "after",
-
-  // before
-  "currency_sign_position": "after",
-
-  // Dollar (USD)
-  "currency_usd": "Δολάριο (USD)",
-
   // en-US
   "date_format": "el",
 
@@ -587,51 +554,6 @@
   // View Channel
   "permission_view_channel": "Προβολή Καναλιού",
 
-  // Apple App Store
-  "platform_apple": "",
-
-  // Discord
-  "platform_discord": "",
-
-  // Epic Games
-  "platform_epic": "",
-
-  // GOG.com
-  "platform_gog": "",
-
-  // Google Play
-  "platform_google": "",
-
-  // Humble Bundle
-  "platform_humble": "",
-
-  // itch.io
-  "platform_itch": "",
-
-  // Origin
-  "platform_origin": "",
-
-  // Other
-  "platform_other": "",
-
-  // Play Station
-  "platform_ps": "",
-
-  // Steam
-  "platform_steam": "",
-
-  // Nintendo Switch
-  "platform_switch": "",
-
-  // Twitch
-  "platform_twitch": "",
-
-  // Ubisoft Store
-  "platform_uplay": "",
-
-  // Xbox
-  "platform_xbox": "",
-
   // About Premium
   "premium_promo_button": "",
 
@@ -728,12 +650,6 @@
   // FreeStuff Settings
   "settings2_main_1_regular": "Ρυθμίσεις FreeStuff",
 
-  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
-  "settings2_main_2_first_time": "Είμαστε πολύ ενθουσιασμένοι που σας βλέπουμε!\n**Ας ρυθμίσουμε γρήγορα τις ειδοποιήσεις, ώστε να μην χάνεις ποτέ κανένα freebie, εντάξει;**\n\nΤο FreeStuff μπορεί να σε ενημερώσει για πολλά είδη δωρεάν παιχνιδιών, τα ονομάζουμε αυτά ως διάφορες **συνδρομές**. Μπορείς να δεις όλες τις διαθέσιμες συνδρομές παρακάτω. Για να γραφτείς σε μια από αυτές ή για να λάβεις περισσότερες πληροφορίες απλώς κάνε κλικ στο κουμπί. Είναι τόσο απλό.\n\nΣας συνιστούμε να δεις πρώτα το **{recommendation}**. Θα σου αρέσει πολύ. Φιλάμε σταυρό.",
-
-  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
-  "settings2_main_2_first_time_v1prev": "Γεια, καλώς ήρθες και πάλι! Οι ρυθμίσεις έχουν αλλάξει λίγο από την τελευταία σου επίσκεψη. Επίτρεψέ μου να σε ενημερώσω στα γρήγορα και πίστεψέ με, θέλεις να το ακούσεις αυτό:\n\nΤο FreeStuff πλεόν έχει πολλαπλές **συνδρομές** που μπορείς να γραφτείς μεμονωμένα. Εκτός από τα παιχνίδια με **100% Έκπτωση** που έχεις συνηθίσει, έχουμε ορισμένες νέες κατηγορίες, όπως παιχνίδια **Δωρεάν Σαββατοκύριακου** και άλλα που θα ανακοινωθούν σύντομα.\nΚάνε κλικ σε μια συνδρομή για να τη διαχειριστείς, θα πρέπει να βρεις αυτές τις ρυθμίσεις λίγο πιο οικείες. Εάν χρειάζεσαι οποιαδήποτε βοήθεια, μη διστάσεις να επισκεφτείς τον [διακομιστή υποστήριξης]({invite}) ή να ρίξεις μια ματιά στον [οδηγό]({guide}) μας!\n\nΤα λέμε!",
-
   // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
   "settings2_main_2_regular": "Καλωσόρισες και πάλι! Διαχειρίσου τις συνδρομές σου παρακάτω. Κάνε κλικ σε μια συνδρομή για περισσότερες πληροφορίες και για να αλλάξεις τις ρυθμίσεις της.\nΧρειάζεσαι βοήθεια; Δες τον [διακομιστή υποστήριξης]({invite}) ή τον [οδηγό]({guide})!",
 
@@ -791,12 +707,6 @@
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
   "settings_botprofile_ui_2": "",
 
-  // Uhhhh what are you doing?
-  "settings_change_any_while_unsubscribed_1": "Αχχχχ τι κάνεις;",
-
-  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
-  "settings_change_any_while_unsubscribed_2": "Προσπαθείς να ξεγελάσεις το σύστημα; Δεν μπορείς να αλλάξεις αυτήν τη ρύθμιση ενώ δεν είσαι γραμμένος στο {channel}. Γράψου πρώτα και μετά ξανά έλα.",
-
   // Edit Avatar and Name
   "settings_change_bot_profile": "",
 
@@ -805,12 +715,6 @@
 
   // here
   "settings_channel_list_here": "εδώ",
-
-  // No channel
-  "settings_channel_list_no_channel_1": "Χωρίς κανάλι",
-
-  // Disable free games feed
-  "settings_channel_list_no_channel_2": "Απενεργοποίηση ροής δωρεάν παιχνιδιών",
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "Έχεις πάρα πολλά κανάλια για να τα εμφανίσεις όλα στην παρακάτω λίστα.",
@@ -956,9 +860,6 @@
   // Things like steam point shop items
   "settings_filter_kinds_storeitem_2": "",
 
-  // (All disabled)
-  "settings_filter_platforms_none": "(Όλες απενεργοποιημένες)",
-
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "Στείλε όλα τα παιχνίδια. ΤΑ. ΘΕΛΩ. ΟΛΑ.",
 
@@ -968,50 +869,17 @@
   // Minimum original price
   "settings_filter_prices_label": "",
 
-  // Disable Games
-  "settings_filter_show_passgames_off_prompt": "",
-
-  // Games Disabled
-  "settings_filter_show_passgames_off_state": "",
-
-  // Enable Games
-  "settings_filter_show_passgames_on_prompt": "",
-
-  // Games Enabled
-  "settings_filter_show_passgames_on_state": "",
-
-  // Disable Loot
-  "settings_filter_show_passloot_off_prompt": "",
-
-  // Loot Disabled
-  "settings_filter_show_passloot_off_state": "",
-
-  // Enable Loot
-  "settings_filter_show_passloot_on_prompt": "",
-
-  // Loot Enabled
-  "settings_filter_show_passloot_on_state": "",
-
   // Only from these stores
   "settings_filter_stores_label": "",
+
+  // (All disabled)
+  "settings_filter_stores_none": "",
 
   // Show bad quality games
   "settings_filter_trash_1": "",
 
-  // By default we won't show you games with bad ratings or of gernal poor quality
+  // By default we won't show you games with bad ratings or of general poor quality
   "settings_filter_trash_2": "",
-
-  // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "Απενεργοποίηση Παιχνιδιών Χαμηλής Ποιότητας",
-
-  // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "Απενεργοποιημένα Παιχνίδια Χαμηλής Ποιότητας",
-
-  // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "Ενεργοποίηση Παιχνιδιών Χαμηλής Ποιότητας",
-
-  // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "Ενεργοποιημένα Παιχνίδια Χαμηλής Ποιότητας",
 
   // Filter Settings
   "settings_filter_ui_1": "Ρυθμίσεις Φίλτρων",
@@ -1085,24 +953,6 @@
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} από {translators}",
 
-  // Language Selection
-  "settings_language_ui_1": "Επιλογή Γλώσσας",
-
-  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
-  "settings_language_ui_2": "Αυτή η ρύθμιση γλώσσας ισχύει για ολόκληρο τον διακομιστή σου, όχι για εσένα προσωπικά!",
-
-  // Oh no!
-  "settings_locked_premium_1": "",
-
-  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
-  "settings_locked_premium_2": "",
-
-  // Active Notifications
-  "settings_main_active_notifications_1": "",
-
-  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "",
-
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "",
 
@@ -1114,12 +964,6 @@
 
   // Click to add new sources
   "settings_main_add_sources_placeholder": "",
-
-  // Change channel
-  "settings_main_btn_channel_change": "Αλλαγή Καναλιού",
-
-  // Set channel
-  "settings_main_btn_channel_set": "Επιλογή Καναλιού",
 
   // Display Settings
   "settings_main_btn_display": "Ρυθμίσεις Εμφάνισης",
@@ -1138,27 +982,6 @@
 
   // Notification Settings
   "settings_main_btn_notifications": "Ρυθμίσεις Ειδοποιήσεων",
-
-  // Change role mention
-  "settings_main_btn_role_change": "Αλλαγή ρόλου επισήμανσης",
-
-  // Mention a role
-  "settings_main_btn_role_set": "Επισήμανση ενός ρόλου",
-
-  // Need help?
-  "settings_main_help_1": "",
-
-  // Read the guide
-  "settings_main_help_solution_guide_1": "",
-
-  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "",
-
-  // Join our support server
-  "settings_main_help_solution_server_1": "",
-
-  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "",
 
   // Tl;dr
   "settings_main_help_solution_tldr_1": "",
@@ -1253,12 +1076,6 @@
   // View Server Data
   "settings_more_btn_guilddata": "Προβολή Δεδομένων Διακομιστή",
 
-  // Re-send Messages
-  "settings_more_btn_resend": "Επανάληψη Αποστολής Μηνυμάτων",
-
-  // Send Test Message
-  "settings_more_btn_test": "Αποστολή Δοκιμαστικού Μηνύματος",
-
   // Your Data
   "settings_more_data_label": "",
 
@@ -1267,9 +1084,6 @@
 
   // Advanced Options
   "settings_more_ui_1": "Περισσότερα",
-
-  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
-  "settings_more_ui_2": "**Αποστολή Δοκιμαστικού Μηνύματος** στέλνει ένα δοκιμαστικό μήνυμα με όλες τις επιλογές που έχεις διαμορφώσει. Χρησιμοποίησε αυτό για να βεβαιωθείς 100% ότι όλα λειτουργούν όπως θέλεις. Έχε υπόψη ότι μπορεί να κάνει ping άτομα, εάν έχει ρυθμιστεί να το κάνει.\n\n**Επανάληψη Αποστολής Μηνυμάτων** θα στείλει ξανά τα νέα για παιχνίδια που είναι ακόμα δωρεάν. Διέγραψες κατά λάθος ένα μήνυμα; Άλλαξες ρυθμίσεις; Ή απλά θέλεις δύο φορές την ίδια ανακοίνωση; Αυτό το κουμπί είναι για εσένα!\n\n**Προβολή Δεδομένων Διακομιστή** θα σου δείξει ποια δεδομένα αποθηκεύουμε για τον διακομιστή σου.\n\n**Συμμετοχή στη Beta** θα σου επιτρέψει να λαμβάνεις ενημερώσεις και νέες δυνατότητες πιο νωρίς. Έχε υπόψη ότι αυτό μπορεί επίσης να περιλαμβάνει ασταθείς ή πειραματικές λειτουργίες και ενημερώσεις. Ενδέχεται επίσης περιστασιακά να σου ζητούνται σχόλια εάν επιλέξεις να συμμετάσχεις.",
 
   // You need \"Manage Server\" permissions to edit this
   "settings_permission_disclaimer": "Χρειάζεσαι την άδεια \"Διαχείριση Διακομιστή\" για να το επεξεργαστείς αυτό",
@@ -1369,15 +1183,6 @@
 
   // You will stop receiving games from this category.
   "settings_subscription_unsubscribe_2": "Θα σταματήσεις να λαμβάνεις παιχνίδια από αυτήν την κατηγορία.",
-
-  // Slash commands are here!
-  "slash_command_introduction_info_short": "Οι εντολές με κάθετο είναι εδώ!",
-
-  // Slash commands are here! Use **{command}** from now on!
-  "slash_command_introduction_label_long": "Οι εντολές με κάθετο είναι εδώ! Χρησιμοποίησε **{command}** από εδώ και πέρα!",
-
-  // Use **{command}** from now on!
-  "slash_command_introduction_label_short": "Χρησιμοποίησε **{command}** από εδώ και πέρα!",
 
   // {user} used {command}
   "slash_command_source": "{user} χρησιμοποίησε {command}",
@@ -1559,33 +1364,6 @@
   // Message in thread
   "thread_opt_c_name": "Μήνυμα σε νήμα",
 
-  // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "Η Ελληνική μετάφραση είναι διαθέσιμη! Αν θέλεις να χρησιμοποιώ Ελληνικά, χρησιμοποίησε `/settings`",
-
-  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "",
-
-  // English translation by:
-  "translation_by": "Ελληνική μετάφραση από:",
-
-  // Maanex
-  "translators": "@G4b1tz",
-
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
-  "webhook_create_auditlog_reason": "Το FreeStuff χρησιμοποιεί Webhooks για τη διανομή ανακοινώσεων σε μεγάλη κλίμακα. Παρακαλώ μην αφαιρέσεις αυτό το webhook.",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_missing_permissions_1": "Ωπαλάκια!",
-
-  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "Φαίνεται ότι μου λείπει η άδεια \"Διαχείριση Webhooks\". Παρακαλώ δώσ' την μου και προσπάθησε ξανά!",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "Ωπαλάκια!",
-
-  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
-  "webhook_migration_failed_too_many_hooks_2": "Φαίνεται πως έχεις ήδη μερικά Webhooks για αυτό το κανάλι. Δυστυχώς υπάρχει όριο 10 Webhooks ανά κανάλι, επομένως, διέγραψε ένα από αυτά για να δημιουργήσει ένα νέο το FreeStuff.",
-
-  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
-  "webhook_migration_notice": "Λείπουν άδειες στο FreeStuff για **Διαχείριση Webhooks** σε αυτό το κανάλι. Οι διαχειριστές του διακομιστή παρακαλώ παραχωρήστε αυτήν την άδεια ή τρέξτε το **/settings** για περισσότερες πληροφορίες, διαφορετικά το bot θα σταματήσει να στέλνει νέα σύντομα."
+  "webhook_create_auditlog_reason": "Το FreeStuff χρησιμοποιεί Webhooks για τη διανομή ανακοινώσεων σε μεγάλη κλίμακα. Παρακαλώ μην αφαιρέσεις αυτό το webhook."
 }

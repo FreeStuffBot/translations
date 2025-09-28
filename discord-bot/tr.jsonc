@@ -338,39 +338,6 @@
   // Yellow
   "color_yellow": "Sarı",
 
-  // Lev (BGN)
-  "currency_bgn": "Leva (BGN)",
-
-  // Real (BRL)
-  "currency_brl": "Brezilya Reali (BRL)",
-
-  // Bitcoin (brrrr)
-  "currency_btc": "Bitcoin (brrrr)",
-
-  // Euro (EUR)
-  "currency_euro": "Euro (EUR)",
-
-  // Pounds (GBP)
-  "currency_gbp": "Pound (GBP)",
-
-  // Forint (HUF)
-  "currency_huf": "Macar Forinti (HUF)",
-
-  // Złoty (PLN)
-  "currency_pln": "Polonya Zloti (PLN)",
-
-  // before
-  "currency_sign_dollar_position": "after",
-
-  // before
-  "currency_sign_euro_position": "before",
-
-  // before
-  "currency_sign_position": "before",
-
-  // Dollar (USD)
-  "currency_usd": "Amerikan Doları (USD)",
-
   // en-US
   "date_format": "tr",
 
@@ -587,51 +554,6 @@
   // View Channel
   "permission_view_channel": "Kanalı Görüntüle",
 
-  // Apple App Store
-  "platform_apple": "",
-
-  // Discord
-  "platform_discord": "",
-
-  // Epic Games
-  "platform_epic": "",
-
-  // GOG.com
-  "platform_gog": "",
-
-  // Google Play
-  "platform_google": "",
-
-  // Humble Bundle
-  "platform_humble": "",
-
-  // itch.io
-  "platform_itch": "",
-
-  // Origin
-  "platform_origin": "",
-
-  // Other
-  "platform_other": "",
-
-  // Play Station
-  "platform_ps": "",
-
-  // Steam
-  "platform_steam": "",
-
-  // Nintendo Switch
-  "platform_switch": "",
-
-  // Twitch
-  "platform_twitch": "",
-
-  // Ubisoft Store
-  "platform_uplay": "",
-
-  // Xbox
-  "platform_xbox": "",
-
   // About Premium
   "premium_promo_button": "Premium Hakkında",
 
@@ -728,12 +650,6 @@
   // FreeStuff Settings
   "settings2_main_1_regular": "FreeStuff Ayarları",
 
-  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
-  "settings2_main_2_first_time": "Sizi gördüğümüz için çok heyecanlıyız!\n**Bildirimleri hızlıca ayarlayalım, böylece hiçbir ücretsiz oyunu kaçırmayacaksınız, tamam mı?\nFreeStuff sizi birden fazla türde ücretsiz oyun hakkında bilgilendirebilir, biz bunlara farklı **abonelikler** diyoruz. Mevcut tüm abonelikleri aşağıda görebilirsiniz. Bunlardan birine abone olmak veya daha fazla bilgi almak için sadece butona tıklayın. Bu kadar basit.\nÖnce **{recommendation}**'ye göz atmanızı öneririz. Çok seveceksiniz söz.",
-
-  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
-  "settings2_main_2_first_time_v1prev": "Hey, tekrar hoş geldiniz! Son ziyaretinizden bu yana ayarlar biraz değişti. Sizi hızlıca bilgilendirmeme izin verin ve bana güvenin, bunu duymak istersiniz:\nFreeStuff'ta artık ayrı ayrı abone olabileceğiniz birden fazla **abonelik** var. Alışık olduğunuz **%100 İndirimli** oyunlara ek olarak, **Ücretsiz Hafta Sonu** oyunları ve yakında duyurulacak daha fazlasını içeren bazı yeni kategorilerimiz var.\nYönetmek için bir aboneliğe tıklayın, bu ayarları biraz daha tanıdık bulacaksınız. Yardıma ihtiyacınız olursa [destek sunucumuza]({invite}) uğramaktan veya [rehberimize]({guide}) göz atmaktan çekinmeyin!\nGörüşmek üzere!",
-
   // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
   "settings2_main_2_regular": "Tekrar hoş geldiniz! Aboneliklerinizi aşağıdan yönetin. Daha fazla bilgi almak ve ayarları değiştirmek için bir aboneliğe tıklayın.\nYardıma mı ihtiyacınız var? [Destek sunucumuza]({invite}) veya [kılavuzumuza]({guide}) göz atın!",
 
@@ -791,12 +707,6 @@
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
   "settings_botprofile_ui_2": "Bildirim gönderirken botun ismini ve profil resmini özelleştirin. Discord ile ilgili sınırlamalar nedeniyle bu özel profil yalnızca ücretsiz oyun bildirimleri için geçerlidir, `/settings` veya `/free` gibi komutları kullanırken geçerli değildir.\n\n**Avatarı Düzenle** botun profil resmini değiştirmenizi sağlar. İstediğiniz resmin bir bağlantısını sağlamanız gerekir. Varsayılana sıfırlamak için boş bırakın.\n\n**Adı Düzenle** botun ismini değiştirmenize sağlar. Varsayılana sıfırlamak için boş bırakın.",
 
-  // Uhhhh what are you doing?
-  "settings_change_any_while_unsubscribed_1": "Uyiiiii ne yapıyorsun?",
-
-  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
-  "settings_change_any_while_unsubscribed_2": "Sistemi kandırmaya mı çalışıyorsunuz? Bu ayarı {channel} abonesi değilken değiştiremezsiniz. Önce abone olun, sonra geri gelin.",
-
   // Edit Avatar and Name
   "settings_change_bot_profile": "Profil Resmini ve Adını Düzenle",
 
@@ -805,12 +715,6 @@
 
   // here
   "settings_channel_list_here": "burada",
-
-  // No channel
-  "settings_channel_list_no_channel_1": "Kanal yok",
-
-  // Disable free games feed
-  "settings_channel_list_no_channel_2": "Ücretsiz oyun akışını devre dışı bırak",
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "Aşağıdaki listede hepsini gösteremeyecek kadar çok kanalınız var.",
@@ -956,9 +860,6 @@
   // Things like steam point shop items
   "settings_filter_kinds_storeitem_2": "",
 
-  // (All disabled)
-  "settings_filter_platforms_none": "(Hepsi devre dışı)",
-
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "Tüm oyunları gönder.",
 
@@ -968,50 +869,17 @@
   // Minimum original price
   "settings_filter_prices_label": "",
 
-  // Disable Games
-  "settings_filter_show_passgames_off_prompt": "Oyunları Devre Dışı Bırak",
-
-  // Games Disabled
-  "settings_filter_show_passgames_off_state": "Oyunlar Devre Dışı Bırakıldı",
-
-  // Enable Games
-  "settings_filter_show_passgames_on_prompt": "Oyunları Etkinleştir",
-
-  // Games Enabled
-  "settings_filter_show_passgames_on_state": "Oyunlar Etkinleştirildi",
-
-  // Disable Loot
-  "settings_filter_show_passloot_off_prompt": "Ganimetleri Devre Dışı Bırak",
-
-  // Loot Disabled
-  "settings_filter_show_passloot_off_state": "Ganimet Devre Dışı Bırakıldı",
-
-  // Enable Loot
-  "settings_filter_show_passloot_on_prompt": "Ganimeti Etkinleştir",
-
-  // Loot Enabled
-  "settings_filter_show_passloot_on_state": "Ganimet Etkinleştirildi",
-
   // Only from these stores
   "settings_filter_stores_label": "",
+
+  // (All disabled)
+  "settings_filter_stores_none": "",
 
   // Show bad quality games
   "settings_filter_trash_1": "",
 
-  // By default we won't show you games with bad ratings or of gernal poor quality
+  // By default we won't show you games with bad ratings or of general poor quality
   "settings_filter_trash_2": "",
-
-  // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "Kalitesiz Oyunları Kapat",
-
-  // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "Kalitesiz Oyunlar Kapalı",
-
-  // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "Kalitesiz Oyunları Aç",
-
-  // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "Kalitesiz Oyunları Kapat",
 
   // Filter Settings
   "settings_filter_ui_1": "Filtreleme Ayarları",
@@ -1085,24 +953,6 @@
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} dilinin çevirmenleri: {translators}",
 
-  // Language Selection
-  "settings_language_ui_1": "Dil Seçimi",
-
-  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
-  "settings_language_ui_2": "Bu ayar sadece senin için değil sunucudaki herkes için geçerlidir, ayrıca aramıza hoşgeldin :)",
-
-  // Oh no!
-  "settings_locked_premium_1": "Olamaz!",
-
-  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
-  "settings_locked_premium_2": "**Bu bir FreeStuff Premium özelliğidir.**\nDaha fazla bilgi için aşağıdaki düğmeye tıklayın:",
-
-  // Active Notifications
-  "settings_main_active_notifications_1": "",
-
-  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "",
-
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "",
 
@@ -1114,12 +964,6 @@
 
   // Click to add new sources
   "settings_main_add_sources_placeholder": "",
-
-  // Change channel
-  "settings_main_btn_channel_change": "Kanalı değiştir",
-
-  // Set channel
-  "settings_main_btn_channel_set": "Kanal ayarla",
 
   // Display Settings
   "settings_main_btn_display": "Görüntüleme Ayarları",
@@ -1138,27 +982,6 @@
 
   // Notification Settings
   "settings_main_btn_notifications": "Bildirim Ayarları",
-
-  // Change role mention
-  "settings_main_btn_role_change": "Rol bahsetmesini değiştir",
-
-  // Mention a role
-  "settings_main_btn_role_set": "Bir rol etiketle",
-
-  // Need help?
-  "settings_main_help_1": "",
-
-  // Read the guide
-  "settings_main_help_solution_guide_1": "",
-
-  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "",
-
-  // Join our support server
-  "settings_main_help_solution_server_1": "",
-
-  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "",
 
   // Tl;dr
   "settings_main_help_solution_tldr_1": "",
@@ -1253,12 +1076,6 @@
   // View Server Data
   "settings_more_btn_guilddata": "Sunucu Verisini Görüntüle",
 
-  // Re-send Messages
-  "settings_more_btn_resend": "Mesajları Yeniden Gönder",
-
-  // Send Test Message
-  "settings_more_btn_test": "Test Mesajı Gönder",
-
   // Your Data
   "settings_more_data_label": "",
 
@@ -1267,9 +1084,6 @@
 
   // Advanced Options
   "settings_more_ui_1": "Gelişmiş",
-
-  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
-  "settings_more_ui_2": "**Sunucu Verisini Görüntüle**, sunucunuz hakkında hangi verileri sakladığımızı size gösterecektir.\n\n**Beta'ya katıl** güncellemeleri ve yeni özellikleri erkenden almanızı sağlayacaktır. Bunun kararsız veya deneysel özellikleri ve güncellemeleri de içerebileceğini unutmayın. Ayrıca, eğer seçtiyseniz zaman zaman sizden geri bildirim istenebilir.",
 
   // You need \"Manage Server\" permissions to edit this
   "settings_permission_disclaimer": "Bunu düzenlemek için \"Sunucuyu Yönet\" iznine ihtiyacınız var",
@@ -1369,15 +1183,6 @@
 
   // You will stop receiving games from this category.
   "settings_subscription_unsubscribe_2": "Bu kategoriden oyun bildirimi almayı durduracaksınız.",
-
-  // Slash commands are here!
-  "slash_command_introduction_info_short": "Eğik çizgi komutları işte burada!",
-
-  // Slash commands are here! Use **{command}** from now on!
-  "slash_command_introduction_label_long": "Eğik çizgi komutları burada! Şu andan itibaren **{command}** kullanın!",
-
-  // Use **{command}** from now on!
-  "slash_command_introduction_label_short": "Şu andan itibaren **{command}** kullanın!",
 
   // {user} used {command}
   "slash_command_source": "{user} adlı kullanıcı {command} komutunu kullandı",
@@ -1559,33 +1364,6 @@
   // Message in thread
   "thread_opt_c_name": "Alt başlık içindeki mesaj",
 
-  // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "Türkçe çeviri mevcut! Eğer botu Türkçe  dilinde kullanmak istiyorsanız, `/settings` komutunu kullanın",
-
-  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "",
-
-  // English translation by:
-  "translation_by": "Türkçe Tercümanlar:",
-
-  // Maanex
-  "translators": "Bae#1000, erensi, hhhhh_ckr, mahirsn, bydexter",
-
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
-  "webhook_create_auditlog_reason": "FreeStuff, duyuruları büyük ölçekte yayınlamak için Webhook'ları kullanıyor. Lütfen bu webhook'u kaldırmayın.",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_missing_permissions_1": "Oopsie daisy!",
-
-  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "Görünüşe göre \"Webhook'ları Yönet\" iznine sahip değilim. Lütfen bana bu izni verin ve tekrar deneyin!",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "",
-
-  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
-  "webhook_migration_failed_too_many_hooks_2": "Görünüşe göre bu kanalda zaten birkaç Webhook var. Maalesef ki kanal başına 10 Webhook sınırı vardır, bu yüzden FreeStuff'ın yeni bir tane oluşturması için bunlardan birini silin.",
-
-  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
-  "webhook_migration_notice": "FreeStuff'ın bu kanalda **Webhook'ları Yönet** izni yok. Sunucu yetkilileri, lütfen bota bu izni verin ve daha fazla bilgi için **/settings** komutunu kullanın. Aksi takdirde bot yakın zamanda size haber göndermeyi durduracak."
+  "webhook_create_auditlog_reason": "FreeStuff, duyuruları büyük ölçekte yayınlamak için Webhook'ları kullanıyor. Lütfen bu webhook'u kaldırmayın."
 }

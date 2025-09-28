@@ -338,39 +338,6 @@
   // Yellow
   "color_yellow": "Sárga",
 
-  // Lev (BGN)
-  "currency_bgn": "Leva (BGN)",
-
-  // Real (BRL)
-  "currency_brl": "Reál (BRL)",
-
-  // Bitcoin (brrrr)
-  "currency_btc": "Bitcoin (BTC)",
-
-  // Euro (EUR)
-  "currency_euro": "Euro (EUR)",
-
-  // Pounds (GBP)
-  "currency_gbp": "Font (GBP)",
-
-  // Forint (HUF)
-  "currency_huf": "Forint (HUF)",
-
-  // Złoty (PLN)
-  "currency_pln": "Zloty (PLN)",
-
-  // before
-  "currency_sign_dollar_position": "előtt",
-
-  // before
-  "currency_sign_euro_position": "Előtt",
-
-  // before
-  "currency_sign_position": "előtt",
-
-  // Dollar (USD)
-  "currency_usd": "Dollár (USD)",
-
   // en-US
   "date_format": "hu",
 
@@ -587,51 +554,6 @@
   // View Channel
   "permission_view_channel": "Csatorna megtekintése",
 
-  // Apple App Store
-  "platform_apple": "",
-
-  // Discord
-  "platform_discord": "",
-
-  // Epic Games
-  "platform_epic": "",
-
-  // GOG.com
-  "platform_gog": "",
-
-  // Google Play
-  "platform_google": "",
-
-  // Humble Bundle
-  "platform_humble": "",
-
-  // itch.io
-  "platform_itch": "",
-
-  // Origin
-  "platform_origin": "",
-
-  // Other
-  "platform_other": "",
-
-  // Play Station
-  "platform_ps": "",
-
-  // Steam
-  "platform_steam": "",
-
-  // Nintendo Switch
-  "platform_switch": "",
-
-  // Twitch
-  "platform_twitch": "",
-
-  // Ubisoft Store
-  "platform_uplay": "",
-
-  // Xbox
-  "platform_xbox": "",
-
   // About Premium
   "premium_promo_button": "A Prémiumról",
 
@@ -728,12 +650,6 @@
   // FreeStuff Settings
   "settings2_main_1_regular": "FreeStuff Beállítások",
 
-  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
-  "settings2_main_2_first_time": "Nagyon örülök a találkozásnak!\n**Gyorsan állítsuk be az értesítéseket hogy ne maradj le az ingyenes tartalmakról okés?**\n\nFreeStuff informál többféle ingyenes játékról amiket különböző **feliratkozásnak** hívunk. Az összes elérhető feliratkozásodat lent láthatod. Hogy feliratkozz még egyre vagy többre csak kattints a lenti gombokra. Ilyen egyszerű.\n\nDe előbb nézd meg ajánlatunkat: **{recommendation}**. Imádni fogod, kisujj eskü!",
-
-  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
-  "settings2_main_2_first_time_v1prev": "Héj, üdv újra itt! A Beállítások változtak mióta utoljára itt jártál. Segítek hogy gyorsan felzárkózz a változásokhoz. Hidd el hallani akarod:\n\nFreeStuff már többféle **feliratkozást** kezel amikre egyesével fel tudsz iratkozni. Hasonlóak mint a **100%-os Leárazott** játékok amiket már megszoktál. Hozzá adtunk pár új kategóriát beleértve az **Ingyenes Hétvége** játékokat és hamarosan többet is hozzá adunk.\n\nKattints a gombokra hogy kezeld a feliratkozásaid ha ismerősek a beállítások. Ha bármilyen segítség kell bátran keresd fel [Support csapatunk]({invite}) vagy nézd meg az [útmutatónkat]({guide})!\n\nMég találkozunk!",
-
   // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
   "settings2_main_2_regular": "Köszöntelek újra! Kezeld a feliratkozásaid lentebb. Kattints egy kategóriára (Kék gomb) több infóért vagy a beállítások szerkesztéséhez.\nSegítség kell? Keresd fel [Support csapatunk]({invite}) vagy [útmutatónkat]({guide})",
 
@@ -791,12 +707,6 @@
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
   "settings_botprofile_ui_2": "Szerkeszd a bot nevét és profil képét amikor üzeneteket küld. A Discord limitációi miatt ez az Egyedi profil csak az értesítésekben jelenik meg, amikor parancsot használsz mint `/settings` vagy `/free` akkor nem.\n\n**Avatár Szerkesztése** Engedi, hogy megváltoztasd a bot Profil képét. Linket kell használnod hogy megváltoztasd a bot képét. Hagyd üresen ha az alapot akarod használni.\n\n**Név szerkesztése** Engedi, hogy megváltoztasd a bot nevét. Hagyd üresen ha az alapot szeretnéd használni.",
 
-  // Uhhhh what are you doing?
-  "settings_change_any_while_unsubscribed_1": "Uhhhh, mit csinálsz?",
-
-  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
-  "settings_change_any_while_unsubscribed_2": "Megpróbálod átverni a rendszert? Nem változtathatod meg ezt a beállítást amíg nem iratkoztál fel a {channel} csatornára. Iratkozz fel, majd gyere vissza.",
-
   // Edit Avatar and Name
   "settings_change_bot_profile": "Avatár és Név szerkesztése",
 
@@ -805,12 +715,6 @@
 
   // here
   "settings_channel_list_here": "itt",
-
-  // No channel
-  "settings_channel_list_no_channel_1": "Hiányzó csatorna",
-
-  // Disable free games feed
-  "settings_channel_list_no_channel_2": "Ingyenes játékok értesítés letiltva",
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "Túl sok csatornád van, hogy egyszerre megjeleníthessük a lenti listában.",
@@ -956,9 +860,6 @@
   // Things like steam point shop items
   "settings_filter_kinds_storeitem_2": "",
 
-  // (All disabled)
-  "settings_filter_platforms_none": "(Összes letiltva)",
-
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "Minden játék jöhet. Minden. Egyes. Játék.",
 
@@ -968,50 +869,17 @@
   // Minimum original price
   "settings_filter_prices_label": "",
 
-  // Disable Games
-  "settings_filter_show_passgames_off_prompt": "Játékok letiltása",
-
-  // Games Disabled
-  "settings_filter_show_passgames_off_state": "Játékok letiltva",
-
-  // Enable Games
-  "settings_filter_show_passgames_on_prompt": "Játékok engedélyezése",
-
-  // Games Enabled
-  "settings_filter_show_passgames_on_state": "Játékok engedélyezve",
-
-  // Disable Loot
-  "settings_filter_show_passloot_off_prompt": "A zsákmány letiltása",
-
-  // Loot Disabled
-  "settings_filter_show_passloot_off_state": "Zsákmány letiltva",
-
-  // Enable Loot
-  "settings_filter_show_passloot_on_prompt": "Loot engedélyezése",
-
-  // Loot Enabled
-  "settings_filter_show_passloot_on_state": "Zsákmány engedélyezve",
-
   // Only from these stores
   "settings_filter_stores_label": "",
+
+  // (All disabled)
+  "settings_filter_stores_none": "",
 
   // Show bad quality games
   "settings_filter_trash_1": "",
 
-  // By default we won't show you games with bad ratings or of gernal poor quality
+  // By default we won't show you games with bad ratings or of general poor quality
   "settings_filter_trash_2": "",
-
-  // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "Rossz minőségű játékok letiltása",
-
-  // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "Rossz minőségű játékok letiltva",
-
-  // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "Rossz minőségű játékok engedélyezése",
-
-  // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "Rossz minőségű játékok engedélyezve",
 
   // Filter Settings
   "settings_filter_ui_1": "Szűrési beállítások",
@@ -1085,24 +953,6 @@
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} általuk {translators}",
 
-  // Language Selection
-  "settings_language_ui_1": "Nyelv kiválasztása",
-
-  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
-  "settings_language_ui_2": "A Nyelv kiválasztása az egész szerveredre érvényes lesz, ez nem személyes beállítás!",
-
-  // Oh no!
-  "settings_locked_premium_1": "Jaj ne!",
-
-  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
-  "settings_locked_premium_2": "**Ez egy FreeStuff Premium funkció.**\nKattints a lenti gombra több infóért:",
-
-  // Active Notifications
-  "settings_main_active_notifications_1": "",
-
-  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "",
-
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "",
 
@@ -1114,12 +964,6 @@
 
   // Click to add new sources
   "settings_main_add_sources_placeholder": "",
-
-  // Change channel
-  "settings_main_btn_channel_change": "Csatorna megváltoztatása",
-
-  // Set channel
-  "settings_main_btn_channel_set": "Csatorna beállítása",
 
   // Display Settings
   "settings_main_btn_display": "Megjelenítési Beállítások",
@@ -1138,27 +982,6 @@
 
   // Notification Settings
   "settings_main_btn_notifications": "Értesítési Beállítások",
-
-  // Change role mention
-  "settings_main_btn_role_change": "Rang megemlítés változtatása",
-
-  // Mention a role
-  "settings_main_btn_role_set": "Rang megemlítése",
-
-  // Need help?
-  "settings_main_help_1": "",
-
-  // Read the guide
-  "settings_main_help_solution_guide_1": "",
-
-  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "",
-
-  // Join our support server
-  "settings_main_help_solution_server_1": "",
-
-  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "",
 
   // Tl;dr
   "settings_main_help_solution_tldr_1": "",
@@ -1253,12 +1076,6 @@
   // View Server Data
   "settings_more_btn_guilddata": "Szerver Adatok Megtekintése",
 
-  // Re-send Messages
-  "settings_more_btn_resend": "Üzenet újraküldése",
-
-  // Send Test Message
-  "settings_more_btn_test": "Szöveges üzenet küldése",
-
   // Your Data
   "settings_more_data_label": "",
 
@@ -1267,9 +1084,6 @@
 
   // Advanced Options
   "settings_more_ui_1": "Haladó",
-
-  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
-  "settings_more_ui_2": "**Szerver Adat Megtekintése** megmutatja a tárolt adatokat a szerveredről.\n\n**Feliratkozás BÉTA verzióra**engedélyezi számodra, hogy hamarabb juss hozzá frissítésekhez és új funkciókhoz. Vigyázz! Mert ez tartalmazhat instabil funkciókat is! Időnként kérhetünk tőled visszajelzést, hogy fejlesszük a stabilitást.",
 
   // You need \"Manage Server\" permissions to edit this
   "settings_permission_disclaimer": "Ennek szerkesztéséhez „Manage Server” engedélyere van szükség",
@@ -1369,15 +1183,6 @@
 
   // You will stop receiving games from this category.
   "settings_subscription_unsubscribe_2": "Ebből a kategóriából már nem fogsz értesítést kapni!",
-
-  // Slash commands are here!
-  "slash_command_introduction_info_short": "A Perjeles parancsok elérhetőek!",
-
-  // Slash commands are here! Use **{command}** from now on!
-  "slash_command_introduction_label_long": "Perjeles parancsok itt vannak! Használhatod a **{command}** mostantól",
-
-  // Use **{command}** from now on!
-  "slash_command_introduction_label_short": "Használhatod a **{command}** mostantól",
 
   // {user} used {command}
   "slash_command_source": "{user} a {command} használta",
@@ -1559,33 +1364,6 @@
   // Message in thread
   "thread_opt_c_name": "Gondolatmeneten belül",
 
-  // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "Magyar fordítás elérhető! Ha szeretnéd használni, írd be: @FreeStuff set language hungarian",
-
-  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "",
-
-  // English translation by:
-  "translation_by": "Magyar fordítást készítette:",
-
-  // Maanex
-  "translators": "R.-",
-
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
-  "webhook_create_auditlog_reason": "FreeStuff Webhookokat használ a hirdetések nagy terjedelmű használata miatt. Kérlek ne távolítsd el a webhookot!",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_missing_permissions_1": "Hupsz!",
-
-  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "Úgy tűnik hiányzik a \"Webhookok kezelése\" jogom. Kérlek engedélyezd és utána próbáld újra!",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "Hupsz!",
-
-  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
-  "webhook_migration_failed_too_many_hooks_2": "Úgy tűnik már van egy pár Webhook ehhez a csatornához. Sajnálatosan egy limitálás miatt 10 webhook lehet egy csatornához, szóval légyszi törölj egyet belőle hogy a FreeStuff tudjon egy újat csinálni",
-
-  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
-  "webhook_migration_notice": "FreeStuff hiányolja a **Webhookok kezelése** jogot ebben a csatornában. Szerver adminok kérlek adjátok meg ezt a jogot vagy használjátok a **/settings** parancsot több infóért különben a bot nem küld több hírt a későbbiekben!"
+  "webhook_create_auditlog_reason": "FreeStuff Webhookokat használ a hirdetések nagy terjedelmű használata miatt. Kérlek ne távolítsd el a webhookot!"
 }

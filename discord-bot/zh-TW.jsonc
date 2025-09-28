@@ -338,39 +338,6 @@
   // Yellow
   "color_yellow": "黃色",
 
-  // Lev (BGN)
-  "currency_bgn": "保加利亞列弗 (BGN)",
-
-  // Real (BRL)
-  "currency_brl": "巴西里爾 (BRL)",
-
-  // Bitcoin (brrrr)
-  "currency_btc": "比特幣 (brrrr)",
-
-  // Euro (EUR)
-  "currency_euro": "歐元 (EUR)",
-
-  // Pounds (GBP)
-  "currency_gbp": "英鎊 (GBP)",
-
-  // Forint (HUF)
-  "currency_huf": "匈牙利福林 (HUF)",
-
-  // Złoty (PLN)
-  "currency_pln": "波蘭茲羅提 (PLN)",
-
-  // before
-  "currency_sign_dollar_position": "before",
-
-  // before
-  "currency_sign_euro_position": "before",
-
-  // before
-  "currency_sign_position": "before",
-
-  // Dollar (USD)
-  "currency_usd": "美元 (USD)",
-
   // en-US
   "date_format": "zh-TW",
 
@@ -587,51 +554,6 @@
   // View Channel
   "permission_view_channel": "檢視頻道",
 
-  // Apple App Store
-  "platform_apple": "Apple App Store",
-
-  // Discord
-  "platform_discord": "Discord",
-
-  // Epic Games
-  "platform_epic": "Epic Games",
-
-  // GOG.com
-  "platform_gog": "GOG.com",
-
-  // Google Play
-  "platform_google": "Google Play",
-
-  // Humble Bundle
-  "platform_humble": "Humble Bundle",
-
-  // itch.io
-  "platform_itch": "itch.io",
-
-  // Origin
-  "platform_origin": "Origin",
-
-  // Other
-  "platform_other": "其他",
-
-  // Play Station
-  "platform_ps": "PlayStation",
-
-  // Steam
-  "platform_steam": "Steam",
-
-  // Nintendo Switch
-  "platform_switch": "Nintendo Switch",
-
-  // Twitch
-  "platform_twitch": "Twitch",
-
-  // Ubisoft Store
-  "platform_uplay": "Ubisoft 商店",
-
-  // Xbox
-  "platform_xbox": "Xbox",
-
   // About Premium
   "premium_promo_button": "了解 Premium",
 
@@ -728,12 +650,6 @@
   // FreeStuff Settings
   "settings2_main_1_regular": "FreeStuff 設定",
 
-  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
-  "settings2_main_2_first_time": "我們很高興見到你！\n**讓我們快速設定通知，這樣你就不會錯過任何免費遊戲囉！**\n\nFreeStuff 可以通知你多種免費遊戲內容，我們稱這些為 **訂閱分類**。你可以在下方看到所有分類。點擊按鈕即可訂閱或查看更多資訊，超簡單！\n\n我們建議你先看看 **{recommendation}**，你一定會喜歡的，我們發誓。",
-
-  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
-  "settings2_main_2_first_time_v1prev": "嗨，歡迎回來！設定方式跟你上次看到時有點不同，讓我快速幫你更新一下：\n\nFreeStuff 現在支援多種 **訂閱類別**，你可以選擇自己感興趣的訂閱。除了你習慣的 **100% 折扣** 遊戲外，我們還新增了 **免費週末** 等分類，更多即將推出！\n\n點擊分類即可管理，設定方式會讓你感到熟悉。如果需要幫助，歡迎加入我們的 [支援伺服器]({invite}) 或查看 [使用指南]({guide})！\n\n我們下次見！",
-
   // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
   "settings2_main_2_regular": "歡迎回來！在下方管理你的訂閱分類。點擊分類（藍色按鈕）查看更多資訊或變更設定。\n需要幫助？看看我們的 [支援伺服器]({invite}) 或 [使用指南]({guide})！",
 
@@ -791,12 +707,6 @@
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
   "settings_botprofile_ui_2": "你可以自訂機器人在發送通知時顯示的名稱與頭像。由於 Discord 限制，這項設定**只適用於通知訊息**，不適用於像是 `/settings` 或 `/free` 這類指令。\n\n**修改頭像**：提供圖片連結來更換頭像，留空則恢復預設。\n\n**修改名稱**：輸入新的名稱來更改機器人顯示名稱，留空則恢復預設。",
 
-  // Uhhhh what are you doing?
-  "settings_change_any_while_unsubscribed_1": "呃你在幹嘛？",
-
-  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
-  "settings_change_any_while_unsubscribed_2": "想騙過系統？你不能在尚未訂閱 {channel} 的狀況下更改這個設定。請先訂閱再回來。",
-
   // Edit Avatar and Name
   "settings_change_bot_profile": "修改頭像與名稱",
 
@@ -805,12 +715,6 @@
 
   // here
   "settings_channel_list_here": "這裡",
-
-  // No channel
-  "settings_channel_list_no_channel_1": "沒有頻道",
-
-  // Disable free games feed
-  "settings_channel_list_no_channel_2": "停用免費遊戲推播",
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "你的頻道太多，無法全部顯示在清單中。",
@@ -956,9 +860,6 @@
   // Things like steam point shop items
   "settings_filter_kinds_storeitem_2": "例如 Steam 點數商店道具等",
 
-  // (All disabled)
-  "settings_filter_platforms_none": "（全部關閉）",
-
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "推送所有遊戲，真的所有！",
 
@@ -968,50 +869,17 @@
   // Minimum original price
   "settings_filter_prices_label": "",
 
-  // Disable Games
-  "settings_filter_show_passgames_off_prompt": "停用遊戲通知",
-
-  // Games Disabled
-  "settings_filter_show_passgames_off_state": "遊戲通知已停用",
-
-  // Enable Games
-  "settings_filter_show_passgames_on_prompt": "啟用遊戲通知",
-
-  // Games Enabled
-  "settings_filter_show_passgames_on_state": "遊戲通知已啟用",
-
-  // Disable Loot
-  "settings_filter_show_passloot_off_prompt": "停用戰利品通知",
-
-  // Loot Disabled
-  "settings_filter_show_passloot_off_state": "戰利品通知已停用",
-
-  // Enable Loot
-  "settings_filter_show_passloot_on_prompt": "啟用戰利品通知",
-
-  // Loot Enabled
-  "settings_filter_show_passloot_on_state": "戰利品通知已啟用",
-
   // Only from these stores
   "settings_filter_stores_label": "",
+
+  // (All disabled)
+  "settings_filter_stores_none": "",
 
   // Show bad quality games
   "settings_filter_trash_1": "",
 
-  // By default we won't show you games with bad ratings or of gernal poor quality
+  // By default we won't show you games with bad ratings or of general poor quality
   "settings_filter_trash_2": "",
-
-  // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "停用低品質遊戲推播",
-
-  // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "低品質遊戲已停用",
-
-  // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "啟用低品質遊戲推播",
-
-  // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "低品質遊戲已啟用",
 
   // Filter Settings
   "settings_filter_ui_1": "過濾器設定",
@@ -1085,24 +953,6 @@
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} - 由 {translators} 翻譯",
 
-  // Language Selection
-  "settings_language_ui_1": "語言設定",
-
-  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
-  "settings_language_ui_2": "這是整個伺服器的語言設定，不是你個人的喔！\n\n給正在翻譯這段文字的各位，請自由發揮寫些有趣的內容，向同胞們打聲招呼吧 ;)",
-
-  // Oh no!
-  "settings_locked_premium_1": "喔不！",
-
-  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
-  "settings_locked_premium_2": "**這是 FreeStuff Premium 功能。**\n點擊下方按鈕查看更多資訊：",
-
-  // Active Notifications
-  "settings_main_active_notifications_1": "",
-
-  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "",
-
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "",
 
@@ -1114,12 +964,6 @@
 
   // Click to add new sources
   "settings_main_add_sources_placeholder": "",
-
-  // Change channel
-  "settings_main_btn_channel_change": "變更頻道",
-
-  // Set channel
-  "settings_main_btn_channel_set": "設定頻道",
 
   // Display Settings
   "settings_main_btn_display": "顯示設定",
@@ -1138,27 +982,6 @@
 
   // Notification Settings
   "settings_main_btn_notifications": "通知設定",
-
-  // Change role mention
-  "settings_main_btn_role_change": "變更通知角色",
-
-  // Mention a role
-  "settings_main_btn_role_set": "設定通知角色",
-
-  // Need help?
-  "settings_main_help_1": "需要幫助嗎？",
-
-  // Read the guide
-  "settings_main_help_solution_guide_1": "查看指南",
-
-  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "我們有網站指南教你從頭到尾完成設定，也解釋每個選項的用途。如果你有點迷路，請一定要看一眼！",
-
-  // Join our support server
-  "settings_main_help_solution_server_1": "加入支援伺服器",
-
-  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "指南幫不上忙嗎？我們有專屬支援伺服器，能協助你並解答所有疑問，隨時歡迎加入！",
 
   // Tl;dr
   "settings_main_help_solution_tldr_1": "快速說明",
@@ -1253,12 +1076,6 @@
   // View Server Data
   "settings_more_btn_guilddata": "查看伺服器資料",
 
-  // Re-send Messages
-  "settings_more_btn_resend": "重新推送訊息",
-
-  // Send Test Message
-  "settings_more_btn_test": "發送測試訊息",
-
   // Your Data
   "settings_more_data_label": "",
 
@@ -1267,9 +1084,6 @@
 
   // Advanced Options
   "settings_more_ui_1": "進階選項",
-
-  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
-  "settings_more_ui_2": "**查看伺服器資料** 會顯示我們儲存的伺服器相關資料。\n\n**加入 Beta 測試** 可提前體驗新功能與更新。但請注意，這些功能可能尚不穩定或實驗性質，你也可能會收到回饋調查邀請。\n\n**啟用無聊模式** 將讓你退出愚人節等活動，整體體驗也會變得更沉悶（真的）。",
 
   // You need \"Manage Server\" permissions to edit this
   "settings_permission_disclaimer": "你需要擁有「管理伺服器」權限才能修改這些設定",
@@ -1369,15 +1183,6 @@
 
   // You will stop receiving games from this category.
   "settings_subscription_unsubscribe_2": "你將不再收到此分類的免費遊戲通知。",
-
-  // Slash commands are here!
-  "slash_command_introduction_info_short": "斜線指令登場！",
-
-  // Slash commands are here! Use **{command}** from now on!
-  "slash_command_introduction_label_long": "斜線指令來啦！從現在起請使用 **{command}**！",
-
-  // Use **{command}** from now on!
-  "slash_command_introduction_label_short": "從現在起請使用 **{command}**！",
 
   // {user} used {command}
   "slash_command_source": "{user} 使用了 {command}",
@@ -1559,33 +1364,6 @@
   // Message in thread
   "thread_opt_c_name": "僅使用討論串",
 
-  // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "已有英文翻譯！若你想切換為英文，請使用 `/settings`",
-
-  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "你的主要語言不是英文嗎？這個機器人支援多種語言，請使用 `/settings` 查看更多資訊。",
-
-  // English translation by:
-  "translation_by": "中文翻譯由：",
-
-  // Maanex
-  "translators": "NikolaJyun",
-
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
-  "webhook_create_auditlog_reason": "FreeStuff 使用 Webhook 大規模發佈公告。請勿刪除此 Webhook。",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_missing_permissions_1": "哎呀出錯了！",
-
-  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "看來我缺少「管理 Webhooks」的權限。請授予權限後再試一次！",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "哎呀出錯了！",
-
-  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
-  "webhook_migration_failed_too_many_hooks_2": "你在這個頻道中已經有太多 Webhooks 了。每個頻道最多只能有 10 個 Webhooks，請刪除一些未使用的 Webhooks 後再試。",
-
-  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
-  "webhook_migration_notice": "FreeStuff 缺少在此頻道中 **管理 Webhooks** 的權限。請伺服器管理員授予此權限，或執行 **/settings** 查看更多資訊。否則機器人將停止推播免費遊戲。"
+  "webhook_create_auditlog_reason": "FreeStuff 使用 Webhook 大規模發佈公告。請勿刪除此 Webhook。"
 }

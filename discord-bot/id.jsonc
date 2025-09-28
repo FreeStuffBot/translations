@@ -338,39 +338,6 @@
   // Yellow
   "color_yellow": "Kuning",
 
-  // Lev (BGN)
-  "currency_bgn": "Lev (BGN)",
-
-  // Real (BRL)
-  "currency_brl": "Real (BRL)",
-
-  // Bitcoin (brrrr)
-  "currency_btc": "Bitcoin (brrrr)",
-
-  // Euro (EUR)
-  "currency_euro": "Euro (EUR)",
-
-  // Pounds (GBP)
-  "currency_gbp": "Pound (GBP)",
-
-  // Forint (HUF)
-  "currency_huf": "Forint (HUF)",
-
-  // Złoty (PLN)
-  "currency_pln": "Złoty (PLN)",
-
-  // before
-  "currency_sign_dollar_position": "sebelumnya",
-
-  // before
-  "currency_sign_euro_position": "sebelumnya",
-
-  // before
-  "currency_sign_position": "sebelumnya",
-
-  // Dollar (USD)
-  "currency_usd": "Dollar (USD)",
-
   // en-US
   "date_format": "id-ID",
 
@@ -587,51 +554,6 @@
   // View Channel
   "permission_view_channel": "Lihat Channel",
 
-  // Apple App Store
-  "platform_apple": "Apple App Store",
-
-  // Discord
-  "platform_discord": "Discord",
-
-  // Epic Games
-  "platform_epic": "Epic Games",
-
-  // GOG.com
-  "platform_gog": "GOG.com",
-
-  // Google Play
-  "platform_google": "Google Play",
-
-  // Humble Bundle
-  "platform_humble": "Humble Bundle",
-
-  // itch.io
-  "platform_itch": "itch.io",
-
-  // Origin
-  "platform_origin": "Origin",
-
-  // Other
-  "platform_other": "Lainnya",
-
-  // Play Station
-  "platform_ps": "Play Station",
-
-  // Steam
-  "platform_steam": "Steam",
-
-  // Nintendo Switch
-  "platform_switch": "Nintendo Switch",
-
-  // Twitch
-  "platform_twitch": "Twitch",
-
-  // Ubisoft Store
-  "platform_uplay": "Ubisoft Store",
-
-  // Xbox
-  "platform_xbox": "Xbox",
-
   // About Premium
   "premium_promo_button": "Tentang Premium",
 
@@ -728,12 +650,6 @@
   // FreeStuff Settings
   "settings2_main_1_regular": "Pengaturan FreeStuff",
 
-  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
-  "settings2_main_2_first_time": "Kami sangat senang melihatmu!\n**Ayo dengan cepat setup notifikasi agar kamu tidak akan pernah melewatkan game gratis, oke?**\n\nFreeStuff dapat memberimu informasi tentang berbagai jenis game gratis, kami menyebut perbedaan tersebut **subscription**. Kamu dapat melihat semua subscription yang tersedia di bawah. Untuk berlangganan salah satunya atau untuk mendapatkan info lebih lanjut cukup klik tombolnya. Sesederhana itu.\n\nKami merekomendasikan kamu untuk melihat **{recommendation}** terlebih dahulu. Kamu akan menyukainya. Janji kelingking.",
-
-  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
-  "settings2_main_2_first_time_v1prev": "Hei, selamat datang kembali! Pengaturan telah berubah sedikit sejak kunjungan terakhirmu. Biar aku beri tahu kamu dengan cepat, dan percayalah kamu akan ingin mendengar tentang ini:\n\nFreeStuff sekarang memiliki beberapa **subscription** yang dapat kamu langgan secara individual. Selain game **Diskon 100%** yang biasa kamu dapatkan, kami memiliki beberapa kategori baru termasuk game **Free Weekend** dan banyak lagi yang akan diumumkan segera.\n\nKlik pada subscription untuk mengelolanya, kamu akan menemukan pengaturan tersebut sedikit lebih familiar. Jika kamu memerlukan bantuan jangan ragu untuk mampir ke [server support kami]({invite}) atau lihat [guide kami]({guide})!\n\nSampai jumpa!",
-
   // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
   "settings2_main_2_regular": "Selamat datang kembali! Kelola subscription kamu di bawah. Klik pada kategori (tombol biru) untuk info lebih lanjut dan untuk mengubah pengaturan.\nButuh bantuan? Lihat [server support kami]({invite}) atau [guide kami]({guide})!",
 
@@ -791,12 +707,6 @@
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
   "settings_botprofile_ui_2": "Kustomisasi nama bot dan foto profil saat mengirim notifikasi. Karena keterbatasan Discord, profil khusus ini hanya berlaku untuk notifikasi game gratis, bukan saat menggunakan command seperti `/settings` atau `/free`.\n\n**Edit Avatar** akan memungkinkanmu mengubah foto profil bot. Kamu perlu memberikan link ke gambar yang diinginkan. Biarkan kosong untuk reset ke default.\n\n**Edit Name** akan memungkinkanmu mengubah nama bot. Biarkan kosong untuk reset ke default.",
 
-  // Uhhhh what are you doing?
-  "settings_change_any_while_unsubscribed_1": "Uhhhh apa yang kamu lakukan?",
-
-  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
-  "settings_change_any_while_unsubscribed_2": "Mencoba menipu sistem? Kamu tidak dapat mengubah pengaturan ini saat kamu tidak berlangganan {channel}. Berlangganan terlebih dahulu, kemudian kembali.",
-
   // Edit Avatar and Name
   "settings_change_bot_profile": "Edit Avatar dan Nama",
 
@@ -805,12 +715,6 @@
 
   // here
   "settings_channel_list_here": "Di Sini",
-
-  // No channel
-  "settings_channel_list_no_channel_1": "Tidak ada channel",
-
-  // Disable free games feed
-  "settings_channel_list_no_channel_2": "Nonaktifkan feed game gratis",
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "Kamu memiliki terlalu banyak channel untuk menampilkan semuanya dalam daftar di bawah.",
@@ -956,9 +860,6 @@
   // Things like steam point shop items
   "settings_filter_kinds_storeitem_2": "Hal-hal seperti item toko poin steam",
 
-  // (All disabled)
-  "settings_filter_platforms_none": "(Semua dinonaktifkan)",
-
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "Kirim semua games. Semuanya.",
 
@@ -968,50 +869,17 @@
   // Minimum original price
   "settings_filter_prices_label": "",
 
-  // Disable Games
-  "settings_filter_show_passgames_off_prompt": "Nonaktifkan Game",
-
-  // Games Disabled
-  "settings_filter_show_passgames_off_state": "Game Dinonaktifkan",
-
-  // Enable Games
-  "settings_filter_show_passgames_on_prompt": "Aktifkan Game",
-
-  // Games Enabled
-  "settings_filter_show_passgames_on_state": "Game Diaktifkan",
-
-  // Disable Loot
-  "settings_filter_show_passloot_off_prompt": "Nonaktifkan Loot",
-
-  // Loot Disabled
-  "settings_filter_show_passloot_off_state": "Loot Dinonaktifkan",
-
-  // Enable Loot
-  "settings_filter_show_passloot_on_prompt": "Aktifkan Loot",
-
-  // Loot Enabled
-  "settings_filter_show_passloot_on_state": "Loot Diaktifkan",
-
   // Only from these stores
   "settings_filter_stores_label": "",
+
+  // (All disabled)
+  "settings_filter_stores_none": "",
 
   // Show bad quality games
   "settings_filter_trash_1": "",
 
-  // By default we won't show you games with bad ratings or of gernal poor quality
+  // By default we won't show you games with bad ratings or of general poor quality
   "settings_filter_trash_2": "",
-
-  // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "Nonaktifkan Game Berkualitas Buruk",
-
-  // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "Game Berkualitas Buruk Dinonaktifkan",
-
-  // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "Aktifkan Game Berkualitas Buruk",
-
-  // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "Game Berkualitas Buruk Diaktifkan",
 
   // Filter Settings
   "settings_filter_ui_1": "Pengaturan Filter",
@@ -1085,24 +953,6 @@
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} oleh {translators}",
 
-  // Language Selection
-  "settings_language_ui_1": "Pilihan Bahasa",
-
-  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
-  "settings_language_ui_2": "Halo semuanya! Aku mengucapkan Terimakasih telah menggunakan Bahasa Indonesia!!\n\nAku adalah MJ, salah satu Translator dengan Berbahasa Indonesia di FreeStuff. Ku ucapkan kembali Terimakasih!! Love you all guys :heart:",
-
-  // Oh no!
-  "settings_locked_premium_1": "Oh tidak!",
-
-  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
-  "settings_locked_premium_2": "**Ini adalah fitur FreeStuff Premium.**\nKlik tombol di bawah untuk info lebih lanjut:",
-
-  // Active Notifications
-  "settings_main_active_notifications_1": "",
-
-  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "",
-
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "",
 
@@ -1114,12 +964,6 @@
 
   // Click to add new sources
   "settings_main_add_sources_placeholder": "",
-
-  // Change channel
-  "settings_main_btn_channel_change": "Ganti channel",
-
-  // Set channel
-  "settings_main_btn_channel_set": "Atur channel",
 
   // Display Settings
   "settings_main_btn_display": "Pengaturan Tampilan",
@@ -1138,27 +982,6 @@
 
   // Notification Settings
   "settings_main_btn_notifications": "Pengaturan Notifikasi",
-
-  // Change role mention
-  "settings_main_btn_role_change": "Ganti mention role",
-
-  // Mention a role
-  "settings_main_btn_role_set": "Mention sebuah role",
-
-  // Need help?
-  "settings_main_help_1": "Butuh bantuan?",
-
-  // Read the guide
-  "settings_main_help_solution_guide_1": "Baca panduan",
-
-  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "Kami memiliki website yang disiapkan untuk memandumu melalui seluruh setup dan menjelaskan semuanya. Silakan lihat jika kamu bingung!",
-
-  // Join our support server
-  "settings_main_help_solution_server_1": "Join server support kami",
-
-  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "Panduan tidak membantu? Kami memiliki server support untuk membantumu dan menjawab semua pertanyaanmu. Jangan ragu untuk bergabung!",
 
   // Tl;dr
   "settings_main_help_solution_tldr_1": "Tl;dr",
@@ -1253,12 +1076,6 @@
   // View Server Data
   "settings_more_btn_guilddata": "Lihat Data Server",
 
-  // Re-send Messages
-  "settings_more_btn_resend": "Kirim Ulang Pesan",
-
-  // Send Test Message
-  "settings_more_btn_test": "Kirim Pesan Test",
-
   // Your Data
   "settings_more_data_label": "",
 
@@ -1267,9 +1084,6 @@
 
   // Advanced Options
   "settings_more_ui_1": "Opsi Lanjutan",
-
-  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
-  "settings_more_ui_2": "**Lihat Data Server** akan menunjukkan data apa yang kami simpan tentang servermu.\n\n**Bergabung ke Beta** akan memungkinkanmu mendapatkan update dan fitur baru lebih awal. Perlu diketahui bahwa ini mungkin juga mencakup fitur dan update yang tidak stabil atau eksperimental. Kamu juga mungkin sesekali dimintai feedback jika bergabung.\n\n**Aktifkan Boring Mode** akan mengeluarkanmu dari acara april mop dan mungkin membuat hal-hal menjadi lebih membosankan secara umum.",
 
   // You need \"Manage Server\" permissions to edit this
   "settings_permission_disclaimer": "Kamu memerlukan permission \"Manage Server\" untuk mengedit ini",
@@ -1369,15 +1183,6 @@
 
   // You will stop receiving games from this category.
   "settings_subscription_unsubscribe_2": "Kamu akan berhenti menerima game dari kategori ini.",
-
-  // Slash commands are here!
-  "slash_command_introduction_info_short": "Slash commands ada di sini!",
-
-  // Slash commands are here! Use **{command}** from now on!
-  "slash_command_introduction_label_long": "Slash commands ada di sini!  Gunakan **{command}** mulai sekarang!",
-
-  // Use **{command}** from now on!
-  "slash_command_introduction_label_short": "Gunakan **{command}** mulai sekarang!",
 
   // {user} used {command}
   "slash_command_source": "{user} menggunakan {command}",
@@ -1559,33 +1364,6 @@
   // Message in thread
   "thread_opt_c_name": "Pesan dalam thread",
 
-  // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "Terjemahan Bahasa Indonesia tersedia!  Jika kamu ingin saya menggunakan Bahasa Indonesia, gunakan /settings",
-
-  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "Bahasa Inggris bukan bahasa utamamu? Bot ini memiliki banyak terjemahan yang tersedia, gunakan `/settings` untuk info lebih lanjut.",
-
-  // English translation by:
-  "translation_by": "Translasi ke bahasa Indonesia oleh:",
-
-  // Maanex
-  "translators": "iaMJ",
-
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
-  "webhook_create_auditlog_reason": "FreeStuff menggunakan Webhook untuk mendistribusikan pengumuman dalam skala besar. Tolong jangan hapus webhook ini.",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_missing_permissions_1": "Ups!",
-
-  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "Sepertinya aku kehilangan permission \"Manage Webhooks\". Tolong berikan aku permission tersebut dan coba lagi!",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "Ups!",
-
-  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
-  "webhook_migration_failed_too_many_hooks_2": "Sepertinya kamu sudah memiliki beberapa Webhook untuk channel ini. Tetapi ada batas 10 Webhook per channel, jadi tolong hapus salah satunya agar FreeStuff bisa membuat yang baru.",
-
-  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
-  "webhook_migration_notice": "FreeStuff tidak punya permission **Manage Webhooks** di channel ini. Tolong berikan permission ini atau jalankan **/settings** untuk info lebih lanjut. Jika tidak, bot akan segera berhenti mengirim berita kepadamu."
+  "webhook_create_auditlog_reason": "FreeStuff menggunakan Webhook untuk mendistribusikan pengumuman dalam skala besar. Tolong jangan hapus webhook ini."
 }

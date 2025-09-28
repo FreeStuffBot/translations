@@ -338,39 +338,6 @@
   // Yellow
   "color_yellow": "Жовтий",
 
-  // Lev (BGN)
-  "currency_bgn": "Лев (BGN)",
-
-  // Real (BRL)
-  "currency_brl": "Реал (BRL)",
-
-  // Bitcoin (brrrr)
-  "currency_btc": "Біткоїн",
-
-  // Euro (EUR)
-  "currency_euro": "Євро (EUR)",
-
-  // Pounds (GBP)
-  "currency_gbp": "Фунти (GBP)",
-
-  // Forint (HUF)
-  "currency_huf": "Форинт (HUF)",
-
-  // Złoty (PLN)
-  "currency_pln": "Злотий (PLN)",
-
-  // before
-  "currency_sign_dollar_position": "after",
-
-  // before
-  "currency_sign_euro_position": "after",
-
-  // before
-  "currency_sign_position": "after",
-
-  // Dollar (USD)
-  "currency_usd": "Долар (USD)",
-
   // en-US
   "date_format": "uk",
 
@@ -587,51 +554,6 @@
   // View Channel
   "permission_view_channel": "Переглянути канал",
 
-  // Apple App Store
-  "platform_apple": "",
-
-  // Discord
-  "platform_discord": "",
-
-  // Epic Games
-  "platform_epic": "",
-
-  // GOG.com
-  "platform_gog": "",
-
-  // Google Play
-  "platform_google": "",
-
-  // Humble Bundle
-  "platform_humble": "",
-
-  // itch.io
-  "platform_itch": "",
-
-  // Origin
-  "platform_origin": "",
-
-  // Other
-  "platform_other": "",
-
-  // Play Station
-  "platform_ps": "",
-
-  // Steam
-  "platform_steam": "",
-
-  // Nintendo Switch
-  "platform_switch": "",
-
-  // Twitch
-  "platform_twitch": "",
-
-  // Ubisoft Store
-  "platform_uplay": "",
-
-  // Xbox
-  "platform_xbox": "",
-
   // About Premium
   "premium_promo_button": "Про Преміум",
 
@@ -728,12 +650,6 @@
   // FreeStuff Settings
   "settings2_main_1_regular": "Налаштування FreeStuff",
 
-  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
-  "settings2_main_2_first_time": "Ми дуже раді вас бачити!\n**Нумо швидко налаштуємо сповіщення, щоб ви ніколи не пропустили жодної халяви, гаразд?**\n\nFreeStuff може інформувати вас про різні види безкоштовних ігор, ми називаємо їх **підписками**. Нижче ви можете побачити всі доступні підписки. Щоб підписатися на одну з них або отримати більше інформації, просто натисніть на кнопку. Це ось так просто.\n\nМи рекомендуємо вам спершу ознайомитися з **{recommendation}**. Вам сподобається. Мізинчиком обіцяю.",
-
-  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
-  "settings2_main_2_first_time_v1prev": "Привіт, з поверненням! З часу вашого останнього візиту налаштування дещо змінилися. Дозвольте мені швидко ввести вас в курс справи, і повірте мені, ви захочете почути про це:\n\nУ FreeStuff тепер є кілька **підписок**, на які ви можете підписатися окремо. На додаток до ігор зі **знижкою 100%**, до яких ви звикли, у нас є кілька нових категорій, включаючи ігри **Безкоштовні вихідні** та багато іншого, про що буде оголошено найближчим часом.\n\nНатисніть на підписку, щоб керувати нею, і ви знайдете ці налаштування більш звичними. Якщо вам потрібна допомога, не соромтеся заходити на наш [сервер підтримки]({invite}) або переглянути нашу [документацію]({guide})!\n\nДо зустрічі!",
-
   // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
   "settings2_main_2_regular": "З поверненням! Керуйте своїми підписками нижче. Натисніть на підписку для отримання додаткової інформації та зміни налаштувань.\nПотрібна допомога? Завітайте на наш [сервер підтримки]({invite}) або [документацію]({guide})!",
 
@@ -791,12 +707,6 @@
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
   "settings_botprofile_ui_2": "Налаштуйте ім'я та зображення профілю бота під час надсилання сповіщень. Через обмеження в Discord цей користувацький профіль застосовується лише до сповіщень про безкоштовні ігри, а не при використанні команд на кшталт `/settings` або `/free`.\n\n**Редагувати аватар** дозволить вам змінити зображення профілю бота. Вам потрібно буде вказати посилання на бажане зображення. Залиште поле порожнім, щоб відновити значення за замовчуванням.\n\n**Редагувати ім'я** дозволить вам змінити ім'я бота. Залиште поле порожнім, щоб відновити значення за замовчуванням.",
 
-  // Uhhhh what are you doing?
-  "settings_change_any_while_unsubscribed_1": "Ехххх що ти робиш?",
-
-  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
-  "settings_change_any_while_unsubscribed_2": "Намагаєтеся обдурити систему? Ви не можете змінити цей параметр, поки ви не підписані на {channel}. Спочатку підпишіться, а потім поверніться.",
-
   // Edit Avatar and Name
   "settings_change_bot_profile": "Редагувати Аватар та Назву",
 
@@ -805,12 +715,6 @@
 
   // here
   "settings_channel_list_here": "тут",
-
-  // No channel
-  "settings_channel_list_no_channel_1": "Немає каналу",
-
-  // Disable free games feed
-  "settings_channel_list_no_channel_2": "Вимкнути сповіщення про безкоштовні ігри",
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "У вас занадто багато каналів, щоб показати їх усі у наведеному нижче списку.",
@@ -956,9 +860,6 @@
   // Things like steam point shop items
   "settings_filter_kinds_storeitem_2": "",
 
-  // (All disabled)
-  "settings_filter_platforms_none": "(Все вимкнено)",
-
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "Надсилати всі ігри. Кожну.",
 
@@ -968,50 +869,17 @@
   // Minimum original price
   "settings_filter_prices_label": "",
 
-  // Disable Games
-  "settings_filter_show_passgames_off_prompt": "Вимкнути ігри",
-
-  // Games Disabled
-  "settings_filter_show_passgames_off_state": "Ігри вимкнено",
-
-  // Enable Games
-  "settings_filter_show_passgames_on_prompt": "Увімкнути ігри",
-
-  // Games Enabled
-  "settings_filter_show_passgames_on_state": "Ігри увімкнено",
-
-  // Disable Loot
-  "settings_filter_show_passloot_off_prompt": "Вимкнути лут",
-
-  // Loot Disabled
-  "settings_filter_show_passloot_off_state": "Лут вимкнено",
-
-  // Enable Loot
-  "settings_filter_show_passloot_on_prompt": "Увімкнути лут",
-
-  // Loot Enabled
-  "settings_filter_show_passloot_on_state": "Лут увімкнено",
-
   // Only from these stores
   "settings_filter_stores_label": "",
+
+  // (All disabled)
+  "settings_filter_stores_none": "",
 
   // Show bad quality games
   "settings_filter_trash_1": "",
 
-  // By default we won't show you games with bad ratings or of gernal poor quality
+  // By default we won't show you games with bad ratings or of general poor quality
   "settings_filter_trash_2": "",
-
-  // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "Виключити ігри з нізькою оцінкою",
-
-  // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "Низько оцінені ігри виключені",
-
-  // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "Включити ігри з нізькою оцінкою",
-
-  // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "Низько оцінені ігри включені",
 
   // Filter Settings
   "settings_filter_ui_1": "Налаштування фільтрів",
@@ -1085,24 +953,6 @@
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} від {translators}",
 
-  // Language Selection
-  "settings_language_ui_1": "Вибір мови",
-
-  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
-  "settings_language_ui_2": "Це налаштування мови стосується всього вашого сервера, а не вас особисто!\n\nСучасні дворічки можуть розблокувати смартфон і увійти в інтернет. Я ж у їхньому віці просто їв пісок. Гарного настрою вам! Слава Україні! ;)",
-
-  // Oh no!
-  "settings_locked_premium_1": "О ні!",
-
-  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
-  "settings_locked_premium_2": "**Це функція FreeStuff Premium**\nНатисніть кнопку нижче для отримання додаткової інформації:",
-
-  // Active Notifications
-  "settings_main_active_notifications_1": "",
-
-  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "",
-
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "",
 
@@ -1114,12 +964,6 @@
 
   // Click to add new sources
   "settings_main_add_sources_placeholder": "",
-
-  // Change channel
-  "settings_main_btn_channel_change": "Змінити канал",
-
-  // Set channel
-  "settings_main_btn_channel_set": "Вибрати канал",
 
   // Display Settings
   "settings_main_btn_display": "Налаштування відображення",
@@ -1138,27 +982,6 @@
 
   // Notification Settings
   "settings_main_btn_notifications": "Налаштування сповіщень",
-
-  // Change role mention
-  "settings_main_btn_role_change": "Змінити сповіщення ролі",
-
-  // Mention a role
-  "settings_main_btn_role_set": "Сповіщення ролі",
-
-  // Need help?
-  "settings_main_help_1": "",
-
-  // Read the guide
-  "settings_main_help_solution_guide_1": "",
-
-  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "",
-
-  // Join our support server
-  "settings_main_help_solution_server_1": "",
-
-  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "",
 
   // Tl;dr
   "settings_main_help_solution_tldr_1": "",
@@ -1253,12 +1076,6 @@
   // View Server Data
   "settings_more_btn_guilddata": "Перегляд даних сервера",
 
-  // Re-send Messages
-  "settings_more_btn_resend": "Повторити останнє повідомлення",
-
-  // Send Test Message
-  "settings_more_btn_test": "Надіслати тестове повідомлення",
-
   // Your Data
   "settings_more_data_label": "",
 
@@ -1267,9 +1084,6 @@
 
   // Advanced Options
   "settings_more_ui_1": "Більше",
-
-  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
-  "settings_more_ui_2": "**Надіслати тестове повідомлення** - надсилає тестове повідомлення з усіма налаштуваннями, які ви налаштували. Використовуйте це, щоб на 100% переконатися, що все працює. Майте на увазі, що це може сповіщати людей, якщо ви налаштували це.\n\n**Повторити останнє повідомлення** - повторне надсилання оголошення про ігри, які все ще безкоштовні. Випадково видалили повідомлення? Змінили налаштування? Або просто хочете продублювати одне й те саме оголошення? Ця кнопка для вас!\n\n**Перегляд даних сервера** - покаже вам, які дані ми зберігаємо про ваш сервер.\n\n**Увімкнути бета-версію** - використовується, щоб отримувати оновлення та нові функції раніше за інших. Майте на увазі, що це також може включати нестабільні або експериментальні функції та оновлення. Якщо ви ввімкнули, вас також можуть іноді просити залишити відгук.",
 
   // You need \"Manage Server\" permissions to edit this
   "settings_permission_disclaimer": "Для редагування потрібні права \"Керування сервером\"",
@@ -1369,15 +1183,6 @@
 
   // You will stop receiving games from this category.
   "settings_subscription_unsubscribe_2": "Ви перестанете отримувати ігри з цієї категорії.",
-
-  // Slash commands are here!
-  "slash_command_introduction_info_short": "Слеш команди тут!",
-
-  // Slash commands are here! Use **{command}** from now on!
-  "slash_command_introduction_label_long": "Слеш команди тут! Використовуйте **{command}** відтепер!",
-
-  // Use **{command}** from now on!
-  "slash_command_introduction_label_short": "Відтепер використовуйте **{command}**!",
 
   // {user} used {command}
   "slash_command_source": "{user} використав {command}",
@@ -1559,33 +1364,6 @@
   // Message in thread
   "thread_opt_c_name": "Повідомлення в гілці",
 
-  // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "Українська мова стала доступна! Якщо ви хочете, щоб я використовував українську мову, напишіть `/settings`",
-
-  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "",
-
-  // English translation by:
-  "translation_by": "Переклад українською мовою:",
-
-  // Maanex
-  "translators": "onepunch",
-
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
-  "webhook_create_auditlog_reason": "FreeStuff використовує веб-хуки для розповсюдження оголошень у великих масштабах. Будь ласка, не видаляйте цей веб-хук.",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_missing_permissions_1": "Хай йому грець!",
-
-  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "Схоже, у мене відсутні права \"Керування веб-хуками\". Будь ласка, надайте мені їх, а потім спробуйте ще раз!",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "Ой, матінко!",
-
-  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
-  "webhook_migration_failed_too_many_hooks_2": "Схоже, що у вас вже є кілька веб-хуків для цього каналу. На жаль, існує обмеження на 10 веб-хуків для одного каналу, тому, будь ласка, видаліть один з них, щоб FreeStuff міг створити новий.",
-
-  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
-  "webhook_migration_notice": "FreeStuff немає дозволу на **Керування веб-хуками** на цьому каналі. Будь ласка, надайте цей дозвіл або використайте **/settings** для отримання додаткової інформації. В іншому випадку бот незабаром перестане надсилати вам новини."
+  "webhook_create_auditlog_reason": "FreeStuff використовує веб-хуки для розповсюдження оголошень у великих масштабах. Будь ласка, не видаляйте цей веб-хук."
 }

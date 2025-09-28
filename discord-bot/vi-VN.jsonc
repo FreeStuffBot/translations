@@ -338,39 +338,6 @@
   // Yellow
   "color_yellow": "Vàng",
 
-  // Lev (BGN)
-  "currency_bgn": "Lev (BGN)",
-
-  // Real (BRL)
-  "currency_brl": "Real (BRL)",
-
-  // Bitcoin (brrrr)
-  "currency_btc": "Bitcoin (brrrr)",
-
-  // Euro (EUR)
-  "currency_euro": "Euro (EUR)",
-
-  // Pounds (GBP)
-  "currency_gbp": "Bảng Anh (GBP)",
-
-  // Forint (HUF)
-  "currency_huf": "Forint (HUF)",
-
-  // Złoty (PLN)
-  "currency_pln": "Złoty (PLN)",
-
-  // before
-  "currency_sign_dollar_position": "trước",
-
-  // before
-  "currency_sign_euro_position": "trước",
-
-  // before
-  "currency_sign_position": "trước",
-
-  // Dollar (USD)
-  "currency_usd": "Đô la Mỹ (USD)",
-
   // en-US
   "date_format": "en-US",
 
@@ -587,51 +554,6 @@
   // View Channel
   "permission_view_channel": "Xem Kênh",
 
-  // Apple App Store
-  "platform_apple": "",
-
-  // Discord
-  "platform_discord": "",
-
-  // Epic Games
-  "platform_epic": "",
-
-  // GOG.com
-  "platform_gog": "",
-
-  // Google Play
-  "platform_google": "",
-
-  // Humble Bundle
-  "platform_humble": "",
-
-  // itch.io
-  "platform_itch": "",
-
-  // Origin
-  "platform_origin": "",
-
-  // Other
-  "platform_other": "",
-
-  // Play Station
-  "platform_ps": "",
-
-  // Steam
-  "platform_steam": "",
-
-  // Nintendo Switch
-  "platform_switch": "",
-
-  // Twitch
-  "platform_twitch": "",
-
-  // Ubisoft Store
-  "platform_uplay": "",
-
-  // Xbox
-  "platform_xbox": "",
-
   // About Premium
   "premium_promo_button": "Thông tin về Gói Cao Cấp",
 
@@ -728,12 +650,6 @@
   // FreeStuff Settings
   "settings2_main_1_regular": "Cài đặt FreeStuff",
 
-  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
-  "settings2_main_2_first_time": "Chúng tôi rất vui được gặp bạn!\n**Chúng ta hãy cài đặt nhanh thông báo để bạn không bỏ lỡ bất cứ thứ gì nhé?**\n\nFreeStuff có thể báo cho bạn biết nhiều loại trò chơi miễn phí khác nhau, chúng tôi gọi chúng là **mục đăng ký**. Bạn có thể thấy tất cả các mục ở phía dưới. Để theo dõi hoặc tìm hiểu thêm, chỉ cần nhấn vào chúng. Nó đơn giản như vậy đấy.\n\nChúng tôi khuyên bạn nên xem qua **{recommendation}** trước. Bạn sẽ thích nó. Hứa luôn.",
-
-  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
-  "settings2_main_2_first_time_v1prev": "Hey, chào mừng trở lại! Các cài đặt đã được thay đổi một ít từ lần cuối bạn ghé thăm. Hãy để tôi chỉ bạn nhanh nhé, và tin tôi đi bạn sẽ nóng lòng muốn nghe điều này:\n\nFreeStuff bây giờ có nhiều **mục đăng ký** để bạn có thể theo dõi. Ngoài các trò chơi **Giảm giá 100%** mà bạn đã quen, chúng tôi có nhiều mục mới bao gồm các trò chơi thuộc **Tuần lễ Miễn phí** và nhiều hơn nữa đang chờ được công bố.\n\nNhấn vào một mục đăng ký để quản lý, bạn sẽ thấy các cài đặt hơi quen thuộc. Nếu bạn cần trợ giúp, đừng ngại hỏi [máy chủ hỗ trợ]({invite}) hoặc xem [hướng dẫn]({guide}) của chúng tôi!\n\nHẹn gặp lại!",
-
   // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
   "settings2_main_2_regular": "Chào mừng trở lại! Quản lý các mục đăng ký phía dưới. Nhấn vào một mục đăng ký để xem thêm thông tin và thay đổi cài đặt.\nCần trợ giúp? Hãy tham gia [máy chủ hỗ trợ]({invite}) hoặc [hướng dẫn]({guide}) của chúng tôi!",
 
@@ -791,12 +707,6 @@
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
   "settings_botprofile_ui_2": "Thay đổi tên và ảnh đại diện của bot khi gửi thông báo. Vì các hạn chế từ phía Discord ảnh đại diện tùy chỉnh chỉ áp dụng cho thông báo trò chơi miễn phí, không có khi bạn dùng các lệnh như `/settings` hoặc `/free`.\n\n**Thay đổi Ảnh đại diện** sẽ cho phép bạn thay đổi ảnh đại diện của bot. Bạn sẽ cần phải cung cấp đường dẫn đến hình ảnh mà mình mong muốn. Để trống sẽ khôi phục lại mặc định.\n\n**Thay đổi Tên** sẽ cho phép bạn thay đổi tên của bot. Để trống sẽ khôi phục lại mặc định.",
 
-  // Uhhhh what are you doing?
-  "settings_change_any_while_unsubscribed_1": "Uhhhh bạn đang làm gì vậy?",
-
-  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
-  "settings_change_any_while_unsubscribed_2": "Đang cố lừa hệ thống à? Bạn không thể thay đổi cài đặt này trong khi bạn đang không theo dỗi {channel}. Theo dõi trước, rồi hãy quay lại.",
-
   // Edit Avatar and Name
   "settings_change_bot_profile": "Thay đổi Ảnh đại diện và Tên",
 
@@ -805,12 +715,6 @@
 
   // here
   "settings_channel_list_here": "đây",
-
-  // No channel
-  "settings_channel_list_no_channel_1": "Không có kênh nào",
-
-  // Disable free games feed
-  "settings_channel_list_no_channel_2": "Vô hiệu hóa thông báo trò chơi miễn phí",
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "Bạn có quá nhiều kênh để hiển thị tất cả chúng trong danh sách phía dưới.",
@@ -956,9 +860,6 @@
   // Things like steam point shop items
   "settings_filter_kinds_storeitem_2": "",
 
-  // (All disabled)
-  "settings_filter_platforms_none": "(Tất cả đã bị vô hiệu hóa)",
-
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "Gửi tất cả các trò chơi. Tất. Cả.",
 
@@ -968,50 +869,17 @@
   // Minimum original price
   "settings_filter_prices_label": "",
 
-  // Disable Games
-  "settings_filter_show_passgames_off_prompt": "Tắt các trò chơi",
-
-  // Games Disabled
-  "settings_filter_show_passgames_off_state": "Trò chơi đã được Tắt",
-
-  // Enable Games
-  "settings_filter_show_passgames_on_prompt": "Bật các trò chơi",
-
-  // Games Enabled
-  "settings_filter_show_passgames_on_state": "Trò chơi đã được Bật",
-
-  // Disable Loot
-  "settings_filter_show_passloot_off_prompt": "Tắt nhận Quà tặng",
-
-  // Loot Disabled
-  "settings_filter_show_passloot_off_state": "Quà tặng đã được Tắt",
-
-  // Enable Loot
-  "settings_filter_show_passloot_on_prompt": "Bật nhận Quà tặng",
-
-  // Loot Enabled
-  "settings_filter_show_passloot_on_state": "Quà tặng đã được Bật",
-
   // Only from these stores
   "settings_filter_stores_label": "",
+
+  // (All disabled)
+  "settings_filter_stores_none": "",
 
   // Show bad quality games
   "settings_filter_trash_1": "",
 
-  // By default we won't show you games with bad ratings or of gernal poor quality
+  // By default we won't show you games with bad ratings or of general poor quality
   "settings_filter_trash_2": "",
-
-  // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "Tắt thông báo game rác",
-
-  // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "Đã tắt thông báo game rác",
-
-  // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "Bật thông báo game rác",
-
-  // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "Đã bật thông báo game rác",
 
   // Filter Settings
   "settings_filter_ui_1": "Cài đặt Bộ lọc",
@@ -1085,24 +953,6 @@
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} dịch bởi {translators}",
 
-  // Language Selection
-  "settings_language_ui_1": "Lựa chọn Ngôn ngữ",
-
-  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
-  "settings_language_ui_2": "Cài đặt ngôn ngữ này áp dụng cho toàn bộ máy chủ của bạn, không phải áp dụng cho mình bạn! ",
-
-  // Oh no!
-  "settings_locked_premium_1": "Oh no!",
-
-  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
-  "settings_locked_premium_2": "**Đây là một tính năng Cao Cấp của FreeStuff.**\nNhấn vào nút bên dưới để xem thêm:",
-
-  // Active Notifications
-  "settings_main_active_notifications_1": "",
-
-  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "",
-
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "",
 
@@ -1114,12 +964,6 @@
 
   // Click to add new sources
   "settings_main_add_sources_placeholder": "",
-
-  // Change channel
-  "settings_main_btn_channel_change": "Đổi kênh",
-
-  // Set channel
-  "settings_main_btn_channel_set": "Đặt kênh",
 
   // Display Settings
   "settings_main_btn_display": "Cài đặt Hiển thị",
@@ -1138,27 +982,6 @@
 
   // Notification Settings
   "settings_main_btn_notifications": "Cài đặt Thông báo",
-
-  // Change role mention
-  "settings_main_btn_role_change": "Đổi vai trò muốn ping",
-
-  // Mention a role
-  "settings_main_btn_role_set": "Ping vai trò",
-
-  // Need help?
-  "settings_main_help_1": "",
-
-  // Read the guide
-  "settings_main_help_solution_guide_1": "",
-
-  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "",
-
-  // Join our support server
-  "settings_main_help_solution_server_1": "",
-
-  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "",
 
   // Tl;dr
   "settings_main_help_solution_tldr_1": "",
@@ -1253,12 +1076,6 @@
   // View Server Data
   "settings_more_btn_guilddata": "Xem Dữ liệu Máy chủ",
 
-  // Re-send Messages
-  "settings_more_btn_resend": "Gửi lại Thông báo",
-
-  // Send Test Message
-  "settings_more_btn_test": "Test Thông báo",
-
   // Your Data
   "settings_more_data_label": "",
 
@@ -1267,9 +1084,6 @@
 
   // Advanced Options
   "settings_more_ui_1": "Xem thêm",
-
-  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
-  "settings_more_ui_2": "**Test Thông báo** sẽ gửi tin nhắn test với các thiết lập của bạn. Dùng cái này để đảm bảo mọi thứ hoạt động trơn tru. Lưu ý cái này sẽ ping theo thiết lập của bạn.\n\n**Gửi lại Thông báo** sẽ gửi lại thông báo của tất cả những game vẫn đang miễn phí. Xóa nhầm thông báo? Thay đổi cài đặt? Hoặc chỉ muốn thông báo lại lần nữa cho cẩn thận? Hãy ấn nút này!\n\n**Xem Dữ liệu Máy chủ** sẽ hiển thị những thông tin mà tớ lưu giữ về máy chủ này.\n\n**Tham gia Beta** sẽ cho phép bạn cập nhật các tính năng sớm. Lưu ý điều này có thể gồm có những bản cập nhật không ổn định. Đôi khi bạn cũng có thể nhận được yêu cầu để gửi phản hồi nếu tham gia.",
 
   // You need \"Manage Server\" permissions to edit this
   "settings_permission_disclaimer": "Bạn cần quyền \"Quản lý máy chủ\" để chỉnh sửa điều này",
@@ -1369,15 +1183,6 @@
 
   // You will stop receiving games from this category.
   "settings_subscription_unsubscribe_2": "Bạn sẽ ngưng nhận trò chơi từ mục này.",
-
-  // Slash commands are here!
-  "slash_command_introduction_info_short": "Tớ có lệnh gạch chéo rồi!\n",
-
-  // Slash commands are here! Use **{command}** from now on!
-  "slash_command_introduction_label_long": "Từ giờ dùng **{command}** nhé!",
-
-  // Use **{command}** from now on!
-  "slash_command_introduction_label_short": "Từ giờ dùng **{command}** nhé!",
 
   // {user} used {command}
   "slash_command_source": "{user} đã sử dụng {command}",
@@ -1559,33 +1364,6 @@
   // Message in thread
   "thread_opt_c_name": "Tin nhắn trong hội thoại",
 
-  // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "Tớ cũng có thể nói tiếng Việt đấy! Nếu bạn muốn sử dụng, nhập `@FreeStuff set language vietnamese`",
-
-  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "",
-
-  // English translation by:
-  "translation_by": "Tiếng Việt dịch bởi:",
-
-  // Maanex
-  "translators": "21mtd",
-
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
-  "webhook_create_auditlog_reason": "FreeStuff đang sử dụng Webhooks để phân phối thông báo trên quy mô lớn. Vui lòng không xóa webhook này.",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_missing_permissions_1": "Ơ kìa!",
-
-  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "Có vẻ như tớ thiếu quyền \"Quản lý Webhook\" rồi. Vui lòng cấp tớ quyền đó và thử lại nhé!",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "",
-
-  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
-  "webhook_migration_failed_too_many_hooks_2": "",
-
-  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
-  "webhook_migration_notice": "FreeStuff thiếu một số quyền nhất định. Quản trị viên máy chủ vui lòng chạy **/settings** để biết thêm thông tin chi tiết, nếu không tớ có thể sẽ ngừng hoạt động!"
+  "webhook_create_auditlog_reason": "FreeStuff đang sử dụng Webhooks để phân phối thông báo trên quy mô lớn. Vui lòng không xóa webhook này."
 }

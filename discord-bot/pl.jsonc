@@ -338,39 +338,6 @@
   // Yellow
   "color_yellow": "Żółty",
 
-  // Lev (BGN)
-  "currency_bgn": "Lew (BGN)",
-
-  // Real (BRL)
-  "currency_brl": "Real (BRL)",
-
-  // Bitcoin (brrrr)
-  "currency_btc": "Bitcoin (brrrr)",
-
-  // Euro (EUR)
-  "currency_euro": "Euro (EUR)",
-
-  // Pounds (GBP)
-  "currency_gbp": "Funty (GBP)",
-
-  // Forint (HUF)
-  "currency_huf": "Forinty (HUF)",
-
-  // Złoty (PLN)
-  "currency_pln": "Złoty (PLN)",
-
-  // before
-  "currency_sign_dollar_position": "after",
-
-  // before
-  "currency_sign_euro_position": "after",
-
-  // before
-  "currency_sign_position": "after",
-
-  // Dollar (USD)
-  "currency_usd": "Dolar (USD)",
-
   // en-US
   "date_format": "pl",
 
@@ -587,51 +554,6 @@
   // View Channel
   "permission_view_channel": "Wyświetlanie kanału",
 
-  // Apple App Store
-  "platform_apple": "Apple App Store",
-
-  // Discord
-  "platform_discord": "Discord",
-
-  // Epic Games
-  "platform_epic": "Epic Games",
-
-  // GOG.com
-  "platform_gog": "GOG.com",
-
-  // Google Play
-  "platform_google": "Google Play",
-
-  // Humble Bundle
-  "platform_humble": "Humble Bundle",
-
-  // itch.io
-  "platform_itch": "itch.io",
-
-  // Origin
-  "platform_origin": "Origin",
-
-  // Other
-  "platform_other": "Inne",
-
-  // Play Station
-  "platform_ps": "Play Station",
-
-  // Steam
-  "platform_steam": "Steam",
-
-  // Nintendo Switch
-  "platform_switch": "Nintendo Switch",
-
-  // Twitch
-  "platform_twitch": "Twitch",
-
-  // Ubisoft Store
-  "platform_uplay": "Ubisoft Store",
-
-  // Xbox
-  "platform_xbox": "Xbox",
-
   // About Premium
   "premium_promo_button": "O Premium",
 
@@ -728,12 +650,6 @@
   // FreeStuff Settings
   "settings2_main_1_regular": "Ustawienia FreeStuff",
 
-  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
-  "settings2_main_2_first_time": "Bardzo się cieszymy, że cię widzimy!\n**Szybko ustawmy powiadomienia, aby nigdy nie przegapić żadnych gratisów!**\n\nFreeStuff może informować cię o wielu rodzajach darmowych gier – nazywamy je różnymi **subskrypcjami**. Poniżej możesz znaleźć wszystkie dostępne subskrypcje. Aby zasubskrybować jedną z nich lub uzyskać więcej informacji, wystarczy kliknąć przycisk. To takie proste.\n\nPolecamy najpierw sprawdzić **{recommendation}**. Spodoba ci się. Obiecuję.",
-
-  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
-  "settings2_main_2_first_time_v1prev": "Witam ponownie! Ustawienia nieco się zmieniły od twojej ostatniej wizyty. Pozwól, że szybko ci wytłumaczę, a uwierz, że chcesz to przeczytać:\n\nFreeStuff ma teraz wiele **subskrypcji**, które można osobno subskrybować. Oprócz gier ze **100% zniżką**, do których jesteś przyzwyczajony, mamy kilka nowych kategorii, w tym **Darmowy weekend** i więcej, które zostaną wkrótce ogłoszone.\n\nKliknij subskrypcję, aby nią zarządzać. Te ustawienia powinny być bardziej znajome. Jeśli potrzebujesz pomocy, odwiedź nasz [serwer wsparcia]({invite}) lub zapoznaj się z naszym [przewodnikiem]({guide})!",
-
   // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
   "settings2_main_2_regular": "Witam ponownie! Zarządzaj swoimi subskrypcjami poniżej. Kliknij na kategorię (niebieski przycisk), aby uzyskać więcej informacji i zmienić jej ustawienia.\nPotrzebujesz pomocy? Sprawdź nasz [serwer wsparcia]({invite}) lub [przewodnik]({guide})!",
 
@@ -791,12 +707,6 @@
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
   "settings_botprofile_ui_2": "Dostosuj nazwę i zdjęcie profilowe bota gdy wysyła powiadomienia. Ze względu na ograniczenia Discorda, ten niestandardowy profil działa tylko przy powiadomieniach, a nie podczas korzystania z komend takich jak `/settings` lub `/free`.\n\n**Edytuj Profilowe** pozwoli ci zmienić zdjęcie profilowe bota. Będziesz musiał podać link do wybranego obrazu. Pozostaw puste, aby przywrócić ustawienia domyślne.\n\n**Edytuj Nazwę** umożliwia zmianę nazwy bota. Pozostaw puste, aby przywrócić ustawienia domyślne.",
 
-  // Uhhhh what are you doing?
-  "settings_change_any_while_unsubscribed_1": "Yyyy co ty wyrabiasz?",
-
-  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
-  "settings_change_any_while_unsubscribed_2": "Próbujesz oszukać system? Nie możesz zmienić tego ustawienia, jeśli nie subskrybujesz {channel}. Najpierw zasubskrybuj, a potem wróć.",
-
   // Edit Avatar and Name
   "settings_change_bot_profile": "Edytuj Profilowe i Nazwę",
 
@@ -805,12 +715,6 @@
 
   // here
   "settings_channel_list_here": "tutaj",
-
-  // No channel
-  "settings_channel_list_no_channel_1": "Brak kanału",
-
-  // Disable free games feed
-  "settings_channel_list_no_channel_2": "Wyłącz darmowe gry",
 
   // You have too many channels to show them all in the list below.
   "settings_channel_list_too_many": "Masz zbyt wiele kanałów, żeby je wszystkie pokazać na poniższej liście.",
@@ -956,9 +860,6 @@
   // Things like steam point shop items
   "settings_filter_kinds_storeitem_2": "Rzeczy takie jak przedmioty w sklepie z punktami Steam",
 
-  // (All disabled)
-  "settings_filter_platforms_none": "(Wszystkie wyłączone)",
-
   // Send all games. Every. Single. One.
   "settings_filter_price_class_desc_everything": "Wysyłaj wszystkie gry. Dosłownie. Wszystkie.",
 
@@ -968,50 +869,17 @@
   // Minimum original price
   "settings_filter_prices_label": "",
 
-  // Disable Games
-  "settings_filter_show_passgames_off_prompt": "Wyłącz Gry",
-
-  // Games Disabled
-  "settings_filter_show_passgames_off_state": "Gry Wyłączone",
-
-  // Enable Games
-  "settings_filter_show_passgames_on_prompt": "Włącz Gry",
-
-  // Games Enabled
-  "settings_filter_show_passgames_on_state": "Gry Włączone",
-
-  // Disable Loot
-  "settings_filter_show_passloot_off_prompt": "Wyłącz Loot",
-
-  // Loot Disabled
-  "settings_filter_show_passloot_off_state": "Loot Wyłączony",
-
-  // Enable Loot
-  "settings_filter_show_passloot_on_prompt": "Włącz Loot",
-
-  // Loot Enabled
-  "settings_filter_show_passloot_on_state": "Loot Włączony",
-
   // Only from these stores
   "settings_filter_stores_label": "",
+
+  // (All disabled)
+  "settings_filter_stores_none": "",
 
   // Show bad quality games
   "settings_filter_trash_1": "",
 
-  // By default we won't show you games with bad ratings or of gernal poor quality
+  // By default we won't show you games with bad ratings or of general poor quality
   "settings_filter_trash_2": "",
-
-  // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "Wyłącz Gry Słabej Jakości",
-
-  // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "Gry Słabej Jakości Wyłączone",
-
-  // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "Włącz Gry Słabej Jakości",
-
-  // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "Gry Słabej Jakości Włączone",
 
   // Filter Settings
   "settings_filter_ui_1": "Ustawienia Filtrów",
@@ -1085,24 +953,6 @@
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} przetłumaczony dzięki {translators}",
 
-  // Language Selection
-  "settings_language_ui_1": "Wybór Języków",
-
-  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
-  "settings_language_ui_2": "Te ustawienia języka dotyczą całego serwera, a nie ciebie osobiście! Nie bądź burak, pomyśl o innych.\n\nWitamy w najtrudniejszym języku świata... POLSKA GUROM :flag_pl:",
-
-  // Oh no!
-  "settings_locked_premium_1": "Kurka wodna!",
-
-  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
-  "settings_locked_premium_2": "**To jest funkcja FreeStuff Premium.**\nKliknij przycisk poniżej, aby uzyskać więcej informacji:",
-
-  // Active Notifications
-  "settings_main_active_notifications_1": "",
-
-  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "",
-
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "",
 
@@ -1114,12 +964,6 @@
 
   // Click to add new sources
   "settings_main_add_sources_placeholder": "",
-
-  // Change channel
-  "settings_main_btn_channel_change": "Zmień kanał",
-
-  // Set channel
-  "settings_main_btn_channel_set": "Ustaw kanał",
 
   // Display Settings
   "settings_main_btn_display": "Ustawienia Wyglądu",
@@ -1138,27 +982,6 @@
 
   // Notification Settings
   "settings_main_btn_notifications": "Ustawienia Powiadomień",
-
-  // Change role mention
-  "settings_main_btn_role_change": "Zmień ping roli",
-
-  // Mention a role
-  "settings_main_btn_role_set": "Pinguj rolę",
-
-  // Need help?
-  "settings_main_help_1": "Potrzebujesz pomocy?",
-
-  // Read the guide
-  "settings_main_help_solution_guide_1": "Przeczytaj przewodnik",
-
-  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "Przygotowaliśmy stronę internetową, która przeprowadzi cię przez całą konfigurację i wyjaśni wszystko po drodze. Sprawdź ją, jeśli się zgubiłeś!",
-
-  // Join our support server
-  "settings_main_help_solution_server_1": "Dołącz na nasz serwer wsparcia",
-
-  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "Przewodnik ci nie pomógł? Mamy serwer wsparcia, gdzie odpowiemy na wszystkie twoje pytania. Wbijaj śmiało!",
 
   // Tl;dr
   "settings_main_help_solution_tldr_1": "W skócie",
@@ -1253,12 +1076,6 @@
   // View Server Data
   "settings_more_btn_guilddata": "Wyświetl Dane Serwera",
 
-  // Re-send Messages
-  "settings_more_btn_resend": "Wyślij Powiadomienia Ponownie",
-
-  // Send Test Message
-  "settings_more_btn_test": "Wyślij Testowe Powiadomienie",
-
   // Your Data
   "settings_more_data_label": "",
 
@@ -1267,9 +1084,6 @@
 
   // Advanced Options
   "settings_more_ui_1": "Ustawienia Zaawansowane",
-
-  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
-  "settings_more_ui_2": "**Wyświetl Dane Serwera** pokaże ci, jakie dane przechowujemy o twoim serwerze.\n\n**Dołącz do wersji Beta** pozwoli ci na wczesne otrzymywanie aktualizacji i nowych funkcji. Należy pamiętać, że może to również obejmować niestabilne lub eksperymentalne funkcje i aktualizacje. Możesz również od czasu do czasu zostać poproszony o opinię.\n\n**Włącz Tryb Nudziarza** wyłączy cię z wydarzeń prima aprilis i może sprawić, że świat będzie bardziej szary.",
 
   // You need \"Manage Server\" permissions to edit this
   "settings_permission_disclaimer": "Potrzebujesz uprawnienie \"Zarządzanie serwerem\" aby to edytować",
@@ -1369,15 +1183,6 @@
 
   // You will stop receiving games from this category.
   "settings_subscription_unsubscribe_2": "Przestaniesz otrzymywać powiadomienia z tej kategorii.",
-
-  // Slash commands are here!
-  "slash_command_introduction_info_short": "Komendy z ukośnikiem są dostępne!",
-
-  // Slash commands are here! Use **{command}** from now on!
-  "slash_command_introduction_label_long": "Komendy z ukośnikiem są dostępne! Używaj **{command}** od teraz!",
-
-  // Use **{command}** from now on!
-  "slash_command_introduction_label_short": "Używaj **{command}** od teraz!",
 
   // {user} used {command}
   "slash_command_source": "{user} użył {command}",
@@ -1559,33 +1364,6 @@
   // Message in thread
   "thread_opt_c_name": "Wiadomość w wątku",
 
-  // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "Polskie tłumaczenie jest dostępne! Jeżeli chcesz wszystko po Polsku, użyj `/settings`",
-
-  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "",
-
-  // English translation by:
-  "translation_by": "Polskie tłumaczenie:",
-
-  // Maanex
-  "translators": "Badosz, malpkakefirek",
-
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
-  "webhook_create_auditlog_reason": "FreeStuff używa webhooków do wysyłania ogłoszeń na dużą skalę. Proszę nie usuwaj tego webhooka.",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_missing_permissions_1": "O jeny!",
-
-  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "Wygląda na to, że FreeStuff Bot nie ma uprawnienia \"Zarządzanie webhookami\". Proszę dodaj je i spróbuj ponownie!",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "Kurza twarz!",
-
-  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
-  "webhook_migration_failed_too_many_hooks_2": "Wygląda na to, że masz już kilka Webhooków dla tego kanału. Niestety istnieje limit 10 webhooków na kanał, więc proszę usuń jeden z nich, aby FreeStuff mógł utworzyć nowy.",
-
-  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
-  "webhook_migration_notice": "FreeStuff nie ma uprawnień **Zarządzanie webhookami** na tym kanale. Administratorzy serwera powinni nadać to uprawnienie lub użyć **/settings**, aby uzyskać więcej informacji. W przeciwnym razie bot wkrótce przestanie wysyłać ogłoszenia."
+  "webhook_create_auditlog_reason": "FreeStuff używa webhooków do wysyłania ogłoszeń na dużą skalę. Proszę nie usuwaj tego webhooka."
 }
