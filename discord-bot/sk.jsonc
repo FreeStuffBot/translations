@@ -624,28 +624,28 @@
   "refresh_channel_list": "Obnoviť zoznam",
 
   // Click here to reload the channel list
-  "refresh_channel_list_description": "",
+  "refresh_channel_list_description": "Kliknite sem pre obnovenie zoznamu kanálov",
 
   // Made changes?
   "refresh_channel_list_title": "",
 
   // Slow down! You can only reload this list every {interval} seconds!
-  "refresh_channel_timeout": "",
+  "refresh_channel_timeout": "Tento zoznam môžete obnoviť len každých {interval} sekúnd!",
 
   // Channel list refreshed
-  "refresh_channels_success": "",
+  "refresh_channels_success": "Zoznam kanálov aktualizovaný",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
   "refresh_channels_timeout": "Si až moc rýchly! Pre bezpečnostné dôvody dovoľujeme stlačenie tlačítka iba raz za {interval} sekúnd!",
 
   // Refresh List
-  "refresh_role_list": "",
+  "refresh_role_list": "Obnoviť zoznam",
 
   // Slow down! You can only reload this list every {interval} seconds!
-  "refresh_role_timeout": "",
+  "refresh_role_timeout": "Spomaľ! Tento zoznam môžeš obnovovať len každých {interval} sekúnd!",
 
   // Welcome to FreeStuff!
-  "settings2_main_1_first_time": "Vitaj v FreeStuff!",
+  "settings2_main_1_first_time": "Vitaj vo FreeStuff!",
 
   // FreeStuff Settings
   "settings2_main_1_regular": "FreeStuff Nastavenia",
@@ -666,13 +666,13 @@
   "settings_auto_publish_on_state": "",
 
   // Unfortunately Discord took our ability to preview your avatar. Click the link to see if it's working…
-  "settings_botprofile_avatar_description": "",
+  "settings_botprofile_avatar_description": "Bohužiaľ, Discord nám znemožnil zobraziť náhľad tvojho avatara. Klikni na odkaz a skontroluj, či funguje...",
 
   // This does not look like a url
-  "settings_botprofile_avatar_invalid_url_1": "",
+  "settings_botprofile_avatar_invalid_url_1": "Toto nevyzerá ako url",
 
   // Please make sure your image actually loads and the link starts with `http://` or `https://`
-  "settings_botprofile_avatar_invalid_url_2": "",
+  "settings_botprofile_avatar_invalid_url_2": "Uisti sa, že sa obrázok skutočne načíta a odkaz začína znakmi „http://“ alebo „https://“.",
 
   // Bot Avatar
   "settings_botprofile_avatar_label": "",
@@ -681,43 +681,43 @@
   "settings_botprofile_avatar_url_too_long_1": "",
 
   // Your url is a little... excessive... A little... long, maybe. Could you try make it shorter maybe? Thanks :D
-  "settings_botprofile_avatar_url_too_long_2": "",
+  "settings_botprofile_avatar_url_too_long_2": "Tvoja url adresa je trochu... prehnanr... Trochu... dlhá, asi. Mohlol by si ju skrátiť? Ďakujem :D",
 
   // Edit Avatar
-  "settings_botprofile_btn_edit_avatar": "",
+  "settings_botprofile_btn_edit_avatar": "Upraviť Avatara",
 
   // Edit Name
-  "settings_botprofile_btn_edit_name": "",
+  "settings_botprofile_btn_edit_name": "Upraviť meno",
 
   // (missing)
-  "settings_botprofile_name_description": "",
+  "settings_botprofile_name_description": "(chýba)",
 
   // Bot Name
-  "settings_botprofile_name_label": "",
+  "settings_botprofile_name_label": "Názov bota",
 
   // Uhhh, very sorry uhhh
   "settings_botprofile_name_too_long_1": "",
 
   // But your name can only be 32 characters long. Directive from above, nothing I can do about that, sorry.
-  "settings_botprofile_name_too_long_2": "",
+  "settings_botprofile_name_too_long_2": "Ale tvoje meno môže mať maximálne 32 znakov. Je to smernica zhora, nemôžem s tým nič urobiť, prepáč.",
 
   // Avatar and Name
   "settings_botprofile_ui_1": "Avatar a Meno",
 
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
-  "settings_botprofile_ui_2": "",
+  "settings_botprofile_ui_2": "Pri odosielaní oznámení si môžeš prispôsobiť meno a profilovú fotografiu bota. Vzhľadom na obmedzenia Discordu sa tento prispôsobený profil vzťahuje len na oznámenia o bezplatných hrách, nie na použitie príkazov ako `/settings` alebo `/free`.",",
 
   // Edit Avatar and Name
   "settings_change_bot_profile": "",
 
   // You have too many webhooks in {channel}! Please open the channel settings, go to integrations, delete some unused webhooks, and come back. This limitation is enforced by Discord, we cannot do anything about this unfortunately.
-  "settings_channel_error_too_many_webhooks": "",
+  "settings_channel_error_too_many_webhooks": ",
 
   // here
   "settings_channel_list_here": "tu",
 
   // You have too many channels to show them all in the list below.
-  "settings_channel_list_too_many": "",
+  "settings_channel_list_too_many": "Máš príliš veľa kanálov, aby si ich mohol všetky zobraziť v zozname nižšie.",
 
   // Missing \"Embed Messages\" Permission
   "settings_channel_list_warning_missing_embed_messages": "Chýba mi povolenie \"Embed Messages\" :[",
@@ -732,7 +732,7 @@
   "settings_channel_list_warning_missing_view_channel": "Chýba mi povolenie \"View Channel\" :/",
 
   // You have waaaaay too many channels to show them all in the list below. How do you even find anything in here?
-  "settings_channel_list_way_too_many": "",
+  "settings_channel_list_way_too_many": "Máš príííííliš veľa kanálov na to, aby sti ich mohol všetky zobraziť v zozname nižšie. Ako tu vôbec niečo chceš nájsť?",
 
   // Change The Channel
   "settings_channel_ui_1": "Zmeniť kanál",
@@ -765,13 +765,13 @@
   "settings_conf_ui_currency_description": "",
 
   // Select Currency
-  "settings_conf_ui_currency_label": "",
+  "settings_conf_ui_currency_label": "Vybrať menu",
 
   // Change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.
   "settings_conf_ui_language_description": "",
 
   // Select Language
-  "settings_conf_ui_language_label": "",
+  "settings_conf_ui_language_label": "Vybrať jazyk",
 
   // Disable Claim-All Button
   "settings_display_expressbutton_off_prompt": "",
@@ -786,7 +786,7 @@
   "settings_display_expressbutton_on_state": "",
 
   // More options
-  "settings_display_extra_label": "",
+  "settings_display_extra_label": "Viac možností",
 
   // Disable Auto Reaction
   "settings_display_reactions_off_prompt": "Vypnúť auto reakciu",
@@ -813,31 +813,31 @@
   "settings_display_ui_2": "Zmeň vzhľad správ bota",
 
   // Additional filters
-  "settings_filter_extra_label": "",
+  "settings_filter_extra_label": "Dodatočné filtre",
 
   // None enabled
   "settings_filter_extra_none": "",
 
   // Show Bundles
-  "settings_filter_kinds_bundle_1": "",
+  "settings_filter_kinds_bundle_1": "Zobraziť balíčky",
 
   // Collections of games, DLCs or other items
-  "settings_filter_kinds_bundle_2": "",
+  "settings_filter_kinds_bundle_2": "Kolekcie hier, DLC alebo iných položiek",
 
   // Show DLCs
-  "settings_filter_kinds_dlc_1": "",
+  "settings_filter_kinds_dlc_1": "Zobraziť DLC",
 
   // Addons and other game extensions
-  "settings_filter_kinds_dlc_2": "",
+  "settings_filter_kinds_dlc_2": "Doplnky a ďalšie rozšírenia hry",
 
   // Games
-  "settings_filter_kinds_game_1": "",
+  "settings_filter_kinds_game_1": "Hry",
 
   // Well. Games. The thing you play.
   "settings_filter_kinds_game_2": "",
 
   // Only these kinds of items
-  "settings_filter_kinds_label": "",
+  "settings_filter_kinds_label": "Iba tieto druhy položiek",
 
   // Loot
   "settings_filter_kinds_loot_1": "",
@@ -849,13 +849,13 @@
   "settings_filter_kinds_none": "",
 
   // Show other content
-  "settings_filter_kinds_other_1": "",
+  "settings_filter_kinds_other_1": "Zobraziť ďalší obsah",
 
   // Stuff that does not fit into the other categories
-  "settings_filter_kinds_other_2": "",
+  "settings_filter_kinds_other_2": "Veci, ktoré nezapadajú do ostatných kategórií",
 
   // Show Store Items
-  "settings_filter_kinds_storeitem_1": "",
+  "settings_filter_kinds_storeitem_1": "Zobraziť položky v obchode",
 
   // Things like steam point shop items
   "settings_filter_kinds_storeitem_2": "Veci ako steam point shop veci",
@@ -867,10 +867,10 @@
   "settings_filter_price_class_desc_generic": "Posielaj iba hry drahšie ako {price}",
 
   // Minimum original price
-  "settings_filter_prices_label": "",
+  "settings_filter_prices_label": "Minimálna pôvodná cena",
 
   // Only from these stores
-  "settings_filter_stores_label": "",
+  "settings_filter_stores_label": "Iba z týchto obchodov",
 
   // (All disabled)
   "settings_filter_stores_none": "",
@@ -879,10 +879,10 @@
   "settings_filter_trash_1": "",
 
   // By default we won't show you games with bad ratings or of general poor quality
-  "settings_filter_trash_2": "",
+  "settings_filter_trash_2": "Štandardne ti nebudeme zobrazovať hry s nízkym hodnotením alebo všeobecne nízkou kvalitou.",
 
   // Filter Settings
-  "settings_filter_ui_1": "Nastavenia filteru",
+  "settings_filter_ui_1": "Nastavenia filtru",
 
   // There are a lot of free games out there, some more interesting than others. In order to not flood your precious Discord server with spam we have some options for you to decide which games you like to see:
   "settings_filter_ui_2": "Je mnoho hier zadarmo, niektoré viac zaujímavé, než ostatné. Ak si nechceš zaplaviť svoj nádherný server spamom, máme nejaké možnosti, podľa ktorých by si si vybral/a, ktoré hry chceš vidieť:",
@@ -891,7 +891,7 @@
   "settings_generic_help_solution_guide_1": "",
 
   // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_generic_help_solution_guide_2": "",
+  "settings_generic_help_solution_guide_2": "Máme pripravenú webovú stránku, ktorá ťa prevedie celým nastavením a vysvetlí ti všetko, čo potrebuješ vedieť. Ak si nevieš rady, pozri sa na ňu!",
 
   // Join our support server
   "settings_generic_help_solution_server_1": "",
@@ -900,10 +900,10 @@
   "settings_generic_help_solution_server_2": "",
 
   // Something failed while exporting your data, we are very sorry. You can reach out to us and manually request a copy of your data via team@freestuffbot.xyz - Please include your server id in the E-Mail. Thanks.
-  "settings_guilddata_data_failed": "",
+  "settings_guilddata_data_failed": "Pri exportovaní tvojich údajov došlo k chybe, za čo sa veľmi ospravedlňujeme. Môžeš nás kontaktovať a manuálne požiadať o kópiu tvojich údajov prostredníctvom e-mailu team@freestuffbot.xyz. Do e-mailu uveď identifikačné číslo tvojho servera. Ďakujeme.",
 
   // Please click the Download button below to download your data. The button will only work one time, run the command again to download again. Do not share the link with anyone!
-  "settings_guilddata_data_ready": "",
+  "settings_guilddata_data_ready": "Klikni na tlačidlo Stiahnuť nižšie, aby si si stiahol svoje údaje. Tlačidlo funguje len raz, ak chceš stiahnuť údaje znovu, spusti príkaz znovu. Nezdieľaj tento odkaz s nikým!",
 
   // Delete Server Data
   "settings_guilddata_delete_button": "Vymazanie serverových dát",
