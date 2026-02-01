@@ -1392,7 +1392,7 @@
   "subscription_assets_name": "Spieleentwicklungs Assets",
 
   // Are you a game developer or want to become one? With {name} you get a notification when paid game assets go free for a limited time! Get 3D models, textures, sounds and more!
-  "subscription_assets_promo": "",
+  "subscription_assets_promo": "Bist du ein Spieleentwickler oder möchtest einer werden? Mit {name} erhältst du eine Benachrichtigung, wenn kostenpflichtige Spiele-Assets für eine begrenzte Zeit kostenlos werden! Hol dir 3D-Modelle, Texturen, Sounds und mehr!",
 
   // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
   "subscription_debug_promo": "Ähhhmm ähh uhhhhhhmmuhhhhhh jaaa ähhhhh nein. Nein.",
