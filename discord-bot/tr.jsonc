@@ -81,6 +81,18 @@
   "announcement_theme9": "**{name}** ücretsiz!\n<{url}>",
 
   // {names}
+  "announcement_thread_name_assets_multiple_below": "",
+
+  // {amount} gamedev assets for free!
+  "announcement_thread_name_assets_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_assets_single_below": "",
+
+  // Gamedev asset for free: {name}!
+  "announcement_thread_name_assets_single_outside": "",
+
+  // {names}
   "announcement_thread_name_gamepass_multiple_below": "{names}",
 
   // {amount} new games for Game Pass!
@@ -103,6 +115,18 @@
 
   // {name} is free!
   "announcement_thread_name_keep_single_outside": "{name} Ücretsiz",
+
+  // {names}
+  "announcement_thread_name_mobile_multiple_below": "",
+
+  // {amount} free games for mobile!
+  "announcement_thread_name_mobile_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_mobile_single_below": "",
+
+  // Free mobile game: {name}!
+  "announcement_thread_name_mobile_single_outside": "",
 
   // {names}
   "announcement_thread_name_other_multiple_below": "{names}",
@@ -358,39 +382,6 @@
 
   // Yellow
   "color_yellow": "Sarı",
-
-  // Lev (BGN)
-  "currency_bgn": "Leva (BGN)",
-
-  // Real (BRL)
-  "currency_brl": "Brezilya Reali (BRL)",
-
-  // Bitcoin (brrrr)
-  "currency_btc": "Bitcoin (brrrr)",
-
-  // Euro (EUR)
-  "currency_euro": "Euro (EUR)",
-
-  // Pounds (GBP)
-  "currency_gbp": "Pound (GBP)",
-
-  // Forint (HUF)
-  "currency_huf": "Macar Forinti (HUF)",
-
-  // Złoty (PLN)
-  "currency_pln": "Polonya Zloti (PLN)",
-
-  // before
-  "currency_sign_dollar_position": "after",
-
-  // before
-  "currency_sign_euro_position": "after",
-
-  // before
-  "currency_sign_position": "after",
-
-  // Dollar (USD)
-  "currency_usd": "Amerikan Doları (USD)",
 
   // en-US
   "date_format": "tr",
@@ -1073,20 +1064,8 @@
   // Show bad quality games
   "settings_filter_trash_1": "Düşük kaliteli oyunları göster",
 
-  // By default we won't show you games with bad ratings or of gernal poor quality
+  // By default we won't show you games with bad ratings or of general poor quality
   "settings_filter_trash_2": "Varsayılan olarak size kötü derecelendirmelere sahip veya genel olarak düşük kalitede oyunlar göstermeyiz",
-
-  // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "Düşük kaliteli Oyunları Kapat",
-
-  // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "Düşük kaliteli Oyunlar Kapalı",
-
-  // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "Düşük kaliteli Oyunları Aç",
-
-  // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "Düşük kaliteli Oyunları Kapat",
 
   // Filter Settings
   "settings_filter_ui_1": "Filtreleme Ayarları",
@@ -1160,23 +1139,8 @@
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} dilinin çevirmenleri: {translators}",
 
-  // Language Selection
-  "settings_language_ui_1": "Dil Seçimi",
-
-  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
-  "settings_language_ui_2": "Bu ayar sadece senin için değil sunucudaki herkes için geçerlidir, ayrıca aramıza hoşgeldin :)",
-
-  // Oh no!
-  "settings_locked_premium_1": "Olamaz!",
-
-  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
-  "settings_locked_premium_2": "**Bu bir FreeStuff Premium özelliğidir.**\nDaha fazla bilgi için aşağıdaki düğmeye tıklayın:",
-
-  // Active Notifications
-  "settings_main_active_notifications_1": "Aktif Bildirimler",
-
-  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "Şu anda {list} {dash} için bildirimler alıyorsunuz Ayarları değiştirmek için aşağıdaki mavi düğmeleri tıklayın.",
+  // Your Active Notifications
+  "settings_main_active_notifications": "",
 
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "Haber kaynakları eklemek için tıklayın",
@@ -1210,27 +1174,6 @@
 
   // Notification Settings
   "settings_main_btn_notifications": "Bildirim Ayarları",
-
-  // Change role mention
-  "settings_main_btn_role_change": "Rol bahsetmesini değiştir",
-
-  // Mention a role
-  "settings_main_btn_role_set": "Bir rol etiketle",
-
-  // Need help?
-  "settings_main_help_1": "Yardıma mı ihtiyacınız var?",
-
-  // Read the guide
-  "settings_main_help_solution_guide_1": "Rehberi okuyun",
-
-  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "Tüm kurulum boyunca size yol gösterecek ve yol boyunca her şeyi açıklayacak şekilde hazırlanmış bir web sitemiz var. Kaybolursanız lütfen bakın!",
-
-  // Join our support server
-  "settings_main_help_solution_server_1": "Destek sunucumuza katılın",
-
-  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "Rehber sana yardımcı olmadı mı? Size yardımcı olacak ve tüm sorularınızı yanıtlayacak bir destek sunucumuz var. İçeri girmekten çekinmeyin!",
 
   // Tl;dr
   "settings_main_help_solution_tldr_1": "Özet",
@@ -1625,33 +1568,6 @@
   // Message in thread
   "thread_opt_c_name": "Alt başlık içindeki mesaj",
 
-  // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "Türkçe çeviri mevcut! Eğer botu Türkçe  dilinde kullanmak istiyorsanız, `/settings` komutunu kullanın",
-
-  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "",
-
-  // English translation by:
-  "translation_by": "Türkçe Tercümanlar:",
-
-  // Maanex
-  "translators": "Bae#1000, erensi, Arcdashckr, mahirsn, bydexter",
-
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
-  "webhook_create_auditlog_reason": "FreeStuff, duyuruları büyük ölçekte yayınlamak için Webhook'ları kullanıyor. Lütfen bu webhook'u kaldırmayın.",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_missing_permissions_1": "Oopsie daisy!",
-
-  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "Görünüşe göre \"Webhook'ları Yönet\" iznine sahip değilim. Lütfen bana bu izni verin ve tekrar deneyin!",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "Oopsie daisy!",
-
-  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
-  "webhook_migration_failed_too_many_hooks_2": "Görünüşe göre bu kanalda zaten birkaç Webhook var. Maalesef ki kanal başına 10 Webhook sınırı vardır, bu yüzden FreeStuff'ın yeni bir tane oluşturması için bunlardan birini silin.",
-
-  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
-  "webhook_migration_notice": "FreeStuff'ın bu kanalda **Webhook'ları Yönet** izni yok. Sunucu yetkilileri, lütfen bota bu izni verin ve daha fazla bilgi için **/settings** komutunu kullanın. Aksi takdirde bot yakın zamanda size haber göndermeyi durduracak."
+  "webhook_create_auditlog_reason": "FreeStuff, duyuruları büyük ölçekte yayınlamak için Webhook'ları kullanıyor. Lütfen bu webhook'u kaldırmayın."
 }
