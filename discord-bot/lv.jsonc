@@ -26,6 +26,12 @@
   // Free Game!
   "announcement_header": "Bezmaksas spēle!",
 
+  // {prices}
+  "announcement_price_assets": "",
+
+  // {prices} until {date}
+  "announcement_price_assets_until": "",
+
   // Claim for **Free**
   "announcement_price_gamepass": "",
 
@@ -43,6 +49,12 @@
 
   // {prices} until {date}
   "announcement_price_keep_until": "",
+
+  // **Free on mobile**
+  "announcement_price_mobile": "",
+
+  // **Free on mobile** until {date}
+  "announcement_price_mobile_until": "",
 
   // {prices}
   "announcement_price_other": "",
@@ -69,6 +81,18 @@
   "announcement_theme9": "**{name}** ir bezmaksas!\n<{url}>",
 
   // {names}
+  "announcement_thread_name_assets_multiple_below": "",
+
+  // {amount} gamedev assets for free!
+  "announcement_thread_name_assets_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_assets_single_below": "",
+
+  // Gamedev asset for free: {name}!
+  "announcement_thread_name_assets_single_outside": "",
+
+  // {names}
   "announcement_thread_name_gamepass_multiple_below": "",
 
   // {amount} new games for Game Pass!
@@ -91,6 +115,18 @@
 
   // {name} is free!
   "announcement_thread_name_keep_single_outside": "",
+
+  // {names}
+  "announcement_thread_name_mobile_multiple_below": "",
+
+  // {amount} free games for mobile!
+  "announcement_thread_name_mobile_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_mobile_single_below": "",
+
+  // Free mobile game: {name}!
+  "announcement_thread_name_mobile_single_outside": "",
 
   // {names}
   "announcement_thread_name_other_multiple_below": "",
@@ -149,6 +185,9 @@
   // Try removing the bot from your server and adding it back in. If this does not help, [please join the support server]({discordInvite}).
   "cmd_error_readd_2": "Mēģiniet noņemt botu no jūsu servera un pievienot to atpakaļ, ja šis nepalīdz, [lūdzu pievienojaties atbalsta serverim]({discordInvite}).",
 
+  // + {count} more
+  "cmd_free_and_more": "",
+
   // **Ends soon:**
   "cmd_free_ends_soon": "**Beidzas drīzumā.**",
 
@@ -163,6 +202,9 @@
 
   // These games are currently free:
   "cmd_free_title": "Šīs spēles pašlaik ir bezmaksas:",
+
+  // Gamedev Assets (100% off)
+  "cmd_free_title_assets": "",
 
   // Free on Epic Games Store
   "cmd_free_title_epic": "",
@@ -187,6 +229,9 @@
 
   // Currently free to keep (100% off)
   "cmd_free_title_keep": "",
+
+  // Free Mobile Games
+  "cmd_free_title_mobile": "",
 
   // Free on Origin
   "cmd_free_title_origin": "",
@@ -362,6 +407,51 @@
   // {prev} and {next}
   "fluid_list_delimiter_only": "",
 
+  // Chose your interests and get a more personalized overview when running the `/free` command. Your changes here do not apply to notifications in this server.
+  "free_edit_preferences_description": "",
+
+  // Some stores and sources from the list below might not be available in every server.
+  "free_edit_preferences_disclaimer": "",
+
+  // Select things to hide
+  "free_edit_preferences_hide_cta": "",
+
+  // The items you select above will be hidden from your /free feed.
+  "free_edit_preferences_hide_description": "",
+
+  // Are there stores and sources you do not want to see?
+  "free_edit_preferences_hide_title": "",
+
+  // Pick a layout style
+  "free_edit_preferences_layout_cta": "",
+
+  // How do you want things to look like?
+  "free_edit_preferences_layout_title": "",
+
+  // Select your favorites
+  "free_edit_preferences_prefer_cta": "",
+
+  // We will show you these with higher priority in your /free feed.
+  "free_edit_preferences_prefer_description": "",
+
+  // Which stores and sources do you care about the most?
+  "free_edit_preferences_prefer_title": "",
+
+  // Your changes save automatically!
+  "free_edit_preferences_save_notice": "",
+
+  // /free preferences
+  "free_edit_preferences_title": "",
+
+  // Compact
+  "free_layout_compact_name": "",
+
+  // Cozy
+  "free_layout_cozy_name": "",
+
+  // Default
+  "free_layout_default_name": "",
+
   // ONLY ON APRIL FIRST
   "free_recommendation_april_fools": "",
 
@@ -389,6 +479,18 @@
   // In case you missed it...
   "free_recommendation_generic_3": "",
 
+  // Based on your preferences
+  "free_recommendation_personal_preference_high_1": "",
+
+  // Personal recommendation
+  "free_recommendation_personal_preference_high_2": "",
+
+  // Look at that!
+  "free_recommendation_personal_preference_highest_1": "",
+
+  // Oh damnnn
+  "free_recommendation_personal_preference_highest_2": "",
+
   // Well received:
   "free_recommendation_positive": "",
 
@@ -397,6 +499,12 @@
 
   // Popular!
   "free_recommendation_very_positive": "",
+
+  // Nothing of interest for you... :/
+  "free_recommended_no_products": "",
+
+  // You have hidden some categories in your settings.
+  "free_recommended_no_products_hint": "",
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Trešās personas nodrošinātājs",
@@ -607,6 +715,84 @@
 
   // Privacy Policy
   "privacy_policy": "",
+
+  // Any formats
+  "product_kind_3d_model_description": "",
+
+  // 3D Models
+  "product_kind_3d_model_name": "",
+
+  // Digital artworks, illustrations and similar content
+  "product_kind_art_description": "",
+
+  // Art
+  "product_kind_art_name": "",
+
+  // Ambient, Music, Sound Effects, etc.
+  "product_kind_audio_description": "",
+
+  // Audio
+  "product_kind_audio_name": "",
+
+  // Ebooks, digital comics and similar content
+  "product_kind_book_description": "",
+
+  // Books
+  "product_kind_book_name": "",
+
+  // Collections of games, DLCs or other items
+  "product_kind_bundle_description": "",
+
+  // Show Bundles
+  "product_kind_bundle_name": "",
+
+  // Addons and other game extensions
+  "product_kind_dlc_description": "",
+
+  // Show DLCs
+  "product_kind_dlc_name": "",
+
+  // Well. Games. The thing you play.
+  "product_kind_game_description": "",
+
+  // Games
+  "product_kind_game_name": "",
+
+  // This is ingame content like skins, items, etc.
+  "product_kind_loot_description": "",
+
+  // Loot
+  "product_kind_loot_name": "",
+
+  // Original Soundtracks and other music
+  "product_kind_ost_description": "",
+
+  // OSTs
+  "product_kind_ost_name": "",
+
+  // Stuff that does not fit into the other categories
+  "product_kind_other_description": "",
+
+  // Show other content
+  "product_kind_other_name": "",
+
+  // Applications and other non-game programs
+  "product_kind_software_description": "",
+
+  // Software
+  "product_kind_software_name": "",
+
+  // Things like steam point shop items
+  "product_kind_storeitem_description": "",
+
+  // Show Store Items
+  "product_kind_storeitem_name": "",
+
+  // Material, Sprites, Decals, Brushes, HDRI, etc.
+  "product_kind_texture_description": "",
+
+  // Textures
+  "product_kind_texture_name": "",
 
   // Permanently Free
   "product_meta_flag_permanent": "",
@@ -953,8 +1139,14 @@
   // {language} by {translators}
   "settings_language_list_desc_generic": "",
 
+  // Your Active Notifications
+  "settings_main_active_notifications": "",
+
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "",
+
+  // Add Notifications
+  "settings_main_add_notifications": "",
 
   // You are subscribed to everything!
   "settings_main_add_sources_empty_1": "",
@@ -988,6 +1180,9 @@
 
   // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
   "settings_main_help_solution_tldr_2": "",
+
+  // You can edit your notification settings by clicking the buttons above.
+  "settings_main_notifications_edit_hint": "",
 
   // Suggested for you
   "settings_main_suggested_categories_1": "",
@@ -1187,8 +1382,17 @@
   // {user} used {command}
   "slash_command_source": "",
 
+  // Sign up to get a notification for when usually paid assets receive a temporary 100% discount. This means you can get them for free and keep them forever.\nYou can filter by type, compatibility, store and more.
+  "subscription_assets_description": "",
+
+  // 3d Models, Textures, Sounds and more
+  "subscription_assets_hint": "",
+
   // Gamedev Assets
   "subscription_assets_name": "",
+
+  // Are you a game developer or want to become one? With {name} you get a notification when paid game assets go free for a limited time! Get 3D models, textures, sounds and more!
+  "subscription_assets_promo": "",
 
   // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
   "subscription_debug_promo": "",
