@@ -27,10 +27,10 @@
   "announcement_header": "Darmowa Gra!",
 
   // {prices}
-  "announcement_price_assets": "",
+  "announcement_price_assets": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_assets_until": "",
+  "announcement_price_assets_until": "{prices} do {date}",
 
   // Claim for **Free**
   "announcement_price_gamepass": "Odbierz **Za darmo**",
@@ -51,10 +51,10 @@
   "announcement_price_keep_until": "{prices} do {date}",
 
   // **Free on mobile**
-  "announcement_price_mobile": "",
+  "announcement_price_mobile": "**Za darmo na telefon**",
 
   // **Free on mobile** until {date}
-  "announcement_price_mobile_until": "",
+  "announcement_price_mobile_until": "**Za darmo na telefon** do {date}",
 
   // {prices}
   "announcement_price_other": "{prices}",
@@ -81,16 +81,16 @@
   "announcement_theme9": "**{name}** jest za darmo!\\n<{url}>",
 
   // {names}
-  "announcement_thread_name_assets_multiple_below": "",
+  "announcement_thread_name_assets_multiple_below": "{names}",
 
   // {amount} gamedev assets for free!
-  "announcement_thread_name_assets_multiple_outside": "",
+  "announcement_thread_name_assets_multiple_outside": "{amount} assetów gamedev za darmo!",
 
   // {name}
-  "announcement_thread_name_assets_single_below": "",
+  "announcement_thread_name_assets_single_below": "{name}",
 
   // Gamedev asset for free: {name}!
-  "announcement_thread_name_assets_single_outside": "",
+  "announcement_thread_name_assets_single_outside": "Asset gamedev za darmo: {name}!",
 
   // {names}
   "announcement_thread_name_gamepass_multiple_below": "{names}",
@@ -117,16 +117,16 @@
   "announcement_thread_name_keep_single_outside": "{name} jest za darmo!",
 
   // {names}
-  "announcement_thread_name_mobile_multiple_below": "",
+  "announcement_thread_name_mobile_multiple_below": "{names}",
 
   // {amount} free games for mobile!
-  "announcement_thread_name_mobile_multiple_outside": "",
+  "announcement_thread_name_mobile_multiple_outside": "{amount} darmowych gier na telefon!",
 
   // {name}
-  "announcement_thread_name_mobile_single_below": "",
+  "announcement_thread_name_mobile_single_below": "{name}",
 
   // Free mobile game: {name}!
-  "announcement_thread_name_mobile_single_outside": "",
+  "announcement_thread_name_mobile_single_outside": "Darmowa gra na telefon: {name}",
 
   // {names}
   "announcement_thread_name_other_multiple_below": "{names}",
@@ -186,7 +186,7 @@
   "cmd_error_readd_2": "Spróbuj usunąć bota i dodać go ponownie. Jeżeli nic się nie zmieni, [skontaktuj się z nami]({discordInvite}).",
 
   // + {count} more
-  "cmd_free_and_more": "",
+  "cmd_free_and_more": "+ {count} więcej",
 
   // **Ends soon:**
   "cmd_free_ends_soon": "**Wkrótce się kończą:**",
@@ -204,43 +204,43 @@
   "cmd_free_title": "Te gry są obecnie darmowe:",
 
   // Gamedev Assets (100% off)
-  "cmd_free_title_assets": "",
+  "cmd_free_title_assets": "Assety Gamedev (100% zniżki)",
 
   // Free on Epic Games Store
-  "cmd_free_title_epic": "",
+  "cmd_free_title_epic": "Za darmo w sklepie Epic Games",
 
   // Free on Fab
-  "cmd_free_title_fab": "",
+  "cmd_free_title_fab": "Za darmo na Fab",
 
   // Currently on Xbox Game Pass
   "cmd_free_title_gamepass": "Obecnie w Game Pass:",
 
   // Free on GOG
-  "cmd_free_title_gog": "",
+  "cmd_free_title_gog": "Za darmo na GOG",
 
   // Free on Google Play Store
-  "cmd_free_title_gplay": "",
+  "cmd_free_title_gplay": "Za darmo w sklepie Google Play",
 
   // Free on Humble Bundle
-  "cmd_free_title_humble": "",
+  "cmd_free_title_humble": "Za darmo na Humble Bundle",
 
   // Free on itch.io
-  "cmd_free_title_itch": "",
+  "cmd_free_title_itch": "Za darmo na itch.io",
 
   // Currently free to keep (100% off)
   "cmd_free_title_keep": "Obecnie za darmo (100% zniżki)",
 
   // Free Mobile Games
-  "cmd_free_title_mobile": "",
+  "cmd_free_title_mobile": "Darmowe Gry Mobilne",
 
   // Free on Origin
-  "cmd_free_title_origin": "",
+  "cmd_free_title_origin": "Za darmo na Origin",
 
   // Free on other stores
-  "cmd_free_title_other": "Inne gratisy (100% zniżki)",
+  "cmd_free_title_other": "Za darmo w innych sklepach",
 
   // Currently on Prime Gaming
-  "cmd_free_title_prime": "",
+  "cmd_free_title_prime": "Obecnie na Prime Gaming",
 
   // Prime Gaming: Games
   "cmd_free_title_primegames": "Prime Gaming: Gry",
@@ -249,13 +249,13 @@
   "cmd_free_title_primeloot": "Prime Gaming: Loot",
 
   // Free on Steam
-  "cmd_free_title_steam": "",
+  "cmd_free_title_steam": "Za darmo na Steam",
 
   // Currently free to play
   "cmd_free_title_timed": "Obecnie darmowe do grania",
 
   // Free on Ubisoft
-  "cmd_free_title_ubi": "",
+  "cmd_free_title_ubi": "Za darmo na Ubisoft",
 
   // until
   "cmd_free_until": "do",
@@ -291,10 +291,10 @@
   "cmd_resend_invalid_webhook_2": "Nie przejmuj się. Aby to naprawić, wystarczy ustawić kanał na inny i z powrotem na {channel}. Jeżeli ten error dalej będzie się pojawiał, proszę skontaktuj się z nami!",
 
   // Whoops!
-  "cmd_resend_nosend_1": "",
+  "cmd_resend_nosend_1": "Ups!",
 
   // Looks like I don't have the permission to send messages in {channel}!
-  "cmd_resend_nosend_2": "",
+  "cmd_resend_nosend_2": "Wygląda na to, że nie mam permisji do wysyłania wiadomości w {channel}!",
 
   // Uh oh!
   "cmd_resend_nothing_free_1": "Ojoj!",
@@ -390,7 +390,7 @@
   "default_currency": "pln",
 
   // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
-  "donation_notice": "Czy ten bot oszczędził ci trochę pieniędzy? Rozważ przesłać [darowiznę]({url}), aby pomóc utrzymać go przy życiu. Dzięki!",
+  "donation_notice": "Czy ten bot oszczędził Ci trochę pieniędzy? Rozważ przesłać [darowiznę]({url}), aby pomóc utrzymać go przy życiu. Dzięki!",
 
   // Claim All
   "expressbutton_label": "Odbierz Wszystkie",
@@ -408,103 +408,103 @@
   "fluid_list_delimiter_only": "{prev} i {next}",
 
   // Chose your interests and get a more personalized overview when running the `/free` command. Your changes here do not apply to notifications in this server.
-  "free_edit_preferences_description": "",
+  "free_edit_preferences_description": "Wybierz swoje zainteresowania, aby mieć spersonalizowany przegląd dla komendy `/free`. Twoje zmiany nie dotyczą powiadomień na tym serwerze.",
 
   // Some stores and sources from the list below might not be available in every server.
-  "free_edit_preferences_disclaimer": "",
+  "free_edit_preferences_disclaimer": "Niektóre sklepy i źródła z poniższej listy mogą nie być dostępne w każdym serwerze.",
 
   // Select things to hide
-  "free_edit_preferences_hide_cta": "",
+  "free_edit_preferences_hide_cta": "Wybierz rzeczy do ukrycia",
 
   // The items you select above will be hidden from your /free feed.
-  "free_edit_preferences_hide_description": "",
+  "free_edit_preferences_hide_description": "Rzeczy które wybierzesz powyżej będą ukryte z twojego widoku /free.",
 
   // Are there stores and sources you do not want to see?
-  "free_edit_preferences_hide_title": "",
+  "free_edit_preferences_hide_title": "Czy są jakieś sklepy i źródła, których nie chcesz widzieć?",
 
   // Pick a layout style
-  "free_edit_preferences_layout_cta": "",
+  "free_edit_preferences_layout_cta": "Wybierz styl układu",
 
   // How do you want things to look like?
-  "free_edit_preferences_layout_title": "",
+  "free_edit_preferences_layout_title": "Jak chcesz, żeby rzeczy wyglądały?",
 
   // Select your favorites
-  "free_edit_preferences_prefer_cta": "",
+  "free_edit_preferences_prefer_cta": "Wybierz swoje ulubione",
 
   // We will show you these with higher priority in your /free feed.
-  "free_edit_preferences_prefer_description": "",
+  "free_edit_preferences_prefer_description": "Będziemy Ci je pokazywać z większym priorytetem na twoim widoku /free.",
 
   // Which stores and sources do you care about the most?
-  "free_edit_preferences_prefer_title": "",
+  "free_edit_preferences_prefer_title": "Jakie sklepy i źródła są dla Ciebie najważniejsze?",
 
   // Your changes save automatically!
-  "free_edit_preferences_save_notice": "",
+  "free_edit_preferences_save_notice": "Twoje zmiany zapisują się automatycznie!",
 
   // /free preferences
-  "free_edit_preferences_title": "",
+  "free_edit_preferences_title": "Preferencje /free",
 
   // Compact
-  "free_layout_compact_name": "",
+  "free_layout_compact_name": "Kompaktowo",
 
   // Cozy
-  "free_layout_cozy_name": "",
+  "free_layout_cozy_name": "Przytulnie",
 
   // Default
-  "free_layout_default_name": "",
+  "free_layout_default_name": "Domyślnie",
 
   // ONLY ON APRIL FIRST
-  "free_recommendation_april_fools": "",
+  "free_recommendation_april_fools": "TYLKO PIERWSZEGO KWIETNIA",
 
   // Free on {store}!
-  "free_recommendation_by_store": "",
+  "free_recommendation_by_store": "Za darmo na {store}!",
 
   // Interested in {tag}?
-  "free_recommendation_by_tag": "",
+  "free_recommendation_by_tag": "Zainteresowany {tag}?",
 
   // Expires in {hours, plural, =1 {1 hour} other {# hours} }!
-  "free_recommendation_expires_hours": "",
+  "free_recommendation_expires_hours": "Wygasa za {hours, plural, =1 {1 godzinę} few {# godziny} many {# godzin} other {# godziny} }!",
 
   // Expires in {minutes, plural, =1 {1 minute} other {# minutes} }!
-  "free_recommendation_expires_minutes": "",
+  "free_recommendation_expires_minutes": "Wygasa za {minutes, plural, =1 {1 minutę} few {# minuty} many {# minut} other {# minuty} }!",
 
   // Over 95% positive reviews:
-  "free_recommendation_extremely_positive": "",
+  "free_recommendation_extremely_positive": "Ponad 95% pozytywnych recenzji:",
 
   // Check this out!
-  "free_recommendation_generic_1": "",
+  "free_recommendation_generic_1": "Zobacz na to!",
 
   // You might enjoy:
-  "free_recommendation_generic_2": "",
+  "free_recommendation_generic_2": "Może Ci się spodobać:",
 
   // In case you missed it...
-  "free_recommendation_generic_3": "",
+  "free_recommendation_generic_3": "Jeśli przegapiłeś...",
 
   // Based on your preferences
-  "free_recommendation_personal_preference_high_1": "",
+  "free_recommendation_personal_preference_high_1": "Na podstawie twoich preferencji",
 
   // Personal recommendation
-  "free_recommendation_personal_preference_high_2": "",
+  "free_recommendation_personal_preference_high_2": "Osobista rekomendacja",
 
   // Look at that!
-  "free_recommendation_personal_preference_highest_1": "",
+  "free_recommendation_personal_preference_highest_1": "Spójrz na to!",
 
   // Oh damnnn
-  "free_recommendation_personal_preference_highest_2": "",
+  "free_recommendation_personal_preference_highest_2": "O cholera!",
 
   // Well received:
-  "free_recommendation_positive": "",
+  "free_recommendation_positive": "Dobrze przyjęte:",
 
   // FreeStuff team recommends:
-  "free_recommendation_staff_pick": "",
+  "free_recommendation_staff_pick": "Rekomendacje zespołu FreeStuff",
 
   // Popular!
-  "free_recommendation_very_positive": "",
+  "free_recommendation_very_positive": "Popularne!",
 
   // Nothing of interest for you... :/
-  "free_recommended_no_products": "",
+  "free_recommended_no_products": "Nic ciekawego dla Ciebie... :/",
 
   // You have hidden some categories in your settings.
-  "free_recommended_no_products_hint": "",
+  "free_recommended_no_products_hint": "Ukryłeś niektóre kategorie w swoich ustawieniach.",
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Zewnętrzne Źródło",
@@ -549,7 +549,7 @@
   "help_main_2": "FreeStuff bot pozwala być na bieżąco z darmowymi grami!\n\nUżyj /free, aby uzyskać listę darmowych gier\n\nUżyj /settings, aby skonfigurować bota i włączyć automatyczne powiadomienia o darmowych grach",
 
   // Nuh uhhh! Only {author} can press these buttons. If you want to press them too, you need to run {command} yourself!
-  "interaction_not_owned": "",
+  "interaction_not_owned": "Nuh uhhh! Tylko {author} może klikać te przyciski. Jeżeli też chcesz je klikać, musisz samemu odpalić komendę {command}!",
 
   // You are not {owner}!
   "interaction_not_owned_1": "Nie jesteś {owner}!",
@@ -558,7 +558,7 @@
   "interaction_not_owned_2": "Więc nie możesz wchodzić w interakcje z tym widżetem, gdyż go nie utworzyłeś.\nUżyj **{command}**, aby uzyskać własny widżet.",
 
   // Sorry but I cannot let you do this!
-  "interaction_not_permitted_1": "Przepraszam, ale nie mogę ci na to pozwolić!",
+  "interaction_not_permitted_1": "Przepraszam, ale nie mogę Ci na to pozwolić!",
 
   // Only an admin of this server can do this. You are not an admin of this server.
   "interaction_not_permitted_2_admin": "Tylko administrator tego serwera może to zrobić, a ty nie jesteś nim.",
@@ -570,7 +570,7 @@
   "interaction_not_permitted_2_generic": "Nie mogę też powiedzieć dlaczego. Ale ktoś gdzieś nie chce, żebyś to robił...\nMasz wielu wrogów?",
 
   // I would love to let you though! All you have to do is get yourself some **Manage Messages** permissions!
-  "interaction_not_permitted_2_manage_messages": "Ale chciałbym ci na to pozwolić! Wszystko, co musisz zrobić, to zdobyć uprawnienie **Zarządzanie wiadomościami**!",
+  "interaction_not_permitted_2_manage_messages": "Ale chciałbym Ci na to pozwolić! Wszystko, co musisz zrobić, to zdobyć uprawnienie **Zarządzanie wiadomościami**!",
 
   // I was asked to prevent anyone without the **Manage Server** permission from going any further!
   "interaction_not_permitted_2_manage_server": "Poproszono mnie, abym nie pozwolił komukolwiek bez uprawnienia **Zarządzanie serwerem** na przejście dalej!",
@@ -591,10 +591,10 @@
   "lang_name_en": "polish",
 
   // Stop!
-  "missing_setting_permissions_1": "",
+  "missing_setting_permissions_1": "Stop!",
 
   // You are not allowed to change settings for this server!\nGet someone with `Manage Server` or `Administrator` permissions and we can talk.
-  "missing_setting_permissions_2": "",
+  "missing_setting_permissions_2": "Nie masz permisji do zmiany ustawień tego serwera!\nPoproś kogoś z permisją `Zarządzanie serwerem` lub `Administrator`.",
 
   // Silence
   "mysterious_modal_no_response_1": "Cisza",
@@ -609,7 +609,7 @@
   "mysterious_modal_no_response_4": "Brak odpowiedzi",
 
   // Nobody heard you...
-  "mysterious_modal_no_response_5": "Nikt cie nie usłyszał...",
+  "mysterious_modal_no_response_5": "Nikt Cię nie usłyszał...",
 
   // What do you want?
   "mysterious_modal_prompt_1": "Czego chcesz?",
@@ -690,7 +690,7 @@
   "premium_upsell_multiping_title": "Uzyskaj premium, aby pingować więcej niż jedną rolę!",
 
   // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
-  "premium_upsell_threadopts_description": "Dzięki FreeStuff premium możesz sprawić, by bot automatycznie tworzył wątki dla każdego otrzymanego powiadomienia!\nMożesz mieć wątek pod każdym powiadomieniem lub pozwolić mu utworzyć nowy wątek, w którym opublikuje powiadomienie. Wybór należy do ciebie!",
+  "premium_upsell_threadopts_description": "Dzięki FreeStuff premium możesz sprawić, by bot automatycznie tworzył wątki dla każdego otrzymanego powiadomienia!\nMożesz mieć wątek pod każdym powiadomieniem lub pozwolić mu utworzyć nowy wątek, w którym opublikuje powiadomienie. Wybór należy do Ciebie!",
 
   // Get premium to create threads!
   "premium_upsell_threadopts_title": "Uzyskaj premium, aby tworzyć wątki!",
@@ -717,82 +717,82 @@
   "privacy_policy": "Polityka Prywatności",
 
   // Any formats
-  "product_kind_3d_model_description": "",
+  "product_kind_3d_model_description": "Dowolne formaty",
 
   // 3D Models
-  "product_kind_3d_model_name": "",
+  "product_kind_3d_model_name": "Modele 3D",
 
   // Digital artworks, illustrations and similar content
-  "product_kind_art_description": "",
+  "product_kind_art_description": "Grafiki cyfrowe, ilustracje i podobne treści",
 
   // Art
-  "product_kind_art_name": "",
+  "product_kind_art_name": "Grafiki",
 
   // Ambient, Music, Sound Effects, etc.
-  "product_kind_audio_description": "",
+  "product_kind_audio_description": "Muzyka, Efekty Dźwiękowe, itp.",
 
   // Audio
-  "product_kind_audio_name": "",
+  "product_kind_audio_name": "Audio",
 
   // Ebooks, digital comics and similar content
-  "product_kind_book_description": "",
+  "product_kind_book_description": "E-booki, komiksy cyfrowe i podobne treści",
 
   // Books
-  "product_kind_book_name": "",
+  "product_kind_book_name": "Książki",
 
   // Collections of games, DLCs or other items
-  "product_kind_bundle_description": "",
+  "product_kind_bundle_description": "Kolekcje gier, dodatków DLC lub innych przedmiotów",
 
   // Show Bundles
-  "product_kind_bundle_name": "",
+  "product_kind_bundle_name": "Pokazuj Pakiety",
 
   // Addons and other game extensions
-  "product_kind_dlc_description": "",
+  "product_kind_dlc_description": "Dodatki i inne rozszerzenia do gier",
 
   // Show DLCs
-  "product_kind_dlc_name": "",
+  "product_kind_dlc_name": "Pokazuj dodatki DLC",
 
   // Well. Games. The thing you play.
-  "product_kind_game_description": "",
+  "product_kind_game_description": "No. Gry. To, w co się gra",
 
   // Games
-  "product_kind_game_name": "",
+  "product_kind_game_name": "Gry",
 
   // This is ingame content like skins, items, etc.
-  "product_kind_loot_description": "",
+  "product_kind_loot_description": "Są to zawartości gry, takie jak skórki, przedmioty, itp.",
 
   // Loot
-  "product_kind_loot_name": "",
+  "product_kind_loot_name": "Loot",
 
   // Original Soundtracks and other music
-  "product_kind_ost_description": "",
+  "product_kind_ost_description": "Oryginalne ścieżki dźwiękowe i inne muzyki",
 
   // OSTs
-  "product_kind_ost_name": "",
+  "product_kind_ost_name": "OST",
 
   // Stuff that does not fit into the other categories
-  "product_kind_other_description": "",
+  "product_kind_other_description": "Rzeczy które nie pasują do żadnych kategorii",
 
   // Show other content
-  "product_kind_other_name": "",
+  "product_kind_other_name": "Pokazuj inne rzeczy",
 
   // Applications and other non-game programs
-  "product_kind_software_description": "",
+  "product_kind_software_description": "Aplikacje i inne programy",
 
   // Software
-  "product_kind_software_name": "",
+  "product_kind_software_name": "Oprogramowanie",
 
   // Things like steam point shop items
-  "product_kind_storeitem_description": "",
+  "product_kind_storeitem_description": "Rzeczy takie jak punkty w sklepie przedmiotów steam",
 
   // Show Store Items
-  "product_kind_storeitem_name": "",
+  "product_kind_storeitem_name": "Pokazuj Rzeczy Sklepowe",
 
   // Material, Sprites, Decals, Brushes, HDRI, etc.
-  "product_kind_texture_description": "",
+  "product_kind_texture_description": "Materiały, Sprite'y, Naklejki, Pędzle, HDRI, itp.",
 
   // Textures
-  "product_kind_texture_name": "",
+  "product_kind_texture_name": "Tekstury",
 
   // Permanently Free
   "product_meta_flag_permanent": "Darmowe na zawsze",
@@ -852,7 +852,7 @@
   "settings_auto_publish_on_state": "Automatyczne Publikowanie Włączone",
 
   // Unfortunately Discord took our ability to preview your avatar. Click the link to see if it's working…
-  "settings_botprofile_avatar_description": "",
+  "settings_botprofile_avatar_description": "Niestety Discord zabrał nam możliwość podglądu profilowego. Kliknij w link, aby zobaczyć czy działa…",
 
   // This does not look like a url
   "settings_botprofile_avatar_invalid_url_1": "To nie wygląda na adres url",
@@ -861,7 +861,7 @@
   "settings_botprofile_avatar_invalid_url_2": "Upewnij się, że obraz się ładuje, a link zaczyna się od `http://` lub `https://`",
 
   // Bot Avatar
-  "settings_botprofile_avatar_label": "",
+  "settings_botprofile_avatar_label": "Profilowe Bota",
 
   // Ayo what's that
   "settings_botprofile_avatar_url_too_long_1": "Co to ma być",
@@ -876,10 +876,10 @@
   "settings_botprofile_btn_edit_name": "Edytuj Nazwę",
 
   // (missing)
-  "settings_botprofile_name_description": "",
+  "settings_botprofile_name_description": "(brak)",
 
   // Bot Name
-  "settings_botprofile_name_label": "",
+  "settings_botprofile_name_label": "Nazwa Bota",
 
   // Uhhh, very sorry uhhh
   "settings_botprofile_name_too_long_1": "Yyyy, niezmiernie przepraszam",
@@ -891,7 +891,7 @@
   "settings_botprofile_ui_1": "Profilowe i Nazwa",
 
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
-  "settings_botprofile_ui_2": "Dostosuj nazwę i zdjęcie profilowe bota gdy wysyła powiadomienia. Ze względu na ograniczenia Discorda, ten niestandardowy profil działa tylko przy powiadomieniach, a nie podczas korzystania z komend takich jak `/settings` lub `/free`.\n\n**Edytuj Profilowe** pozwoli ci zmienić zdjęcie profilowe bota. Będziesz musiał podać link do wybranego obrazu. Pozostaw puste, aby przywrócić ustawienia domyślne.\n\n**Edytuj Nazwę** umożliwia zmianę nazwy bota. Pozostaw puste, aby przywrócić ustawienia domyślne.",
+  "settings_botprofile_ui_2": "Dostosuj nazwę i zdjęcie profilowe bota gdy wysyła powiadomienia. Ze względu na ograniczenia Discorda, ten niestandardowy profil działa tylko przy powiadomieniach, a nie podczas korzystania z komend takich jak `/settings` lub `/free`.\n\n**Edytuj Profilowe** pozwoli Ci zmienić zdjęcie profilowe bota. Będziesz musiał podać link do wybranego obrazu. Pozostaw puste, aby przywrócić ustawienia domyślne.\n\n**Edytuj Nazwę** umożliwia zmianę nazwy bota. Pozostaw puste, aby przywrócić ustawienia domyślne.",
 
   // Edit Avatar and Name
   "settings_change_bot_profile": "Edytuj Profilowe i Nazwę",
@@ -948,16 +948,16 @@
   "settings_conf_ui_2": "**Wybierz Język** zmieni język automatycznych powiadomień. **Nie** zmieni to języka komend, takich jak /settings czy /free. One używają języka, w którym jest twój Discord. Translasje są podawane przez społeczność i mogą zawierać błędy.\n\n**Wybierz Walutę** zmieni walutę w automatycznych powiadomieniach. Niektóre ceny mogą być przeliczone z innych walut lub stron, więc mogą nie być zawsze w 100% dokładne.",
 
   // Change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
-  "settings_conf_ui_currency_description": "",
+  "settings_conf_ui_currency_description": "Zmień walutę w powiadomieniach. Niektóre ceny mogą być przeliczane z innych walut lub stron, więc może nie być w 100% dokładne.",
 
   // Select Currency
-  "settings_conf_ui_currency_label": "",
+  "settings_conf_ui_currency_label": "Wybierz Walutę",
 
   // Change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.
-  "settings_conf_ui_language_description": "",
+  "settings_conf_ui_language_description": "Zmień język, w którym wyświetlane są powiadomienia. **Nie** spowoduje to zmiany języka komend takich jak /settings lub /free. One używają tego samego języka, w którym korzystasz z Discorda. Tłumaczenia są dostarczane przez społeczność i mogą zawierać błędy.",
 
   // Select Language
-  "settings_conf_ui_language_label": "",
+  "settings_conf_ui_language_label": "Wybierz Język",
 
   // Disable Claim-All Button
   "settings_display_expressbutton_off_prompt": "Wyłącz Przycisk Odbierz-Wszystkie",
@@ -972,7 +972,7 @@
   "settings_display_expressbutton_on_state": "Przycisk Odbierz-Wszystkie Włączony",
 
   // More options
-  "settings_display_extra_label": "",
+  "settings_display_extra_label": "Więcej opcji",
 
   // Disable Auto Reaction
   "settings_display_reactions_off_prompt": "Wyłącz Automatyczne Reakcje",
@@ -987,10 +987,10 @@
   "settings_display_reactions_on_state": "Automatyczne Reakcje Włączone",
 
   // Select theme
-  "settings_display_theme_label": "",
+  "settings_display_theme_label": "Wybierz motyw",
 
   // Thread behavior
-  "settings_display_threadopt_label": "",
+  "settings_display_threadopt_label": "Zachowanie wątków",
 
   // Display Settings
   "settings_display_ui_1": "Ustawienia Wyglądu",
@@ -999,10 +999,10 @@
   "settings_display_ui_2": "Zmień wygląd powiadomień bota",
 
   // Additional filters
-  "settings_filter_extra_label": "",
+  "settings_filter_extra_label": "Dodatkowe filtry",
 
   // None enabled
-  "settings_filter_extra_none": "",
+  "settings_filter_extra_none": "Brak włączonych",
 
   // Show Bundles
   "settings_filter_kinds_bundle_1": "Pokazuj Pakiety",
@@ -1017,19 +1017,19 @@
   "settings_filter_kinds_dlc_2": "Dodatki i inne rozszerzenia do gier",
 
   // Games
-  "settings_filter_kinds_game_1": "",
+  "settings_filter_kinds_game_1": "Gry",
 
   // Well. Games. The thing you play.
-  "settings_filter_kinds_game_2": "",
+  "settings_filter_kinds_game_2": "No. Gry. To, w co się gra",
 
   // Only these kinds of items
-  "settings_filter_kinds_label": "",
+  "settings_filter_kinds_label": "Tylko tego typu rzeczy",
 
   // Loot
-  "settings_filter_kinds_loot_1": "",
+  "settings_filter_kinds_loot_1": "Loot",
 
   // This is ingame content like skins, items, etc.
-  "settings_filter_kinds_loot_2": "",
+  "settings_filter_kinds_loot_2": "Są to zawartości gry, takie jak skórki, przedmioty, itp.",
 
   // None selected
   "settings_filter_kinds_none": "Brak wybranych",
@@ -1053,19 +1053,19 @@
   "settings_filter_price_class_desc_generic": "Tylko gry warte {price} lub więcej",
 
   // Minimum original price
-  "settings_filter_prices_label": "",
+  "settings_filter_prices_label": "Minimalna pierwotna cena",
 
   // Only from these stores
-  "settings_filter_stores_label": "",
+  "settings_filter_stores_label": "Tylko z tych sklepów",
 
   // (All disabled)
-  "settings_filter_stores_none": "",
+  "settings_filter_stores_none": "(Wszystkie wyłączone)",
 
   // Show bad quality games
-  "settings_filter_trash_1": "",
+  "settings_filter_trash_1": "Pokazuj gry słabej jakości",
 
   // By default we won't show you games with bad ratings or of general poor quality
-  "settings_filter_trash_2": "",
+  "settings_filter_trash_2": "Domyślnie nie pokazujemy gier ze słabą oceną lub słabej jakości",
 
   // Filter Settings
   "settings_filter_ui_1": "Ustawienia Filtrów",
@@ -1074,16 +1074,16 @@
   "settings_filter_ui_2": "Istnieje wiele darmowych gier, niektóre bardziej interesujące niż inne. Aby nie zalewać cennego serwera spamem, mamy kilka ustawień, dzięki którym możesz zdecydować, które gry chcesz widzieć:",
 
   // Read the guide
-  "settings_generic_help_solution_guide_1": "",
+  "settings_generic_help_solution_guide_1": "Przeczytaj przewodnik",
 
   // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_generic_help_solution_guide_2": "",
+  "settings_generic_help_solution_guide_2": "Mamy stronę, która poprowadzi Cię po całym procesie konfiguracji i wytłumaczy wszystko po drodze. Proszę sprawdź ją, gdy się zgubisz!",
 
   // Join our support server
-  "settings_generic_help_solution_server_1": "",
+  "settings_generic_help_solution_server_1": "Dołącz do naszego serwera wsparcia",
 
   // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_generic_help_solution_server_2": "",
+  "settings_generic_help_solution_server_2": "Przewodnik Ci nie pomógł? Mamy serwer wsparcia, który służy pomocą i odpowiada na wszystkie pytania. Zapraszamy do dołączenia!",
 
   // Something failed while exporting your data, we are very sorry. You can reach out to us and manually request a copy of your data via team@freestuffbot.xyz - Please include your server id in the E-Mail. Thanks.
   "settings_guilddata_data_failed": "Coś nie powiodło się podczas eksportowania danych, bardzo nam przykro. Możesz skontaktować się z nami i ręcznie poprosić o kopię danych za pośrednictwem team@freestuffbot.xyz - Prosimy o podanie ID serwera w wiadomości E-Mail. Dziękujemy.",
@@ -1140,22 +1140,22 @@
   "settings_language_list_desc_generic": "{language} przetłumaczony dzięki {translators}",
 
   // Your Active Notifications
-  "settings_main_active_notifications": "",
+  "settings_main_active_notifications": "Twoje Aktywne Powiadomienia",
 
   // Click to add a news source
-  "settings_main_add_first_source_placeholder": "",
+  "settings_main_add_first_source_placeholder": "Kliknij aby dodać nowe źródło",
 
   // Add Notifications
-  "settings_main_add_notifications": "",
+  "settings_main_add_notifications": "Dodaj Powiadomienia",
 
   // You are subscribed to everything!
-  "settings_main_add_sources_empty_1": "",
+  "settings_main_add_sources_empty_1": "Subskrybujesz wszystko!",
 
   // There's nothing else you can be notified about currently.
-  "settings_main_add_sources_empty_2": "",
+  "settings_main_add_sources_empty_2": "Obecnie nie ma nic innego, o czym mógłbyś być powiadamiany.",
 
   // Click to add new sources
-  "settings_main_add_sources_placeholder": "",
+  "settings_main_add_sources_placeholder": "Kliknij aby dodać nowe źródła",
 
   // Display Settings
   "settings_main_btn_display": "Ustawienia Wyglądu",
@@ -1176,19 +1176,19 @@
   "settings_main_btn_notifications": "Ustawienia Powiadomień",
 
   // Tl;dr
-  "settings_main_help_solution_tldr_1": "W skócie",
+  "settings_main_help_solution_tldr_1": "W skrócie",
 
   // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
   "settings_main_help_solution_tldr_2": "1. Kliknij `{text}` powyżej\n2. Wybierz źródło – może być jakie chcesz. Te z {premium} wymagają FreeStuff Premium, ale **wszystkie inne są darmowe**\n3. Na stronie, która się otworzy, wybierz kanał, na którym bot ma publikować posty\n4. Gotowe!",
 
   // You can edit your notification settings by clicking the buttons above.
-  "settings_main_notifications_edit_hint": "",
+  "settings_main_notifications_edit_hint": "Możesz edytować ustawienia powiadomień, klikając przyciski powyżej.",
 
   // Suggested for you
-  "settings_main_suggested_categories_1": "",
+  "settings_main_suggested_categories_1": "Proponowane dla ciebie",
 
   // {promo} {dash} Select from the list below to learn more!
-  "settings_main_suggested_categories_2": "",
+  "settings_main_suggested_categories_2": "{promo} {dash} Wybierz z listy poniżej, aby dowiedzieć się więcej!",
 
   // Settings
   "settings_main_ui_1": "Ustawienia",
@@ -1197,10 +1197,10 @@
   "settings_main_ui_2_guided_channel_delayed": "Wygląda na to, że wciąż nie skończyłeś konfigurować bota :eyes:\n\nMoże zaczniesz od wybrania kanału, na który mam wysyłać darmowe gry?",
 
   // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel I can use to keep you and your friends up to date with free games! Click the blue button below to continue:
-  "settings_main_ui_2_guided_channel_normal": "Witamy w FreeStuff :wave:\n\nCieszę się, że trafiłeś na stronę ustawień! Zacznijmy od wybrania kanału, na którym będę informować ciebie i twoich znajomych o darmowych grach! Kliknij niebieski przycisk poniżej, aby kontynuować:",
+  "settings_main_ui_2_guided_channel_normal": "Witamy w FreeStuff :wave:\n\nCieszę się, że trafiłeś na stronę ustawień! Zacznijmy od wybrania kanału, na którym będę informować Ciebie i twoich znajomych o darmowych grach! Kliknij niebieski przycisk poniżej, aby kontynuować:",
 
   // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
-  "settings_main_ui_2_guided_display_delayed": "Masz więcej ustawień do sprawdzenia! Chodzi mi o motywy, opcje walutowe i tak dalej. Zainteresowany? Niebieski przycisk przeniesie cię tam!",
+  "settings_main_ui_2_guided_display_delayed": "Masz więcej ustawień do sprawdzenia! Chodzi mi o motywy, opcje walutowe i tak dalej. Zainteresowany? Niebieski przycisk przeniesie Cię tam!",
 
   // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
   "settings_main_ui_2_guided_display_normal": "Doskonale! Ostatnim punktem na liście, są ustawienia wyglądu. Zdecydowanie warto rzucić na nie okiem!",
@@ -1221,19 +1221,19 @@
   "settings_main_ui_2_guided_role_normal": "Dobra robota! Może też chcesz otrzymywać pingi, gdy gra staje się darmowa? Mam na myśli pingowanie roli, a może nawet @everyone?\nKliknij przycisk poniżej, aby zobaczyć, co jest możliwe :eyes:",
 
   // Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.
-  "settings_main_ui_2_regular": "Hejka! Nie możesz znaleźć jakiegoś ustawienia? Potrzebujesz pomocy w prawidłowej konfiguracji bota? Lub może masz jakieś pytania? [Kliknij tutaj, aby zapoznać się z przewodnikiem]({guide}), który przeprowadzi cię przez wszystkie etapy lub [dołącz do naszego serwera wsparcia]({invite}), aby uzyskać osobistą pomoc.",
+  "settings_main_ui_2_regular": "Hejka! Nie możesz znaleźć jakiegoś ustawienia? Potrzebujesz pomocy w prawidłowej konfiguracji bota? Lub może masz jakieś pytania? [Kliknij tutaj, aby zapoznać się z przewodnikiem]({guide}), który przeprowadzi Cię przez wszystkie etapy lub [dołącz do naszego serwera wsparcia]({invite}), aby uzyskać osobistą pomoc.",
 
   // Welcome to FreeStuff!\n\nIf you want to get **automatic notifications** for **free games**, you need to **add** at least **one source** below. You can always come back later and add or remove more sources.
-  "settings_main_welcome": "",
+  "settings_main_welcome": "Witamy w FreeStuff!\n\nJeśli chcesz otrzymywać **automatyczne powiadomienia** o **darmowych grach**, musisz **dodać** co najmniej **jedno źródło** poniżej. Zawsze możesz wrócić i dodać lub usunąć więcej źródeł.",
 
   // Pick a type of notification from the list below to get started!
-  "settings_main_welcome_extra": "",
+  "settings_main_welcome_extra": "Wybierz typ powiadomienia z listy poniżej, aby rozpocząć!",
 
   // With beta enabled you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.
-  "settings_more_beta_description": "",
+  "settings_more_beta_description": "Z uruchomioną wersją Beta możesz otrzymywać nowe aktualizacje i funkcje wcześniej. Uważaj, to również może zawierać niestabilne lub eksperymentalne funkcje i aktualizacje. Możesz też czasem być zapytany o feedback.",
 
   // Beta
-  "settings_more_beta_name": "",
+  "settings_more_beta_name": "Wersja Beta",
 
   // Opt out of Beta
   "settings_more_beta_off_prompt": "Zrezygnuj z wersji Beta",
@@ -1248,10 +1248,10 @@
   "settings_more_beta_on_state": "Jesteś w wersji Beta!",
 
   // When Boring Mode is enabled you are opted out from april fools events and things might be more dull in general.
-  "settings_more_boringmode_description": "",
+  "settings_more_boringmode_description": "Jeżeli Tryb Nudziarza jest włączony, nie będziesz dostawał eventów Prima Aprilis i ogólnie życie może być nudniejsze",
 
   // Boring Mode
-  "settings_more_boringmode_name": "",
+  "settings_more_boringmode_name": "Tryb Nudziarza",
 
   // Disable Boring Mode
   "settings_more_boringmode_off_prompt": "Wyłącz Tryb Nudziarza",
@@ -1266,13 +1266,13 @@
   "settings_more_boringmode_on_state": "Tryb Nudziarza jest włączony",
 
   // Show Debug Info
-  "settings_more_btn_debug": "",
+  "settings_more_btn_debug": "Pokaż Debug Info",
 
   // View Server Data
   "settings_more_btn_guilddata": "Wyświetl Dane Serwera",
 
   // Your Data
-  "settings_more_data_label": "",
+  "settings_more_data_label": "Twoje Dane",
 
   // Mysterious Button
   "settings_more_mysterious_button": "Tajemniczy Przycisk",
@@ -1320,40 +1320,40 @@
   "settings_sub_btn_more": "Więcej",
 
   // Oopsie woopsie!
-  "settings_sub_help_solution_premium_locked_1": "",
+  "settings_sub_help_solution_premium_locked_1": "Ojoj!",
 
   // {name} is only available to FreeStuff Premium users. You can either subscribe to FreeStuff Premium to receive notifications for {name} or **click the back button and pick a different source**. There are many free ones available!
-  "settings_sub_help_solution_premium_locked_2": "",
+  "settings_sub_help_solution_premium_locked_2": "{name} jest tylko dostępne dla użytkowników FreeStuff Premium. Możesz zasubskrybować do FreeStuff Premium, aby otrzymywać powiadomienia dla {name}, albo **kliknąć przycisk Wróć i wybrać inne źródło**. Jest sporo darmowych dostępnych!",
 
   // Tl;dr
-  "settings_sub_help_solution_tldr_1": "",
+  "settings_sub_help_solution_tldr_1": "W skrócie",
 
   // 1. Click on the dropdown menu above\n2. Select a channel for the bot to send notifications to\n3. And that's it, you're done! You will now receive automatic notifications!\n4. Optional: Click on the buttons above to customize things
-  "settings_sub_help_solution_tldr_2": "",
+  "settings_sub_help_solution_tldr_2": "1. Kliknij na listę rozwijaną powyżej\n2. Wybierz kanał, do którego bot ma wysyłać powiadomienia\n3. I to wszystko! Od teraz będziesz otrzymywać automatyczne powiadomienia!\n4. Opcjonalne: Kliknij w przyciski powyżej, aby dostosować rzeczy",
 
   // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
   "settings_subscription_locked_premium": "{subscription} jest subskrypcją premium. Jeśli chcesz otrzymywać powiadomienia z tej kategorii, [kliknij tutaj dla więcej informacji]({website})",
 
   // More
-  "settings_subscription_more_1": "",
+  "settings_subscription_more_1": "Więcej",
 
   // Resend Notifications
-  "settings_subscription_more_resend_1": "",
+  "settings_subscription_more_resend_1": "Wyślij Powiadomienia Ponownie",
 
   // You can re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This is for you!
-  "settings_subscription_more_resend_2": "",
+  "settings_subscription_more_resend_2": "Możesz ponownie wysłać wiadomość dotyczącą wszystkich ofert w tej kategorii, które są nadal aktualne. Przypadkowo usunąłeś wiadomość? Zmieniłeś ustawienia? A może po prostu chcesz otrzymać to samo powiadomienie dwa razy? To jest właśnie dla Ciebie!",
 
   // Resend
-  "settings_subscription_more_resend_btn": "",
+  "settings_subscription_more_resend_btn": "Wyślij Ponownie",
 
   // Test Message
-  "settings_subscription_more_test_1": "",
+  "settings_subscription_more_test_1": "Wiadomość Testowa",
 
   // You can send a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.
-  "settings_subscription_more_test_2": "",
+  "settings_subscription_more_test_2": "Możesz wysłać wiadomość testową z wszystkimi opcjami jakie ustawiłeś. Użyj tego, aby mieć 100% pewności, że wszystko działa. Uwaga, to może spingować ludzi, jeżeli tak ustawiłeś.",
 
   // Send Test
-  "settings_subscription_more_test_btn": "",
+  "settings_subscription_more_test_btn": "Wyślij Test",
 
   // More
   "settings_subscription_more_ui_1": "Więcej",
@@ -1383,16 +1383,16 @@
   "slash_command_source": "{user} użył {command}",
 
   // Sign up to get a notification for when usually paid assets receive a temporary 100% discount. This means you can get them for free and keep them forever.\nYou can filter by type, compatibility, store and more.
-  "subscription_assets_description": "",
+  "subscription_assets_description": "Zapisz się, aby otrzymywać powiadomienia o tym, kiedy zazwyczaj płatne assety otrzymują tymczasową 100% zniżkę. Oznacza to, że możesz je otrzymać za darmo i zachować na zawsze.\nMożesz filtrować według typu, kompatybilności, sklepu i innych kryteriów.",
 
   // 3d Models, Textures, Sounds and more
-  "subscription_assets_hint": "",
+  "subscription_assets_hint": "Modele 3D, Tekstury, Dźwięki i więcej",
 
   // Gamedev Assets
-  "subscription_assets_name": "",
+  "subscription_assets_name": "Assety Gamedev",
 
   // Are you a game developer or want to become one? With {name} you get a notification when paid game assets go free for a limited time! Get 3D models, textures, sounds and more!
-  "subscription_assets_promo": "",
+  "subscription_assets_promo": "Jesteś twórcą gier lub chcesz nim zostać? Dzięki {name} otrzymasz powiadomienia, gdy płatne assety do gier będą dostępne za darmo przez ograniczony czas! Zdobądź modele 3D, tekstury, dźwięki i wiele więcej!",
 
   // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
   "subscription_debug_promo": "",
@@ -1401,73 +1401,73 @@
   "subscription_gamepass_description": "Ta subskrypcja pokaże wszystkie gry nowo dodane do Game Pass. Te gry wymagają subskrypcji Game Pass, aby grać za darmo w czasie trwania oferty.\nMożesz filtrować według ceny i jakości.",
 
   // New arrivals on Xbox Game Pass.
-  "subscription_gamepass_hint": "",
+  "subscription_gamepass_hint": "Nowości w Xbox Game Pass",
 
   // Game Pass
   "subscription_gamepass_name": "Game Pass",
 
   // Game pass users, we've got you! Check out {name} to receive all new arrivals directly in Discord!
-  "subscription_gamepass_promo": "",
+  "subscription_gamepass_promo": "Użytkownicy Game Passa, mamy coś dla was! Sprawdź {name} aby otrzymywać wszystkie nowości bezpośrednio na Discordzie!",
 
   // Sign up to get a notification when any game gets a 100% discount for a limited amount of time. This means you can get them for free and even keep them after the sale is over. Nothing to lose.\nYou can filter by price, platform and quality.
   "subscription_keep_description": "Ta subskrypcja pokaże gry, które mają 100% zniżki przez ograniczony czas. Możesz zachować te gry po zakończeniu wyprzedaży. Możesz filtrować według ceny, platformy i jakości.",
 
   // Games with a temporary 100% discount.
-  "subscription_keep_hint": "",
+  "subscription_keep_hint": "Gry z tymczasową zniżką 100%",
 
   // 100% Discount
   "subscription_keep_name": "100% Zniżki",
 
   // {name} is a must have! Receive notifications for regular, paid games at a temporary 100% discount! Claim in time and keep them forever!
-  "subscription_keep_promo": "",
+  "subscription_keep_promo": "{name} jest bardzo przydatne! Otrzymuj powiadomienia o regularnych, płatnych grach z tymczasową zniżką 100%! Odbierz na czas i zachowaj je na zawsze!",
 
   // Are you into mobile gaming? Did you know there's free games for you too?
-  "subscription_mobile_description": "",
+  "subscription_mobile_description": "Interesują Cię gry mobilne? Wiedziałeś że są też darmowe gry dla Ciebie?",
 
   // Mobile games with a 100% discount.
-  "subscription_mobile_hint": "",
+  "subscription_mobile_hint": "Gry mobilne ze zniżką 100%",
 
   // Mobile Games
-  "subscription_mobile_name": "",
+  "subscription_mobile_name": "Gry Mobilne",
 
   // Do you own a phone? If so, {name} has you covered with temporary 100% discounts on mobile games!
-  "subscription_mobile_promo": "",
+  "subscription_mobile_promo": "Posiadasz telefon? Jeśli tak, {name} wysyła tymczasowe zniżki 100% na gry mobilne!",
 
   // Big news. Big releases. Big offers. Never ads or paid posts.\nSubscribe to get a hand-curated selection of news and big things happening.
-  "subscription_news_description": "",
+  "subscription_news_description": "Ważne wiadomości. Wielkie premiery. Atrakcyjne oferty. Bez reklam i płatnych postów.\nZapisz się, aby otrzymywać ręcznie wyselekcjonowane wiadomości i informacje o ważnych wydarzeniach.",
 
   // Big news from the gaming world.
-  "subscription_news_hint": "",
+  "subscription_news_hint": "Wielkie wydarzenia ze świata gier.",
 
   // Gaming News
-  "subscription_news_name": "",
+  "subscription_news_name": "Wiadomości Gaming'owe",
 
   // Do you regularly miss out on big things happening? Check out {name} where the FreeStuff team lets you know when GTA6 is delayed again or when Fortnite is deleted.
-  "subscription_news_promo": "",
+  "subscription_news_promo": "Czy regularnie przegapiasz ważne wydarzenia? Sprawdź {name}, gdzie zespół FreeStuff informuje Cię o kolejnych opóźnieniach w premierze GTA6 lub kiedy usuną Fortnite.",
 
   // Sign up to see all sorts of other offers that are available at a temporary 100% discount. This means DLCs, Addons, Ingame Content, Store Items or something else entirely, but always free to claim and keep forever.\nYou can filter by price, platform and product type.
   "subscription_other_description": "Ta subskrypcja pokaże wszelkiego rodzaju inne oferty, które są dostępne ze 100% zniżką przez ograniczony czas. Zwykle nie obejmuje to gier, ale może obejmować inne oprogramowanie, takie jak DLC lub przedmioty niezwiązane z grami. Możesz filtrować według ceny, platformy i typu produktu.",
 
   // DLCs, Addons, Ingame Content & more at 100% off.
-  "subscription_other_hint": "",
+  "subscription_other_hint": "DLC, Dodatki, Zawartości w Grze i wiele więcej – 100% zniżki",
 
   // DLCs & More
   "subscription_other_name": "DLC i Więcej",
 
   // Check out {name} for news about any 100% discounted DLCs, Addons or Ingame Content from all the same places you know and love!
-  "subscription_other_promo": "",
+  "subscription_other_promo": "Sprawdź {name}, aby uzyskać informacje o wszystkich DLC, dodatkach lub zawartościach w grach ze zniżką 100%, pochodzących z tych samych miejsc, które znasz i lubisz!",
 
   // Sign up to get notified about any games or other content newly added to Prime Gaming. You require a Prime Gaming subscription to make use of these offers. \nYou can filter by type, price and quality.
   "subscription_prime_description": "Ta subskrypcja pokaże wszystkie gry nowo dodane do Prime Gaming. Te gry wymagają subskrypcji Prime Gaming, aby grać za darmo w czasie trwania oferty. Możesz je zachować po wygaśnięciu oferty.\nMożesz filtrować według ceny i jakości.",
 
   // New arrivals on Prime Gaming.
-  "subscription_prime_hint": "",
+  "subscription_prime_hint": "Nowości w Prime Gaming",
 
   // Prime Gaming
   "subscription_prime_name": "Prime Gaming",
 
   // Got an Amazon Prime Gaming subscription or thinking of getting one? With our {name} notifications you'll stay ahead and never miss out!
-  "subscription_prime_promo": "",
+  "subscription_prime_promo": "Posiadasz subskrypcję Amazon Prime Gaming? Z naszymi powiadomieniami {name}, nic nie przegapisz!",
 
   // Prime Gaming: Games
   "subscription_primegames_name": "Prime Gaming: Gry",
@@ -1479,13 +1479,13 @@
   "subscription_timed_description": "Ta subskrypcja pokaże gry, które możesz wypróbować i grać w nie za darmo przez ograniczony czas. Nie możesz zachować tych gier po upływie tego czasu i musisz je kupić, aby kontynuować grę. Możesz filtrować według ceny, platformy i jakości.",
 
   // Games that are temporarily free to play.
-  "subscription_timed_hint": "",
+  "subscription_timed_hint": "Gry, które są tymasowo darmowe do grania.",
 
   // Free Weekend
   "subscription_timed_name": "Darmowy Weekend",
 
   // Into exploring new games? {name} got you covered, with news about games that are temporarily free to play, usually for a couple of days.
-  "subscription_timed_promo": "",
+  "subscription_timed_promo": "Poszukujesz nowych gier? {name} ma dla Ciebie coś specjalnego – informacje o grach, w które tymczasowo możesz grać za darmo, zazwyczaj przez pare dni.",
 
   // Terms of Service
   "terms_of_service": "Warunki Świadczenia Usług",
