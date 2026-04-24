@@ -5,6 +5,12 @@ Welcome!
 This repo is the right place if you're interested in translating FreeStuff <3
 
 
+> [!NOTE]
+> Please read this document carefully before diving in! There are a few technical challanges that need to be taken care of. Please also familiarize yourself with our guidelines while you're here.
+> 
+> If this is your first time here, we recommend you start off small! Change a couple of lines and propose them first before going further. This way we can let you know early if everything is alright or if something needs to be fixed. Of course we're also always happy to help you out with any questions so don't be shy :D
+
+
 ## How (if you don't know git)
 
 Click on the "discord-bot" folder above.
