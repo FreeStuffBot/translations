@@ -46,7 +46,7 @@
 
   // {prices}
   "announcement_price_keep": "{prices}",
-
+  
   // {prices} until {date}
   "announcement_price_keep_until": "{prices} até {date}",
 
@@ -57,10 +57,10 @@
   "announcement_price_mobile_until": "**Grátis em dispositivos móveis** até {date}",
 
   // {prices}
-  "announcement_price_other": "{preços}",
+  "announcement_price_other": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_other_until": "{preços} até {date}",
+  "announcement_price_other_until": "{prices} até {date}",
 
   // Claim for **Free**
   "announcement_price_prime": "Obtenha de **Graça**",
@@ -117,13 +117,13 @@
   "announcement_thread_name_keep_single_outside": "{name} está de graça!",
 
   // {names}
-  "announcement_thread_name_mobile_multiple_below": "nomes",
+  "announcement_thread_name_mobile_multiple_below": "{names}",
 
   // {amount} free games for mobile!
    "announcement_thread_name_mobile_multiple_outside": "{amount} jogos grátis para celular!",
 
   // {name}
-  "announcement_thread_name_mobile_single_below": "nome",
+  "announcement_thread_name_mobile_single_below": "{names}",
 
   // Free mobile game: {name}!
   "announcement_thread_name_mobile_single_outside": "Jogo grátis para celular: {name}!",
@@ -1452,7 +1452,7 @@
   "subscription_other_hint": "DLCs, Addons, conteúdo do jogo e muito mais com 100% de desconto.",
 
   // DLCs & More
-  "subscription_other_name": "DLCs ​​e muito mais",
+  "subscription_other_name": "DLCs e muito mais",
 
   // Check out {name} for news about any 100% discounted DLCs, Addons or Ingame Content from all the same places you know and love!
   "subscription_other_promo": "Confira {name} para novidades sobre DLCs, complementos ou conteúdo do jogo com 100% de desconto, dos mesmos lugares que você já conhece e adora!",
