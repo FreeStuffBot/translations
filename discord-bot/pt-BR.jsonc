@@ -267,7 +267,7 @@
   "cmd_info_2": "Bot feito com :heart: por [pessoas incríveis]({amazingPeople})\n\n[Sobre/Website]({website})\n\nClique [aqui]({inviteLink}) para adicioná-lo no seu servidor.\n\nReporte um bug ou entre em contato em nosso [servidor de suporte]({discordInvite})",
 
   // :eyes:
-  "cmd_invite_1": ":olhos:",
+  "cmd_invite_1": ":eyes:",
 
   // [Click here to add me to your server!]({inviteLink})
   "cmd_invite_2": "[Clique aqui para me adicionar a seu servidor!]({inviteLink})",
