@@ -45,8 +45,8 @@
   "announcement_price_generic_until": "prices} até {date}",
 
   // {prices}
-  "announcement_price_keep": "{priçes}",
-
+  "announcement_price_keep": "{prices}",
+  
   // {prices} until {date}
   "announcement_price_keep_until": "{prices} até {date}",
 
@@ -87,13 +87,13 @@
   "announcement_thread_name_assets_multiple_outside": "{amount} recursos de desenvolvimento de jogos gratuitos!",
 
   // {name}
-  "announcement_thread_name_assets_single_below": "{name}",
+  "announcement_thread_name_assets_single_below": "",
 
   // Gamedev asset for free: {name}!
   "announcement_thread_name_assets_single_outside": "Recurso para desenvolvimento de jogos gratuito: {name}!",
 
   // {names}
-  "announcement_thread_name_gamepass_multiple_below": "{names}",
+  "announcement_thread_name_gamepass_multiple_below": "{name}",
 
   // {amount} new games for Game Pass!
   "announcement_thread_name_gamepass_multiple_outside": "{amount} novo(s) jogo(s) no Game Pass!",
@@ -117,10 +117,10 @@
   "announcement_thread_name_keep_single_outside": "{name} está de graça!",
 
   // {names}
-  "announcement_thread_name_mobile_multiple_below": "{names}"
+  "announcement_thread_name_mobile_multiple_below": "{names}",
 
   // {amount} free games for mobile!
-  "announcement_thread_name_mobile_multiple_outside": "{amount} jogos grátis para celular!",
+   "announcement_thread_name_mobile_multiple_outside": "{amount} jogos grátis para celular!",
 
   // {name}
   "announcement_thread_name_mobile_single_below": "{names}",
@@ -168,7 +168,7 @@
   "announcement_title_statement": "{title} está de graça!",
 
   // An error occurred!
-  "cmd_error_fatal_1": " O correu um erro!",
+  "cmd_error_fatal_1": " Ocorreu um erro!",
 
   // We're trying to fix this issue as soon as possible!
   "cmd_error_fatal_2": "Estamos tentando resolver o problema o mais rápido possível!",
@@ -267,7 +267,7 @@
   "cmd_info_2": "Bot feito com :heart: por [pessoas incríveis]({amazingPeople})\n\n[Sobre/Website]({website})\n\nClique [aqui]({inviteLink}) para adicioná-lo no seu servidor.\n\nReporte um bug ou entre em contato em nosso [servidor de suporte]({discordInvite})",
 
   // :eyes:
-  "cmd_invite_1": ":olhos:",
+  "cmd_invite_1": ":eyes:",
 
   // [Click here to add me to your server!]({inviteLink})
   "cmd_invite_2": "[Clique aqui para me adicionar a seu servidor!]({inviteLink})",
@@ -399,7 +399,7 @@
   "fluid_list_delimiter_first": "",
 
   // {prev}, and {next}
-  "fluid_list_delimiter_last": "{prev} e {next}",
+  "fluid_list_delimiter_last": "{prev}, e {next}",
 
   // {prev}, {next}
   "fluid_list_delimiter_middle": "",
@@ -453,7 +453,7 @@
   "free_layout_default_name": "Padrão",
 
   // ONLY ON APRIL FIRST
-  "free_recommendation_april_fools": «"SOMENTE NO DIA 1 DE ABRIL",
+  "free_recommendation_april_fools": "SOMENTE NO DIA 1 DE ABRIL",
 
   // Free on {store}!
   "free_recommendation_by_store": "Grátis na {store}!",
@@ -465,7 +465,7 @@
   "free_recommendation_expires_hours": "Expira em {horas, plural, =1 {1 hora} outras {# horas} }!",
 
   // Expires in {minutes, plural, =1 {1 minute} other {# minutes} }!
-  "free_recommendation_expires_minutes": "Expira em {minutos, plural, =1 {1 minuto} outros {# minutos} }!",
+  "free_recommendation_expires_minutes": "Expira em {minutes, plural, =1 {1 minute} outros {# minutes} }!",
 
   // Over 95% positive reviews:
   "free_recommendation_extremely_positive": "Mais de 95% de avaliações positivas:",
@@ -489,7 +489,7 @@
   "free_recommendation_personal_preference_highest_1": "olha isto!",
 
   // Oh damnnn
-  "free_recommendation_personal_preference_highest_2": " ",
+  "free_recommendation_personal_preference_highest_2": "",
 
   // Well received:
   "free_recommendation_positive": "Bem recebido:",
@@ -498,7 +498,7 @@
   "free_recommendation_staff_pick": "A equipe do FreeStuff recomenda:",
 
   // Popular!
-  "free_recommendation_very_positive": "popular!",
+  "free_recommendation_very_positive": "Popular!",
 
   // Nothing of interest for you... :/
   "free_recommended_no_products": "Nada de interessante para você... :/",
@@ -963,10 +963,10 @@
   "settings_display_expressbutton_off_prompt": "Desativar botão "Reivindicar tudo"",
 
   // Claim-All Button Disabled
-  "settings_display_expressbutton_off_state": "Botão "Reivindicar tudo" desativado",
+  "settings_display_expressbutton_off_state": "Botão Reivindicar tudo desativado",
 
   // Enable Claim-All Button
-  "settings_display_expressbutton_on_prompt": "Ativar botão "Reivindicar tudo"",
+  "settings_display_expressbutton_on_prompt": "Ativar botão Reivindicar tudo",
 
   // Claim-All Button Enabled
   "settings_display_expressbutton_on_state": "Botão "Reivindicar tudo" ativado",
@@ -1452,7 +1452,7 @@
   "subscription_other_hint": "DLCs, Addons, conteúdo do jogo e muito mais com 100% de desconto.",
 
   // DLCs & More
-  "subscription_other_name": "DLCs ​​e muito mais",
+  "subscription_other_name": "DLCs e muito mais",
 
   // Check out {name} for news about any 100% discounted DLCs, Addons or Ingame Content from all the same places you know and love!
   "subscription_other_promo": "Confira {name} para novidades sobre DLCs, complementos ou conteúdo do jogo com 100% de desconto, dos mesmos lugares que você já conhece e adora!",
