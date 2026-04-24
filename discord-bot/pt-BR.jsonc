@@ -45,7 +45,7 @@
   "announcement_price_generic_until": "prices} até {date}",
 
   // {prices}
-  "announcement_price_keep": "{preços}",
+  "announcement_price_keep": "{priçes}",
 
   // {prices} until {date}
   "announcement_price_keep_until": "{prices} até {date}",
@@ -57,10 +57,10 @@
   "announcement_price_mobile_until": "**Grátis em dispositivos móveis** até {date}",
 
   // {prices}
-  "announcement_price_other": "{preços}",
+  "announcement_price_other": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_other_until": "{preços} até {date}",
+  "announcement_price_other_until": "{prices} até {date}",
 
   // Claim for **Free**
   "announcement_price_prime": "Obtenha de **Graça**",
@@ -81,19 +81,19 @@
   "announcement_theme9": "**{name}** está de graça!\\n<{url}>",
 
   // {names}
-  "announcement_thread_name_assets_multiple_below": "{nomes}",
+  "announcement_thread_name_assets_multiple_below": "{names}",
 
   // {amount} gamedev assets for free!
   "announcement_thread_name_assets_multiple_outside": "{amount} recursos de desenvolvimento de jogos gratuitos!",
 
   // {name}
-  "announcement_thread_name_assets_single_below": "{nome}",
+  "announcement_thread_name_assets_single_below": "{name}",
 
   // Gamedev asset for free: {name}!
   "announcement_thread_name_assets_single_outside": "Recurso para desenvolvimento de jogos gratuito: {name}!",
 
   // {names}
-  "announcement_thread_name_gamepass_multiple_below": "{nomes}",
+  "announcement_thread_name_gamepass_multiple_below": "{names}",
 
   // {amount} new games for Game Pass!
   "announcement_thread_name_gamepass_multiple_outside": "{amount} novo(s) jogo(s) no Game Pass!",
@@ -117,13 +117,13 @@
   "announcement_thread_name_keep_single_outside": "{name} está de graça!",
 
   // {names}
-  "announcement_thread_name_mobile_multiple_below": "nomes"
+  "announcement_thread_name_mobile_multiple_below": "{names}"
 
   // {amount} free games for mobile!
   "announcement_thread_name_mobile_multiple_outside": "{amount} jogos grátis para celular!",
 
   // {name}
-  "announcement_thread_name_mobile_single_below": "nome",
+  "announcement_thread_name_mobile_single_below": "{names}",
 
   // Free mobile game: {name}!
   "announcement_thread_name_mobile_single_outside": "Jogo grátis para celular: {name}!",
