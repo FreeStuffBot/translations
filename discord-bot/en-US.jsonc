@@ -409,7 +409,7 @@
     "settings_main_ui_2_regular": "Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.",
     "settings_main_welcome": "Welcome to FreeStuff!\n\nIf you want to get **automatic notifications** for **free games**, you need to **add** at least **one source** below. You can always come back later and add or remove more sources.",
     "settings_main_welcome_extra": "Pick a type of notification from the list below to get started!",
-    "settings_more_beta_description": "With beta enabled you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.",
+    "settings_more_beta_description": "With beta enabled you can get updates and new features early. But be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.",
     "settings_more_beta_name": "Beta",
     "settings_more_beta_off_prompt": "Opt out of Beta",
     "settings_more_beta_off_state": "You're not in beta!",
