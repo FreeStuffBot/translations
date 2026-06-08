@@ -27,16 +27,16 @@
   "announcement_header": "Ücretsiz Oyun!",
 
   // {prices}
-  "announcement_price_assets": "",
+  "announcement_price_assets": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_assets_until": "",
+  "announcement_price_assets_until": "{date} tarihine kadar {prices}",
 
   // Claim for **Free**
   "announcement_price_gamepass": "**Ücretsiz** olarak alın",
 
   // Claim for **Free** until {date}
-  "announcement_price_gamepass_until": "{until} tarihine kadar **Ücretsiz** olarak alın",
+  "announcement_price_gamepass_until": "{date} tarihine kadar **Ücretsiz** olarak alın",
 
   // {prices}
   "announcement_price_generic": "{prices}",
@@ -51,10 +51,10 @@
   "announcement_price_keep_until": "{date} tarihine kadar {prices}",
 
   // **Free on mobile**
-  "announcement_price_mobile": "",
+  "announcement_price_mobile": "**Mobil'de Ücretsiz**",
 
   // **Free on mobile** until {date}
-  "announcement_price_mobile_until": "",
+  "announcement_price_mobile_until": "{date} tarihine kadar **Mobil'de Ücretsiz**",
 
   // {prices}
   "announcement_price_other": "{prices}",
@@ -81,16 +81,16 @@
   "announcement_theme9": "**{name}** ücretsiz!\n<{url}>",
 
   // {names}
-  "announcement_thread_name_assets_multiple_below": "",
+  "announcement_thread_name_assets_multiple_below": "{names}",
 
   // {amount} gamedev assets for free!
-  "announcement_thread_name_assets_multiple_outside": "",
+  "announcement_thread_name_assets_multiple_outside": "{amount} adet oyun geliştirici asseti ücretsiz!",
 
   // {name}
-  "announcement_thread_name_assets_single_below": "",
+  "announcement_thread_name_assets_single_below": "{name}",
 
   // Gamedev asset for free: {name}!
-  "announcement_thread_name_assets_single_outside": "",
+  "announcement_thread_name_assets_single_outside": "Ücretsiz oyun geliştirici asseti: {name}!",
 
   // {names}
   "announcement_thread_name_gamepass_multiple_below": "{names}",
@@ -117,16 +117,16 @@
   "announcement_thread_name_keep_single_outside": "{name} Ücretsiz",
 
   // {names}
-  "announcement_thread_name_mobile_multiple_below": "",
+  "announcement_thread_name_mobile_multiple_below": "{names}",
 
   // {amount} free games for mobile!
-  "announcement_thread_name_mobile_multiple_outside": "",
+  "announcement_thread_name_mobile_multiple_outside": "Mobil için {amount} adet ücretsiz oyun!",
 
   // {name}
-  "announcement_thread_name_mobile_single_below": "",
+  "announcement_thread_name_mobile_single_below": "{name}",
 
   // Free mobile game: {name}!
-  "announcement_thread_name_mobile_single_outside": "",
+  "announcement_thread_name_mobile_single_outside": "Ücretsiz mobil oyun: {name}!",
 
   // {names}
   "announcement_thread_name_other_multiple_below": "{names}",
@@ -186,7 +186,7 @@
   "cmd_error_readd_2": "Botu sunucunuzdan atın ve tekrar eklemeyi deneyin. Bu işe yaramazsa, [lütfen destek sunucusuna katılın]({discordInvite}).",
 
   // + {count} more
-  "cmd_free_and_more": "",
+  "cmd_free_and_more": "+ {count} tane daha",
 
   // **Ends soon:**
   "cmd_free_ends_soon": "**Yakında bitiyor:**",
@@ -204,7 +204,7 @@
   "cmd_free_title": "Bu oyunlar şu anda ücretsizdir:",
 
   // Gamedev Assets (100% off)
-  "cmd_free_title_assets": "",
+  "cmd_free_title_assets": "Oyun Geliştirici Assetleri (%100 indirim)",
 
   // Free on Epic Games Store
   "cmd_free_title_epic": "Epic Games Store'da Ücretsiz",
@@ -231,7 +231,7 @@
   "cmd_free_title_keep": "Şu anda ücretsiz (%100 indirimli)",
 
   // Free Mobile Games
-  "cmd_free_title_mobile": "",
+  "cmd_free_title_mobile": "Ücretsiz Mobil Oyunlar",
 
   // Free on Origin
   "cmd_free_title_origin": "Origin'de Ücretsiz",
@@ -408,49 +408,49 @@
   "fluid_list_delimiter_only": "{prev} ve {next}",
 
   // Chose your interests and get a more personalized overview when running the `/free` command. Your changes here do not apply to notifications in this server.
-  "free_edit_preferences_description": "",
+  "free_edit_preferences_description": "`/free` komutunu çalıştırırken ilgilerinizi seçin ve daha kişiselleştirilmiş bir özet alın. Burada yaptığınız değişiklikler bu sunucudaki bildirimlere uygulanmaz.",
 
   // Some stores and sources from the list below might not be available in every server.
-  "free_edit_preferences_disclaimer": "",
+  "free_edit_preferences_disclaimer": "Aşağıdaki listede bazı mağazalar ve kaynaklar her sunucuda kullanılamayabilir.",
 
   // Select things to hide
-  "free_edit_preferences_hide_cta": "",
+  "free_edit_preferences_hide_cta": "Gizlenecek öğeleri seç",
 
   // The items you select above will be hidden from your /free feed.
-  "free_edit_preferences_hide_description": "",
+  "free_edit_preferences_hide_description": "Yukarıda seçtiğiniz öğeler sizin /free akışınızdan gizlenecektir.",
 
   // Are there stores and sources you do not want to see?
-  "free_edit_preferences_hide_title": "",
+  "free_edit_preferences_hide_title": "Görmek istemediğiniz mağazalar ve kaynaklar var mı?",
 
   // Pick a layout style
-  "free_edit_preferences_layout_cta": "",
+  "free_edit_preferences_layout_cta": "Bir düzen stili seç",
 
   // How do you want things to look like?
-  "free_edit_preferences_layout_title": "",
+  "free_edit_preferences_layout_title": "Bir şeylerin nasıl görünmesini istiyorsunuz?",
 
   // Select your favorites
-  "free_edit_preferences_prefer_cta": "",
+  "free_edit_preferences_prefer_cta": "Favorilerinizi seç",
 
   // We will show you these with higher priority in your /free feed.
-  "free_edit_preferences_prefer_description": "",
+  "free_edit_preferences_prefer_description": "Bunları /free akışınızda daha yüksek öncelikle göstereceğiz.",
 
   // Which stores and sources do you care about the most?
-  "free_edit_preferences_prefer_title": "",
+  "free_edit_preferences_prefer_title": "Hangi mağazalar ve kaynaklar sizin için en önemli?",
 
   // Your changes save automatically!
-  "free_edit_preferences_save_notice": "",
+  "free_edit_preferences_save_notice": "Değişiklikleriniz otomatik olarak kaydedilir!",
 
   // /free preferences
-  "free_edit_preferences_title": "",
+  "free_edit_preferences_title": "/free tercihleri",
 
   // Compact
-  "free_layout_compact_name": "",
+  "free_layout_compact_name": "Kompakt",
 
   // Cozy
-  "free_layout_cozy_name": "",
+  "free_layout_cozy_name": "Rahat",
 
   // Default
-  "free_layout_default_name": "",
+  "free_layout_default_name": "Varsayılan",
 
   // ONLY ON APRIL FIRST
   "free_recommendation_april_fools": "SADECE 1 NİSAN'DA",
@@ -480,16 +480,16 @@
   "free_recommendation_generic_3": "Kaçırdıysanız...",
 
   // Based on your preferences
-  "free_recommendation_personal_preference_high_1": "",
+  "free_recommendation_personal_preference_high_1": "Tercihlerinize göre",
 
   // Personal recommendation
-  "free_recommendation_personal_preference_high_2": "",
+  "free_recommendation_personal_preference_high_2": "Kişisel tavsiye",
 
   // Look at that!
-  "free_recommendation_personal_preference_highest_1": "",
+  "free_recommendation_personal_preference_highest_1": "Buna bir bak!",
 
   // Oh damnnn
-  "free_recommendation_personal_preference_highest_2": "",
+  "free_recommendation_personal_preference_highest_2": "Vay canına",
 
   // Well received:
   "free_recommendation_positive": "Hoş karşılanıyor:",
@@ -501,10 +501,10 @@
   "free_recommendation_very_positive": "Popüler!",
 
   // Nothing of interest for you... :/
-  "free_recommended_no_products": "",
+  "free_recommended_no_products": "Sizin için ilgi çekici bir şey yok... :/",
 
   // You have hidden some categories in your settings.
-  "free_recommended_no_products_hint": "",
+  "free_recommended_no_products_hint": "Ayarlarınızda bazı kategorileri gizlediniz.",
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Üçüncü Taraf Sağlayıcı",
@@ -717,82 +717,82 @@
   "privacy_policy": "Gizlilik Politikası",
 
   // Any formats
-  "product_kind_3d_model_description": "",
+  "product_kind_3d_model_description": "Her tür format",
 
   // 3D Models
-  "product_kind_3d_model_name": "",
+  "product_kind_3d_model_name": "3D Modeller",
 
   // Digital artworks, illustrations and similar content
-  "product_kind_art_description": "",
+  "product_kind_art_description": "Dijital sanat eserleri, illüstrasyonlar ve benzer içerik",
 
   // Art
-  "product_kind_art_name": "",
+  "product_kind_art_name": "Sanat",
 
   // Ambient, Music, Sound Effects, etc.
-  "product_kind_audio_description": "",
+  "product_kind_audio_description": "Ortam müziği, Müzik, Ses Efektleri, vb.",
 
   // Audio
-  "product_kind_audio_name": "",
+  "product_kind_audio_name": "Ses",
 
   // Ebooks, digital comics and similar content
-  "product_kind_book_description": "",
+  "product_kind_book_description": "E-kitaplar, dijital çizgiler ve benzer içerik",
 
   // Books
-  "product_kind_book_name": "",
+  "product_kind_book_name": "Kitaplar",
 
   // Collections of games, DLCs or other items
-  "product_kind_bundle_description": "",
+  "product_kind_bundle_description": "Oyun, DLC veya diğer öğelerden oluşan koleksiyonlar",
 
   // Show Bundles
-  "product_kind_bundle_name": "",
+  "product_kind_bundle_name": "Paketleri Göster",
 
   // Addons and other game extensions
-  "product_kind_dlc_description": "",
+  "product_kind_dlc_description": "Eklentiler ve diğer oyun uzantıları",
 
   // Show DLCs
-  "product_kind_dlc_name": "",
+  "product_kind_dlc_name": "DLC'leri Göster",
 
   // Well. Games. The thing you play.
-  "product_kind_game_description": "",
+  "product_kind_game_description": "Evet. Oyunlar. Oynadığın şey.",
 
   // Games
-  "product_kind_game_name": "",
+  "product_kind_game_name": "Oyunlar",
 
   // This is ingame content like skins, items, etc.
-  "product_kind_loot_description": "",
+  "product_kind_loot_description": "Cilt, öğeler vb. gibi oyun içi içeriklerdir.",
 
   // Loot
-  "product_kind_loot_name": "",
+  "product_kind_loot_name": "Ganimet",
 
   // Original Soundtracks and other music
-  "product_kind_ost_description": "",
+  "product_kind_ost_description": "Orijinal müzikler ve diğer müzikler",
 
   // OSTs
-  "product_kind_ost_name": "",
+  "product_kind_ost_name": "OST'ler",
 
   // Stuff that does not fit into the other categories
-  "product_kind_other_description": "",
+  "product_kind_other_description": "Diğer kategorilere uymayan şeyler",
 
   // Show other content
-  "product_kind_other_name": "",
+  "product_kind_other_name": "Diğer içeriği göster",
 
   // Applications and other non-game programs
-  "product_kind_software_description": "",
+  "product_kind_software_description": "Uygulamalar ve diğer oyun olmayan programlar",
 
   // Software
-  "product_kind_software_name": "",
+  "product_kind_software_name": "Yazılım",
 
   // Things like steam point shop items
-  "product_kind_storeitem_description": "",
+  "product_kind_storeitem_description": "Steam Puan Dükkanı ürünleri gibi şeyler",
 
   // Show Store Items
-  "product_kind_storeitem_name": "",
+  "product_kind_storeitem_name": "Mağaza Öğelerini Göster",
 
   // Material, Sprites, Decals, Brushes, HDRI, etc.
-  "product_kind_texture_description": "",
+  "product_kind_texture_description": "Materyal, Sprite'lar, Çıkartmalar, Fırçalar, HDRI, vb.",
 
   // Textures
-  "product_kind_texture_name": "",
+  "product_kind_texture_name": "Dokular",
 
   // Permanently Free
   "product_meta_flag_permanent": "Kalıcı Olarak Ücretsiz",
@@ -1059,7 +1059,7 @@
   "settings_filter_stores_label": "Yalnızca bu mağazalardan",
 
   // (All disabled)
-  "settings_filter_stores_none": "",
+  "settings_filter_stores_none": "(Hepsi devre dışı)",
 
   // Show bad quality games
   "settings_filter_trash_1": "Düşük kaliteli oyunları göster",
@@ -1140,13 +1140,13 @@
   "settings_language_list_desc_generic": "{language} dilinin çevirmenleri: {translators}",
 
   // Your Active Notifications
-  "settings_main_active_notifications": "",
+  "settings_main_active_notifications": "Aktif Bildirimleriniz",
 
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "Haber kaynakları eklemek için tıklayın",
 
   // Add Notifications
-  "settings_main_add_notifications": "",
+  "settings_main_add_notifications": "Bildirim Ekle",
 
   // You are subscribed to everything!
   "settings_main_add_sources_empty_1": "Her şeye abone oldunuz!",
@@ -1182,7 +1182,7 @@
   "settings_main_help_solution_tldr_2": "1. Yukarıdaki `{text}` seçeneğini tıklayın\n2. Bir kaynak seçin, istediğiniz herhangi biri olabilir. {premium} sahibi olanlar FreeStuff Premium'a ihtiyaç duyar, **diğerlerinin ihtiyacı yoktur**\n3. Açılan sayfada botun gönderi paylaşacağı kanalı seçin\n4. Bitti!",
 
   // You can edit your notification settings by clicking the buttons above.
-  "settings_main_notifications_edit_hint": "",
+  "settings_main_notifications_edit_hint": "Yukarıdaki düğmelere tıklayarak bildirim ayarlarınızı düzenleyebilirsiniz.",
 
   // Suggested for you
   "settings_main_suggested_categories_1": "Sizin için önerildi",
@@ -1383,16 +1383,16 @@
   "slash_command_source": "{user} adlı kullanıcı {command} komutunu kullandı",
 
   // Sign up to get a notification for when usually paid assets receive a temporary 100% discount. This means you can get them for free and keep them forever.\nYou can filter by type, compatibility, store and more.
-  "subscription_assets_description": "",
+  "subscription_assets_description": "Normalde ücretli olan assetlere geçici %100 indirim uygulandığında bildirim almak için kaydolun. Bu, onları ücretsiz olarak alabilir ve sonsuza kadar saklayabileceğiniz anlamına gelir.\nTür, uyumluluk, mağaza ve daha fazlasına göre filtreleyebilirsiniz.",
 
   // 3d Models, Textures, Sounds and more
-  "subscription_assets_hint": "",
+  "subscription_assets_hint": "3D Modeller, Dokular, Sesler ve daha fazlası",
 
   // Gamedev Assets
   "subscription_assets_name": "Oyun Geliştirici Assetleri",
 
   // Are you a game developer or want to become one? With {name} you get a notification when paid game assets go free for a limited time! Get 3D models, textures, sounds and more!
-  "subscription_assets_promo": "",
+  "subscription_assets_promo": "Oyun geliştiricisi misiniz veya olmak ister misiniz? {name} ile ücretli oyun assetleri sınırlı bir süre için ücretsiz hale geldiğinde bildirim alırsınız! 3D modeller, dokular, sesler ve daha fazlasını alın!",
 
   // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
   "subscription_debug_promo": "Uhhhh uhmmm uhhh uhhhhhhhhhmmmuhhhhhh evethh uhhhhhh hayır.",
