@@ -27,10 +27,10 @@
   "announcement_header": "Hra zadarmo!",
 
   // {prices}
-  "announcement_price_assets": "",
+  "announcement_price_assets": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_assets_until": "",
+  "announcement_price_assets_until": "{prices} do {date}",
 
   // Claim for **Free**
   "announcement_price_gamepass": "Získaj **zadarmo**",
@@ -51,10 +51,10 @@
   "announcement_price_keep_until": "{prices} do {date}",
 
   // **Free on mobile**
-  "announcement_price_mobile": "",
+  "announcement_price_mobile": "**Zadarmo na mobile**",
 
   // **Free on mobile** until {date}
-  "announcement_price_mobile_until": "",
+  "announcement_price_mobile_until": "**Zadarmo na mobile** do {date}",
 
   // {prices}
   "announcement_price_other": "{prices}",
@@ -81,16 +81,16 @@
   "announcement_theme9": "**{name}** je zadarmo!\n<{url}>",
 
   // {names}
-  "announcement_thread_name_assets_multiple_below": "",
+  "announcement_thread_name_assets_multiple_below": "{names}",
 
   // {amount} gamedev assets for free!
-  "announcement_thread_name_assets_multiple_outside": "",
+  "announcement_thread_name_assets_multiple_outside": "{amount} vývojárskych assetov zadarmo!",
 
   // {name}
-  "announcement_thread_name_assets_single_below": "",
+  "announcement_thread_name_assets_single_below": "{name}",
 
   // Gamedev asset for free: {name}!
-  "announcement_thread_name_assets_single_outside": "",
+  "announcement_thread_name_assets_single_outside": "Vývojársky asset zadarmo: {name}!",
 
   // {names}
   "announcement_thread_name_gamepass_multiple_below": "{names}",
@@ -117,16 +117,16 @@
   "announcement_thread_name_keep_single_outside": "{name} je zadarmo!",
 
   // {names}
-  "announcement_thread_name_mobile_multiple_below": "",
+  "announcement_thread_name_mobile_multiple_below": "{names}",
 
   // {amount} free games for mobile!
-  "announcement_thread_name_mobile_multiple_outside": "",
+  "announcement_thread_name_mobile_multiple_outside": "{amount} mobilných hier zadarmo!",
 
   // {name}
-  "announcement_thread_name_mobile_single_below": "",
+  "announcement_thread_name_mobile_single_below": "{name}",
 
   // Free mobile game: {name}!
-  "announcement_thread_name_mobile_single_outside": "",
+  "announcement_thread_name_mobile_single_outside": "Mobilná hra zadarmo: {name}!",
 
   // {names}
   "announcement_thread_name_other_multiple_below": "{names}",
@@ -186,7 +186,7 @@
   "cmd_error_readd_2": "Vyskúšaj odstránenie bota a jeho opätovné pridanie do servera. Ak to nepomôže, [pridaj sa do našeho support Discordu]({discordInvite}).",
 
   // + {count} more
-  "cmd_free_and_more": "",
+  "cmd_free_and_more": "+ {count} ďalších",
 
   // **Ends soon:**
   "cmd_free_ends_soon": "**Čoskoro skončia:**",
@@ -204,7 +204,7 @@
   "cmd_free_title": "Tieto hry sú momentálne zadarmo:",
 
   // Gamedev Assets (100% off)
-  "cmd_free_title_assets": "",
+  "cmd_free_title_assets": "Vývojárske assety (100% zľava)",
 
   // Free on Epic Games Store
   "cmd_free_title_epic": "Zadarmo v Epic Games Store",
@@ -231,7 +231,7 @@
   "cmd_free_title_keep": "V súčasnosti zadarmo (100 % zľava)",
 
   // Free Mobile Games
-  "cmd_free_title_mobile": "",
+  "cmd_free_title_mobile": "Mobilné hry zadarmo",
 
   // Free on Origin
   "cmd_free_title_origin": "Zadarmo na Origin",
@@ -285,7 +285,7 @@
   "cmd_resend_all_filtered_out_2": "Existujú hry zadarmo, ale vaše nastavenia filtrov neumožňujú, aby bola oznámená ani jedna z nich! Ak to nebolo vaším zámerom, skontrolujte znovu nastavenia filtrov.",
 
   // The webhook in {channel} is broken.
-  "cmd_resend_invalid_webhook_1": "",
+  "cmd_resend_invalid_webhook_1": "Webhook v {channel} je nefunkčný.",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
   "cmd_resend_invalid_webhook_2": "To znie strašidelne. Aby si opravil túto chybu, skús zmeniť kanál na niektorý iný a potom naspäť na {channel}. Ak to stále nebude fungovať, prosím kontaktuj podporu!",
@@ -315,7 +315,7 @@
   "cmd_test_announcement_header": "Tu je meno hry",
 
   // The webhook in {channel} is broken.
-  "cmd_test_invalid_webhook_1": "",
+  "cmd_test_invalid_webhook_1": "Webhook v {channel} je nefunkčný.",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
   "cmd_test_invalid_webhook_2": "To znie strašidelne. Aby si opravil túto chybu, skús zmeniť kanál na niektorý iný a potom naspäť na {channel}. Ak to stále nebude fungovať, prosím kontaktuj podporu!",
@@ -387,13 +387,13 @@
   "date_format": "sk",
 
   // usd
-  "default_currency": "",
+  "default_currency": "eur",
 
   // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
   "donation_notice": "Zachránil tento bot nejaké peniaze v tvojej peňaženke? Ak hej, porozmýšľaj nad [darovaním peňazí]({url}) aby bot ostal nažive. Ďakujeme!",
 
   // Claim All
-  "expressbutton_label": "",
+  "expressbutton_label": "Získať všetko",
 
   // {next}
   "fluid_list_delimiter_first": "{next}",
@@ -408,49 +408,49 @@
   "fluid_list_delimiter_only": "{prev} a {next}",
 
   // Chose your interests and get a more personalized overview when running the `/free` command. Your changes here do not apply to notifications in this server.
-  "free_edit_preferences_description": "",
+  "free_edit_preferences_description": "Vyber si svoje záujmy a získaj prispôsobenejší prehľad pri použití príkazu `/free`. Tvoje zmeny tu neovplyvnia upozornenia na tomto serveri.",
 
   // Some stores and sources from the list below might not be available in every server.
-  "free_edit_preferences_disclaimer": "",
+  "free_edit_preferences_disclaimer": "Niektoré obchody a zdroje zo zoznamu nižšie nemusia byť dostupné na každom serveri.",
 
   // Select things to hide
-  "free_edit_preferences_hide_cta": "",
+  "free_edit_preferences_hide_cta": "Vyber položky na skrytie",
 
   // The items you select above will be hidden from your /free feed.
-  "free_edit_preferences_hide_description": "",
+  "free_edit_preferences_hide_description": "Položky, ktoré vyberieš vyššie, budú skryté z tvojho /free zoznamu.",
 
   // Are there stores and sources you do not want to see?
-  "free_edit_preferences_hide_title": "",
+  "free_edit_preferences_hide_title": "Sú nejaké obchody a zdroje, ktoré nechceš vidieť?",
 
   // Pick a layout style
-  "free_edit_preferences_layout_cta": "",
+  "free_edit_preferences_layout_cta": "Vyber štýl rozloženia",
 
   // How do you want things to look like?
-  "free_edit_preferences_layout_title": "",
+  "free_edit_preferences_layout_title": "Ako chceš, aby veci vyzerali?",
 
   // Select your favorites
-  "free_edit_preferences_prefer_cta": "",
+  "free_edit_preferences_prefer_cta": "Vyber svoje obľúbené",
 
   // We will show you these with higher priority in your /free feed.
-  "free_edit_preferences_prefer_description": "",
+  "free_edit_preferences_prefer_description": "Tieto ti zobrazíme s vyššou prioritou v tvojom /free zozname.",
 
   // Which stores and sources do you care about the most?
-  "free_edit_preferences_prefer_title": "",
+  "free_edit_preferences_prefer_title": "O ktoré obchody a zdroje máš najväčší záujem?",
 
   // Your changes save automatically!
-  "free_edit_preferences_save_notice": "",
+  "free_edit_preferences_save_notice": "Tvoje zmeny sa ukladajú automaticky!",
 
   // /free preferences
-  "free_edit_preferences_title": "",
+  "free_edit_preferences_title": "/free predvoľby",
 
   // Compact
-  "free_layout_compact_name": "",
+  "free_layout_compact_name": "Kompaktné",
 
   // Cozy
-  "free_layout_cozy_name": "",
+  "free_layout_cozy_name": "Pohodlné",
 
   // Default
-  "free_layout_default_name": "",
+  "free_layout_default_name": "Predvolené",
 
   // ONLY ON APRIL FIRST
   "free_recommendation_april_fools": "LEN PRVÉHO APRÍLA",
@@ -462,10 +462,10 @@
   "free_recommendation_by_tag": "Zaujíma vás {tag}?",
 
   // Expires in {hours, plural, =1 {1 hour} other {# hours} }!
-  "free_recommendation_expires_hours": "Platnosť vyprší za {hours, plural, =1 {1 hour} other {# hours} }!",
+  "free_recommendation_expires_hours": "Platnosť vyprší za {hours, plural, =1 {1 hodinu} few {# hodiny} other {# hodín}}!",
 
   // Expires in {minutes, plural, =1 {1 minute} other {# minutes} }!
-  "free_recommendation_expires_minutes": "Platnosť vyprší za {minutes, plural, =1 {1 minute} other {# minutes} }!",
+  "free_recommendation_expires_minutes": "Platnosť vyprší za {minutes, plural, =1 {1 minútu} few {# minúty} other {# minút}}!",
 
   // Over 95% positive reviews:
   "free_recommendation_extremely_positive": "Viac ako 95 % kladných recenzií:",
@@ -480,19 +480,19 @@
   "free_recommendation_generic_3": "Ak ste to premeškali...",
 
   // Based on your preferences
-  "free_recommendation_personal_preference_high_1": "",
+  "free_recommendation_personal_preference_high_1": "Na základe tvojich predvolieb",
 
   // Personal recommendation
-  "free_recommendation_personal_preference_high_2": "",
+  "free_recommendation_personal_preference_high_2": "Osobné odporúčanie",
 
   // Look at that!
-  "free_recommendation_personal_preference_highest_1": "",
+  "free_recommendation_personal_preference_highest_1": "Pozri na to!",
 
   // Oh damnnn
-  "free_recommendation_personal_preference_highest_2": "",
+  "free_recommendation_personal_preference_highest_2": "Ty kokso",
 
   // Well received:
-  "free_recommendation_positive": "",
+  "free_recommendation_positive": "Dobre hodnotené:",
 
   // FreeStuff team recommends:
   "free_recommendation_staff_pick": "FreeStuff Bot tím odporúča:",
@@ -501,10 +501,10 @@
   "free_recommendation_very_positive": "Populárne!",
 
   // Nothing of interest for you... :/
-  "free_recommended_no_products": "",
+  "free_recommended_no_products": "Nič zaujímavé pre teba... :/",
 
   // You have hidden some categories in your settings.
-  "free_recommended_no_products_hint": "",
+  "free_recommended_no_products_hint": "V nastaveniach máš skryté niektoré kategórie.",
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Poskytovateľ tretích strán",
@@ -546,10 +546,10 @@
   "help_main_1": "Pomoc je na ceste!",
 
   // The FreeStuff bot keeps you up to date with free games!\n* Use {commandFree} to get a list of free games\n* Use {commandSettings} to configure the bot and to subscribe to free games notifications
-  "help_main_2": "FreeStuff bot ti zabezpečí, aby tvoj server držal krok s hrami zadarmo!\n\nNapíš /free aby si zistil/a zoznam hier zadarmo\n\nNapíš /settings aby si nakonfiguroval/a bota a prihlásil/a sa k odberu hier zadarmo :)",
+  "help_main_2": "FreeStuff bot ti zabezpečí, aby tvoj server držal krok s hrami zadarmo!\n* Použi {commandFree} na získanie zoznamu hier zadarmo\n* Použi {commandSettings} na konfiguráciu bota a prihlásenie sa k odberu upozornení na hry zadarmo",
 
   // Nuh uhhh! Only {author} can press these buttons. If you want to press them too, you need to run {command} yourself!
-  "interaction_not_owned": "",
+  "interaction_not_owned": "Neneee! Iba {author} môže stláčať tieto tlačidlá. Ak ich chceš stláčať tiež, musíš sám spustiť {command}!",
 
   // You are not {owner}!
   "interaction_not_owned_1": "Ty nie si {owner}!",
@@ -621,7 +621,7 @@
   "mysterious_modal_prompt_3": "Les počúva...",
 
   // Speak your mind...
-  "mysterious_modal_prompt_4": "",
+  "mysterious_modal_prompt_4": "Povedz, čo máš na mysli...",
 
   // You are ready!
   "mysterious_modal_prompt_5": "Si pripravený!",
@@ -642,7 +642,7 @@
   "page_about": "Informácie o botovi",
 
   // Attributions
-  "page_attributions": "",
+  "page_attributions": "Zásluhy",
 
   // Help Page
   "page_help": "Stránka pomoci",
@@ -666,7 +666,7 @@
   "premium_promo_button": "Informácie o Premium",
 
   // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
-  "premium_upsell_autopublish_description": "",
+  "premium_upsell_autopublish_description": "Chceš dostávať automatické správy? Už vybavené, žiadne premium nepotrebuješ!\nChceš, aby bot automaticky publikoval každé prijaté upozornenie v kanáloch s oznámeniami a preposielal ich tvojim odberateľom? Presne tu prichádza na rad premium – ušetri si čas a nechaj FreeStuff urobiť prácu za teba!",
 
   // Get premium to use auto publish!
   "premium_upsell_autopublish_title": "Získajte prémiové členstvo a využívajte automatické publikovanie!",
@@ -675,25 +675,25 @@
   "premium_upsell_autoreact_description": "S prémiovou verziou FreeStuff môžete nastaviť, aby bot automaticky reagoval na každé oznámenie, ktoré dostanete!",
 
   // Get premium to use auto reactions!
-  "premium_upsell_autoreact_title": "",
+  "premium_upsell_autoreact_title": "Získaj premium a používaj automatické reakcie!",
 
   // With FreeStuff premium you can upload your own image for FreeStuff to use as the profile picture. You can also change the name to whatever you like. Make it blend in to your server!
-  "premium_upsell_botprofile_description": "",
+  "premium_upsell_botprofile_description": "S FreeStuff premium môžeš nahrať vlastný obrázok, ktorý bude FreeStuff používať ako profilovú fotku. Môžeš tiež zmeniť meno podľa svojich predstáv. Prispôsob si ho svojmu serveru!",
 
   // Get premium to change the bot's profile!
-  "premium_upsell_botprofile_title": "",
+  "premium_upsell_botprofile_title": "Získaj premium a zmeň profil bota!",
 
   // If you are happy with the one role you selected, you don't need to get premium. Your changes are already saved!\nIf you do want to ping more than one role however, you can do this with premium!
-  "premium_upsell_multiping_description": "",
+  "premium_upsell_multiping_description": "Ak ti stačí jedna vybraná rola, premium nepotrebuješ. Tvoje zmeny sú už uložené!\nAk však chceš označovať viac než jednu rolu, s premium to dokážeš!",
 
   // Get premium to ping more than one role!
-  "premium_upsell_multiping_title": "",
+  "premium_upsell_multiping_title": "Získaj premium a označuj viac rolí!",
 
   // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
-  "premium_upsell_threadopts_description": "",
+  "premium_upsell_threadopts_description": "S FreeStuff premium môže bot automaticky vytvárať vlákna pre každé upozornenie, ktoré dostaneš!\nMôžeš mať vlákno pod každým upozornením, alebo nechať bota vytvoriť nové vlákno a poslať upozornenie doňho. Voľba je na tebe!",
 
   // Get premium to create threads!
-  "premium_upsell_threadopts_title": "",
+  "premium_upsell_threadopts_title": "Získaj premium na vytváranie vlákien!",
 
   // Actual price
   "price_actual": "Aktuálna cena",
@@ -717,82 +717,82 @@
   "privacy_policy": "Zásady ochr. osob. údajov",
 
   // Any formats
-  "product_kind_3d_model_description": "",
+  "product_kind_3d_model_description": "Akékoľvek formáty",
 
   // 3D Models
-  "product_kind_3d_model_name": "",
+  "product_kind_3d_model_name": "3D Modely",
 
   // Digital artworks, illustrations and similar content
-  "product_kind_art_description": "",
+  "product_kind_art_description": "Digitálne umelecké diela, ilustrácie a podobný obsah",
 
   // Art
-  "product_kind_art_name": "",
+  "product_kind_art_name": "Umenie",
 
   // Ambient, Music, Sound Effects, etc.
-  "product_kind_audio_description": "",
+  "product_kind_audio_description": "Ambient, hudba, zvukové efekty atď.",
 
   // Audio
-  "product_kind_audio_name": "",
+  "product_kind_audio_name": "Audio",
 
   // Ebooks, digital comics and similar content
-  "product_kind_book_description": "",
+  "product_kind_book_description": "E-knihy, digitálne komiksy a podobný obsah",
 
   // Books
-  "product_kind_book_name": "",
+  "product_kind_book_name": "Knihy",
 
   // Collections of games, DLCs or other items
-  "product_kind_bundle_description": "",
+  "product_kind_bundle_description": "Kolekcie hier, DLC alebo iných položiek",
 
   // Show Bundles
-  "product_kind_bundle_name": "",
+  "product_kind_bundle_name": "Zobraziť balíčky",
 
   // Addons and other game extensions
-  "product_kind_dlc_description": "",
+  "product_kind_dlc_description": "Doplnky a ďalšie herné rozšírenia",
 
   // Show DLCs
-  "product_kind_dlc_name": "",
+  "product_kind_dlc_name": "Zobraziť DLC",
 
   // Well. Games. The thing you play.
-  "product_kind_game_description": "",
+  "product_kind_game_description": "Nuž. Hry. To, čo hrávaš.",
 
   // Games
-  "product_kind_game_name": "",
+  "product_kind_game_name": "Hry",
 
   // This is ingame content like skins, items, etc.
-  "product_kind_loot_description": "",
+  "product_kind_loot_description": "Ide o obsah v hre, ako sú skiny, predmety atď.",
 
   // Loot
-  "product_kind_loot_name": "",
+  "product_kind_loot_name": "Korisť",
 
   // Original Soundtracks and other music
-  "product_kind_ost_description": "",
+  "product_kind_ost_description": "Originálne soundtracky a ďalšia hudba",
 
   // OSTs
-  "product_kind_ost_name": "",
+  "product_kind_ost_name": "Soundtracky",
 
   // Stuff that does not fit into the other categories
-  "product_kind_other_description": "",
+  "product_kind_other_description": "Veci, ktoré nepasujú do ostatných kategórií",
 
   // Show other content
-  "product_kind_other_name": "",
+  "product_kind_other_name": "Zobraziť ostatný obsah",
 
   // Applications and other non-game programs
-  "product_kind_software_description": "",
+  "product_kind_software_description": "Aplikácie a iné neherné programy",
 
   // Software
-  "product_kind_software_name": "",
+  "product_kind_software_name": "Softvér",
 
   // Things like steam point shop items
-  "product_kind_storeitem_description": "",
+  "product_kind_storeitem_description": "Veci ako položky z obchodu s bodmi na Steame",
 
   // Show Store Items
-  "product_kind_storeitem_name": "",
+  "product_kind_storeitem_name": "Zobraziť položky z obchodu",
 
   // Material, Sprites, Decals, Brushes, HDRI, etc.
-  "product_kind_texture_description": "",
+  "product_kind_texture_description": "Materiály, sprity, nálepky, štetce, HDRI atď.",
 
   // Textures
-  "product_kind_texture_name": "",
+  "product_kind_texture_name": "Textúry",
 
   // Permanently Free
   "product_meta_flag_permanent": "Navždy Zadarmo",
@@ -810,16 +810,16 @@
   "refresh_channel_list": "Obnoviť zoznam",
 
   // Click here to reload the channel list
-  "refresh_channel_list_description": "",
+  "refresh_channel_list_description": "Klikni sem pre opätovné načítanie zoznamu kanálov",
 
   // Made changes?
-  "refresh_channel_list_title": "",
+  "refresh_channel_list_title": "Spravil si zmeny?",
 
   // Slow down! You can only reload this list every {interval} seconds!
   "refresh_channel_timeout": "Spomaľ! Tento zoznam môžeš obnovovať len každých {interval} sekúnd!",
 
   // Channel list refreshed
-  "refresh_channels_success": "",
+  "refresh_channels_success": "Zoznam kanálov bol obnovený",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
   "refresh_channels_timeout": "Si až moc rýchly! Pre bezpečnostné dôvody dovoľujeme stlačenie tlačítka iba raz za {interval} sekúnd!",
@@ -837,73 +837,73 @@
   "settings2_main_1_regular": "FreeStuff Nastavenia",
 
   // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
-  "settings2_main_2_regular": "",
+  "settings2_main_2_regular": "Vitaj späť! Nižšie môžeš spravovať svoje odbery. Klikni na kategóriu (modré tlačidlo) pre viac informácií a zmenu nastavení.\nPotrebuješ pomoc? Pozri si náš [server podpory]({invite}) alebo [návod]({guide})!",
 
   // Disable Auto Publish
-  "settings_auto_publish_off_prompt": "",
+  "settings_auto_publish_off_prompt": "Vypnúť automatické publikovanie",
 
   // Auto Publish Disabled
-  "settings_auto_publish_off_state": "",
+  "settings_auto_publish_off_state": "Automatické publikovanie vypnuté",
 
   // Enable Auto Publish
-  "settings_auto_publish_on_prompt": "",
+  "settings_auto_publish_on_prompt": "Zapnúť automatické publikovanie",
 
   // Auto Publish Enabled
-  "settings_auto_publish_on_state": "",
+  "settings_auto_publish_on_state": "Automatické publikovanie zapnuté",
 
   // Unfortunately Discord took our ability to preview your avatar. Click the link to see if it's working…
-  "settings_botprofile_avatar_description": "",
+  "settings_botprofile_avatar_description": "Discord nám bohužiaľ vzal možnosť zobraziť náhľad tvojho avatara. Klikni na odkaz a zisti, či funguje…",
 
   // This does not look like a url
   "settings_botprofile_avatar_invalid_url_1": "Toto nevyzerá ako url",
 
   // Please make sure your image actually loads and the link starts with `http://` or `https://`
-  "settings_botprofile_avatar_invalid_url_2": "",
+  "settings_botprofile_avatar_invalid_url_2": "Uisti sa, že sa tvoj obrázok skutočne načíta a odkaz sa začína na `http://` alebo `https://`",
 
   // Bot Avatar
-  "settings_botprofile_avatar_label": "",
+  "settings_botprofile_avatar_label": "Avatar bota",
 
   // Ayo what's that
-  "settings_botprofile_avatar_url_too_long_1": "",
+  "settings_botprofile_avatar_url_too_long_1": "Ayo, čo to má byť",
 
   // Your url is a little... excessive... A little... long, maybe. Could you try make it shorter maybe? Thanks :D
-  "settings_botprofile_avatar_url_too_long_2": "",
+  "settings_botprofile_avatar_url_too_long_2": "Tvoja URL je trochu... prehnaná... Možno trochu... dlhá. Mohol by si ju skúsiť skrátiť? Vďaka :D",
 
   // Edit Avatar
-  "settings_botprofile_btn_edit_avatar": "",
+  "settings_botprofile_btn_edit_avatar": "Upraviť avatara",
 
   // Edit Name
-  "settings_botprofile_btn_edit_name": "",
+  "settings_botprofile_btn_edit_name": "Upraviť meno",
 
   // (missing)
   "settings_botprofile_name_description": "",
 
   // Bot Name
-  "settings_botprofile_name_label": "",
+  "settings_botprofile_name_label": "Meno bota",
 
   // Uhhh, very sorry uhhh
-  "settings_botprofile_name_too_long_1": "",
+  "settings_botprofile_name_too_long_1": "Uhhh, veľmi sa ospravedlňujeme, uhhh",
 
   // But your name can only be 32 characters long. Directive from above, nothing I can do about that, sorry.
-  "settings_botprofile_name_too_long_2": "",
+  "settings_botprofile_name_too_long_2": "Meno však môže mať maximálne 32 znakov. Nariadenie zhora, s tým FreeStuff nič nespraví, prepáč.",
 
   // Avatar and Name
   "settings_botprofile_ui_1": "Avatar a Meno",
 
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
-  "settings_botprofile_ui_2": "",
+  "settings_botprofile_ui_2": "Prispôsob si meno a profilový obrázok bota pri odosielaní upozornení. Z dôvodu obmedzení Discordu sa tento vlastný profil vzťahuje iba na upozornenia na hry zadarmo, nie pri používaní príkazov ako `/settings` alebo `/free`.",
 
   // Edit Avatar and Name
-  "settings_change_bot_profile": "",
+  "settings_change_bot_profile": "Upraviť avatara a meno",
 
   // You have too many webhooks in {channel}! Please open the channel settings, go to integrations, delete some unused webhooks, and come back. This limitation is enforced by Discord, we cannot do anything about this unfortunately.
-  "settings_channel_error_too_many_webhooks": "",
+  "settings_channel_error_too_many_webhooks": "V {channel} máš príliš veľa webhookov! Otvor nastavenia kanála, prejdi do integrácií, vymaž nepoužívané webhooky a vráť sa späť. Toto obmedzenie vyžaduje Discord, my s tým bohužiaľ nič nespravíme.",
 
   // here
   "settings_channel_list_here": "tu",
 
   // You have too many channels to show them all in the list below.
-  "settings_channel_list_too_many": "",
+  "settings_channel_list_too_many": "Máš príliš veľa kanálov na to, aby sa všetky zobrazili v zozname nižšie.",
 
   // Missing \"Embed Messages\" Permission
   "settings_channel_list_warning_missing_embed_messages": "Chýba mi povolenie \"Embed Messages\" :[",
@@ -918,7 +918,7 @@
   "settings_channel_list_warning_missing_view_channel": "Chýba mi povolenie \"View Channel\" :/",
 
   // You have waaaaay too many channels to show them all in the list below. How do you even find anything in here?
-  "settings_channel_list_way_too_many": "",
+  "settings_channel_list_way_too_many": "Máš véééľmi veľa kanálov na to, aby sa všetky zobrazili v zozname nižšie. Ako tu vôbec dokážeš niečo nájsť?",
 
   // Change The Channel
   "settings_channel_ui_1": "Zmeniť kanál",
@@ -945,31 +945,31 @@
   "settings_conf_ui_1": "Iné Nastavenia",
 
   // **Select Language** will change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.\n\n**Select Currency** will change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
-  "settings_conf_ui_2": "",
+  "settings_conf_ui_2": "**Vybrať jazyk** zmení jazyk, v ktorom sa zobrazujú upozornenia. Toto **nezmení** jazyk príkazov ako /settings alebo /free. Tie používajú rovnaký jazyk, v akom používaš Discord. Preklady poskytuje komunita a môžu obsahovať chyby.\n\n**Vybrať menu** zmení menu v upozorneniach. Niektoré ceny môžu byť prepočítané z iných mien alebo webov, a preto nemusia byť vždy 100% presné.",
 
   // Change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
-  "settings_conf_ui_currency_description": "",
+  "settings_conf_ui_currency_description": "Zmení menu v upozorneniach. Niektoré ceny môžu byť prepočítané z iných mien alebo webov, a preto nemusia byť vždy 100% presné.",
 
   // Select Currency
-  "settings_conf_ui_currency_label": "",
+  "settings_conf_ui_currency_label": "Vybrať menu",
 
   // Change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.
-  "settings_conf_ui_language_description": "",
+  "settings_conf_ui_language_description": "Zmení jazyk, v ktorom sa zobrazujú upozornenia. Toto **nezmení** jazyk príkazov ako /settings alebo /free. Tie používajú rovnaký jazyk, v akom používaš Discord. Preklady poskytuje komunita a môžu obsahovať chyby.",
 
   // Select Language
   "settings_conf_ui_language_label": "Zmeniť jazyk",
 
   // Disable Claim-All Button
-  "settings_display_expressbutton_off_prompt": "",
+  "settings_display_expressbutton_off_prompt": "Vypnúť tlačidlo Získať všetko",
 
   // Claim-All Button Disabled
-  "settings_display_expressbutton_off_state": "",
+  "settings_display_expressbutton_off_state": "Tlačidlo Získať všetko vypnuté",
 
   // Enable Claim-All Button
-  "settings_display_expressbutton_on_prompt": "",
+  "settings_display_expressbutton_on_prompt": "Zapnúť tlačidlo Získať všetko",
 
   // Claim-All Button Enabled
-  "settings_display_expressbutton_on_state": "",
+  "settings_display_expressbutton_on_state": "Tlačidlo Získať všetko zapnuté",
 
   // More options
   "settings_display_extra_label": "Viac možností",
@@ -987,10 +987,10 @@
   "settings_display_reactions_on_state": "Auto reakcia zapnutá",
 
   // Select theme
-  "settings_display_theme_label": "",
+  "settings_display_theme_label": "Vybrať motív",
 
   // Thread behavior
-  "settings_display_threadopt_label": "",
+  "settings_display_threadopt_label": "Správanie vlákien",
 
   // Display Settings
   "settings_display_ui_1": "Nastavenia zobrazenia",
@@ -999,19 +999,19 @@
   "settings_display_ui_2": "Zmeň vzhľad správ bota",
 
   // Additional filters
-  "settings_filter_extra_label": "",
+  "settings_filter_extra_label": "Dodatočné filtre",
 
   // None enabled
-  "settings_filter_extra_none": "",
+  "settings_filter_extra_none": "Žiadne nezapnuté",
 
   // Show Bundles
-  "settings_filter_kinds_bundle_1": "",
+  "settings_filter_kinds_bundle_1": "Zobraziť balíčky",
 
   // Collections of games, DLCs or other items
-  "settings_filter_kinds_bundle_2": "",
+  "settings_filter_kinds_bundle_2": "Kolekcie hier, DLC alebo iných položiek",
 
   // Show DLCs
-  "settings_filter_kinds_dlc_1": "",
+  "settings_filter_kinds_dlc_1": "Zobraziť DLC",
 
   // Addons and other game extensions
   "settings_filter_kinds_dlc_2": "Doplnky a ďalšie rozšírenia hry",
@@ -1020,28 +1020,28 @@
   "settings_filter_kinds_game_1": "Hry",
 
   // Well. Games. The thing you play.
-  "settings_filter_kinds_game_2": "",
+  "settings_filter_kinds_game_2": "Nuž. Hry. To, čo hrávaš.",
 
   // Only these kinds of items
-  "settings_filter_kinds_label": "",
+  "settings_filter_kinds_label": "Iba tieto typy položiek",
 
   // Loot
-  "settings_filter_kinds_loot_1": "",
+  "settings_filter_kinds_loot_1": "Korisť",
 
   // This is ingame content like skins, items, etc.
-  "settings_filter_kinds_loot_2": "",
+  "settings_filter_kinds_loot_2": "Ide o obsah v hre, ako sú skiny, predmety atď.",
 
   // None selected
-  "settings_filter_kinds_none": "",
+  "settings_filter_kinds_none": "Žiadne nevybrané",
 
   // Show other content
-  "settings_filter_kinds_other_1": "",
+  "settings_filter_kinds_other_1": "Zobraziť ostatný obsah",
 
   // Stuff that does not fit into the other categories
-  "settings_filter_kinds_other_2": "",
+  "settings_filter_kinds_other_2": "Veci, ktoré nepasujú do ostatných kategórií",
 
   // Show Store Items
-  "settings_filter_kinds_storeitem_1": "",
+  "settings_filter_kinds_storeitem_1": "Zobraziť položky z obchodu",
 
   // Things like steam point shop items
   "settings_filter_kinds_storeitem_2": "Veci ako steam point shop veci",
@@ -1053,19 +1053,19 @@
   "settings_filter_price_class_desc_generic": "Posielaj iba hry drahšie ako {price}",
 
   // Minimum original price
-  "settings_filter_prices_label": "",
+  "settings_filter_prices_label": "Minimálna pôvodná cena",
 
   // Only from these stores
-  "settings_filter_stores_label": "",
+  "settings_filter_stores_label": "Iba z týchto obchodov",
 
   // (All disabled)
-  "settings_filter_stores_none": "",
+  "settings_filter_stores_none": "(Všetky vypnuté)",
 
   // Show bad quality games
-  "settings_filter_trash_1": "",
+  "settings_filter_trash_1": "Zobraziť hry nízkej kvality",
 
   // By default we won't show you games with bad ratings or of general poor quality
-  "settings_filter_trash_2": "",
+  "settings_filter_trash_2": "V predvolenom nastavení ti nebudeme zobrazovať hry so zlým hodnotením alebo všeobecne nízkej kvality",
 
   // Filter Settings
   "settings_filter_ui_1": "Nastavenia filtru",
@@ -1077,19 +1077,19 @@
   "settings_generic_help_solution_guide_1": "Prečítaj si návod",
 
   // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_generic_help_solution_guide_2": "",
+  "settings_generic_help_solution_guide_2": "Máme pripravenú webovú stránku, ktorá ťa prevedie celým nastavením a všetko ti vysvetlí. Ak si stratený, určite si ju pozri!",
 
   // Join our support server
-  "settings_generic_help_solution_server_1": "",
+  "settings_generic_help_solution_server_1": "Pripoj sa na náš server podpory",
 
   // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_generic_help_solution_server_2": "",
+  "settings_generic_help_solution_server_2": "Návod ti nepomohol? Máme server podpory, kde ti radi pomôžeme a zodpovieme všetky tvoje otázky. Neváhaj a pripoj sa!",
 
   // Something failed while exporting your data, we are very sorry. You can reach out to us and manually request a copy of your data via team@freestuffbot.xyz - Please include your server id in the E-Mail. Thanks.
-  "settings_guilddata_data_failed": "",
+  "settings_guilddata_data_failed": "Pri exportovaní tvojich údajov nastala chyba, veľmi sa ospravedlňujeme. Môžeš sa na nás obrátiť a manuálne požiadať o kópiu svojich údajov na team@freestuffbot.xyz – do e-mailu prosím uveď ID svojho servera. Vďaka.",
 
   // Please click the Download button below to download your data. The button will only work one time, run the command again to download again. Do not share the link with anyone!
-  "settings_guilddata_data_ready": "",
+  "settings_guilddata_data_ready": "Kliknutím na tlačidlo Stiahnuť nižšie si stiahneš svoje údaje. Tlačidlo funguje iba raz, pre opätovné stiahnutie spusti príkaz znova. S nikým tento odkaz nezdieľaj!",
 
   // Delete Server Data
   "settings_guilddata_delete_button": "Vymazanie dát servera",
@@ -1140,22 +1140,22 @@
   "settings_language_list_desc_generic": "{language} bol preložený {translators}",
 
   // Your Active Notifications
-  "settings_main_active_notifications": "",
+  "settings_main_active_notifications": "Tvoje aktívne upozornenia",
 
   // Click to add a news source
-  "settings_main_add_first_source_placeholder": "",
+  "settings_main_add_first_source_placeholder": "Klikni pre pridanie zdroja noviniek",
 
   // Add Notifications
-  "settings_main_add_notifications": "",
+  "settings_main_add_notifications": "Pridať upozornenia",
 
   // You are subscribed to everything!
-  "settings_main_add_sources_empty_1": "",
+  "settings_main_add_sources_empty_1": "Máš odber úplne všetkého!",
 
   // There's nothing else you can be notified about currently.
-  "settings_main_add_sources_empty_2": "",
+  "settings_main_add_sources_empty_2": "Momentálne neexistuje nič ďalšie, na čo by si mohol dostávať upozornenia.",
 
   // Click to add new sources
-  "settings_main_add_sources_placeholder": "",
+  "settings_main_add_sources_placeholder": "Klikni pre pridanie nových zdrojov",
 
   // Display Settings
   "settings_main_btn_display": "Nastavenia zobrazenia",
@@ -1176,19 +1176,19 @@
   "settings_main_btn_notifications": "Nastavenia notifikácií",
 
   // Tl;dr
-  "settings_main_help_solution_tldr_1": "",
+  "settings_main_help_solution_tldr_1": "V skratke",
 
   // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
-  "settings_main_help_solution_tldr_2": "",
+  "settings_main_help_solution_tldr_2": "1. Klikni na `{text}` vyššie\n2. Vyber si zdroj, môže to byť akýkoľvek. Tie s {premium} vyžadujú FreeStuff Premium, **všetky ostatné nie**\n3. Na stránke, ktorá sa otvorí, vyber kanál, do ktorého má bot posielať správy\n4. Hotovo!",
 
   // You can edit your notification settings by clicking the buttons above.
-  "settings_main_notifications_edit_hint": "",
+  "settings_main_notifications_edit_hint": "Svoje nastavenia upozornení môžeš upraviť kliknutím na tlačidlá vyššie.",
 
   // Suggested for you
   "settings_main_suggested_categories_1": "Odporúčané pre teba",
 
   // {promo} {dash} Select from the list below to learn more!
-  "settings_main_suggested_categories_2": "",
+  "settings_main_suggested_categories_2": "{promo} {dash} Vyber zo zoznamu nižšie a zisti viac!",
 
   // Settings
   "settings_main_ui_1": "Nastavenia",
@@ -1224,10 +1224,10 @@
   "settings_main_ui_2_regular": "Čauko!\n\nHľadáš niečo, čo tu možno ani nie je? Potrebuješ pomoc s nakonfigurovaním bota? Máš nejaké otázky? [klikni sem pre sprievodcu]({guide}), ktorý ťa prevedie cez túto strastiplnú cestu alebo sa [pridaj sa na server nášho bota]({invite}) pre osobnú pomoc.",
 
   // Welcome to FreeStuff!\n\nIf you want to get **automatic notifications** for **free games**, you need to **add** at least **one source** below. You can always come back later and add or remove more sources.
-  "settings_main_welcome": "",
+  "settings_main_welcome": "Vitaj vo FreeStuff!\n\nAk chceš dostávať **automatické upozornenia** na **hry zadarmo**, musíš nižšie **pridať** aspoň **jeden zdroj**. Kedykoľvek sa sem môžeš vrátiť a pridať alebo odstrániť ďalšie zdroje.",
 
   // Pick a type of notification from the list below to get started!
-  "settings_main_welcome_extra": "",
+  "settings_main_welcome_extra": "Vyber si typ upozornenia zo zoznamu nižšie a začni!",
 
   // With beta enabled you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.
   "settings_more_beta_description": "S povolenou verziou beta získaš aktualizácie a nové funkcie skôr. Uvedom si, že to môže zahŕňať aj nestabilné alebo experimentálne funkcie a aktualizácie. Ak sa prihlásiš, môžeš byť občas požiadaný o spätnú väzbu.",
@@ -1248,7 +1248,7 @@
   "settings_more_beta_on_state": "Si v beta programe!",
 
   // When Boring Mode is enabled you are opted out from april fools events and things might be more dull in general.
-  "settings_more_boringmode_description": "",
+  "settings_more_boringmode_description": "Keď je zapnutý Nudný Mód, nezúčastňuješ sa prvoaprílových udalostí a veci môžu byť vo všeobecnosti fádnejšie.",
 
   // Boring Mode
   "settings_more_boringmode_name": "Nudný Mód",
@@ -1266,7 +1266,7 @@
   "settings_more_boringmode_on_state": "Nodný Mód je zapnutý",
 
   // Show Debug Info
-  "settings_more_btn_debug": "",
+  "settings_more_btn_debug": "Zobraziť ladiace informácie",
 
   // View Server Data
   "settings_more_btn_guilddata": "Zobraz dáta servera",
@@ -1305,10 +1305,10 @@
   "settings_role_list_no_mention_2": "Nikoho nebudeme pingovať.",
 
   // None selected
-  "settings_role_list_remove_role_1": "",
+  "settings_role_list_remove_role_1": "Žiadna nevybraná",
 
   // Click here to remove this role
-  "settings_role_list_remove_role_2": "",
+  "settings_role_list_remove_role_2": "Klikni sem pre odstránenie tejto roly",
 
   // Notification Settings
   "settings_role_ui_1": "Nastavenia upozornení",
@@ -1320,97 +1320,97 @@
   "settings_sub_btn_more": "Viac",
 
   // Oopsie woopsie!
-  "settings_sub_help_solution_premium_locked_1": "",
+  "settings_sub_help_solution_premium_locked_1": "Upsíky!",
 
   // {name} is only available to FreeStuff Premium users. You can either subscribe to FreeStuff Premium to receive notifications for {name} or **click the back button and pick a different source**. There are many free ones available!
-  "settings_sub_help_solution_premium_locked_2": "",
+  "settings_sub_help_solution_premium_locked_2": "{name} je k dispozícii iba pre používateľov FreeStuff Premium. Môžeš si buď predplatiť FreeStuff Premium a dostávať upozornenia pre {name}, alebo **kliknúť na tlačidlo späť a vybrať iný zdroj**. K dispozícii je veľa bezplatných!",
 
   // Tl;dr
-  "settings_sub_help_solution_tldr_1": "",
+  "settings_sub_help_solution_tldr_1": "V skratke",
 
   // 1. Click on the dropdown menu above\n2. Select a channel for the bot to send notifications to\n3. And that's it, you're done! You will now receive automatic notifications!\n4. Optional: Click on the buttons above to customize things
-  "settings_sub_help_solution_tldr_2": "",
+  "settings_sub_help_solution_tldr_2": "1. Klikni na rozbaľovaciu ponuku vyššie\n2. Vyber kanál, do ktorého má bot posielať upozornenia\n3. A to je všetko, máš hotovo! Odteraz budeš dostávať automatické upozornenia!\n4. Voliteľné: Klikni na tlačidlá vyššie pre prispôsobenie",
 
   // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
-  "settings_subscription_locked_premium": "",
+  "settings_subscription_locked_premium": "{subscription} je prémiový odber. Ak chceš dostávať novinky z tejto kategórie, [klikni sem pre viac informácií.]({website})",
 
   // More
   "settings_subscription_more_1": "Viac",
 
   // Resend Notifications
-  "settings_subscription_more_resend_1": "",
+  "settings_subscription_more_resend_1": "Znovu odoslať upozornenia",
 
   // You can re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This is for you!
-  "settings_subscription_more_resend_2": "",
+  "settings_subscription_more_resend_2": "Môžeš znova odoslať správu pre všetky ponuky v danej kategórii, ktoré sú stále platné. Náhodne zmazaná správa? Zmenené nastavenia? Alebo len chceš to isté upozornenie dvakrát? Toto je pre teba!",
 
   // Resend
-  "settings_subscription_more_resend_btn": "",
+  "settings_subscription_more_resend_btn": "Znovu odoslať",
 
   // Test Message
-  "settings_subscription_more_test_1": "",
+  "settings_subscription_more_test_1": "Testovacia správa",
 
   // You can send a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.
-  "settings_subscription_more_test_2": "",
+  "settings_subscription_more_test_2": "Môžeš odoslať testovaciu správu so všetkými nastavenými možnosťami. Použi ju, aby si sa na 100% uistil, že všetko funguje. Ber na vedomie, že to môže označiť ľudí, ak je to tak nastavené.",
 
   // Send Test
-  "settings_subscription_more_test_btn": "",
+  "settings_subscription_more_test_btn": "Odoslať test",
 
   // More
   "settings_subscription_more_ui_1": "Viac",
 
   // **Send Test Message** sends a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.\n\n**Re-send Messages** will re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This button is for you!
-  "settings_subscription_more_ui_2": "",
+  "settings_subscription_more_ui_2": "**Odoslať testovaciu správu** odošle testovaciu správu so všetkými nastavenými možnosťami. Použi ju, aby si sa na 100% uistil, že všetko funguje. Ber na vedomie, že to môže označiť ľudí, ak je to tak nastavené.\n\n**Znovu odoslať správy** znovu odošle správu pre všetky ponuky v danej kategórii, ktoré sú stále platné. Náhodne zmazaná správa? Zmenené nastavenia? Alebo len chceš to isté upozornenie dvakrát? Toto tlačidlo je pre teba!",
 
   // Click here to get notified
-  "settings_subscription_not_subscribed_1": "",
+  "settings_subscription_not_subscribed_1": "Klikni sem pre odber upozornení",
 
   // Pick a channel below to enable automatic notifications for {subscription}
-  "settings_subscription_not_subscribed_2": "",
+  "settings_subscription_not_subscribed_2": "Vyber kanál nižšie pre zapnutie automatických upozornení pre {subscription}",
 
   // Your Premium subscription expired. We have paused your notifications for {subscription} until you resubscribe.
-  "settings_subscription_premium_expired": "",
+  "settings_subscription_premium_expired": "Tvoje predplatné Premium vypršalo. Pozastavili sme tvoje upozornenia pre {subscription}, kým si ho znovu neobnovíš.",
 
   // {subscription} is a premium subscription. You can subscribe.
-  "settings_subscription_unlocked_premium": "",
+  "settings_subscription_unlocked_premium": "{subscription} je prémiový odber. Môžeš sa prihlásiť na odber.",
 
   // Unsubscribe {subscription}
-  "settings_subscription_unsubscribe_1": "",
+  "settings_subscription_unsubscribe_1": "Zrušiť odber {subscription}",
 
   // You will stop receiving games from this category.
-  "settings_subscription_unsubscribe_2": "",
+  "settings_subscription_unsubscribe_2": "Prestaneš dostávať hry z tejto kategórie.",
 
   // {user} used {command}
   "slash_command_source": "{user} použil/a {command}",
 
   // Sign up to get a notification for when usually paid assets receive a temporary 100% discount. This means you can get them for free and keep them forever.\nYou can filter by type, compatibility, store and more.
-  "subscription_assets_description": "",
+  "subscription_assets_description": "Prihlás sa a dostávaj upozornenia, keď zvyčajne platené assety získajú dočasnú 100% zľavu. To znamená, že ich môžeš získať zadarmo a ponechať si ich navždy.\nMôžeš filtrovať podľa typu, kompatibility, obchodu a ďalších.",
 
   // 3d Models, Textures, Sounds and more
-  "subscription_assets_hint": "",
+  "subscription_assets_hint": "3D modely, textúry, zvuky a ďalšie",
 
   // Gamedev Assets
-  "subscription_assets_name": "",
+  "subscription_assets_name": "Vývojárske assety",
 
   // Are you a game developer or want to become one? With {name} you get a notification when paid game assets go free for a limited time! Get 3D models, textures, sounds and more!
-  "subscription_assets_promo": "",
+  "subscription_assets_promo": "Si herný vývojár alebo sa ním chceš stať? S {name} dostaneš upozornenie, keď sú platené herné assety na obmedzený čas zadarmo! Získaj 3D modely, textúry, zvuky a ďalšie!",
 
   // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
   "subscription_debug_promo": "Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh ááno uhhhhh nie.",
 
   // Sign up to get notified about any games or other content newly added to Game Pass. You require a Game Pass subscription to make use of these offers.\nYou can filter by price and quality.
-  "subscription_gamepass_description": "",
+  "subscription_gamepass_description": "Prihlás sa na odber a dostávaj upozornenia o hrách alebo inom obsahu novo pridanom do Game Passu. Na využitie týchto ponúk potrebuješ predplatné Game Pass.\nMôžeš filtrovať podľa ceny a kvality.",
 
   // New arrivals on Xbox Game Pass.
-  "subscription_gamepass_hint": "",
+  "subscription_gamepass_hint": "Novinky v Xbox Game Pass.",
 
   // Game Pass
   "subscription_gamepass_name": "Game Pass",
 
   // Game pass users, we've got you! Check out {name} to receive all new arrivals directly in Discord!
-  "subscription_gamepass_promo": "",
+  "subscription_gamepass_promo": "Používaš Game Pass? FreeStuff myslí aj na teba! Pozri si {name} a dostávaj všetky novinky priamo do Discordu!",
 
   // Sign up to get a notification when any game gets a 100% discount for a limited amount of time. This means you can get them for free and even keep them after the sale is over. Nothing to lose.\nYou can filter by price, platform and quality.
-  "subscription_keep_description": "",
+  "subscription_keep_description": "Prihlás sa a dostávaj upozornenia, keď akákoľvek hra získa 100% zľavu na obmedzený čas. To znamená, že ju môžeš získať zadarmo a dokonca si ju ponechať aj po skončení akcie. Nemáš čo stratiť.\nMôžeš filtrovať podľa ceny, platformy a kvality.",
 
   // Games with a temporary 100% discount.
   "subscription_keep_hint": "Hry s dočasnou 100% zľavou.",
@@ -1419,13 +1419,13 @@
   "subscription_keep_name": "100% Zľava",
 
   // {name} is a must have! Receive notifications for regular, paid games at a temporary 100% discount! Claim in time and keep them forever!
-  "subscription_keep_promo": "",
+  "subscription_keep_promo": "{name} je nutnosť! Dostávaj upozornenia na bežné, platené hry s dočasnou 100% zľavou! Vyzdvihni si ich včas a nechaj si ich navždy!",
 
   // Are you into mobile gaming? Did you know there's free games for you too?
-  "subscription_mobile_description": "",
+  "subscription_mobile_description": "Baví ťa mobilné hranie? Vedel si, že existujú hry zadarmo aj pre teba?",
 
   // Mobile games with a 100% discount.
-  "subscription_mobile_hint": "",
+  "subscription_mobile_hint": "Mobilné hry so 100% zľavou.",
 
   // Mobile Games
   "subscription_mobile_name": "Mobilné hry",
@@ -1455,7 +1455,7 @@
   "subscription_other_name": "DLC a viac",
 
   // Check out {name} for news about any 100% discounted DLCs, Addons or Ingame Content from all the same places you know and love!
-  "subscription_other_promo": "",
+  "subscription_other_promo": "Pozri si {name} a sleduj novinky o všetkých DLC, doplnkoch či obsahu v hre so 100% zľavou zo všetkých známych a obľúbených miest!",
 
   // Sign up to get notified about any games or other content newly added to Prime Gaming. You require a Prime Gaming subscription to make use of these offers. \nYou can filter by type, price and quality.
   "subscription_prime_description": "Zaregistruj sa a dostávaj upozornenia o nových hrách a ďalšom obsahu pridanom do služby Prime Gaming. Na využívanie týchto ponúk potrebuješ predplatné služby Prime Gaming. \nMôžeš filtrovať podľa typu, ceny a kvality.",
@@ -1473,7 +1473,7 @@
   "subscription_primegames_name": "Prime Gaming: Hry",
 
   // Prime Gaming: Loot
-  "subscription_primeloot_name": "",
+  "subscription_primeloot_name": "Prime Gaming: Korisť",
 
   // Sign up to receive notifications about games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
   "subscription_timed_description": "Prihlás sa a dostávaj upozornenia o hrách, ktoré môžeš vyskúšať a hrať zadarmo po obmedzenú dobu. Po uplynutí tejto doby si tieto hry nemôžeš ponechať a ak chceš pokračovať v hraní, musíš si ich zakúpiť. \nMôžeš filtrovať podľa ceny, platformy a kvality.",
@@ -1554,19 +1554,19 @@
   "thread_opt_a_description": "Posielame správu do tvojho kanálu. To je všetko.",
 
   // No threads
-  "thread_opt_a_name": "",
+  "thread_opt_a_name": "Žiadne vlákna",
 
   // Message goes in your channel but we start a thread for it.
-  "thread_opt_b_description": "",
+  "thread_opt_b_description": "Správa príde do tvojho kanála, ale vytvoríme pre ňu vlákno.",
 
   // Thread below
-  "thread_opt_b_name": "",
+  "thread_opt_b_name": "Vlákno pod správou",
 
   // We create a new thread and post the message there.
-  "thread_opt_c_description": "",
+  "thread_opt_c_description": "Vytvoríme nové vlákno a správu odošleme doňho.",
 
   // Message in thread
-  "thread_opt_c_name": "",
+  "thread_opt_c_name": "Správa vo vlákne",
 
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
   "webhook_create_auditlog_reason": "FreeStuff používa odkazy na web pre distribúciu oznámení na väčšej mierke. Prosím, neodstraňuj tento odkaz na web."
