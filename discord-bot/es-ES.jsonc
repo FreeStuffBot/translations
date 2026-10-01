@@ -27,10 +27,10 @@
   "announcement_header": "¡Juego gratis!",
 
   // {prices}
-  "announcement_price_assets": "{prices}",
+  "announcement_price_assets": "",
 
   // {prices} until {date}
-  "announcement_price_assets_until": "{prices} hasta el {date}",
+  "announcement_price_assets_until": "",
 
   // Claim for **Free**
   "announcement_price_gamepass": "Consíguelo **gratis**",
@@ -51,10 +51,10 @@
   "announcement_price_keep_until": "{prices} hasta el {date}",
 
   // **Free on mobile**
-  "announcement_price_mobile": "**Gratis en móviles**",
+  "announcement_price_mobile": "",
 
   // **Free on mobile** until {date}
-  "announcement_price_mobile_until": "**Gratis en móviles** hasta el {date}",
+  "announcement_price_mobile_until": "",
 
   // {prices}
   "announcement_price_other": "{prices}",
@@ -81,16 +81,16 @@
   "announcement_theme9": "¡**{name}** está gratis!\n<{url}>",
 
   // {names}
-  "announcement_thread_name_assets_multiple_below": "{names}",
+  "announcement_thread_name_assets_multiple_below": "",
 
   // {amount} gamedev assets for free!
-  "announcement_thread_name_assets_multiple_outside": "¡{amount} recursos de desarrollo gratis!",
+  "announcement_thread_name_assets_multiple_outside": "",
 
   // {name}
-  "announcement_thread_name_assets_single_below": "{name}",
+  "announcement_thread_name_assets_single_below": "",
 
   // Gamedev asset for free: {name}!
-  "announcement_thread_name_assets_single_outside": "¡Recurso de desarrollo gratis: {name}!",
+  "announcement_thread_name_assets_single_outside": "",
 
   // {names}
   "announcement_thread_name_gamepass_multiple_below": "{names}",
@@ -117,16 +117,16 @@
   "announcement_thread_name_keep_single_outside": "¡{name} está gratis!",
 
   // {names}
-  "announcement_thread_name_mobile_multiple_below": "{names}",
+  "announcement_thread_name_mobile_multiple_below": "",
 
   // {amount} free games for mobile!
-  "announcement_thread_name_mobile_multiple_outside": "¡{amount} juegos móviles gratis!",
+  "announcement_thread_name_mobile_multiple_outside": "",
 
   // {name}
-  "announcement_thread_name_mobile_single_below": "{name}",
+  "announcement_thread_name_mobile_single_below": "",
 
   // Free mobile game: {name}!
-  "announcement_thread_name_mobile_single_outside": "¡Juego móvil gratis: {name}!",
+  "announcement_thread_name_mobile_single_outside": "",
 
   // {names}
   "announcement_thread_name_other_multiple_below": "{names}",
@@ -186,7 +186,7 @@
   "cmd_error_readd_2": "Prueba a quitar el bot de tu servidor y volver a añadirlo. Si esto no funciona, [por favor únete al servidor de soporte]({discordInvite}).",
 
   // + {count} more
-  "cmd_free_and_more": "+ {count} más",
+  "cmd_free_and_more": "",
 
   // **Ends soon:**
   "cmd_free_ends_soon": "**Acabará pronto:**",
@@ -204,10 +204,10 @@
   "cmd_free_title": "Actualmente estos títulos son gratis:",
 
   // Gamedev Assets (100% off)
-  "cmd_free_title_assets": "Recursos de desarrollo (100% de descuento)",
+  "cmd_free_title_assets": "",
 
   // Free on Epic Games Store
-  "cmd_free_title_epic": "Gratis en Epic Games Store",
+  "cmd_free_title_epic": "",
 
   // Free on Fab
   "cmd_free_title_fab": "Gratis en Fab",
@@ -231,7 +231,7 @@
   "cmd_free_title_keep": "Completamente gratis (100% de descuento)",
 
   // Free Mobile Games
-  "cmd_free_title_mobile": "Juegos móviles gratis",
+  "cmd_free_title_mobile": "",
 
   // Free on Origin
   "cmd_free_title_origin": "Gratis en Origin",
@@ -387,7 +387,7 @@
   "date_format": "es-ES",
 
   // usd
-  "default_currency": "eur",
+  "default_currency": "usd",
 
   // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
   "donation_notice": "¿Este bot te ha ayudado a ahorrar algo de dinero? Si es así, considera [donar]({url}) para mantenerlo con vida. ¡Muchas gracias!",
@@ -408,49 +408,49 @@
   "fluid_list_delimiter_only": "{prev} y {next}",
 
   // Chose your interests and get a more personalized overview when running the `/free` command. Your changes here do not apply to notifications in this server.
-  "free_edit_preferences_description": "Elige tus intereses y obtén un resumen más personalizado al ejecutar el comando `/free`. Los cambios que hagas aquí no se aplican a las notificaciones en este servidor.",
+  "free_edit_preferences_description": "",
 
   // Some stores and sources from the list below might not be available in every server.
-  "free_edit_preferences_disclaimer": "Algunas tiendas y fuentes de la lista de abajo podrían no estar disponibles en todos los servidores.",
+  "free_edit_preferences_disclaimer": "",
 
   // Select things to hide
-  "free_edit_preferences_hide_cta": "Selecciona qué ocultar",
+  "free_edit_preferences_hide_cta": "",
 
   // The items you select above will be hidden from your /free feed.
-  "free_edit_preferences_hide_description": "Los elementos que selecciones arriba se ocultarán de tu feed de /free.",
+  "free_edit_preferences_hide_description": "",
 
   // Are there stores and sources you do not want to see?
-  "free_edit_preferences_hide_title": "¿Hay tiendas o fuentes que no quieras ver?",
+  "free_edit_preferences_hide_title": "",
 
   // Pick a layout style
-  "free_edit_preferences_layout_cta": "Elige un estilo de diseño",
+  "free_edit_preferences_layout_cta": "",
 
   // How do you want things to look like?
-  "free_edit_preferences_layout_title": "¿Cómo quieres que se vea?",
+  "free_edit_preferences_layout_title": "",
 
   // Select your favorites
-  "free_edit_preferences_prefer_cta": "Selecciona tus favoritos",
+  "free_edit_preferences_prefer_cta": "",
 
   // We will show you these with higher priority in your /free feed.
-  "free_edit_preferences_prefer_description": "Te mostraremos estos con mayor prioridad en tu feed de /free.",
+  "free_edit_preferences_prefer_description": "",
 
   // Which stores and sources do you care about the most?
-  "free_edit_preferences_prefer_title": "¿Qué tiendas y fuentes te interesan más?",
+  "free_edit_preferences_prefer_title": "",
 
   // Your changes save automatically!
-  "free_edit_preferences_save_notice": "¡Tus cambios se guardan automáticamente!",
+  "free_edit_preferences_save_notice": "",
 
   // /free preferences
-  "free_edit_preferences_title": "Preferencias de /free",
+  "free_edit_preferences_title": "",
 
   // Compact
-  "free_layout_compact_name": "Compacto",
+  "free_layout_compact_name": "",
 
   // Cozy
-  "free_layout_cozy_name": "Cómodo",
+  "free_layout_cozy_name": "",
 
   // Default
-  "free_layout_default_name": "Predeterminado",
+  "free_layout_default_name": "",
 
   // ONLY ON APRIL FIRST
   "free_recommendation_april_fools": "SOLO EL 1 DE ABRIL",
@@ -480,16 +480,16 @@
   "free_recommendation_generic_3": "Por si te lo perdiste…",
 
   // Based on your preferences
-  "free_recommendation_personal_preference_high_1": "Basado en tus preferencias",
+  "free_recommendation_personal_preference_high_1": "",
 
   // Personal recommendation
-  "free_recommendation_personal_preference_high_2": "Recomendación personal",
+  "free_recommendation_personal_preference_high_2": "",
 
   // Look at that!
-  "free_recommendation_personal_preference_highest_1": "¡Mira eso!",
+  "free_recommendation_personal_preference_highest_1": "",
 
   // Oh damnnn
-  "free_recommendation_personal_preference_highest_2": "¡Madre mía!",
+  "free_recommendation_personal_preference_highest_2": "",
 
   // Well received:
   "free_recommendation_positive": "Bien recibido:",
@@ -501,10 +501,10 @@
   "free_recommendation_very_positive": "¡Popular!",
 
   // Nothing of interest for you... :/
-  "free_recommended_no_products": "Nada interesante para ti... :/",
+  "free_recommended_no_products": "",
 
   // You have hidden some categories in your settings.
-  "free_recommended_no_products_hint": "Has ocultado algunas categorías en tu configuración.",
+  "free_recommended_no_products_hint": "",
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Proveedor externo",
@@ -546,7 +546,7 @@
   "help_main_1": "¡La ayuda está en camino!",
 
   // The FreeStuff bot keeps you up to date with free games!\n* Use {commandFree} to get a list of free games\n* Use {commandSettings} to configure the bot and to subscribe to free games notifications
-  "help_main_2": "¡El bot de FreeStuff te mantiene actualizado con juegos gratis!\n* Usa {commandFree} para obtener una lista de juegos gratis\n* Usa {commandSettings} para configurar el bot y suscribirte a notificaciones de juegos gratis",
+  "help_main_2": "El bot de FreeStuf te mantiene actualizado con juegos gratis!\n\nUsa /free para obtener una lista de juegos gratis.\n\nUsa /settings para configurar el bot y suscribirte a anuncios de juegos grátis!",
 
   // Nuh uhhh! Only {author} can press these buttons. If you want to press them too, you need to run {command} yourself!
   "interaction_not_owned": "¡Nooo! Solo {author} puede pulsar estos botones. Si tú también quieres hacerlo, ¡tienes que ejecutar {command} tú mismo!",
@@ -717,82 +717,82 @@
   "privacy_policy": "Políticas de Privacidad",
 
   // Any formats
-  "product_kind_3d_model_description": "Cualquier formato",
+  "product_kind_3d_model_description": "",
 
   // 3D Models
-  "product_kind_3d_model_name": "Modelos 3D",
+  "product_kind_3d_model_name": "",
 
   // Digital artworks, illustrations and similar content
-  "product_kind_art_description": "Obras de arte digitales, ilustraciones y contenido similar",
+  "product_kind_art_description": "",
 
   // Art
-  "product_kind_art_name": "Arte",
+  "product_kind_art_name": "",
 
   // Ambient, Music, Sound Effects, etc.
-  "product_kind_audio_description": "Ambiente, música, efectos de sonido, etc.",
+  "product_kind_audio_description": "",
 
   // Audio
-  "product_kind_audio_name": "Audio",
+  "product_kind_audio_name": "",
 
   // Ebooks, digital comics and similar content
-  "product_kind_book_description": "Libros electrónicos, cómics digitales y contenido similar",
+  "product_kind_book_description": "",
 
   // Books
-  "product_kind_book_name": "Libros",
+  "product_kind_book_name": "",
 
   // Collections of games, DLCs or other items
-  "product_kind_bundle_description": "Colecciones de juegos, DLCs u otros objetos",
+  "product_kind_bundle_description": "",
 
   // Show Bundles
-  "product_kind_bundle_name": "Mostrar packs",
+  "product_kind_bundle_name": "",
 
   // Addons and other game extensions
-  "product_kind_dlc_description": "Addons y otras expansiones de juegos",
+  "product_kind_dlc_description": "",
 
   // Show DLCs
-  "product_kind_dlc_name": "Mostrar DLCs",
+  "product_kind_dlc_name": "",
 
   // Well. Games. The thing you play.
-  "product_kind_game_description": "Bueno. Juegos. Lo que juegas.",
+  "product_kind_game_description": "",
 
   // Games
-  "product_kind_game_name": "Juegos",
+  "product_kind_game_name": "",
 
   // This is ingame content like skins, items, etc.
-  "product_kind_loot_description": "Esto es contenido dentro del juego, como skins, objetos, etc.",
+  "product_kind_loot_description": "",
 
   // Loot
-  "product_kind_loot_name": "Botín",
+  "product_kind_loot_name": "",
 
   // Original Soundtracks and other music
-  "product_kind_ost_description": "Bandas sonoras originales y otra música",
+  "product_kind_ost_description": "",
 
   // OSTs
-  "product_kind_ost_name": "Bandas sonoras",
+  "product_kind_ost_name": "",
 
   // Stuff that does not fit into the other categories
-  "product_kind_other_description": "Cosas que no encajan en las demás categorías",
+  "product_kind_other_description": "",
 
   // Show other content
-  "product_kind_other_name": "Mostrar otro contenido",
+  "product_kind_other_name": "",
 
   // Applications and other non-game programs
-  "product_kind_software_description": "Aplicaciones y otros programas que no son juegos",
+  "product_kind_software_description": "",
 
   // Software
-  "product_kind_software_name": "Software",
+  "product_kind_software_name": "",
 
   // Things like steam point shop items
-  "product_kind_storeitem_description": "Cosas como los objetos de la Steam Point Shop",
+  "product_kind_storeitem_description": "",
 
   // Show Store Items
-  "product_kind_storeitem_name": "Mostrar objetos de la tienda",
+  "product_kind_storeitem_name": "",
 
   // Material, Sprites, Decals, Brushes, HDRI, etc.
-  "product_kind_texture_description": "Materiales, sprites, calcomanías, pinceles, HDRI, etc.",
+  "product_kind_texture_description": "",
 
   // Textures
-  "product_kind_texture_name": "Texturas",
+  "product_kind_texture_name": "",
 
   // Permanently Free
   "product_meta_flag_permanent": "Permanentemente Gratis",
@@ -876,7 +876,7 @@
   "settings_botprofile_btn_edit_name": "Editar Nombre",
 
   // (missing)
-  "settings_botprofile_name_description": "",
+  "settings_botprofile_name_description": "(falta)",
 
   // Bot Name
   "settings_botprofile_name_label": "Nombre del bot",
@@ -1140,13 +1140,13 @@
   "settings_language_list_desc_generic": "{language} traducido por {translators}",
 
   // Your Active Notifications
-  "settings_main_active_notifications": "Tus notificaciones activas",
+  "settings_main_active_notifications": "",
 
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "Haz clic para añadir una fuente de noticias",
 
   // Add Notifications
-  "settings_main_add_notifications": "Añadir notificaciones",
+  "settings_main_add_notifications": "",
 
   // You are subscribed to everything!
   "settings_main_add_sources_empty_1": "¡Estás suscrito a todo!",
@@ -1182,7 +1182,7 @@
   "settings_main_help_solution_tldr_2": "1. Haz clic en `{text}` arriba\n2. Selecciona una fuente, puede ser cualquiera que quieras. Las que tienen {premium} requieren FreeStuff Premium, **todas las demás no**\n3. En la página que se abra, selecciona un canal donde el bot publicará\n4. ¡Hecho!",
 
   // You can edit your notification settings by clicking the buttons above.
-  "settings_main_notifications_edit_hint": "Puedes editar la configuración de tus notificaciones haciendo clic en los botones de arriba.",
+  "settings_main_notifications_edit_hint": "",
 
   // Suggested for you
   "settings_main_suggested_categories_1": "Sugerido para ti",
@@ -1383,16 +1383,16 @@
   "slash_command_source": "{user} usó {command} ",
 
   // Sign up to get a notification for when usually paid assets receive a temporary 100% discount. This means you can get them for free and keep them forever.\nYou can filter by type, compatibility, store and more.
-  "subscription_assets_description": "Regístrate para recibir una notificación cuando recursos que suelen ser de pago reciban un descuento temporal del 100%. Esto significa que puedes conseguirlos gratis y quedártelos para siempre.\nPuedes filtrar por tipo, compatibilidad, tienda y más.",
+  "subscription_assets_description": "",
 
   // 3d Models, Textures, Sounds and more
-  "subscription_assets_hint": "Modelos 3D, texturas, sonidos y más",
+  "subscription_assets_hint": "",
 
   // Gamedev Assets
   "subscription_assets_name": "Recursos para desarrollo de juegos",
 
   // Are you a game developer or want to become one? With {name} you get a notification when paid game assets go free for a limited time! Get 3D models, textures, sounds and more!
-  "subscription_assets_promo": "¿Eres desarrollador de videojuegos o quieres llegar a serlo? ¡Con {name} recibes una notificación cuando recursos de desarrollo de pago pasan a ser gratis por tiempo limitado! ¡Consigue modelos 3D, texturas, sonidos y más!",
+  "subscription_assets_promo": "",
 
   // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
   "subscription_debug_promo": "Ehh… ummm… ehhh… ehhhhhhhmmm… sí… ehhh… no.",

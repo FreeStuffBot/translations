@@ -546,7 +546,7 @@
   "help_main_1": "Hilfe ist unterwegs!",
 
   // The FreeStuff bot keeps you up to date with free games!\n* Use {commandFree} to get a list of free games\n* Use {commandSettings} to configure the bot and to subscribe to free games notifications
-  "help_main_2": "FreeStuff hält dich über neue gratis Spiele auf dem Laufenden\n* Benutze {commandFree} um eine Liste der gratis Spiele zu bekommen\n* Benutze {commandSettings} um den Bot einzustellen und seine Benachrichtigungen zu bekommen.",
+  "help_main_2": "FreeStuff hält dich über neue gratis Spiele auf dem Laufenden\n* Benutze /free um eine Liste der gratis Spiele zu bekommen\n* Benutze {commandSettings} um den Bot einzustellen und seine Benachrichtigungen zu bekommen.",
 
   // Nuh uhhh! Only {author} can press these buttons. If you want to press them too, you need to run {command} yourself!
   "interaction_not_owned": "Nuh uhhh! Nur {author} kann diese Knöpfe drücken. Wenn du sie auch drücken möchtest, musst du {command} selbst ausführen!",
@@ -1059,7 +1059,7 @@
   "settings_filter_stores_label": "Nur von diesen Stores",
 
   // (All disabled)
-  "settings_filter_stores_none": "(Alle deaktiviert)",
+  "settings_filter_stores_none": "",
 
   // Show bad quality games
   "settings_filter_trash_1": "Schlechte Spiele anzeigen",
