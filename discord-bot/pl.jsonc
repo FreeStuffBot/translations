@@ -1,4 +1,7 @@
 {
+  // AI↗
+  "ai_summary": "AI↗",
+
   // Get it for free
   "announcement_button_text": "Zdobądź za darmo",
 
@@ -167,13 +170,58 @@
   // {title} is free!
   "announcement_title_statement": "{title} jest za darmo!",
 
+  // Copyright
+  "attribute_copyright_name": "Prawa autorskie",
+
+  // Description
+  "attribute_description_name": "Opis",
+
+  // Flags
+  "attribute_flags_name": "Flagi",
+
+  // Images
+  "attribute_images_name": "Obrazy",
+
+  // Kind
+  "attribute_kind_name": "Rodzaj",
+
+  // Notice
+  "attribute_notice_name": "Uwaga",
+
+  // Platforms
+  "attribute_platforms_name": "Platformy",
+
+  // Price
+  "attribute_prices_name": "Cena",
+
+  // Rating
+  "attribute_rating_name": "Ocena",
+
+  // Store
+  "attribute_store_name": "Sklep",
+
+  // Tags
+  "attribute_tags_name": "Tagi",
+
+  // Title
+  "attribute_title_name": "Tytuł",
+
+  // Type
+  "attribute_type_name": "Typ",
+
+  // Until
+  "attribute_until_name": "Do",
+
+  // URLs
+  "attribute_urls_name": "URL",
+
   // An error occurred!
   "cmd_error_fatal_1": "Niespodziewany błąd!",
 
   // We're trying to fix this issue as soon as possible!
   "cmd_error_fatal_2": "Postaramy się naprawić błąd najwcześniej jak to możliwe!",
 
-  // A wild error occurred!
+  // A wild error appeared!
   "cmd_error_fixable_1": "Niespodziewany błąd!",
 
   // Can you please try that again? If this message keeps appearing please wait a bit or [reach out to our support team]({discordInvite}), thanks.
@@ -187,6 +235,9 @@
 
   // + {count} more
   "cmd_free_and_more": "+ {count} więcej",
+
+  // F2P
+  "cmd_free_badge_timed": "F2P",
 
   // **Ends soon:**
   "cmd_free_ends_soon": "**Wkrótce się kończą:**",
@@ -269,7 +320,7 @@
   // :eyes:
   "cmd_invite_1": ":eyes:",
 
-  // [Click here to add me to your server!]({inviteLink})
+  // [Click here to add FreeStuff to your server!]({inviteLink})
   "cmd_invite_2": "[Kliknij tu aby mnie dodać!]({inviteLink})",
 
   // You're going too fast!
@@ -293,7 +344,7 @@
   // Whoops!
   "cmd_resend_nosend_1": "Ups!",
 
-  // Looks like I don't have the permission to send messages in {channel}!
+  // Looks like FreeStuff doesn't have the permission to send messages in {channel}!
   "cmd_resend_nosend_2": "Wygląda na to, że nie mam permisji do wysyłania wiadomości w {channel}!",
 
   // Uh oh!
@@ -323,25 +374,25 @@
   // :x:
   "cmd_test_nochannel_1": ":x:",
 
-  // I don't know where to post the announcements!\nGo to /settings → Set Channel
+  // FreeStuff doesn't know where to post the announcements!\nGo to /settings → Set Channel
   "cmd_test_nochannel_2": "Nie wiem gdzie wysyłać ogłoszenia!\n Przejdź do /settings → Set Channel",
 
   // Oh well...
   "cmd_test_noembeds_1": "O kurcze...",
 
-  // The theme you're using uses embeds to make the message look nicer... now the thing is, I don't have the permission to send embeds in {channel}! Either give me the permission `Embed Links` or choose a different theme that doesn't use embeds!
+  // The theme you're using uses embeds to make the message look nicer... now the thing is, FreeStuff doesn't have the permission to send embeds in {channel}! Either give it the permission `Embed Links` or choose a different theme that doesn't use embeds!
   "cmd_test_noembeds_2": "Motyw który używasz, wykorzystuje embedy... Musisz dać botowi permisje `Embed Links` albo wybrać inny motyw!",
 
   // Whoops!
   "cmd_test_nosee_1": "O cholera!",
 
-  // Looks like I don't have the permission to see the channel {channel}!
+  // Looks like FreeStuff doesn't have the permission to see the channel {channel}!
   "cmd_test_nosee_2": "Wygląda na to, że nie mam permisji, żeby widzieć kanał {channel}!",
 
   // Whoops!
   "cmd_test_nosend_1": "O cholera!",
 
-  // Looks like I don't have the permission to send messages in {channel}!
+  // Looks like FreeStuff doesn't have the permission to send messages in {channel}!
   "cmd_test_nosend_2": "Wygląda na to, że nie mam permisji, żeby wysyłać wiadomości na kanale {channel}!",
 
   // Aaaaaand there it goes!
@@ -353,7 +404,7 @@
   // Enjoying the free games?
   "cmd_vote_1": "Lubisz darmowe gry?",
 
-  // [Click here to vote for me on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases it's visibility and helps others discover free games too! Thank you for every vote!*
+  // [Click here to vote for FreeStuff on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases its visibility and helps others discover free games too! Thank you for every vote!*
   "cmd_vote_2": "[Kliknij aby zagłosować na top.gg!]({topGGLink})\n\nAlternatywnie, FreeStuff Bot jest również na następujących stronach:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Głosowanie na bota zwiększa jego widoczność i pomaga innym odkrywać darmowe gry! Dziękujemy za każdy głos!*",
 
   // Black
@@ -395,6 +446,39 @@
   // Claim All
   "expressbutton_label": "Odbierz Wszystkie",
 
+  // You have already submitted feedback for this. Thank you!
+  "feedback_already_submitted": "Przesłałeś już opinię na ten temat. Dziękujemy!",
+
+  // Failed to submit feedback. Please try again later.
+  "feedback_invalid_ask": "Nie udało się przesłać opinii. Spróbuj ponownie później.",
+
+  // Tell us what you think...
+  "feedback_refine_placeholder": "Powiedz nam, co myślisz...",
+
+  // We'll use your feedback wisely to make FreeStuff even better. At least that's the plan.
+  "feedback_refine_submission_success_message": "Mądrze wykorzystamy Twoją opinię, aby FreeStuff był jeszcze lepszy. Przynajmniej taki jest plan.",
+
+  // If you have more to say, you can reach out to the FreeStuff team at {supportInvite}
+  "feedback_refine_submission_success_subtext": "Jeśli masz coś więcej do powiedzenia, możesz skontaktować się z zespołem FreeStuff pod adresem {supportInvite}",
+
+  // Thank you so much!
+  "feedback_refine_submission_success_title": "Dziękujemy bardzo!",
+
+  // Select as many options as you like.\nYour feedback is anonymous and will help us know what works and what needs improvement.
+  "feedback_refine_subtitle": "Wybierz tyle opcji, ile chcesz.\nTwoja opinia jest anonimowa i pomoże nam dowiedzieć się, co działa, a co wymaga poprawy.",
+
+  // Something went wrong while submitting your feedback. Please try again in a bit.
+  "feedback_submission_bad_gateway": "Coś poszło nie tak podczas przesyłania opinii. Spróbuj ponownie za chwilę.",
+
+  // Your `👎` is forwarded to our team.\nDo you have a moment to let us know what specifically you didn't like about it?
+  "feedback_submission_success_negative": "Twój `👎` został przekazany do naszego zespołu.\nMasz chwilę, aby dać nam znać, co konkretnie Ci się nie podobało?",
+
+  // Your `👍` is forwarded to our team.\nDo you have a moment to let us know what specifically you liked about it?
+  "feedback_submission_success_positive": "Twój `👍` został przekazany do naszego zespołu.\nMasz chwilę, aby dać nam znać, co konkretnie Ci się podobało?",
+
+  // Thank you for your feedback! <3
+  "feedback_submission_success_title": "Dziękujemy za opinię! <3",
+
   // {next}
   "fluid_list_delimiter_first": "{next}",
 
@@ -407,7 +491,7 @@
   // {prev} and {next}
   "fluid_list_delimiter_only": "{prev} i {next}",
 
-  // Chose your interests and get a more personalized overview when running the `/free` command. Your changes here do not apply to notifications in this server.
+  // Choose your interests and get a more personalized overview when running the `/free` command. Your changes here do not apply to notifications in this server.
   "free_edit_preferences_description": "Wybierz swoje zainteresowania, aby mieć spersonalizowany przegląd dla komendy `/free`. Twoje zmiany nie dotyczą powiadomień na tym serwerze.",
 
   // Some stores and sources from the list below might not be available in every server.
@@ -665,7 +749,7 @@
   // About Premium
   "premium_promo_button": "O Premium",
 
-  // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
+  // Want to get automatic messages? Already done, no premium needed!\nWant to have the bot automatically publish every notification you receive in announcement channels to forward them to your subscribers? Now that's where premium comes in, save yourself some time and let us do the work for you!
   "premium_upsell_autopublish_description": "Koniec z ręcznym klikaniem! Dzięki FreeStuff premium możesz sprawić, że bot automatycznie opublikuje (na inne serwery) każde powiadomienie, które otrzymasz w kanałach ogłoszeń!",
 
   // Get premium to use auto publish!
@@ -689,7 +773,7 @@
   // Get premium to ping more than one role!
   "premium_upsell_multiping_title": "Uzyskaj premium, aby pingować więcej niż jedną rolę!",
 
-  // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
+  // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is yours!
   "premium_upsell_threadopts_description": "Dzięki FreeStuff premium możesz sprawić, by bot automatycznie tworzył wątki dla każdego otrzymanego powiadomienia!\nMożesz mieć wątek pod każdym powiadomieniem lub pozwolić mu utworzyć nowy wątek, w którym opublikuje powiadomienie. Wybór należy do Ciebie!",
 
   // Get premium to create threads!
@@ -821,7 +905,7 @@
   // Channel list refreshed
   "refresh_channels_success": "Odświeżono listę kanałów",
 
-  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
+  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\nWith best regards, John FreeStuff, founder of FreeStuff
   "refresh_channels_timeout": "Jesteś zbyt szybki! Ze względów bezpieczeństwa możemy zezwolić na naciśnięcie tego przycisku tylko raz na {interval} sekund!\nZ wyrazami szacunku, Jan FreeStuff, założyciel FreeStuff",
 
   // Refresh List
@@ -829,6 +913,66 @@
 
   // Slow down! You can only reload this list every {interval} seconds!
   "refresh_role_timeout": "Zwolnij! Możesz odświeżać tą listę raz na {interval} sekund!",
+
+  // Auto-Publish
+  "setting_autoPublish_name": "Automatyczne publikowanie",
+
+  // Beta
+  "setting_beta_name": "Beta",
+
+  // Boring Mode
+  "setting_boring_name": "Tryb nudny",
+
+  // Bot Icon
+  "setting_brandedIconUrl_name": "Ikona bota",
+
+  // Bot Name
+  "setting_brandedName_name": "Nazwa bota",
+
+  // Channel
+  "setting_channel_name": "Kanał",
+
+  // Currency
+  "setting_currency_name": "Waluta",
+
+  // Custom Text
+  "setting_customNotice_name": "Niestandardowy tekst",
+
+  // Debug
+  "setting_debug_name": "Debugowanie",
+
+  // Claim-All Button
+  "setting_express_name": "Przycisk Odbierz wszystko",
+
+  // Kinds
+  "setting_kinds_name": "Rodzaje",
+
+  // Language
+  "setting_language_name": "Język",
+
+  // Minimum Price
+  "setting_price_name": "Cena minimalna",
+
+  // Auto-React
+  "setting_react_name": "Automatyczna reakcja",
+
+  // Ping Roles
+  "setting_roles_name": "Role do oznaczania",
+
+  // Stores
+  "setting_stores_name": "Sklepy",
+
+  // Custom Theme Color
+  "setting_themeColor_name": "Niestandardowy kolor motywu",
+
+  // Theme
+  "setting_theme_name": "Motyw",
+
+  // Threads
+  "setting_threads_name": "Wątki",
+
+  // Low quality filter
+  "setting_trash_name": "Filtr niskiej jakości",
 
   // Welcome to FreeStuff!
   "settings2_main_1_first_time": "Witamy w FreeStuff!",
@@ -866,7 +1010,7 @@
   // Ayo what's that
   "settings_botprofile_avatar_url_too_long_1": "Co to ma być",
 
-  // Your url is a little... excessive... A little... long, maybe. Could you try make it shorter maybe? Thanks :D
+  // Your url is a little... excessive... A little... long, maybe. Could you try to make it shorter maybe? Thanks :D
   "settings_botprofile_avatar_url_too_long_2": "Twój adres url jest trochę... spasły... Może trochę... długi. Czy mógłbyś spróbować go skrócić? Dzięki :D",
 
   // Edit Avatar
@@ -875,7 +1019,7 @@
   // Edit Name
   "settings_botprofile_btn_edit_name": "Edytuj Nazwę",
 
-  // (missing)
+  // 
   "settings_botprofile_name_description": "(brak)",
 
   // Bot Name
@@ -923,13 +1067,13 @@
   // Change The Channel
   "settings_channel_ui_1": "Zmień Kanał",
 
-  // Below you'll find a list of all of your channels. Please pick one for me to send free games to!
+  // Below you'll find a list of all of your channels. Please pick one for FreeStuff to send free games to!
   "settings_channel_ui_2_regular": "Poniżej znajdziesz listę wszystkich swoich kanałów. Proszę wybierz jeden, na który mam wysyłać darmowe gry!",
 
-  // Below you'll find a list of most of your channels. You had so many I couldn't show them all at once. Please pick one for me to send free games to!
+  // Below you'll find a list of most of your channels. You had so many we couldn't show them all at once. Please pick one for FreeStuff to send free games to!
   "settings_channel_ui_2_too_many": "Poniżej znajdziesz listę większości swoich kanałów. Masz ich za dużo, więc nie mogłem ich wszystkich pokazać. Proszę wybierz jeden, na który mam wysyłać darmowe gry!",
 
-  // Below you'll find a list of a few of your channels. You have an enormous amount of channels in this server, you know this? So many in fact I could only show you a small selection of them. Please pick one for me to send free games to!
+  // Below you'll find a list of a few of your channels. You have an enormous amount of channels in this server, you know this? So many in fact we could only show you a small selection of them. Please pick one for FreeStuff to send free games to!
   "settings_channel_ui_2_way_too_many": "Poniżej znajdziesz listę części swoich kanałów. Masz ogromną liczbę kanałów na tym serwerze... Tak dużą, że mogę pokazać tylko małą część z nich. Proszę wybierz jeden, na który mam wysyłać darmowe gry!",
 
   // Can't change channel to {channel}: Missing \"{permissions}\" permissions!
@@ -1193,13 +1337,13 @@
   // Settings
   "settings_main_ui_1": "Ustawienia",
 
-  // Looks like you still didn't finish setting up the bot :eyes:\n\nWhy don't you start by picking a channel for me to send free games to?
+  // Looks like you still didn't finish setting up the bot :eyes:\n\nWhy don't you start by picking a channel for FreeStuff to send free games to?
   "settings_main_ui_2_guided_channel_delayed": "Wygląda na to, że wciąż nie skończyłeś konfigurować bota :eyes:\n\nMoże zaczniesz od wybrania kanału, na który mam wysyłać darmowe gry?",
 
-  // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel I can use to keep you and your friends up to date with free games! Click the blue button below to continue:
+  // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel FreeStuff can use to keep you and your friends up to date with free games! Click the blue button below to continue:
   "settings_main_ui_2_guided_channel_normal": "Witamy w FreeStuff :wave:\n\nCieszę się, że trafiłeś na stronę ustawień! Zacznijmy od wybrania kanału, na którym będę informować Ciebie i twoich znajomych o darmowych grach! Kliknij niebieski przycisk poniżej, aby kontynuować:",
 
-  // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
+  // You got some more settings to check out! We're talking about themes and currency options and whatnot. Interested? The blue button will get you there!
   "settings_main_ui_2_guided_display_delayed": "Masz więcej ustawień do sprawdzenia! Chodzi mi o motywy, opcje walutowe i tak dalej. Zainteresowany? Niebieski przycisk przeniesie Cię tam!",
 
   // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
@@ -1214,10 +1358,10 @@
   // Awesome, you're done with setting up the FreeStuff Bot! Enjoy your free games! :partying_face:\n\nLooking for other people to talk about free games? [Join our Discord Server]({invite})\n\n*You can always return to this page using /settings*
   "settings_main_ui_2_guided_finished": "Wspaniale, skończyłeś konfigurować FreeStuff Bota! Ciesz się darmowymi grami! :partying_face:\n\nSzukasz innych ludzi do rozmowy o darmowych grach? [Dołącz do naszego serwera Discord]({invite})\n\n*Zawsze możesz wrócić do tej strony używając /settings*",
 
-  // Wanna continue setting up the bot?\nI'd suggest you check out role mentions next! Just click the button below to see what's possible!
+  // Wanna continue setting up the bot?\nWe'd suggest you check out role mentions next! Just click the button below to see what's possible!
   "settings_main_ui_2_guided_role_delayed": "Chcesz kontynuować konfigurację bota?\nSugeruję, abyś w następnej kolejności sprawdził pingi roli! Kliknij przycisk poniżej, aby zobaczyć co jest możliwe!",
 
-  // Good job! Next up, maybe wanna get notified when a game becomes free? I'm talking about pinging a role or maybe even @everyone?\nClick the button below to see what's possible :eyes:
+  // Good job! Next up, maybe wanna get notified when a game becomes free? We're talking about pinging a role or maybe even @everyone?\nClick the button below to see what's possible :eyes:
   "settings_main_ui_2_guided_role_normal": "Dobra robota! Może też chcesz otrzymywać pingi, gdy gra staje się darmowa? Mam na myśli pingowanie roli, a może nawet @everyone?\nKliknij przycisk poniżej, aby zobaczyć, co jest możliwe :eyes:",
 
   // Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.
@@ -1229,7 +1373,7 @@
   // Pick a type of notification from the list below to get started!
   "settings_main_welcome_extra": "Wybierz typ powiadomienia z listy poniżej, aby rozpocząć!",
 
-  // With beta enabled you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.
+  // With beta enabled you can get updates and new features early. But be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.
   "settings_more_beta_description": "Z uruchomioną wersją Beta możesz otrzymywać nowe aktualizacje i funkcje wcześniej. Uważaj, to również może zawierać niestabilne lub eksperymentalne funkcje i aktualizacje. Możesz też czasem być zapytany o feedback.",
 
   // Beta
@@ -1331,6 +1475,12 @@
   // 1. Click on the dropdown menu above\n2. Select a channel for the bot to send notifications to\n3. And that's it, you're done! You will now receive automatic notifications!\n4. Optional: Click on the buttons above to customize things
   "settings_sub_help_solution_tldr_2": "1. Kliknij na listę rozwijaną powyżej\n2. Wybierz kanał, do którego bot ma wysyłać powiadomienia\n3. I to wszystko! Od teraz będziesz otrzymywać automatyczne powiadomienia!\n4. Opcjonalne: Kliknij w przyciski powyżej, aby dostosować rzeczy",
 
+  // This is a place for advanced users.
+  "settings_sub_more_help_explainer_1": "To miejsce dla zaawansowanych użytkowników.",
+
+  // If you don't know what to do here, don't worry, you don't have to use anything here.\nYou can press the **{test}** button to let the bot send a notification as if a game just went free, except it's clearly stating it's just a test message. This might be useful if you've just set the bot up and want to see if it works or if you haven't heard anything in a while and want to check if it's still on. The **{resend}** button will do the same thing, except instead of clearly stating it's a test it will instead send a notification for every game in the category that's currently still active. This might be useful if you've just changed the channel and want some initial messages in or if you've recently changed filter settings and were missing out on things.
+  "settings_sub_more_help_explainer_2": "Jeśli nie wiesz, co tu zrobić, nie martw się, nie musisz z niczego tutaj korzystać.\nMożesz nacisnąć przycisk **{test}**, aby bot wysłał powiadomienie tak, jakby gra właśnie stała się darmowa, z tą różnicą, że wyraźnie zaznaczy, że to tylko wiadomość testowa. Może to być przydatne, jeśli właśnie skonfigurowałeś bota i chcesz sprawdzić, czy działa, lub jeśli od jakiegoś czasu nic nie słyszałeś i chcesz sprawdzić, czy nadal jest włączony. Przycisk **{resend}** zrobi to samo, z tym że zamiast wyraźnie wskazywać, że to test, wyśle powiadomienie dla każdej gry w kategorii, która jest obecnie aktywna. Może to być przydatne, jeśli właśnie zmieniłeś kanał i chcesz otrzymać kilka początkowych wiadomości, lub jeśli niedawno zmieniłeś ustawienia filtra i coś Ci umknęło.",
+
   // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
   "settings_subscription_locked_premium": "{subscription} jest subskrypcją premium. Jeśli chcesz otrzymywać powiadomienia z tej kategorii, [kliknij tutaj dla więcej informacji]({website})",
 
@@ -1391,7 +1541,7 @@
   // Gamedev Assets
   "subscription_assets_name": "Assety Gamedev",
 
-  // Are you a game developer or want to become one? With {name} you get a notification when paid game assets go free for a limited time! Get 3D models, textures, sounds and more!
+  // Are you a game developer or do you want to become one? With {name} you get a notification when paid game assets go free for a limited time! Get 3D models, textures, sounds and more!
   "subscription_assets_promo": "Jesteś twórcą gier lub chcesz nim zostać? Dzięki {name} otrzymasz powiadomienia, gdy płatne assety do gier będą dostępne za darmo przez ograniczony czas! Zdobądź modele 3D, tekstury, dźwięki i wiele więcej!",
 
   // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
@@ -1502,7 +1652,7 @@
   // Keep it simple
   "theme_five_name": "Prostota",
 
-  // Only weird people chose this
+  // Only weird people choose this
   "theme_four_desc": "Tylko dziwaki to wybierają",
 
   // More info less images!

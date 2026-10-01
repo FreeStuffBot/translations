@@ -1,4 +1,7 @@
 {
+  // AI↗
+  "ai_summary": "",
+
   // Get it for free
   "announcement_button_text": "免費領取",
 
@@ -167,13 +170,58 @@
   // {title} is free!
   "announcement_title_statement": "{title} 現在免費！",
 
+  // Copyright
+  "attribute_copyright_name": "",
+
+  // Description
+  "attribute_description_name": "",
+
+  // Flags
+  "attribute_flags_name": "",
+
+  // Images
+  "attribute_images_name": "",
+
+  // Kind
+  "attribute_kind_name": "",
+
+  // Notice
+  "attribute_notice_name": "",
+
+  // Platforms
+  "attribute_platforms_name": "",
+
+  // Price
+  "attribute_prices_name": "",
+
+  // Rating
+  "attribute_rating_name": "",
+
+  // Store
+  "attribute_store_name": "",
+
+  // Tags
+  "attribute_tags_name": "",
+
+  // Title
+  "attribute_title_name": "",
+
+  // Type
+  "attribute_type_name": "",
+
+  // Until
+  "attribute_until_name": "",
+
+  // URLs
+  "attribute_urls_name": "",
+
   // An error occurred!
   "cmd_error_fatal_1": "發生錯誤！",
 
   // We're trying to fix this issue as soon as possible!
   "cmd_error_fatal_2": "我們會盡快修復這個問題！",
 
-  // A wild error occurred!
+  // A wild error appeared!
   "cmd_error_fixable_1": "出現了一個小錯誤！",
 
   // Can you please try that again? If this message keeps appearing please wait a bit or [reach out to our support team]({discordInvite}), thanks.
@@ -187,6 +235,9 @@
 
   // + {count} more
   "cmd_free_and_more": "",
+
+  // F2P
+  "cmd_free_badge_timed": "",
 
   // **Ends soon:**
   "cmd_free_ends_soon": "**即將結束：**",
@@ -269,7 +320,7 @@
   // :eyes:
   "cmd_invite_1": ":eyes:",
 
-  // [Click here to add me to your server!]({inviteLink})
+  // [Click here to add FreeStuff to your server!]({inviteLink})
   "cmd_invite_2": "[點我邀請我加入你的伺服器！]({inviteLink})",
 
   // You're going too fast!
@@ -293,7 +344,7 @@
   // Whoops!
   "cmd_resend_nosend_1": "哎呀！",
 
-  // Looks like I don't have the permission to send messages in {channel}!
+  // Looks like FreeStuff doesn't have the permission to send messages in {channel}!
   "cmd_resend_nosend_2": "我似乎沒辦法在 {channel} 發訊息！",
 
   // Uh oh!
@@ -323,25 +374,25 @@
   // :x:
   "cmd_test_nochannel_1": ":x:",
 
-  // I don't know where to post the announcements!\nGo to /settings → Set Channel
+  // FreeStuff doesn't know where to post the announcements!\nGo to /settings → Set Channel
   "cmd_test_nochannel_2": "我不知道要在哪裡發佈公告！\n請前往 /settings → 設定頻道",
 
   // Oh well...
   "cmd_test_noembeds_1": "唉呀……",
 
-  // The theme you're using uses embeds to make the message look nicer... now the thing is, I don't have the permission to send embeds in {channel}! Either give me the permission `Embed Links` or choose a different theme that doesn't use embeds!
+  // The theme you're using uses embeds to make the message look nicer... now the thing is, FreeStuff doesn't have the permission to send embeds in {channel}! Either give it the permission `Embed Links` or choose a different theme that doesn't use embeds!
   "cmd_test_noembeds_2": "你使用的主題需要嵌入訊息讓外觀更好看……但我在 {channel} 沒有發送嵌入的權限！請給我 `嵌入連結` 的權限，或選擇不需要嵌入的主題！",
 
   // Whoops!
   "cmd_test_nosee_1": "哎呀！",
 
-  // Looks like I don't have the permission to see the channel {channel}!
+  // Looks like FreeStuff doesn't have the permission to see the channel {channel}!
   "cmd_test_nosee_2": "看起來我沒有權限查看頻道 {channel}！",
 
   // Whoops!
   "cmd_test_nosend_1": "哎呀！",
 
-  // Looks like I don't have the permission to send messages in {channel}!
+  // Looks like FreeStuff doesn't have the permission to send messages in {channel}!
   "cmd_test_nosend_2": "看起來我無法在 {channel} 發送訊息！",
 
   // Aaaaaand there it goes!
@@ -353,7 +404,7 @@
   // Enjoying the free games?
   "cmd_vote_1": "喜歡這些免費遊戲嗎？",
 
-  // [Click here to vote for me on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases it's visibility and helps others discover free games too! Thank you for every vote!*
+  // [Click here to vote for FreeStuff on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases its visibility and helps others discover free games too! Thank you for every vote!*
   "cmd_vote_2": "[點我到 top.gg 為我投票]({topGGLink})\n\n另外，FreeStuff Bot 也列在以下網站：\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*為機器人投票能提高曝光率，也幫助更多人發現免費遊戲！感謝你的每一票！*",
 
   // Black
@@ -395,6 +446,39 @@
   // Claim All
   "expressbutton_label": "一鍵領取",
 
+  // You have already submitted feedback for this. Thank you!
+  "feedback_already_submitted": "",
+
+  // Failed to submit feedback. Please try again later.
+  "feedback_invalid_ask": "",
+
+  // Tell us what you think...
+  "feedback_refine_placeholder": "",
+
+  // We'll use your feedback wisely to make FreeStuff even better. At least that's the plan.
+  "feedback_refine_submission_success_message": "",
+
+  // If you have more to say, you can reach out to the FreeStuff team at {supportInvite}
+  "feedback_refine_submission_success_subtext": "",
+
+  // Thank you so much!
+  "feedback_refine_submission_success_title": "",
+
+  // Select as many options as you like.\nYour feedback is anonymous and will help us know what works and what needs improvement.
+  "feedback_refine_subtitle": "",
+
+  // Something went wrong while submitting your feedback. Please try again in a bit.
+  "feedback_submission_bad_gateway": "",
+
+  // Your `👎` is forwarded to our team.\nDo you have a moment to let us know what specifically you didn't like about it?
+  "feedback_submission_success_negative": "",
+
+  // Your `👍` is forwarded to our team.\nDo you have a moment to let us know what specifically you liked about it?
+  "feedback_submission_success_positive": "",
+
+  // Thank you for your feedback! <3
+  "feedback_submission_success_title": "",
+
   // {next}
   "fluid_list_delimiter_first": "{next}",
 
@@ -407,7 +491,7 @@
   // {prev} and {next}
   "fluid_list_delimiter_only": "{prev} 和 {next}",
 
-  // Chose your interests and get a more personalized overview when running the `/free` command. Your changes here do not apply to notifications in this server.
+  // Choose your interests and get a more personalized overview when running the `/free` command. Your changes here do not apply to notifications in this server.
   "free_edit_preferences_description": "",
 
   // Some stores and sources from the list below might not be available in every server.
@@ -665,7 +749,7 @@
   // About Premium
   "premium_promo_button": "了解 Premium",
 
-  // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
+  // Want to get automatic messages? Already done, no premium needed!\nWant to have the bot automatically publish every notification you receive in announcement channels to forward them to your subscribers? Now that's where premium comes in, save yourself some time and let us do the work for you!
   "premium_upsell_autopublish_description": "再也不用手動點擊啦！升級 FreeStuff Premium 後，機器人可以自動在公告頻道中發佈所有你收到的通知！",
 
   // Get premium to use auto publish!
@@ -689,7 +773,7 @@
   // Get premium to ping more than one role!
   "premium_upsell_multiping_title": "升級 Premium 可同時提及多個角色！",
 
-  // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
+  // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is yours!
   "premium_upsell_threadopts_description": "升級 FreeStuff Premium 後，機器人會為每則通知自動建立討論串！\n你可以選擇讓通知在原本訊息下方開啟討論串，或是建立新討論串並將通知發在裡面，任你選擇！",
 
   // Get premium to create threads!
@@ -821,7 +905,7 @@
   // Channel list refreshed
   "refresh_channels_success": "頻道清單已重新載入",
 
-  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
+  // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\nWith best regards, John FreeStuff, founder of FreeStuff
   "refresh_channels_timeout": "你太快了！為了安全起見，每 {interval} 秒只能按一次這個按鈕！\n此致敬禮，FreeStuff 創辦人 John FreeStuff",
 
   // Refresh List
@@ -829,6 +913,66 @@
 
   // Slow down! You can only reload this list every {interval} seconds!
   "refresh_role_timeout": "慢一點！你只能每 {interval} 秒重新載入一次這個清單！",
+
+  // Auto-Publish
+  "setting_autoPublish_name": "",
+
+  // Beta
+  "setting_beta_name": "",
+
+  // Boring Mode
+  "setting_boring_name": "",
+
+  // Bot Icon
+  "setting_brandedIconUrl_name": "",
+
+  // Bot Name
+  "setting_brandedName_name": "",
+
+  // Channel
+  "setting_channel_name": "",
+
+  // Currency
+  "setting_currency_name": "",
+
+  // Custom Text
+  "setting_customNotice_name": "",
+
+  // Debug
+  "setting_debug_name": "",
+
+  // Claim-All Button
+  "setting_express_name": "",
+
+  // Kinds
+  "setting_kinds_name": "",
+
+  // Language
+  "setting_language_name": "",
+
+  // Minimum Price
+  "setting_price_name": "",
+
+  // Auto-React
+  "setting_react_name": "",
+
+  // Ping Roles
+  "setting_roles_name": "",
+
+  // Stores
+  "setting_stores_name": "",
+
+  // Custom Theme Color
+  "setting_themeColor_name": "",
+
+  // Theme
+  "setting_theme_name": "",
+
+  // Threads
+  "setting_threads_name": "",
+
+  // Low quality filter
+  "setting_trash_name": "",
 
   // Welcome to FreeStuff!
   "settings2_main_1_first_time": "歡迎使用 FreeStuff！",
@@ -866,7 +1010,7 @@
   // Ayo what's that
   "settings_botprofile_avatar_url_too_long_1": "哇這是什麼東西",
 
-  // Your url is a little... excessive... A little... long, maybe. Could you try make it shorter maybe? Thanks :D
+  // Your url is a little... excessive... A little... long, maybe. Could you try to make it shorter maybe? Thanks :D
   "settings_botprofile_avatar_url_too_long_2": "你的網址也太長了吧…能不能弄短一點呢？拜託啦 :D",
 
   // Edit Avatar
@@ -875,7 +1019,7 @@
   // Edit Name
   "settings_botprofile_btn_edit_name": "修改名稱",
 
-  // (missing)
+  // 
   "settings_botprofile_name_description": "",
 
   // Bot Name
@@ -923,13 +1067,13 @@
   // Change The Channel
   "settings_channel_ui_1": "變更頻道",
 
-  // Below you'll find a list of all of your channels. Please pick one for me to send free games to!
+  // Below you'll find a list of all of your channels. Please pick one for FreeStuff to send free games to!
   "settings_channel_ui_2_regular": "以下是你所有的頻道，請選擇一個讓我推送免費遊戲的頻道！",
 
-  // Below you'll find a list of most of your channels. You had so many I couldn't show them all at once. Please pick one for me to send free games to!
+  // Below you'll find a list of most of your channels. You had so many we couldn't show them all at once. Please pick one for FreeStuff to send free games to!
   "settings_channel_ui_2_too_many": "以下是大多數的頻道，你的頻道太多了我無法一次顯示全部。請選擇一個讓我推送免費遊戲的頻道！",
 
-  // Below you'll find a list of a few of your channels. You have an enormous amount of channels in this server, you know this? So many in fact I could only show you a small selection of them. Please pick one for me to send free games to!
+  // Below you'll find a list of a few of your channels. You have an enormous amount of channels in this server, you know this? So many in fact we could only show you a small selection of them. Please pick one for FreeStuff to send free games to!
   "settings_channel_ui_2_way_too_many": "你伺服器的頻道數量多到我只能顯示一小部分。請選擇一個讓我推送免費遊戲的頻道！",
 
   // Can't change channel to {channel}: Missing \"{permissions}\" permissions!
@@ -1193,13 +1337,13 @@
   // Settings
   "settings_main_ui_1": "設定",
 
-  // Looks like you still didn't finish setting up the bot :eyes:\n\nWhy don't you start by picking a channel for me to send free games to?
+  // Looks like you still didn't finish setting up the bot :eyes:\n\nWhy don't you start by picking a channel for FreeStuff to send free games to?
   "settings_main_ui_2_guided_channel_delayed": "你還沒完成機器人的設定呢 :eyes:\n\n先選一個頻道讓我來推送免費遊戲吧！",
 
-  // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel I can use to keep you and your friends up to date with free games! Click the blue button below to continue:
+  // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel FreeStuff can use to keep you and your friends up to date with free games! Click the blue button below to continue:
   "settings_main_ui_2_guided_channel_normal": "歡迎使用 FreeStuff :wave:\n\n歡迎來到設定頁面！首先讓我們選個頻道，我可以在那裡推送免費遊戲訊息給你和朋友們！點擊下方的藍色按鈕繼續：",
 
-  // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
+  // You got some more settings to check out! We're talking about themes and currency options and whatnot. Interested? The blue button will get you there!
   "settings_main_ui_2_guided_display_delayed": "還有一些設定可以調整！像是主題、貨幣顯示之類的。想看嗎？點藍色按鈕就對了！",
 
   // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
@@ -1214,10 +1358,10 @@
   // Awesome, you're done with setting up the FreeStuff Bot! Enjoy your free games! :partying_face:\n\nLooking for other people to talk about free games? [Join our Discord Server]({invite})\n\n*You can always return to this page using /settings*
   "settings_main_ui_2_guided_finished": "太棒了，你已完成 FreeStuff Bot 的設定！享受免費遊戲吧！:partying_face:\n\n想找人聊聊免費遊戲嗎？[加入我們的 Discord 社群]({invite})\n\n*隨時都可以用 /settings 回到這個頁面喔*",
 
-  // Wanna continue setting up the bot?\nI'd suggest you check out role mentions next! Just click the button below to see what's possible!
+  // Wanna continue setting up the bot?\nWe'd suggest you check out role mentions next! Just click the button below to see what's possible!
   "settings_main_ui_2_guided_role_delayed": "想繼續設定機器人嗎？\n我建議你接下來看看通知角色的設定！點擊下面的按鈕來了解！",
 
-  // Good job! Next up, maybe wanna get notified when a game becomes free? I'm talking about pinging a role or maybe even @everyone?\nClick the button below to see what's possible :eyes:
+  // Good job! Next up, maybe wanna get notified when a game becomes free? We're talking about pinging a role or maybe even @everyone?\nClick the button below to see what's possible :eyes:
   "settings_main_ui_2_guided_role_normal": "做得好！下一步，你想要在有免費遊戲時收到通知嗎？像是 ping 一個角色或甚至 @everyone？\n點擊下方按鈕看看可以怎麼設！",
 
   // Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.
@@ -1229,7 +1373,7 @@
   // Pick a type of notification from the list below to get started!
   "settings_main_welcome_extra": "",
 
-  // With beta enabled you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.
+  // With beta enabled you can get updates and new features early. But be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.
   "settings_more_beta_description": "",
 
   // Beta
@@ -1331,6 +1475,12 @@
   // 1. Click on the dropdown menu above\n2. Select a channel for the bot to send notifications to\n3. And that's it, you're done! You will now receive automatic notifications!\n4. Optional: Click on the buttons above to customize things
   "settings_sub_help_solution_tldr_2": "",
 
+  // This is a place for advanced users.
+  "settings_sub_more_help_explainer_1": "",
+
+  // If you don't know what to do here, don't worry, you don't have to use anything here.\nYou can press the **{test}** button to let the bot send a notification as if a game just went free, except it's clearly stating it's just a test message. This might be useful if you've just set the bot up and want to see if it works or if you haven't heard anything in a while and want to check if it's still on. The **{resend}** button will do the same thing, except instead of clearly stating it's a test it will instead send a notification for every game in the category that's currently still active. This might be useful if you've just changed the channel and want some initial messages in or if you've recently changed filter settings and were missing out on things.
+  "settings_sub_more_help_explainer_2": "",
+
   // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
   "settings_subscription_locked_premium": "{subscription} 是 Premium 訂閱內容。如需接收此分類的通知，請 [點我了解更多]({website})",
 
@@ -1391,7 +1541,7 @@
   // Gamedev Assets
   "subscription_assets_name": "",
 
-  // Are you a game developer or want to become one? With {name} you get a notification when paid game assets go free for a limited time! Get 3D models, textures, sounds and more!
+  // Are you a game developer or do you want to become one? With {name} you get a notification when paid game assets go free for a limited time! Get 3D models, textures, sounds and more!
   "subscription_assets_promo": "",
 
   // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
@@ -1502,7 +1652,7 @@
   // Keep it simple
   "theme_five_name": "簡單就好",
 
-  // Only weird people chose this
+  // Only weird people choose this
   "theme_four_desc": "只有奇怪的人才會選這個",
 
   // More info less images!
