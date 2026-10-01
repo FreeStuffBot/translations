@@ -8,6 +8,8 @@
 # "format" mode  →  commits with [skip-authors] tag so CI skips authorship tracking.
 # "llm"    mode  →  commits as llm@freestuff.gg so CI attributes keys to the LLM.
 #
+# Both modes stage all currently modified/untracked files first (git add -A).
+# Pass a custom message as the second argument, or one will be generated.
 # Staging behavior:
 #   If any files are already staged, it will commit ONLY those staged files.
 #   If no files are staged yet, it will auto-stage all modified/untracked files (git add -A).
@@ -31,6 +33,8 @@ if [[ "$MODE" != "format" && "$MODE" != "llm" ]]; then
   exit 1
 fi
 
+# Stage everything that is modified across the repo
+git add -A
 # If no files are currently staged in the index, auto-stage all changes
 if git diff --quiet --staged; then
   echo "No files staged — auto-staging all modified files (git add -A)..."
@@ -39,8 +43,10 @@ else
   echo "Using already staged files for commit..."
 fi
 
+# Check if there is actually anything to commit
 # Check if there is anything to commit
 if git diff --quiet --staged; then
+  echo "Nothing to commit."
   echo "Nothing to commit (working tree clean)."
   exit 0
 fi
