@@ -1,4 +1,7 @@
 {
+  // AI↗
+  "ai_summary": "IA↗",
+
   // Get it for free
   "announcement_button_text": "Pegue de graça",
 
@@ -167,6 +170,51 @@
   // {title} is free!
   "announcement_title_statement": "{title} está de graça!",
 
+  // Copyright
+  "attribute_copyright_name": "Direitos Autorais",
+
+  // Description
+  "attribute_description_name": "Descrição",
+
+  // Flags
+  "attribute_flags_name": "Marcadores",
+
+  // Images
+  "attribute_images_name": "Imagens",
+
+  // Kind
+  "attribute_kind_name": "Tipo",
+
+  // Notice
+  "attribute_notice_name": "Aviso",
+
+  // Platforms
+  "attribute_platforms_name": "Plataformas",
+
+  // Price
+  "attribute_prices_name": "Preço",
+
+  // Rating
+  "attribute_rating_name": "Classificação",
+
+  // Store
+  "attribute_store_name": "Loja",
+
+  // Tags
+  "attribute_tags_name": "Tags",
+
+  // Title
+  "attribute_title_name": "Título",
+
+  // Type
+  "attribute_type_name": "Categoria",
+
+  // Until
+  "attribute_until_name": "Até",
+
+  // URLs
+  "attribute_urls_name": "URLs",
+
   // An error occurred!
   "cmd_error_fatal_1": "Um erro ocorreu!",
 
@@ -187,6 +235,9 @@
 
   // + {count} more
   "cmd_free_and_more": "",
+
+  // F2P
+  "cmd_free_badge_timed": "F2P",
 
   // **Ends soon:**
   "cmd_free_ends_soon": "**Termina logo:** (ou já terminou)",
@@ -863,6 +914,66 @@
   // Slow down! You can only reload this list every {interval} seconds!
   "refresh_role_timeout": "",
 
+  // Auto-Publish
+  "setting_autoPublish_name": "Publicação Automática",
+
+  // Beta
+  "setting_beta_name": "Beta",
+
+  // Boring Mode
+  "setting_boring_name": "Modo Chato",
+
+  // Bot Icon
+  "setting_brandedIconUrl_name": "Ícone do Bot",
+
+  // Bot Name
+  "setting_brandedName_name": "Nome do Bot",
+
+  // Channel
+  "setting_channel_name": "Canal",
+
+  // Currency
+  "setting_currency_name": "Moeda",
+
+  // Custom Text
+  "setting_customNotice_name": "Texto Personalizado",
+
+  // Debug
+  "setting_debug_name": "Depuração",
+
+  // Claim-All Button
+  "setting_express_name": "Botão Resgatar Tudo",
+
+  // Kinds
+  "setting_kinds_name": "Tipos",
+
+  // Language
+  "setting_language_name": "Idioma",
+
+  // Minimum Price
+  "setting_price_name": "Preço Mínimo",
+
+  // Auto-React
+  "setting_react_name": "Reação Automática",
+
+  // Ping Roles
+  "setting_roles_name": "Cargos de Menção",
+
+  // Stores
+  "setting_stores_name": "Lojas",
+
+  // Custom Theme Color
+  "setting_themeColor_name": "Cor de Tema Personalizada",
+
+  // Theme
+  "setting_theme_name": "Tema",
+
+  // Threads
+  "setting_threads_name": "Tópicos",
+
+  // Low quality filter
+  "setting_trash_name": "Filtro de baixa qualidade",
+
   // Welcome to FreeStuff!
   "settings2_main_1_first_time": "",
 
@@ -1363,6 +1474,12 @@
 
   // 1. Click on the dropdown menu above\n2. Select a channel for the bot to send notifications to\n3. And that's it, you're done! You will now receive automatic notifications!\n4. Optional: Click on the buttons above to customize things
   "settings_sub_help_solution_tldr_2": "",
+
+  // This is a place for advanced users.
+  "settings_sub_more_help_explainer_1": "Este é um lugar para usuários avançados.",
+
+  // If you don't know what to do here, don't worry, you don't have to use anything here.\nYou can press the **{test}** button to let the bot send a notification as if a game just went free, except it's clearly stating it's just a test message. This might be useful if you've just set the bot up and want to see if it works or if you haven't heard anything in a while and want to check if it's still on. The **{resend}** button will do the same thing, except instead of clearly stating it's a test it will instead send a notification for every game in the category that's currently still active. This might be useful if you've just changed the channel and want some initial messages in or if you've recently changed filter settings and were missing out on things.
+  "settings_sub_more_help_explainer_2": "Se você não sabe o que fazer aqui, não se preocupe, você não precisa usar nada disso.\nVocê pode pressionar o botão **{test}** para que o bot envie uma notificação como se um jogo tivesse acabado de ficar grátis, exceto que informará claramente que é apenas uma mensagem de teste. Isso pode ser útil se você acabou de configurar o bot e deseja ver se funciona ou se faz um tempo que não recebe nada e deseja verificar se ainda está ativo. O botão **{resend}** fará a mesma coisa, exceto que, em vez de indicar claramente que é um teste, ele enviará uma notificação para todos os jogos da categoria que ainda estão ativos. Isso pode ser útil se você acabou de alterar o canal e deseja receber algumas mensagens iniciais ou se alterou recentemente as configurações de filtro e estava perdendo as notificações.",
 
   // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
   "settings_subscription_locked_premium": "{subscription} é uma categoria premium. [Clique aqui para ver mais informações]({website}) caso você queira receber estas notificações.",

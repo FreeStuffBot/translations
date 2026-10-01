@@ -1,4 +1,7 @@
 {
+  // AI↗
+  "ai_summary": "AI↗",
+
   // Get it for free
   "announcement_button_text": "Získaj zadarmo",
 
@@ -167,6 +170,51 @@
   // {title} is free!
   "announcement_title_statement": "{title} je zadarmo!",
 
+  // Copyright
+  "attribute_copyright_name": "Autorské práva",
+
+  // Description
+  "attribute_description_name": "Popis",
+
+  // Flags
+  "attribute_flags_name": "Značky",
+
+  // Images
+  "attribute_images_name": "Obrázky",
+
+  // Kind
+  "attribute_kind_name": "Druh",
+
+  // Notice
+  "attribute_notice_name": "Upozornenie",
+
+  // Platforms
+  "attribute_platforms_name": "Platformy",
+
+  // Price
+  "attribute_prices_name": "Cena",
+
+  // Rating
+  "attribute_rating_name": "Hodnotenie",
+
+  // Store
+  "attribute_store_name": "Obchod",
+
+  // Tags
+  "attribute_tags_name": "Tagy",
+
+  // Title
+  "attribute_title_name": "Názov",
+
+  // Type
+  "attribute_type_name": "Typ",
+
+  // Until
+  "attribute_until_name": "Do",
+
+  // URLs
+  "attribute_urls_name": "URL adresy",
+
   // An error occurred!
   "cmd_error_fatal_1": "Vyskytla sa chyba!",
 
@@ -187,6 +235,9 @@
 
   // + {count} more
   "cmd_free_and_more": "+ {count} ďalších",
+
+  // F2P
+  "cmd_free_badge_timed": "F2P",
 
   // **Ends soon:**
   "cmd_free_ends_soon": "**Čoskoro skončia:**",
@@ -863,6 +914,66 @@
   // Slow down! You can only reload this list every {interval} seconds!
   "refresh_role_timeout": "Spomaľ! Tento zoznam môžeš obnovovať len každých {interval} sekúnd!",
 
+  // Auto-Publish
+  "setting_autoPublish_name": "Automatické publikovanie",
+
+  // Beta
+  "setting_beta_name": "Beta",
+
+  // Boring Mode
+  "setting_boring_name": "Nudný režim",
+
+  // Bot Icon
+  "setting_brandedIconUrl_name": "Ikona bota",
+
+  // Bot Name
+  "setting_brandedName_name": "Meno bota",
+
+  // Channel
+  "setting_channel_name": "Kanál",
+
+  // Currency
+  "setting_currency_name": "Mena",
+
+  // Custom Text
+  "setting_customNotice_name": "Vlastný text",
+
+  // Debug
+  "setting_debug_name": "Ladenie",
+
+  // Claim-All Button
+  "setting_express_name": "Tlačidlo Získať všetko",
+
+  // Kinds
+  "setting_kinds_name": "Druhy",
+
+  // Language
+  "setting_language_name": "Jazyk",
+
+  // Minimum Price
+  "setting_price_name": "Minimálna cena",
+
+  // Auto-React
+  "setting_react_name": "Automatické reakcie",
+
+  // Ping Roles
+  "setting_roles_name": "Roly na označenie",
+
+  // Stores
+  "setting_stores_name": "Obchody",
+
+  // Custom Theme Color
+  "setting_themeColor_name": "Vlastná farba témy",
+
+  // Theme
+  "setting_theme_name": "Téma",
+
+  // Threads
+  "setting_threads_name": "Vlákna",
+
+  // Low quality filter
+  "setting_trash_name": "Filter nízkej kvality",
+
   // Welcome to FreeStuff!
   "settings2_main_1_first_time": "Vitaj v FreeStuff!",
 
@@ -1363,6 +1474,12 @@
 
   // 1. Click on the dropdown menu above\n2. Select a channel for the bot to send notifications to\n3. And that's it, you're done! You will now receive automatic notifications!\n4. Optional: Click on the buttons above to customize things
   "settings_sub_help_solution_tldr_2": "1. Klikni na rozbaľovaciu ponuku vyššie\n2. Vyber kanál, do ktorého má bot posielať upozornenia\n3. A to je všetko, máš hotovo! Odteraz budeš dostávať automatické upozornenia!\n4. Voliteľné: Klikni na tlačidlá vyššie pre prispôsobenie",
+
+  // This is a place for advanced users.
+  "settings_sub_more_help_explainer_1": "Toto je miesto pre pokročilých používateľov.",
+
+  // If you don't know what to do here, don't worry, you don't have to use anything here.\nYou can press the **{test}** button to let the bot send a notification as if a game just went free, except it's clearly stating it's just a test message. This might be useful if you've just set the bot up and want to see if it works or if you haven't heard anything in a while and want to check if it's still on. The **{resend}** button will do the same thing, except instead of clearly stating it's a test it will instead send a notification for every game in the category that's currently still active. This might be useful if you've just changed the channel and want some initial messages in or if you've recently changed filter settings and were missing out on things.
+  "settings_sub_more_help_explainer_2": "Ak nevieš, čo tu máš robiť, neboj sa, nemusíš tu nič používať.\nMôžeš stlačiť tlačidlo **{test}**, aby bot poslal oznámenie, akoby hra bola práve zadarmo, s tým rozdielom, že bude jasne uvedené, že ide len o testovaciu správu. Toto môže byť užitočné, ak si práve nastavil bota a chceš vidieť, či funguje, alebo ak si už nejaký čas nič nepočul a chceš skontrolovať, či je stále aktívny. Tlačidlo **{resend}** urobí to isté, s tým rozdielom, že namiesto jasného označenia, že ide o test, namiesto toho odošle oznámenie pre každú hru v kategórii, ktorá je momentálne stále aktívna. To môže byť užitočné, ak si práve zmenil kanál a chceš dostať nejaké počiatočné správy alebo ak si nedávno zmenil nastavenia filtra a o niečo si prišiel.",
 
   // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
   "settings_subscription_locked_premium": "{subscription} je prémiový odber. Ak chceš dostávať novinky z tejto kategórie, [klikni sem pre viac informácií.]({website})",

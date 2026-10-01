@@ -1,4 +1,7 @@
 {
+  // AI↗
+  "ai_summary": "YZ↗",
+
   // Get it for free
   "announcement_button_text": "Ücretsiz alın",
 
@@ -167,6 +170,51 @@
   // {title} is free!
   "announcement_title_statement": "{title} ücretsiz!",
 
+  // Copyright
+  "attribute_copyright_name": "Telif Hakkı",
+
+  // Description
+  "attribute_description_name": "Açıklama",
+
+  // Flags
+  "attribute_flags_name": "Bayraklar",
+
+  // Images
+  "attribute_images_name": "Resimler",
+
+  // Kind
+  "attribute_kind_name": "Tür",
+
+  // Notice
+  "attribute_notice_name": "Uyarı",
+
+  // Platforms
+  "attribute_platforms_name": "Platformlar",
+
+  // Price
+  "attribute_prices_name": "Fiyat",
+
+  // Rating
+  "attribute_rating_name": "Derecelendirme",
+
+  // Store
+  "attribute_store_name": "Mağaza",
+
+  // Tags
+  "attribute_tags_name": "Etiketler",
+
+  // Title
+  "attribute_title_name": "Başlık",
+
+  // Type
+  "attribute_type_name": "Tip",
+
+  // Until
+  "attribute_until_name": "Kadar",
+
+  // URLs
+  "attribute_urls_name": "URL'ler",
+
   // An error occurred!
   "cmd_error_fatal_1": "Bir hata oluştu!",
 
@@ -187,6 +235,9 @@
 
   // + {count} more
   "cmd_free_and_more": "+ {count} tane daha",
+
+  // F2P
+  "cmd_free_badge_timed": "F2P",
 
   // **Ends soon:**
   "cmd_free_ends_soon": "**Yakında bitiyor:**",
@@ -863,6 +914,66 @@
   // Slow down! You can only reload this list every {interval} seconds!
   "refresh_role_timeout": "Yavaşlayın! Bu listeyi sadece {interval} saniyede bir yeniden yükleyebilirsiniz!",
 
+  // Auto-Publish
+  "setting_autoPublish_name": "Otomatik Yayınlama",
+
+  // Beta
+  "setting_beta_name": "Beta",
+
+  // Boring Mode
+  "setting_boring_name": "Sıkıcı Mod",
+
+  // Bot Icon
+  "setting_brandedIconUrl_name": "Bot Simgesi",
+
+  // Bot Name
+  "setting_brandedName_name": "Bot Adı",
+
+  // Channel
+  "setting_channel_name": "Kanal",
+
+  // Currency
+  "setting_currency_name": "Para Birimi",
+
+  // Custom Text
+  "setting_customNotice_name": "Özel Metin",
+
+  // Debug
+  "setting_debug_name": "Hata Ayıklama",
+
+  // Claim-All Button
+  "setting_express_name": "Tümünü Al Butonu",
+
+  // Kinds
+  "setting_kinds_name": "Türler",
+
+  // Language
+  "setting_language_name": "Dil",
+
+  // Minimum Price
+  "setting_price_name": "Minimum Fiyat",
+
+  // Auto-React
+  "setting_react_name": "Otomatik Tepki",
+
+  // Ping Roles
+  "setting_roles_name": "Etiketlenecek Roller",
+
+  // Stores
+  "setting_stores_name": "Mağazalar",
+
+  // Custom Theme Color
+  "setting_themeColor_name": "Özel Tema Rengi",
+
+  // Theme
+  "setting_theme_name": "Tema",
+
+  // Threads
+  "setting_threads_name": "Konular",
+
+  // Low quality filter
+  "setting_trash_name": "Düşük kalite filtresi",
+
   // Welcome to FreeStuff!
   "settings2_main_1_first_time": "FreeStuff'a hoşgeldin!",
 
@@ -1363,6 +1474,12 @@
 
   // 1. Click on the dropdown menu above\n2. Select a channel for the bot to send notifications to\n3. And that's it, you're done! You will now receive automatic notifications!\n4. Optional: Click on the buttons above to customize things
   "settings_sub_help_solution_tldr_2": "1. Yukarıdaki açılır menüyü tıklayın\n2. Botun bildirim göndereceği kanalı seçin\n3. İşte bu kadar, işiniz bitti! Artık otomatik bildirimler alacaksınız!\n4. İsteğe bağlı: Ayarları özelleştirmek için yukarıdaki düğmelere tıklayın",
+
+  // This is a place for advanced users.
+  "settings_sub_more_help_explainer_1": "Burası gelişmiş kullanıcılar için bir yerdir.",
+
+  // If you don't know what to do here, don't worry, you don't have to use anything here.\nYou can press the **{test}** button to let the bot send a notification as if a game just went free, except it's clearly stating it's just a test message. This might be useful if you've just set the bot up and want to see if it works or if you haven't heard anything in a while and want to check if it's still on. The **{resend}** button will do the same thing, except instead of clearly stating it's a test it will instead send a notification for every game in the category that's currently still active. This might be useful if you've just changed the channel and want some initial messages in or if you've recently changed filter settings and were missing out on things.
+  "settings_sub_more_help_explainer_2": "Burada ne yapacağını bilmiyorsan endişelenme, buradaki hiçbir şeyi kullanmak zorunda değilsin.\nBotun bir oyun yeni ücretsiz olmuş gibi bir bildirim göndermesini sağlamak için **{test}** düğmesine basabilirsin, sadece bunun bir test mesajı olduğunu açıkça belirtecektir. Bu, botu yeni kurduysan ve çalışıp çalışmadığını görmek istiyorsan veya bir süredir hiçbir şey duymadıysan ve hala açık olup olmadığını kontrol etmek istiyorsan yararlı olabilir. **{resend}** düğmesi de aynı şeyi yapacak, ancak bunun bir test olduğunu açıkça belirtmek yerine kategoride şu anda hala aktif olan her oyun için bir bildirim gönderecektir. Bu, kanalı yeni değiştirdiysen ve bazı başlangıç mesajları almak istiyorsan veya yakın zamanda filtre ayarlarını değiştirdiysen ve bazı bildirimleri kaçırdıysan yararlı olabilir.",
 
   // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
   "settings_subscription_locked_premium": "{subscription} premium bir aboneliktir. Bu kategoriden haber almak istiyorsanız [daha fazla bilgi için buraya tıklayın]({website})",
