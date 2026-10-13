@@ -906,7 +906,7 @@
   "refresh_channels_success": "",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\nWith best regards, John FreeStuff, founder of FreeStuff
-  "refresh_channels_timeout": "Το πας πολύ γρήγορα! Για λόγους ασφαλείας, μπορούμε να σου επιτρέψουμε να πατάς αυτό το κουμπί μόνο μία φορά κάθε {interval} δευτερόλεπτα!!\\nΜε τους καλύτερους χαιρετισμούς, John FreeStuff, ιδρυτής του Free Stuff",
+  "refresh_channels_timeout": "Το πας πολύ γρήγορα! Για λόγους ασφαλείας, μπορούμε να σου επιτρέψουμε να πατάς αυτό το κουμπί μόνο μία φορά κάθε {interval} δευτερόλεπτα!!\nΜε τους καλύτερους χαιρετισμούς, John FreeStuff, ιδρυτής του Free Stuff",
 
   // Refresh List
   "refresh_role_list": "Έκανες Αλλαγές; Επαναφόρτωσε τη Λίστα",

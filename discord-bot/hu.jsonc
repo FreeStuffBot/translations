@@ -906,7 +906,7 @@
   "refresh_channels_success": "",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\nWith best regards, John FreeStuff, founder of FreeStuff
-  "refresh_channels_timeout": "Túl gyors vagy! Biztonsági okokból csak minden {interval} másodperben engedhetem hogy megnyomd a gombot!\\nMinden tisztelettel, John FreeStuff, FreeStuff alapítója",
+  "refresh_channels_timeout": "Túl gyors vagy! Biztonsági okokból csak minden {interval} másodperben engedhetem hogy megnyomd a gombot!\nMinden tisztelettel, John FreeStuff, FreeStuff alapítója",
 
   // Refresh List
   "refresh_role_list": "Lista frissítése",

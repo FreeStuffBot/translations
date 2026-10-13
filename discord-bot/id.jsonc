@@ -906,7 +906,7 @@
   "refresh_channels_success": "Daftar channel di-refresh",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\nWith best regards, John FreeStuff, founder of FreeStuff
-  "refresh_channels_timeout": "Kamu terlalu cepat! Untuk alasan keamanan kami hanya dapat mengizinkanmu menekan tombol itu sekali setiap {interval} detik!\\nSalam terbaik, John FreeStuff, pendiri FreeStuff",
+  "refresh_channels_timeout": "Kamu terlalu cepat! Untuk alasan keamanan kami hanya dapat mengizinkanmu menekan tombol itu sekali setiap {interval} detik!\nSalam terbaik, John FreeStuff, pendiri FreeStuff",
 
   // Refresh List
   "refresh_role_list": "Refresh Daftar",

@@ -375,7 +375,7 @@
   "cmd_test_nochannel_1": ":x:",
 
   // FreeStuff doesn't know where to post the announcements!\nGo to /settings → Set Channel
-  "cmd_test_nochannel_2": "Не знам къде да публикувам известията!\\n\nИзползвай /settings → Задай канал",
+  "cmd_test_nochannel_2": "Не знам къде да публикувам известията!\n\nИзползвай /settings → Задай канал",
 
   // Oh well...
   "cmd_test_noembeds_1": "Еемии...",
@@ -906,7 +906,7 @@
   "refresh_channels_success": "",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\nWith best regards, John FreeStuff, founder of FreeStuff
-  "refresh_channels_timeout": "Прекалено си бърз! От съображения за безопасност можем да ти позволим да натискаш този бутон само веднъж на всеки {interval} секунди!\\nС най-добри пожелания, John FreeStuff, основател на FreeStuff",
+  "refresh_channels_timeout": "Прекалено си бърз! От съображения за безопасност можем да ти позволим да натискаш този бутон само веднъж на всеки {interval} секунди!\nС най-добри пожелания, John FreeStuff, основател на FreeStuff",
 
   // Refresh List
   "refresh_role_list": "Направи промени? Обнови списъка",

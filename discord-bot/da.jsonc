@@ -81,7 +81,7 @@
   "announcement_pricetag_free": "Gratis",
 
   // **{name}** is free!\n<{url}>
-  "announcement_theme9": "**{name}** er gratis!\\n<{url}>",
+  "announcement_theme9": "**{name}** er gratis!\n<{url}>",
 
   // {names}
   "announcement_thread_name_assets_multiple_below": "",
@@ -375,7 +375,7 @@
   "cmd_test_nochannel_1": ":x:",
 
   // FreeStuff doesn't know where to post the announcements!\nGo to /settings → Set Channel
-  "cmd_test_nochannel_2": "Jeg ved ikke hvor jeg skal sende nyheder om de gratis spil!\\nfor at fixe det skriv `@FreeStuff set channel {channel}`",
+  "cmd_test_nochannel_2": "Jeg ved ikke hvor jeg skal sende nyheder om de gratis spil!\nfor at fixe det skriv `@FreeStuff set channel {channel}`",
 
   // Oh well...
   "cmd_test_noembeds_1": "~~Sh*t~~ undskyld jeg mente, noget gik galt...",

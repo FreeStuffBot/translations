@@ -906,7 +906,7 @@
   "refresh_channels_success": "",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\nWith best regards, John FreeStuff, founder of FreeStuff
-  "refresh_channels_timeout": "Oletpa nopea – vähän liiankin! Turvallisuussyistä voit painaa painiketta vain {interval} sekunnin välein!\\nMitä parhain terveisin, John FreeStuff, FreeStuffin perustaja",
+  "refresh_channels_timeout": "Oletpa nopea – vähän liiankin! Turvallisuussyistä voit painaa painiketta vain {interval} sekunnin välein!\nMitä parhain terveisin, John FreeStuff, FreeStuffin perustaja",
 
   // Refresh List
   "refresh_role_list": "",

@@ -81,7 +81,7 @@
   "announcement_pricetag_free": "Gratis",
 
   // **{name}** is free!\n<{url}>
-  "announcement_theme9": "**{name}** is gratis!\\n<{url}>",
+  "announcement_theme9": "**{name}** is gratis!\n<{url}>",
 
   // {names}
   "announcement_thread_name_assets_multiple_below": "",
