@@ -546,7 +546,7 @@
   "free_recommendation_by_tag": "Interessado em {tag}?",
 
   // Expires in {hours, plural, =1 {1 hour} other {# hours} }!
-  "free_recommendation_expires_hours": "Expira em {hours, plural, =1 {1 hour} other {# hours} }!",
+  "free_recommendation_expires_hours": "Expira em {horas, plural, =1 {1 hora} other {# horas} }!",
 
   // Expires in {minutes, plural, =1 {1 minute} other {# minutes} }!
   "free_recommendation_expires_minutes": "Expira em {minutes, plural, =1 {1 minute} other {# minutes} }!",
