@@ -81,7 +81,7 @@
   "announcement_pricetag_free": "Zastonj",
 
   // **{name}** is free!\n<{url}>
-  "announcement_theme9": "**{name}** je zastonj!\\n<{url}>",
+  "announcement_theme9": "**{name}** je zastonj!\n<{url}>",
 
   // {names}
   "announcement_thread_name_assets_multiple_below": "",
@@ -375,7 +375,7 @@
   "cmd_test_nochannel_1": ":x:",
 
   // FreeStuff doesn't know where to post the announcements!\nGo to /settings → Set Channel
-  "cmd_test_nochannel_2": "Ne vem kam poslati obvestila!\\nNapiši `@FreeStuff set channel {channel}`",
+  "cmd_test_nochannel_2": "Ne vem kam poslati obvestila!\nNapiši `@FreeStuff set channel {channel}`",
 
   // Oh well...
   "cmd_test_noembeds_1": "Tristo kosmatih medvedov...",

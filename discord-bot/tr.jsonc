@@ -906,7 +906,7 @@
   "refresh_channels_success": "Kanal listesi yenilendi",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\nWith best regards, John FreeStuff, founder of FreeStuff
-  "refresh_channels_timeout": "Çok hızlısınız! Güvenlik nedeniyle bu düğmeye yalnızca her {interval} saniyede bir basmanıza izin verebiliriz!\\nSaygılarımla, John FreeStuff, FreeStuff'un kurucusu",
+  "refresh_channels_timeout": "Çok hızlısınız! Güvenlik nedeniyle bu düğmeye yalnızca her {interval} saniyede bir basmanıza izin verebiliriz!\nSaygılarımla, John FreeStuff, FreeStuff'un kurucusu",
 
   // Refresh List
   "refresh_role_list": "Listeyi Yenile",

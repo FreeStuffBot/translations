@@ -81,7 +81,7 @@
   "announcement_pricetag_free": "Miễn Phí",
 
   // **{name}** is free!\n<{url}>
-  "announcement_theme9": "**{name}** đang miễn phí!\\n<{url}>",
+  "announcement_theme9": "**{name}** đang miễn phí!\n<{url}>",
 
   // {names}
   "announcement_thread_name_assets_multiple_below": "",
@@ -315,7 +315,7 @@
   "cmd_info_1": "FreeStuff Bot",
 
   // Discord Bot made by some [really cool people]({amazingPeople})\n\n* [About / Website]({website})\n* [Add it to your server!]({inviteLink})\n* [Report a bug or get in contact]({discordInvite})
-  "cmd_info_2": "FreeStuff được làm bởi [những người bạn tuyệt vời]({amazingPeople}) :heart:\\n\\n[Thông tin / Website]({website})\\n\\n[Nhấn vào đây để thêm tớ vào server]({inviteLink})\\n[Báo cáo lỗi hoặc liên hệ]({discordInvite})",
+  "cmd_info_2": "FreeStuff được làm bởi [những người bạn tuyệt vời]({amazingPeople}) :heart:\n\n[Thông tin / Website]({website})\n\n[Nhấn vào đây để thêm tớ vào server]({inviteLink})\n[Báo cáo lỗi hoặc liên hệ]({discordInvite})",
 
   // :eyes:
   "cmd_invite_1": ":eyes:",

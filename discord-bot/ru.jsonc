@@ -906,7 +906,7 @@
   "refresh_channels_success": "",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\nWith best regards, John FreeStuff, founder of FreeStuff
-  "refresh_channels_timeout": "Эй, не так быстро! Из соображений безопасности, мы можем позволить вам нажать эту кнопку только раз в {interval} секунд!\\nС уважением, Джон FreeStuff, основатель FreeStuff",
+  "refresh_channels_timeout": "Эй, не так быстро! Из соображений безопасности, мы можем позволить вам нажать эту кнопку только раз в {interval} секунд!\nС уважением, Джон FreeStuff, основатель FreeStuff",
 
   // Refresh List
   "refresh_role_list": "Обновить список",

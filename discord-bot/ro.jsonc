@@ -906,7 +906,7 @@
   "refresh_channels_success": "",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\nWith best regards, John FreeStuff, founder of FreeStuff
-  "refresh_channels_timeout": "Esti prea rapid! Ca si masura de siguranta te putem lasa sa apesi butonul o data la {interval} secunde!\\nCu stima, John FreeStuff, fondator FreeStuff",
+  "refresh_channels_timeout": "Esti prea rapid! Ca si masura de siguranta te putem lasa sa apesi butonul o data la {interval} secunde!\nCu stima, John FreeStuff, fondator FreeStuff",
 
   // Refresh List
   "refresh_role_list": "Schimbari efectuate? Reincarca lista",
