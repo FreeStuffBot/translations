@@ -33,7 +33,7 @@
   "announcement_price_assets": "",
 
   // {prices} until {date}
-  "announcement_price_assets_until": "",
+  "announcement_price_assets_until": "{prices} do {date}",
 
   // Claim for **Free**
   "announcement_price_gamepass": "",
@@ -45,25 +45,25 @@
   "announcement_price_generic": "",
 
   // {prices} until {date}
-  "announcement_price_generic_until": "",
+  "announcement_price_generic_until": "{prices} do {date}",
 
   // {prices}
   "announcement_price_keep": "",
 
   // {prices} until {date}
-  "announcement_price_keep_until": "",
+  "announcement_price_keep_until": "{prices} do {date}",
 
   // **Free on mobile**
-  "announcement_price_mobile": "",
+  "announcement_price_mobile": "**Zdarma na mobil**",
 
   // **Free on mobile** until {date}
-  "announcement_price_mobile_until": "",
+  "announcement_price_mobile_until": "**Zdarma na mobil** do {date}",
 
   // {prices}
   "announcement_price_other": "",
 
   // {prices} until {date}
-  "announcement_price_other_until": "",
+  "announcement_price_other_until": "{prices} do {date}",
 
   // Claim for **Free**
   "announcement_price_prime": "",
@@ -105,7 +105,7 @@
   "announcement_thread_name_gamepass_single_below": "",
 
   // New Game Pass content: {name}!
-  "announcement_thread_name_gamepass_single_outside": "",
+  "announcement_thread_name_gamepass_single_outside": "Nový obsah Game Passu: {name}",
 
   // {names}
   "announcement_thread_name_keep_multiple_below": "",
@@ -117,7 +117,7 @@
   "announcement_thread_name_keep_single_below": "",
 
   // {name} is free!
-  "announcement_thread_name_keep_single_outside": "",
+  "announcement_thread_name_keep_single_outside": "{name} je zdarma!",
 
   // {names}
   "announcement_thread_name_mobile_multiple_below": "",
@@ -141,7 +141,7 @@
   "announcement_thread_name_other_single_below": "",
 
   // {name} is free!
-  "announcement_thread_name_other_single_outside": "",
+  "announcement_thread_name_other_single_outside": "{name} je zdarma!",
 
   // {names}
   "announcement_thread_name_prime_multiple_below": "",
@@ -168,52 +168,52 @@
   "announcement_thread_name_timed_single_outside": "",
 
   // {title} is free!
-  "announcement_title_statement": "",
+  "announcement_title_statement": "{title} je zdarma!",
 
   // Copyright
   "attribute_copyright_name": "",
 
   // Description
-  "attribute_description_name": "",
+  "attribute_description_name": "Popis",
 
   // Flags
   "attribute_flags_name": "",
 
   // Images
-  "attribute_images_name": "",
+  "attribute_images_name": "Obrázky",
 
   // Kind
-  "attribute_kind_name": "",
+  "attribute_kind_name": "Druh",
 
   // Notice
   "attribute_notice_name": "",
 
   // Platforms
-  "attribute_platforms_name": "",
+  "attribute_platforms_name": "Platformy",
 
   // Price
-  "attribute_prices_name": "",
+  "attribute_prices_name": "Cena",
 
   // Rating
-  "attribute_rating_name": "",
+  "attribute_rating_name": "Hodnocení",
 
   // Store
-  "attribute_store_name": "",
+  "attribute_store_name": "Obchod",
 
   // Tags
   "attribute_tags_name": "",
 
   // Title
-  "attribute_title_name": "",
+  "attribute_title_name": "Titul",
 
   // Type
-  "attribute_type_name": "",
+  "attribute_type_name": "Typ",
 
   // Until
-  "attribute_until_name": "",
+  "attribute_until_name": "Do",
 
   // URLs
-  "attribute_urls_name": "",
+  "attribute_urls_name": "Odkazy",
 
   // An error occurred!
   "cmd_error_fatal_1": "Objevila se chyba!",
@@ -234,22 +234,22 @@
   "cmd_error_readd_2": "Zkus odstranit bota ze serveru a opětovně ho přidat. Jestli tohle nepomůže, [prosím přidej se na náš support server]({discordInvite}).",
 
   // + {count} more
-  "cmd_free_and_more": "",
+  "cmd_free_and_more": "+ {count} dalších",
 
   // F2P
-  "cmd_free_badge_timed": "",
+  "cmd_free_badge_timed": "F2P",
 
   // **Ends soon:**
-  "cmd_free_ends_soon": "**Brzy skončí:** (nebo už skončila)",
+  "cmd_free_ends_soon": "**Brzy skončí:**",
 
   // (Ends soon!)
-  "cmd_free_ends_soon2": "",
+  "cmd_free_ends_soon2": "(Brzy skončí!)",
 
   // None :(
   "cmd_free_no_freebies": "Žádné :(",
 
   // Nothing free right now :(
-  "cmd_free_no_freebies2": "",
+  "cmd_free_no_freebies2": "Momentálně zdarma nic není :(",
 
   // These games are currently free:
   "cmd_free_title": "Tyto hry jsou právě zdarma:",
@@ -258,55 +258,55 @@
   "cmd_free_title_assets": "",
 
   // Free on Epic Games Store
-  "cmd_free_title_epic": "",
+  "cmd_free_title_epic": "Zdarma na Epic Games Storu",
 
   // Free on Fab
-  "cmd_free_title_fab": "",
+  "cmd_free_title_fab": "Zdarma na Fab",
 
   // Currently on Xbox Game Pass
-  "cmd_free_title_gamepass": "",
+  "cmd_free_title_gamepass": "Právě na Xbox Game Passu",
 
   // Free on GOG
-  "cmd_free_title_gog": "",
+  "cmd_free_title_gog": "Zdarma na GOG",
 
   // Free on Google Play Store
-  "cmd_free_title_gplay": "",
+  "cmd_free_title_gplay": "Zdarma na Google Play Storu",
 
   // Free on Humble Bundle
-  "cmd_free_title_humble": "",
+  "cmd_free_title_humble": "Zdarma na Humble Bundle",
 
   // Free on itch.io
-  "cmd_free_title_itch": "",
+  "cmd_free_title_itch": "Zdarma na itch.io",
 
   // Currently free to keep (100% off)
   "cmd_free_title_keep": "",
 
   // Free Mobile Games
-  "cmd_free_title_mobile": "",
+  "cmd_free_title_mobile": "Mobilní hry zdarma",
 
   // Free on Origin
-  "cmd_free_title_origin": "",
+  "cmd_free_title_origin": "Zdarma na Originu",
 
   // Free on other stores
-  "cmd_free_title_other": "",
+  "cmd_free_title_other": "Zdarma na ostatních obchodech",
 
   // Currently on Prime Gaming
-  "cmd_free_title_prime": "",
+  "cmd_free_title_prime": "Právě na Prime Gaming",
 
   // Prime Gaming: Games
-  "cmd_free_title_primegames": "",
+  "cmd_free_title_primegames": "Prime Gaming: Hry",
 
   // Prime Gaming: Loot
   "cmd_free_title_primeloot": "",
 
   // Free on Steam
-  "cmd_free_title_steam": "",
+  "cmd_free_title_steam": "Zdarma na Steamu",
 
   // Currently free to play
   "cmd_free_title_timed": "",
 
   // Free on Ubisoft
-  "cmd_free_title_ubi": "",
+  "cmd_free_title_ubi": "Zdarma na Ubisoftu",
 
   // until
   "cmd_free_until": "do",
@@ -333,19 +333,19 @@
   "cmd_resend_all_filtered_out_1": "Tak to je zvrat!",
 
   // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
-  "cmd_resend_all_filtered_out_2": "Hry jsou zdarma, ale nastavení filtru neumožňuje zobrazit ani jednu z nich! Pokud jste to neměli v úmyslu, zkontrolujte znovu nastavení filtru.",
+  "cmd_resend_all_filtered_out_2": "Hry jsou zdarma, ale nastavení filtru neumožňuje zobrazit ani jednu z nich! Pokud jsi to neměl(a) v úmyslu, zkontroluj znovu nastavení filtru.",
 
   // The webhook in {channel} is broken.
   "cmd_resend_invalid_webhook_1": "Webový háček v {channel} je nefunkční.",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
-  "cmd_resend_invalid_webhook_2": "To zní děsivě. Chcete-li to napravit, zkuste změnit kanál na nějaký jiný a pak zpět na {channel}. Pokud tato chyba přetrvává, kontaktujte prosím podporu!",
+  "cmd_resend_invalid_webhook_2": "To zní děsivě. Chceš-li to napravit, zkus změnit kanál na nějaký jiný a pak zpět na {channel}. Pokud tato chyba přetrvává, kontaktuj prosím podporu!",
 
   // Whoops!
-  "cmd_resend_nosend_1": "",
+  "cmd_resend_nosend_1": "Jejda!",
 
   // Looks like FreeStuff doesn't have the permission to send messages in {channel}!
-  "cmd_resend_nosend_2": "",
+  "cmd_resend_nosend_2": "Vypadá to, že FreeStuff nemá povolení posílat zprávy v {channel}",
 
   // Uh oh!
   "cmd_resend_nothing_free_1": "uuu!",
@@ -360,7 +360,7 @@
   "cmd_resend_success_2": "Mrkni se na {channel}!",
 
   // That is an example game. And this here is the example description of said example game. I hope you have a nice day :)
-  "cmd_test_announcement_description": "To je příklad hry. A zde je příklad popisu zmíněné příkladové hry. Doufám, že vám přeji hezký den :)",
+  "cmd_test_announcement_description": "To je příklad hry. A zde je příklad popisu zmíněné příkladové hry. Přeji ti hezký den :)",
 
   // Game name here
   "cmd_test_announcement_header": "Jméno hry je tady",
@@ -369,13 +369,13 @@
   "cmd_test_invalid_webhook_1": "Webový háček v {channel} je nefunkční.",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
-  "cmd_test_invalid_webhook_2": "To zní děsivě. Chcete-li to napravit, zkuste změnit kanál na nějaký jiný a pak zpět na {channel}. Pokud tato chyba přetrvává, kontaktujte prosím podporu!",
+  "cmd_test_invalid_webhook_2": "To zní děsivě. Chceš-li to napravit, zkus změnit kanál na nějaký jiný a pak zpět na {channel}. Pokud tato chyba přetrvává, kontaktuj prosím podporu!",
 
   // :x:
   "cmd_test_nochannel_1": ":x:",
 
   // FreeStuff doesn't know where to post the announcements!\nGo to /settings → Set Channel
-  "cmd_test_nochannel_2": "Nevím, kde mám posílat oznámení! Napiš /settings → Set Channel",
+  "cmd_test_nochannel_2": "FreeStuff neví, kam posílat oznámení! Jdi do /settings → Set Channel",
 
   // Oh well...
   "cmd_test_noembeds_1": "No jasně..",
@@ -387,19 +387,19 @@
   "cmd_test_nosee_1": "Jejda!",
 
   // Looks like FreeStuff doesn't have the permission to see the channel {channel}!
-  "cmd_test_nosee_2": "Vypadá to tak, že nemám povolení vidět kanál {channel}!",
+  "cmd_test_nosee_2": "Vypadá to, že FreeStuff nemá povolení vidět kanál {channel}!",
 
   // Whoops!
   "cmd_test_nosend_1": "Jejda!",
 
   // Looks like FreeStuff doesn't have the permission to send messages in {channel}!
-  "cmd_test_nosend_2": "Vypadá to tak, že nemám povolení posílat zprávy v {channel}!",
+  "cmd_test_nosend_2": "Vypadá to, že FreeStuff nemá povolení posílat zprávy v {channel}!",
 
   // Aaaaaand there it goes!
   "cmd_test_success_1": "",
 
   // Check out {channel}!
-  "cmd_test_success_2": "",
+  "cmd_test_success_2": "Koukni do {channel}!",
 
   // Enjoying the free games?
   "cmd_vote_1": "Užíváš si hry zdarma?",
@@ -408,31 +408,31 @@
   "cmd_vote_2": "[Klikni sem a hlasuj za mě na top.gg!]({topGGLink})\n\nZa FreeStuff Bota se dá taky zahlasovat i na jiných stránkách:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Hlasování za bota zvětšuje jeho viditelnost a taky to pomáhá ostatním najít hry zdarma! Děkujeme za každý hlas!*",
 
   // Black
-  "color_black": "",
+  "color_black": "Černá",
 
   // Blue
-  "color_blue": "",
+  "color_blue": "Modrá",
 
   // Green
-  "color_green": "",
+  "color_green": "Zelená",
 
   // Mint
-  "color_mint": "",
+  "color_mint": "Mentolová",
 
   // No color
-  "color_none": "",
+  "color_none": "Bez barvy",
 
   // Pink
-  "color_pink": "",
+  "color_pink": "Růžová",
 
   // Red
-  "color_red": "",
+  "color_red": "Červená",
 
   // White
-  "color_white": "",
+  "color_white": "Bílá",
 
   // Yellow
-  "color_yellow": "",
+  "color_yellow": "Žlutá",
 
   // en-US
   "date_format": "cs",
@@ -447,55 +447,55 @@
   "expressbutton_label": "",
 
   // You have already submitted feedback for this. Thank you!
-  "feedback_already_submitted": "",
+  "feedback_already_submitted": "K tomuhle už jsi poslal zpětnou vazbu. Děkujeme!",
 
   // Failed to submit feedback. Please try again later.
-  "feedback_invalid_ask": "",
+  "feedback_invalid_ask": "Nepovedlo se odeslat zpětnou vazbu. Zkus to prosím později.",
 
   // Tell us what you think...
-  "feedback_refine_placeholder": "",
+  "feedback_refine_placeholder": "Řekni nám svůj názor...",
 
   // We'll use your feedback wisely to make FreeStuff even better. At least that's the plan.
-  "feedback_refine_submission_success_message": "",
+  "feedback_refine_submission_success_message": "Tvoji zpětnou vazbu využijeme rozumně tak, aby byl FreeStuff ještě lepší. Aspoň to máme v plánu.",
 
   // If you have more to say, you can reach out to the FreeStuff team at {supportInvite}
-  "feedback_refine_submission_success_subtext": "",
+  "feedback_refine_submission_success_subtext": "Pokud máš ještě co říct, můžeš se ozvat FreeStuff týmu na {supportInvite}",
 
   // Thank you so much!
-  "feedback_refine_submission_success_title": "",
+  "feedback_refine_submission_success_title": "Mockrát děkujeme!",
 
   // Select as many options as you like.\nYour feedback is anonymous and will help us know what works and what needs improvement.
-  "feedback_refine_subtitle": "",
+  "feedback_refine_subtitle": "Vyber tolik možností, kolik chceš.\nTvoje zpětná vazba je anonymní a pomůže nám zjistit, co funguje a co je třeba zlepšit.",
 
   // Something went wrong while submitting your feedback. Please try again in a bit.
-  "feedback_submission_bad_gateway": "",
+  "feedback_submission_bad_gateway": "Něco se pokazilo při odesílání tvé zpětné vazby. Zkus to prosím znovu za chvíli.",
 
   // Your `👎` is forwarded to our team.\nDo you have a moment to let us know what specifically you didn't like about it?
-  "feedback_submission_success_negative": "",
+  "feedback_submission_success_negative": "Tvoje `👎` bylo předáno našemu týmu.\nMáš chvilku na to říct nám, co přesně se ti nelíbilo?",
 
   // Your `👍` is forwarded to our team.\nDo you have a moment to let us know what specifically you liked about it?
-  "feedback_submission_success_positive": "",
+  "feedback_submission_success_positive": "Tvoje `👍` bylo předáno našemu týmu.\nMáš chvilku na to říct nám, co přesně se ti líbilo?",
 
   // Thank you for your feedback! <3
-  "feedback_submission_success_title": "",
+  "feedback_submission_success_title": "Děkujeme za tvou zpětnou vazbu! <3",
 
   // {next}
   "fluid_list_delimiter_first": "",
 
   // {prev}, and {next}
-  "fluid_list_delimiter_last": "",
+  "fluid_list_delimiter_last": "{prev}, a {next}",
 
   // {prev}, {next}
   "fluid_list_delimiter_middle": "",
 
   // {prev} and {next}
-  "fluid_list_delimiter_only": "",
+  "fluid_list_delimiter_only": "{prev} a {next}",
 
   // Choose your interests and get a more personalized overview when running the `/free` command. Your changes here do not apply to notifications in this server.
-  "free_edit_preferences_description": "",
+  "free_edit_preferences_description": "Vyber si svoje zájmy a dostávej více personalizovaný přehled při spuštění příkazu `/free`. Tvoje změny tady se nevztahují na oznámení v tomto serveru.",
 
   // Some stores and sources from the list below might not be available in every server.
-  "free_edit_preferences_disclaimer": "",
+  "free_edit_preferences_disclaimer": "Některé obchody a zdroje ze seznamu níže nemusí být dostupné v každém serveru.",
 
   // Select things to hide
   "free_edit_preferences_hide_cta": "",
@@ -504,13 +504,13 @@
   "free_edit_preferences_hide_description": "",
 
   // Are there stores and sources you do not want to see?
-  "free_edit_preferences_hide_title": "",
+  "free_edit_preferences_hide_title": "Jsou obchody a zdroje, které nechceš vidět?",
 
   // Pick a layout style
-  "free_edit_preferences_layout_cta": "",
+  "free_edit_preferences_layout_cta": "Vyber styl rozložení",
 
   // How do you want things to look like?
-  "free_edit_preferences_layout_title": "",
+  "free_edit_preferences_layout_title": "Jak chceš, aby věci vypadaly?",
 
   // Select your favorites
   "free_edit_preferences_prefer_cta": "",
@@ -519,46 +519,46 @@
   "free_edit_preferences_prefer_description": "",
 
   // Which stores and sources do you care about the most?
-  "free_edit_preferences_prefer_title": "",
+  "free_edit_preferences_prefer_title": "Které obchody a zdroje tě zajímají nejvíc?",
 
   // Your changes save automatically!
-  "free_edit_preferences_save_notice": "",
+  "free_edit_preferences_save_notice": "Tvoje změny se automaticky ukládají!",
 
   // /free preferences
   "free_edit_preferences_title": "",
 
   // Compact
-  "free_layout_compact_name": "",
+  "free_layout_compact_name": "Kompaktní",
 
   // Cozy
-  "free_layout_cozy_name": "",
+  "free_layout_cozy_name": "Pohodlné",
 
   // Default
-  "free_layout_default_name": "",
+  "free_layout_default_name": "Výchozí",
 
   // ONLY ON APRIL FIRST
   "free_recommendation_april_fools": "",
 
   // Free on {store}!
-  "free_recommendation_by_store": "",
+  "free_recommendation_by_store": "Zdarma na {store}",
 
   // Interested in {tag}?
-  "free_recommendation_by_tag": "",
+  "free_recommendation_by_tag": "Zajímá tě {tag}?",
 
   // Expires in {hours, plural, =1 {1 hour} other {# hours} }!
-  "free_recommendation_expires_hours": "",
+  "free_recommendation_expires_hours": "Vyprší za {hours, plural, =1 {1 hour} other {# hours} }!",
 
   // Expires in {minutes, plural, =1 {1 minute} other {# minutes} }!
-  "free_recommendation_expires_minutes": "",
+  "free_recommendation_expires_minutes": "Vyprší za {minutes, plural, =1 {1 minute} other {# minutes} }!",
 
   // Over 95% positive reviews:
-  "free_recommendation_extremely_positive": "",
+  "free_recommendation_extremely_positive": "Přes 95% kladných recenzí!",
 
   // Check this out!
-  "free_recommendation_generic_1": "",
+  "free_recommendation_generic_1": "Koukni na tohle!",
 
   // You might enjoy:
-  "free_recommendation_generic_2": "",
+  "free_recommendation_generic_2": "Mohlo by se ti líbit:",
 
   // In case you missed it...
   "free_recommendation_generic_3": "",
@@ -579,13 +579,13 @@
   "free_recommendation_positive": "",
 
   // FreeStuff team recommends:
-  "free_recommendation_staff_pick": "",
+  "free_recommendation_staff_pick": "Tým FreeStuff doporučuje:",
 
   // Popular!
   "free_recommendation_very_positive": "",
 
   // Nothing of interest for you... :/
-  "free_recommended_no_products": "",
+  "free_recommended_no_products": "Nic, co by tě zajímalo... :/",
 
   // You have hidden some categories in your settings.
   "free_recommended_no_products_hint": "",
@@ -603,7 +603,7 @@
   "generic_cancel": "Zrušit",
 
   // Cancelled
-  "generic_cancelled": "Zrušené",
+  "generic_cancelled": "Zrušeno",
 
   // Close
   "generic_close": "Zavřít",
