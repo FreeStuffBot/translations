@@ -546,10 +546,10 @@
   "free_recommendation_by_tag": "Zajímá tě {tag}?",
 
   // Expires in {hours, plural, =1 {1 hour} other {# hours} }!
-  "free_recommendation_expires_hours": "Vyprší za {hours, plural, =1 {1 hour} other {# hours} }!",
+  "free_recommendation_expires_hours": "Vyprší za {hours, plural, =1 {1 hodinu} few {# hodiny} other {# hodin} }!",
 
   // Expires in {minutes, plural, =1 {1 minute} other {# minutes} }!
-  "free_recommendation_expires_minutes": "Vyprší za {minutes, plural, =1 {1 minute} other {# minutes} }!",
+  "free_recommendation_expires_minutes": "Vyprší za {minutes, plural, =1 {1 minutu} few {# minuty} other {# minut} }!",
 
   // Over 95% positive reviews:
   "free_recommendation_extremely_positive": "Přes 95% kladných recenzí!",
