@@ -1035,7 +1035,7 @@
   "settings_botprofile_ui_1": "Profilowe i nazwa",
 
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
-  "settings_botprofile_ui_2": "Dostosuj nazwę i zdjęcie profilowe bota gdy wysyła powiadomienia. Ze względu na ograniczenia Discorda, ten niestandardowy profil działa tylko przy powiadomieniach, a nie podczas korzystania z komend takich jak `/settings` lub `/free`.\n\n**Edytuj Profilowe** pozwoli Ci zmienić zdjęcie profilowe bota. Będziesz musiał podać link do wybranego obrazu. Pozostaw puste, aby przywrócić ustawienia domyślne.\n\n**Edytuj Nazwę** umożliwia zmianę nazwy bota. Pozostaw puste, aby przywrócić ustawienia domyślne.",
+  "settings_botprofile_ui_2": "Dostosuj nazwę i zdjęcie profilowe bota gdy wysyła powiadomienia. Ze względu na ograniczenia Discorda, ten niestandardowy profil działa tylko przy powiadomieniach, a nie podczas korzystania z komend takich jak `/settings` lub `/free`.\n\n**Edytuj Profilowe** pozwoli Ci zmienić zdjęcie profilowe bota. Będziesz musiał podać link do wybranego obrazu. Pozostaw puste, aby przywrócić ustawienia domyślne.\n\n**Edytuj nazwę** umożliwia zmianę nazwy bota. Pozostaw puste, aby przywrócić ustawienia domyślne.",
 
   // Edit Avatar and Name
   "settings_change_bot_profile": "Edytuj profilowe i nazwę",
@@ -1089,7 +1089,7 @@
   "settings_conf_ui_1": "Inne ustawienia",
 
   // **Select Language** will change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.\n\n**Select Currency** will change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
-  "settings_conf_ui_2": "**Wybierz Język** zmieni język automatycznych powiadomień. **Nie** zmieni to języka komend, takich jak /settings czy /free. One używają języka, w którym jest twój Discord. Translasje są podawane przez społeczność i mogą zawierać błędy.\n\n**Wybierz Walutę** zmieni walutę w automatycznych powiadomieniach. Niektóre ceny mogą być przeliczone z innych walut lub stron, więc mogą nie być zawsze w 100% dokładne.",
+  "settings_conf_ui_2": "**Wybierz język** zmieni język automatycznych powiadomień. **Nie** zmieni to języka komend, takich jak /settings czy /free. One używają języka, w którym jest twój Discord. Translasje są podawane przez społeczność i mogą zawierać błędy.\n\n**Wybierz walutę** zmieni walutę w automatycznych powiadomieniach. Niektóre ceny mogą być przeliczone z innych walut lub stron, więc mogą nie być zawsze w 100% dokładne.",
 
   // Change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
   "settings_conf_ui_currency_description": "Zmień walutę w powiadomieniach. Niektóre ceny mogą być przeliczane z innych walut lub stron, więc może nie być w 100% dokładne.",
@@ -1233,7 +1233,7 @@
   "settings_guilddata_data_failed": "Coś nie powiodło się podczas eksportowania danych, bardzo nam przykro. Możesz skontaktować się z nami i ręcznie poprosić o kopię danych za pośrednictwem team@freestuffbot.xyz - Prosimy o podanie ID serwera w wiadomości E-Mail. Dziękujemy.",
 
   // Please click the Download button below to download your data. The button will only work one time, run the command again to download again. Do not share the link with anyone!
-  "settings_guilddata_data_ready": "Kliknij przycisk **Pobierz Dane** poniżej, aby pobrać dane. Przycisk zadziała tylko raz. Aby pobrać ponownie, uruchom komendę jeszcze raz. Nie udostępniaj nikomu tego linku!",
+  "settings_guilddata_data_ready": "Kliknij przycisk **Pobierz dane** poniżej, aby pobrać dane. Przycisk zadziała tylko raz. Aby pobrać ponownie, uruchom komendę jeszcze raz. Nie udostępniaj nikomu tego linku!",
 
   // Delete Server Data
   "settings_guilddata_delete_button": "Usuń dane serwera",
@@ -1509,7 +1509,7 @@
   "settings_subscription_more_ui_1": "Więcej",
 
   // **Send Test Message** sends a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.\n\n**Re-send Messages** will re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This button is for you!
-  "settings_subscription_more_ui_2": "**Wyślij Testowe Powiadomienie** wysyła wiadomość testową ze wszystkimi skonfigurowanymi opcjami. Użyj jej, aby upewnić się, że wszystko działa. Należy pamiętać, że może to powodować wysłanie pingów, jeśli tak je skonfigurowano.\n\n**Wyślij Powiadomienia Ponownie** ponownie wyśle powiadomienie dla wszystkich ofert w tej kategorii, które nadal są ważne. Przypadkowo usunąłeś wiadomość? Zmieniłeś ustawienia? Lub po prostu chcesz otrzymać to samo powiadomienie dwa razy? Ten przycisk jest dla Ciebie!",
+  "settings_subscription_more_ui_2": "**Wyślij test** wysyła wiadomość testową ze wszystkimi skonfigurowanymi opcjami. Użyj jej, aby upewnić się, że wszystko działa. Należy pamiętać, że może to powodować wysłanie pingów, jeśli tak je skonfigurowano.\n\n**Wyślij ponownie** ponownie wyśle powiadomienie dla wszystkich ofert w tej kategorii, które nadal są ważne. Przypadkowo usunąłeś wiadomość? Zmieniłeś ustawienia? Lub po prostu chcesz otrzymać to samo powiadomienie dwa razy? Ten przycisk jest dla Ciebie!",
 
   // Click here to get notified
   "settings_subscription_not_subscribed_1": "Kliknij tutaj, aby zasubskrybować",
